@@ -1,0 +1,69 @@
+{
+  "analyzed_at": "2025-12-19T15:31:39.315293",
+  "company": {
+    "name": "California Closets",
+    "website": "http://www.californiaclosets.com/",
+    "linkedin": "http://www.linkedin.com/company/california-closets",
+    "industry": "Furniture",
+    "employees": "2‚-200"
+  },
+  "analysis": {
+    "company_name": "California Closets",
+    "analysis_period": {
+      "start_date": "2023-10-01",
+      "end_date": "2023-12-31",
+      "total_jobs": 80
+    },
+    "overall_signal_strength": 8,
+    "overall_summary": "California Closets is heavily investing in both digital marketing and sales roles, indicating a strong push towards e-commerce growth and enhanced customer engagement through visual content and design expertise.",
+    "trends": {
+      "digital_growth_product": {
+        "signal_strength": 8,
+        "job_count": 20,
+        "key_roles": [
+          "Sr Specialist, Salesforce Marketing Cloud",
+          "Manager, Local Marketing",
+          "Sr Manager, Growth Marketing & Paid Search",
+          "Marketing and Growth Manager",
+          "Director of Sales"
+        ],
+        "evolution": "There has been a noticeable increase in digital marketing roles, particularly those focused on data-driven strategies and e-commerce growth, reflecting a shift towards enhancing online presence and customer engagement.",
+        "new_themes": [
+          "Emphasis on data-driven marketing strategies",
+          "Integration of local and national marketing efforts",
+          "Focus on customer journey optimization"
+        ],
+        "hiring_velocity": "accelerating",
+        "evidence": [
+          "We’re seeking a strategic Senior Growth Marketing Manager with a strong focus on Paid Search...",
+          "This role partners with the National Marketing Director in supporting operators to achieve their leads and marketing budget goals."
+        ],
+        "relevance_to_presti": "The focus on digital marketing and e-commerce growth aligns well with presti.ai's capabilities in enhancing visual content for online platforms, indicating a strong potential for collaboration."
+      },
+      "visual_content_creative": {
+        "signal_strength": 9,
+        "job_count": 40,
+        "key_roles": [
+          "Sales and Design Consultant",
+          "Sales Support Assistant",
+          "Director, Brand Marketing",
+          "Social Media Marketing Manager",
+          "Sales Support Assistant (Luxury Showroom)"
+        ],
+        "evolution": "The volume of roles related to visual content creation and design has increased significantly, indicating a strategic focus on enhancing brand imagery and customer experience through personalized design solutions.",
+        "new_themes": [
+          "Integration of social media marketing with visual content",
+          "Emphasis on personalized customer experiences through design consultations",
+          "Focus on collaborative design processes"
+        ],
+        "hiring_velocity": "fast",
+        "evidence": [
+          "The Sales and Design Consultant role is critical to the California Closets Design Brand experience...",
+          "We’re seeking a creative and data-driven Social Media Marketing Manager to lead and optimize our paid social advertising campaigns..."
+        ],
+        "relevance_to_presti": "The strong emphasis on visual content and design aligns perfectly with presti.ai's offerings, suggesting opportunities for enhanced visual staging and marketing strategies."
+      }
+    }
+  },
+  "tokens_used": 25131
+}

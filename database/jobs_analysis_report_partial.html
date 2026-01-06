@@ -1,0 +1,1747 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>presti.ai - Job Analysis Report (Partial)</title>
+    <style>
+        :root {
+            --bg-dark: #0f0f23;
+            --bg-card: #1a1a2e;
+            --text-primary: #eaeaea;
+            --text-secondary: #a0a0a0;
+            --accent-purple: #9d4edd;
+            --accent-green: #06ffa5;
+            --accent-orange: #ff9e00;
+            --border-color: #2a2a4a;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            background: var(--bg-dark);
+            color: var(--text-primary);
+            padding: 2rem;
+        }
+        .container { max-width: 1200px; margin: 0 auto; }
+        header {
+            text-align: center;
+            padding: 2rem;
+            background: linear-gradient(135deg, var(--bg-card), #16213e);
+            border-radius: 16px;
+            margin-bottom: 2rem;
+        }
+        .logo {
+            font-size: 2.5rem;
+            font-weight: 800;
+            background: linear-gradient(90deg, var(--accent-purple), #4cc9f0, var(--accent-green));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin: 2rem 0;
+        }
+        .stat-card {
+            background: rgba(255,255,255,0.05);
+            padding: 1.5rem;
+            border-radius: 12px;
+            text-align: center;
+        }
+        .stat-value {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: var(--accent-green);
+        }
+        .stat-label { color: var(--text-secondary); }
+        .section { margin: 2rem 0; }
+        .section-title {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            color: var(--accent-purple);
+        }
+        .company-card {
+            background: var(--bg-card);
+            padding: 1.5rem;
+            border-radius: 12px;
+            margin-bottom: 1rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .company-name { font-size: 1.2rem; font-weight: 600; }
+        .company-meta { color: var(--text-secondary); font-size: 0.9rem; }
+        .score-badge {
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            font-weight: 600;
+        }
+        .score-high { background: var(--accent-green); color: #000; }
+        .score-medium { background: var(--accent-orange); color: #000; }
+        .jobs-table {
+            width: 100%;
+            border-collapse: collapse;
+            background: var(--bg-card);
+            border-radius: 12px;
+            overflow: hidden;
+        }
+        .jobs-table th {
+            background: #16213e;
+            padding: 1rem;
+            text-align: left;
+            color: var(--text-secondary);
+        }
+        .jobs-table td {
+            padding: 1rem;
+            border-top: 1px solid var(--border-color);
+        }
+        .jobs-table tr:hover td { background: rgba(255,255,255,0.05); }
+        .filter-bar {
+            margin-bottom: 1rem;
+            display: flex;
+            gap: 1rem;
+        }
+        .filter-bar select, .filter-bar input {
+            padding: 0.75rem;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            background: var(--bg-card);
+            color: var(--text-primary);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">🎯 presti.ai</div>
+            <p style="color: var(--text-secondary);">Job Analysis Report - Sales Intelligence</p>
+            <p style="color: var(--text-secondary); font-size: 0.9rem;">Generated: 2025-12-08 13:18</p>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-value">210</div>
+                    <div class="stat-label">Jobs Analyzed</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">130</div>
+                    <div class="stat-label">High Relevance (≥7)</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">27</div>
+                    <div class="stat-label">Score 9/10</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">11</div>
+                    <div class="stat-label">Companies</div>
+                </div>
+            </div>
+        </header>
+
+        <div class="section">
+            <h2 class="section-title">🏆 Top Companies by Relevance</h2>
+
+            <div class="company-card">
+                <div>
+                    <div class="company-name">Ashley Furniture Industri</div>
+                    <div class="company-meta">31 jobs analyzed</div>
+                </div>
+                <div class="score-badge score-high">8.5/10</div>
+            </div>
+
+            <div class="company-card">
+                <div>
+                    <div class="company-name">abc carpet & home</div>
+                    <div class="company-meta">4 jobs analyzed</div>
+                </div>
+                <div class="score-badge score-high">8.0/10</div>
+            </div>
+
+            <div class="company-card">
+                <div>
+                    <div class="company-name">Alfred Williams & Company</div>
+                    <div class="company-meta">4 jobs analyzed</div>
+                </div>
+                <div class="score-badge score-high">8.0/10</div>
+            </div>
+
+            <div class="company-card">
+                <div>
+                    <div class="company-name">American Furniture Wareho</div>
+                    <div class="company-meta">1 jobs analyzed</div>
+                </div>
+                <div class="score-badge score-high">8.0/10</div>
+            </div>
+
+            <div class="company-card">
+                <div>
+                    <div class="company-name">Arhaus</div>
+                    <div class="company-meta">26 jobs analyzed</div>
+                </div>
+                <div class="score-badge score-high">8.0/10</div>
+            </div>
+
+            <div class="company-card">
+                <div>
+                    <div class="company-name">Baker-McGuire</div>
+                    <div class="company-meta">2 jobs analyzed</div>
+                </div>
+                <div class="score-badge score-high">8.0/10</div>
+            </div>
+
+            <div class="company-card">
+                <div>
+                    <div class="company-name">Bassett Furniture Industr</div>
+                    <div class="company-meta">4 jobs analyzed</div>
+                </div>
+                <div class="score-badge score-high">7.8/10</div>
+            </div>
+
+            <div class="company-card">
+                <div>
+                    <div class="company-name">Ashley Global Retail</div>
+                    <div class="company-meta">11 jobs analyzed</div>
+                </div>
+                <div class="score-badge score-high">7.6/10</div>
+            </div>
+
+            <div class="company-card">
+                <div>
+                    <div class="company-name">Balsam Brands</div>
+                    <div class="company-meta">35 jobs analyzed</div>
+                </div>
+                <div class="score-badge score-high">7.6/10</div>
+            </div>
+
+            <div class="company-card">
+                <div>
+                    <div class="company-name">Ballard Designs</div>
+                    <div class="company-meta">2 jobs analyzed</div>
+                </div>
+                <div class="score-badge score-medium">6.0/10</div>
+            </div>
+
+            <div class="company-card">
+                <div>
+                    <div class="company-name">Anthropologie Home</div>
+                    <div class="company-meta">90 jobs analyzed</div>
+                </div>
+                <div class="score-badge score-medium">5.2/10</div>
+            </div>
+
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">📋 All Jobs (Sorted by Score)</h2>
+            <div class="filter-bar">
+                <input type="text" id="searchInput" placeholder="🔍 Search..." onkeyup="filterTable()">
+                <select id="scoreFilter" onchange="filterTable()">
+                    <option value="">All Scores</option>
+                    <option value="9">9/10 only</option>
+                    <option value="8">8/10+</option>
+                    <option value="7">7/10+</option>
+                </select>
+            </div>
+            <table class="jobs-table">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Company</th>
+                        <th>Job Title</th>
+                        <th>Score</th>
+                    </tr>
+                </thead>
+                <tbody id="jobsBody">
+
+                    <tr data-score="9" data-company="arhaus" data-title="manager, growth marketing">
+                        <td>102</td>
+                        <td>Arhaus</td>
+                        <td>Manager, Growth Marketing</td>
+                        <td><span class="score-badge score-high">9/10</span></td>
+                    </tr>
+
+                    <tr data-score="9" data-company="arhaus" data-title="vp, commerce and marketing tec">
+                        <td>103</td>
+                        <td>Arhaus</td>
+                        <td>VP, Commerce and Marketing Tec</td>
+                        <td><span class="score-badge score-high">9/10</span></td>
+                    </tr>
+
+                    <tr data-score="9" data-company="arhaus" data-title="senior manager, product market">
+                        <td>106</td>
+                        <td>Arhaus</td>
+                        <td>Senior Manager, Product Market</td>
+                        <td><span class="score-badge score-high">9/10</span></td>
+                    </tr>
+
+                    <tr data-score="9" data-company="arhaus" data-title="senior art director - digital">
+                        <td>107</td>
+                        <td>Arhaus</td>
+                        <td>Senior Art Director - Digital</td>
+                        <td><span class="score-badge score-high">9/10</span></td>
+                    </tr>
+
+                    <tr data-score="9" data-company="arhaus" data-title="senior product marketing manag">
+                        <td>108</td>
+                        <td>Arhaus</td>
+                        <td>Senior Product Marketing Manag</td>
+                        <td><span class="score-badge score-high">9/10</span></td>
+                    </tr>
+
+                    <tr data-score="9" data-company="arhaus" data-title="art director">
+                        <td>110</td>
+                        <td>Arhaus</td>
+                        <td>Art Director</td>
+                        <td><span class="score-badge score-high">9/10</span></td>
+                    </tr>
+
+                    <tr data-score="9" data-company="arhaus" data-title="senior product marketing manag">
+                        <td>115</td>
+                        <td>Arhaus</td>
+                        <td>Senior Product Marketing Manag</td>
+                        <td><span class="score-badge score-high">9/10</span></td>
+                    </tr>
+
+                    <tr data-score="9" data-company="ashley furniture industri" data-title="ai art director">
+                        <td>126</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>AI Art Director</td>
+                        <td><span class="score-badge score-high">9/10</span></td>
+                    </tr>
+
+                    <tr data-score="9" data-company="ashley furniture industri" data-title="art director (artificial intel">
+                        <td>128</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>Art Director (Artificial Intel</td>
+                        <td><span class="score-badge score-high">9/10</span></td>
+                    </tr>
+
+                    <tr data-score="9" data-company="ashley furniture industri" data-title="director of product marketing">
+                        <td>129</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>Director of Product Marketing</td>
+                        <td><span class="score-badge score-high">9/10</span></td>
+                    </tr>
+
+                    <tr data-score="9" data-company="ashley furniture industri" data-title="vice president of stationary f">
+                        <td>130</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>Vice President of Stationary F</td>
+                        <td><span class="score-badge score-high">9/10</span></td>
+                    </tr>
+
+                    <tr data-score="9" data-company="ashley furniture industri" data-title="director of product marketing">
+                        <td>131</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>Director of Product Marketing</td>
+                        <td><span class="score-badge score-high">9/10</span></td>
+                    </tr>
+
+                    <tr data-score="9" data-company="ashley furniture industri" data-title="senior vice president of stati">
+                        <td>137</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>Senior Vice President of Stati</td>
+                        <td><span class="score-badge score-high">9/10</span></td>
+                    </tr>
+
+                    <tr data-score="9" data-company="ashley furniture industri" data-title="vice president of sales (motio">
+                        <td>140</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>Vice President of Sales (Motio</td>
+                        <td><span class="score-badge score-high">9/10</span></td>
+                    </tr>
+
+                    <tr data-score="9" data-company="ashley furniture industri" data-title="senior director of product, sa">
+                        <td>141</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>Senior Director of Product, Sa</td>
+                        <td><span class="score-badge score-high">9/10</span></td>
+                    </tr>
+
+                    <tr data-score="9" data-company="ashley furniture industri" data-title="vice president of case goods s">
+                        <td>142</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>Vice President of Case Goods S</td>
+                        <td><span class="score-badge score-high">9/10</span></td>
+                    </tr>
+
+                    <tr data-score="9" data-company="ashley furniture industri" data-title="vice president/senior director">
+                        <td>145</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>Vice President/Senior Director</td>
+                        <td><span class="score-badge score-high">9/10</span></td>
+                    </tr>
+
+                    <tr data-score="9" data-company="ashley furniture industri" data-title="vice president of case goods s">
+                        <td>149</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>Vice President of Case Goods S</td>
+                        <td><span class="score-badge score-high">9/10</span></td>
+                    </tr>
+
+                    <tr data-score="9" data-company="ashley furniture industri" data-title="director it digital commerce">
+                        <td>150</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>Director IT Digital Commerce</td>
+                        <td><span class="score-badge score-high">9/10</span></td>
+                    </tr>
+
+                    <tr data-score="9" data-company="ashley furniture industri" data-title="director it digital commerce">
+                        <td>151</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>Director IT Digital Commerce</td>
+                        <td><span class="score-badge score-high">9/10</span></td>
+                    </tr>
+
+                    <tr data-score="9" data-company="ashley furniture industri" data-title="director it digital commerce">
+                        <td>153</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>Director IT Digital Commerce</td>
+                        <td><span class="score-badge score-high">9/10</span></td>
+                    </tr>
+
+                    <tr data-score="9" data-company="ashley furniture industri" data-title="director it digital commerce">
+                        <td>154</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>Director IT Digital Commerce</td>
+                        <td><span class="score-badge score-high">9/10</span></td>
+                    </tr>
+
+                    <tr data-score="9" data-company="ashley global retail" data-title="senior director of merchandisi">
+                        <td>167</td>
+                        <td>Ashley Global Retail</td>
+                        <td>Senior Director of Merchandisi</td>
+                        <td><span class="score-badge score-high">9/10</span></td>
+                    </tr>
+
+                    <tr data-score="9" data-company="balsam brands" data-title="director of ecommerce (tempora">
+                        <td>176</td>
+                        <td>Balsam Brands</td>
+                        <td>Director of eCommerce (Tempora</td>
+                        <td><span class="score-badge score-high">9/10</span></td>
+                    </tr>
+
+                    <tr data-score="9" data-company="balsam brands" data-title="senior manager of creative con">
+                        <td>194</td>
+                        <td>Balsam Brands</td>
+                        <td>Senior Manager of Creative Con</td>
+                        <td><span class="score-badge score-high">9/10</span></td>
+                    </tr>
+
+                    <tr data-score="9" data-company="balsam brands" data-title="senior manager of creative con">
+                        <td>195</td>
+                        <td>Balsam Brands</td>
+                        <td>Senior Manager of Creative Con</td>
+                        <td><span class="score-badge score-high">9/10</span></td>
+                    </tr>
+
+                    <tr data-score="9" data-company="balsam brands" data-title="senior manager of creative con">
+                        <td>201</td>
+                        <td>Balsam Brands</td>
+                        <td>Senior Manager of Creative Con</td>
+                        <td><span class="score-badge score-high">9/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="abc carpet & home" data-title="lifecycle marketing manager">
+                        <td>1</td>
+                        <td>abc carpet & home</td>
+                        <td>Lifecycle Marketing Manager</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="alfred williams & company" data-title="director of sales">
+                        <td>2</td>
+                        <td>Alfred Williams & Company</td>
+                        <td>Director of Sales</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="abc carpet & home" data-title="lifecycle marketing manager">
+                        <td>3</td>
+                        <td>abc carpet & home</td>
+                        <td>Lifecycle Marketing Manager</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="alfred williams & company" data-title="sales account manager">
+                        <td>4</td>
+                        <td>Alfred Williams & Company</td>
+                        <td>Sales Account Manager</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="abc carpet & home" data-title="marketing associate">
+                        <td>5</td>
+                        <td>abc carpet & home</td>
+                        <td>Marketing Associate</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="abc carpet & home" data-title="marketing associate">
+                        <td>6</td>
+                        <td>abc carpet & home</td>
+                        <td>Marketing Associate</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="american furniture wareho" data-title="home furnishing sales consulta">
+                        <td>7</td>
+                        <td>American Furniture Wareho</td>
+                        <td>Home Furnishing Sales Consulta</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="alfred williams & company" data-title="director of sales">
+                        <td>8</td>
+                        <td>Alfred Williams & Company</td>
+                        <td>Director of Sales</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="alfred williams & company" data-title="marketing lead graphic design">
+                        <td>9</td>
+                        <td>Alfred Williams & Company</td>
+                        <td>Marketing Lead Graphic Design</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="anthropologie home" data-title="anthropologie - digital mercha">
+                        <td>10</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie - Digital Mercha</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="anthropologie home" data-title="anthropologie senior graphic d">
+                        <td>11</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Senior Graphic D</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="anthropologie home" data-title="anthropologie - digital market">
+                        <td>14</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie - Digital Market</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="anthropologie home" data-title="anthropologie - senior digital">
+                        <td>16</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie - Senior Digital</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="anthropologie home" data-title="anthropologie - marketing plan">
+                        <td>24</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie - Marketing Plan</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="anthropologie home" data-title="anthropologie jr. art director">
+                        <td>54</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Jr. Art Director</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="anthropologie home" data-title="anthropologie paid social mark">
+                        <td>80</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Paid Social Mark</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="arhaus" data-title="manager, growth marketing">
+                        <td>100</td>
+                        <td>Arhaus</td>
+                        <td>Manager, Growth Marketing</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="arhaus" data-title="senior graphic designer, digit">
+                        <td>101</td>
+                        <td>Arhaus</td>
+                        <td>Senior Graphic Designer, Digit</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="arhaus" data-title="creative project manager">
+                        <td>105</td>
+                        <td>Arhaus</td>
+                        <td>Creative Project Manager</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="arhaus" data-title="creative lead, social media">
+                        <td>109</td>
+                        <td>Arhaus</td>
+                        <td>Creative Lead, Social Media</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="arhaus" data-title="art director">
+                        <td>111</td>
+                        <td>Arhaus</td>
+                        <td>Art Director</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="arhaus" data-title="e-commerce specialist">
+                        <td>113</td>
+                        <td>Arhaus</td>
+                        <td>E-Commerce Specialist</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="arhaus" data-title="creative lead, social media">
+                        <td>114</td>
+                        <td>Arhaus</td>
+                        <td>Creative Lead, Social Media</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="arhaus" data-title="social media creative lead">
+                        <td>118</td>
+                        <td>Arhaus</td>
+                        <td>Social Media Creative Lead</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="arhaus" data-title="creative lead, social media">
+                        <td>119</td>
+                        <td>Arhaus</td>
+                        <td>Creative Lead, Social Media</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="arhaus" data-title="creative lead, social media">
+                        <td>120</td>
+                        <td>Arhaus</td>
+                        <td>Creative Lead, Social Media</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="arhaus" data-title="e-commerce specialist">
+                        <td>121</td>
+                        <td>Arhaus</td>
+                        <td>E-Commerce Specialist</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="arhaus" data-title="e-commerce specialist">
+                        <td>122</td>
+                        <td>Arhaus</td>
+                        <td>E-Commerce Specialist</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="arhaus" data-title="e-commerce specialist">
+                        <td>123</td>
+                        <td>Arhaus</td>
+                        <td>E-Commerce Specialist</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="arhaus" data-title="e-commerce specialist">
+                        <td>124</td>
+                        <td>Arhaus</td>
+                        <td>E-Commerce Specialist</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="ashley furniture industri" data-title="senior product manager, ecomme">
+                        <td>132</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>Senior Product Manager, EComme</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="ashley furniture industri" data-title="senior manager influencer mark">
+                        <td>133</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>Senior Manager Influencer Mark</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="ashley furniture industri" data-title="vice president of stationary f">
+                        <td>134</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>Vice President of Stationary F</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="ashley furniture industri" data-title="sr. cdp/crm marketing speciali">
+                        <td>135</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>Sr. CDP/CRM Marketing Speciali</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="ashley furniture industri" data-title="senior vice president of outdo">
+                        <td>136</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>Senior Vice President of Outdo</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="ashley furniture industri" data-title="international marketing specia">
+                        <td>138</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>International Marketing Specia</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="ashley furniture industri" data-title="virtual sales">
+                        <td>139</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>Virtual Sales</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="ashley furniture industri" data-title="sr. cdp/crm marketing speciali">
+                        <td>143</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>Sr. CDP/CRM Marketing Speciali</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="ashley furniture industri" data-title="international marketing specia">
+                        <td>144</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>International Marketing Specia</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="ashley furniture industri" data-title="marketing graphic designer">
+                        <td>146</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>Marketing Graphic Designer</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="ashley furniture industri" data-title="director it digital commerce">
+                        <td>147</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>Director IT Digital Commerce</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="ashley furniture industri" data-title="email marketing specialist">
+                        <td>148</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>Email Marketing Specialist</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="ashley furniture industri" data-title="sr. cdp/crm marketing speciali">
+                        <td>152</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>Sr. CDP/CRM Marketing Speciali</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="ashley furniture industri" data-title="sr. marketing technology speci">
+                        <td>155</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>Sr. Marketing Technology Speci</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="ashley furniture industri" data-title="vice president engineering, di">
+                        <td>156</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>Vice President Engineering, Di</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="ashley global retail" data-title="field manager of licensee sale">
+                        <td>157</td>
+                        <td>Ashley Global Retail</td>
+                        <td>Field Manager of Licensee Sale</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="ashley global retail" data-title="retail marketing specialist">
+                        <td>160</td>
+                        <td>Ashley Global Retail</td>
+                        <td>Retail Marketing Specialist</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="ashley global retail" data-title="field manager of licensee sale">
+                        <td>163</td>
+                        <td>Ashley Global Retail</td>
+                        <td>Field Manager of Licensee Sale</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="ashley global retail" data-title="field manager of licensee sale">
+                        <td>164</td>
+                        <td>Ashley Global Retail</td>
+                        <td>Field Manager of Licensee Sale</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="ashley global retail" data-title="sales manager">
+                        <td>165</td>
+                        <td>Ashley Global Retail</td>
+                        <td>Sales Manager</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="ashley global retail" data-title="field manager of licensee sale">
+                        <td>166</td>
+                        <td>Ashley Global Retail</td>
+                        <td>Field Manager of Licensee Sale</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="baker-mcguire" data-title="inside sales associate">
+                        <td>169</td>
+                        <td>Baker-McGuire</td>
+                        <td>Inside Sales Associate</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="baker-mcguire" data-title="showroom sales associate">
+                        <td>171</td>
+                        <td>Baker-McGuire</td>
+                        <td>Showroom Sales Associate</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="balsam brands" data-title="product manager, marketing">
+                        <td>175</td>
+                        <td>Balsam Brands</td>
+                        <td>Product Manager, Marketing</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="balsam brands" data-title="product manager, marketing">
+                        <td>177</td>
+                        <td>Balsam Brands</td>
+                        <td>Product Manager, Marketing</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="balsam brands" data-title="account executive, b2b sales -">
+                        <td>187</td>
+                        <td>Balsam Brands</td>
+                        <td>Account Executive, B2B Sales -</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="balsam brands" data-title="account executive, b2b sales -">
+                        <td>188</td>
+                        <td>Balsam Brands</td>
+                        <td>Account Executive, B2B Sales -</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="balsam brands" data-title="account executive, b2b sales -">
+                        <td>189</td>
+                        <td>Balsam Brands</td>
+                        <td>Account Executive, B2B Sales -</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="balsam brands" data-title="senior ecommerce operations sp">
+                        <td>190</td>
+                        <td>Balsam Brands</td>
+                        <td>Senior eCommerce Operations Sp</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="balsam brands" data-title="senior ecommerce operations sp">
+                        <td>191</td>
+                        <td>Balsam Brands</td>
+                        <td>Senior eCommerce Operations Sp</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="balsam brands" data-title="ecommerce sales support specia">
+                        <td>192</td>
+                        <td>Balsam Brands</td>
+                        <td>eCommerce Sales Support Specia</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="balsam brands" data-title="indirect sales support special">
+                        <td>196</td>
+                        <td>Balsam Brands</td>
+                        <td>Indirect Sales Support Special</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="balsam brands" data-title="indirect sales support special">
+                        <td>197</td>
+                        <td>Balsam Brands</td>
+                        <td>Indirect Sales Support Special</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="balsam brands" data-title="senior manager, wholesale & b2">
+                        <td>198</td>
+                        <td>Balsam Brands</td>
+                        <td>Senior Manager, Wholesale & B2</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="balsam brands" data-title="senior manager of ecommerce">
+                        <td>199</td>
+                        <td>Balsam Brands</td>
+                        <td>Senior Manager of eCommerce</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="balsam brands" data-title="senior manager of ecommerce">
+                        <td>200</td>
+                        <td>Balsam Brands</td>
+                        <td>Senior Manager of eCommerce</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="balsam brands" data-title="senior manager of ecommerce">
+                        <td>202</td>
+                        <td>Balsam Brands</td>
+                        <td>Senior Manager of eCommerce</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="balsam brands" data-title="b2b ecommerce site merchandisi">
+                        <td>203</td>
+                        <td>Balsam Brands</td>
+                        <td>B2B eCommerce Site Merchandisi</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="balsam brands" data-title="b2b ecommerce site merchandisi">
+                        <td>204</td>
+                        <td>Balsam Brands</td>
+                        <td>B2B eCommerce Site Merchandisi</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="balsam brands" data-title="vp of indirect channel sales">
+                        <td>205</td>
+                        <td>Balsam Brands</td>
+                        <td>VP of Indirect Channel Sales</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="balsam brands" data-title="vp of indirect channel sales">
+                        <td>206</td>
+                        <td>Balsam Brands</td>
+                        <td>VP of Indirect Channel Sales</td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="bassett furniture industr" data-title="digital marketing and content ">
+                        <td>207</td>
+                        <td>Bassett Furniture Industr</td>
+                        <td>DIGITAL MARKETING AND CONTENT </td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="bassett furniture industr" data-title="digital marketing and content ">
+                        <td>208</td>
+                        <td>Bassett Furniture Industr</td>
+                        <td>DIGITAL MARKETING AND CONTENT </td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="8" data-company="bassett furniture industr" data-title="digital marketing and content ">
+                        <td>210</td>
+                        <td>Bassett Furniture Industr</td>
+                        <td>DIGITAL MARKETING AND CONTENT </td>
+                        <td><span class="score-badge score-high">8/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="anthropologie home" data-title="anthropologie influencer marke">
+                        <td>12</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Influencer Marke</td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="anthropologie home" data-title="anthropologie influencer marke">
+                        <td>18</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Influencer Marke</td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="anthropologie home" data-title="anthropologie temporary digita">
+                        <td>23</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Temporary Digita</td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="anthropologie home" data-title="anthropologie temporary home d">
+                        <td>28</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Temporary Home D</td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="anthropologie home" data-title="anthropologie home - associate">
+                        <td>30</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Home - Associate</td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="anthropologie home" data-title="anthropologie junior digital d">
+                        <td>36</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Junior Digital D</td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="anthropologie home" data-title="anthropologie group temp: proj">
+                        <td>56</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Group Temp: Proj</td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="anthropologie home" data-title="anthropologie assistant creati">
+                        <td>60</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Assistant Creati</td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="anthropologie home" data-title="anthropologie freelance social">
+                        <td>94</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Freelance Social</td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="arhaus" data-title="ecommerce merchandise coordina">
+                        <td>112</td>
+                        <td>Arhaus</td>
+                        <td>eCommerce Merchandise Coordina</td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="arhaus" data-title="marketing analyst">
+                        <td>116</td>
+                        <td>Arhaus</td>
+                        <td>Marketing Analyst</td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="arhaus" data-title="sales associate / design consu">
+                        <td>117</td>
+                        <td>Arhaus</td>
+                        <td>Sales Associate / Design Consu</td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="arhaus" data-title="web sales / sales associate">
+                        <td>125</td>
+                        <td>Arhaus</td>
+                        <td>Web Sales / Sales Associate</td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="ashley furniture industri" data-title="partnerships marketing special">
+                        <td>127</td>
+                        <td>Ashley Furniture Industri</td>
+                        <td>Partnerships Marketing Special</td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="ashley global retail" data-title="regional sales manager, electr">
+                        <td>158</td>
+                        <td>Ashley Global Retail</td>
+                        <td>Regional Sales Manager, Electr</td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="ashley global retail" data-title="regional sales manager, electr">
+                        <td>161</td>
+                        <td>Ashley Global Retail</td>
+                        <td>Regional Sales Manager, Electr</td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="ashley global retail" data-title="marketing coordinator">
+                        <td>162</td>
+                        <td>Ashley Global Retail</td>
+                        <td>Marketing Coordinator</td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="balsam brands" data-title="interim project coordinator, e">
+                        <td>173</td>
+                        <td>Balsam Brands</td>
+                        <td>Interim Project Coordinator, E</td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="balsam brands" data-title="interim project coordinator, e">
+                        <td>174</td>
+                        <td>Balsam Brands</td>
+                        <td>Interim Project Coordinator, E</td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="balsam brands" data-title="email marketing specialist">
+                        <td>178</td>
+                        <td>Balsam Brands</td>
+                        <td>Email Marketing Specialist</td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="balsam brands" data-title="email marketing specialist">
+                        <td>179</td>
+                        <td>Balsam Brands</td>
+                        <td>Email Marketing Specialist</td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="balsam brands" data-title="email marketing developer">
+                        <td>180</td>
+                        <td>Balsam Brands</td>
+                        <td>Email Marketing Developer</td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="balsam brands" data-title="email marketing developer">
+                        <td>181</td>
+                        <td>Balsam Brands</td>
+                        <td>Email Marketing Developer</td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="balsam brands" data-title="email marketing developer">
+                        <td>182</td>
+                        <td>Balsam Brands</td>
+                        <td>Email Marketing Developer</td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="balsam brands" data-title="performance marketing analyst ">
+                        <td>184</td>
+                        <td>Balsam Brands</td>
+                        <td>Performance Marketing Analyst </td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="balsam brands" data-title="engagement marketing analyst, ">
+                        <td>185</td>
+                        <td>Balsam Brands</td>
+                        <td>Engagement Marketing Analyst, </td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="balsam brands" data-title="crm marketing manager, interna">
+                        <td>186</td>
+                        <td>Balsam Brands</td>
+                        <td>CRM Marketing Manager, Interna</td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="balsam brands" data-title="crm marketing manager">
+                        <td>193</td>
+                        <td>Balsam Brands</td>
+                        <td>CRM Marketing Manager</td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="7" data-company="bassett furniture industr" data-title="marketing support specialist">
+                        <td>209</td>
+                        <td>Bassett Furniture Industr</td>
+                        <td>MARKETING SUPPORT SPECIALIST</td>
+                        <td><span class="score-badge score-medium">7/10</span></td>
+                    </tr>
+
+                    <tr data-score="6" data-company="anthropologie home" data-title="anthropologie sales associate ">
+                        <td>13</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate </td>
+                        <td><span class="score-badge score-medium">6/10</span></td>
+                    </tr>
+
+                    <tr data-score="6" data-company="anthropologie home" data-title="anthropologie sales associate ">
+                        <td>25</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate </td>
+                        <td><span class="score-badge score-medium">6/10</span></td>
+                    </tr>
+
+                    <tr data-score="6" data-company="anthropologie home" data-title="anthropologie sales associate ">
+                        <td>31</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate </td>
+                        <td><span class="score-badge score-medium">6/10</span></td>
+                    </tr>
+
+                    <tr data-score="6" data-company="anthropologie home" data-title="anthropologie sales associate ">
+                        <td>33</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate </td>
+                        <td><span class="score-badge score-medium">6/10</span></td>
+                    </tr>
+
+                    <tr data-score="6" data-company="anthropologie home" data-title="anthropologie sales associate ">
+                        <td>38</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate </td>
+                        <td><span class="score-badge score-medium">6/10</span></td>
+                    </tr>
+
+                    <tr data-score="6" data-company="anthropologie home" data-title="anthropologie sales associate ">
+                        <td>47</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate </td>
+                        <td><span class="score-badge score-medium">6/10</span></td>
+                    </tr>
+
+                    <tr data-score="6" data-company="anthropologie home" data-title="anthropologie brand marketing ">
+                        <td>78</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Brand Marketing </td>
+                        <td><span class="score-badge score-medium">6/10</span></td>
+                    </tr>
+
+                    <tr data-score="6" data-company="ashley global retail" data-title="regional sales manager, electr">
+                        <td>159</td>
+                        <td>Ashley Global Retail</td>
+                        <td>Regional Sales Manager, Electr</td>
+                        <td><span class="score-badge score-medium">6/10</span></td>
+                    </tr>
+
+                    <tr data-score="6" data-company="ballard designs" data-title="sales/operations manager">
+                        <td>168</td>
+                        <td>Ballard Designs</td>
+                        <td>Sales/Operations Manager</td>
+                        <td><span class="score-badge score-medium">6/10</span></td>
+                    </tr>
+
+                    <tr data-score="6" data-company="ballard designs" data-title="sales/operations manager">
+                        <td>170</td>
+                        <td>Ballard Designs</td>
+                        <td>Sales/Operations Manager</td>
+                        <td><span class="score-badge score-medium">6/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>19</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate ">
+                        <td>20</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate </td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate ">
+                        <td>21</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate </td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate ">
+                        <td>22</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate </td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate ">
+                        <td>27</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate </td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate ">
+                        <td>32</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate </td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate ">
+                        <td>34</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate </td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>37</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>39</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>42</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate ">
+                        <td>46</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate </td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>49</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate ">
+                        <td>50</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate </td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie seasonal sales a">
+                        <td>52</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Seasonal Sales A</td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>53</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>55</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>62</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>63</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>64</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>65</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>66</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>67</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>68</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>72</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate ">
+                        <td>81</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate </td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>82</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>83</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>84</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate ">
+                        <td>88</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate </td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>89</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>90</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate ">
+                        <td>91</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate </td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate ">
+                        <td>92</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate </td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>93</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>99</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="5" data-company="balsam brands" data-title="balsam hill studio sales assoc">
+                        <td>183</td>
+                        <td>Balsam Brands</td>
+                        <td>Balsam Hill Studio Sales Assoc</td>
+                        <td><span class="score-badge ">5/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>15</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie seasonal sales a">
+                        <td>17</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Seasonal Sales A</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>26</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>29</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie seasonal sales a">
+                        <td>35</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Seasonal Sales A</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>40</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie seasonal sales a">
+                        <td>41</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Seasonal Sales A</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>43</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>44</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>45</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie home outlet sale">
+                        <td>48</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Home Outlet Sale</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>51</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>57</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>58</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie seasonal sales a">
+                        <td>59</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Seasonal Sales A</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>61</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie seasonal sales a">
+                        <td>69</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Seasonal Sales A</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>70</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie seasonal sales a">
+                        <td>71</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Seasonal Sales A</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>73</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>74</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>75</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>76</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>77</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>79</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>85</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>86</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie seasonal sales a">
+                        <td>87</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Seasonal Sales A</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>95</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie sales associate">
+                        <td>96</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Sales Associate</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie seasonal sales a">
+                        <td>97</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Seasonal Sales A</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="anthropologie home" data-title="anthropologie seasonal sales a">
+                        <td>98</td>
+                        <td>Anthropologie Home</td>
+                        <td>Anthropologie Seasonal Sales A</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="arhaus" data-title="sales analyst">
+                        <td>104</td>
+                        <td>Arhaus</td>
+                        <td>Sales Analyst</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                    <tr data-score="4" data-company="balsam brands" data-title="retail sales associate - balsa">
+                        <td>172</td>
+                        <td>Balsam Brands</td>
+                        <td>Retail Sales Associate - Balsa</td>
+                        <td><span class="score-badge ">4/10</span></td>
+                    </tr>
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <script>
+        function filterTable() {
+            const search = document.getElementById('searchInput').value.toLowerCase();
+            const scoreFilter = document.getElementById('scoreFilter').value;
+            
+            document.querySelectorAll('#jobsBody tr').forEach(row => {
+                const company = row.dataset.company;
+                const title = row.dataset.title;
+                const score = parseInt(row.dataset.score);
+                
+                const matchSearch = !search || company.includes(search) || title.includes(search);
+                const matchScore = !scoreFilter || score >= parseInt(scoreFilter);
+                
+                row.style.display = matchSearch && matchScore ? '' : 'none';
+            });
+        }
+    </script>
+</body>
+</html>

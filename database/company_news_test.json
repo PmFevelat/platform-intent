@@ -1,0 +1,203 @@
+{
+  "California Closets": {
+    "company_name": "California Closets",
+    "search_date": "2026-01-06",
+    "news_items": [
+      {
+        "title": "Liftify Celebrates California Closets® Achieving 10x Google Review Growth at 2024 Convention",
+        "source": "Liftify News",
+        "url": "https://www.liftify.com/news/california-closets-convention2024",
+        "published_date": "March 15, 2024",
+        "summary": "California Closets partnered with Liftify to boost its online reputation, achieving a tenfold increase in Google reviews across its 160+ locations and improving NPS feedback collection.",
+        "relevance_score": 6,
+        "relevance_reason": "Demonstrates digital channel focus and online reputation management, indicating investment in digital presence.",
+        "key_insights": [
+          "Strong focus on online reputation and digital feedback",
+          "Network-wide digital initiative across 160+ locations",
+          "Potential need for scalable visual content to support digital marketing"
+        ],
+        "category": "ecommerce_growth"
+      },
+      {
+        "title": "California Closets Announces Expansion Of Its Raleigh Production Facility",
+        "source": "PR Newswire / PRWeb",
+        "url": "https://www.prweb.com/releases/California_Closets_Announces_Expansion_Of_Its_Raleigh_Production_Facility/prweb18831907.htm",
+        "published_date": "August 9, 2022",
+        "summary": "California Closets expanded its Raleigh manufacturing facility by over 50% to support growth in North Carolina and Virginia, adding offices, conference and hospitality areas to enhance operations.",
+        "relevance_score": 5,
+        "relevance_reason": "Operational scaling suggests increased product output, implying need for more visual assets.",
+        "key_insights": [
+          "Production capacity increased by 50%",
+          "Supports multiple regional franchises",
+          "Likely growth in SKU volume needing imagery"
+        ],
+        "category": "supply_chain_challenges"
+      },
+      {
+        "title": "California Closets Connect mobile app launched with AR-based design visualization",
+        "source": "WiseGuy Reports / Closet Organizer App Market Research",
+        "url": "https://www.wiseguyreports.com/reports/closet-organizer-app-market",
+        "published_date": "September 2025 (report referencing October 2024 launch)",
+        "summary": "In October 2024, California Closets launched 'California Closets Connect', a mobile app offering AR-based design visualization, remote consultation scheduling, and in-app purchasing for closet systems.",
+        "relevance_score": 9,
+        "relevance_reason": "Strong digital innovation with AR visualization directly aligned with Presti’s visual content capabilities.",
+        "key_insights": [
+          "AR-based design visualization in mobile app",
+          "Remote consultations and in-app purchasing",
+          "High demand for digital-ready visuals"
+        ],
+        "category": "visual_content_strategy"
+      },
+      {
+        "title": "California Closets expanded line of eco‑friendly closet options made from sustainable materials",
+        "source": "Global Growth Insights / Built‑in Closet Market report",
+        "url": "https://www.globalgrowthinsights.com/market-reports/built-in-closet-market-109523",
+        "published_date": "2024 (report referencing 2023 launch)",
+        "summary": "In 2023, California Closets introduced an expanded line of eco‑friendly closet options using sustainable materials like reclaimed wood, which saw a 15% sales increase among eco‑conscious customers.",
+        "relevance_score": 7,
+        "relevance_reason": "New sustainable product line implies need for fresh visuals across variants.",
+        "key_insights": [
+          "Eco‑friendly materials introduced in 2023",
+          "15% sales uplift in sustainability segment",
+          "Visuals needed to highlight material and finish differences"
+        ],
+        "category": "sustainability_initiative"
+      },
+      {
+        "title": "California Closets unveiled automated manufacturing systems, reducing production time by 17%",
+        "source": "360 Research Reports / Custom Closets Market report",
+        "url": "https://www.360researchreports.com/market-reports/custom-closets-market-207716",
+        "published_date": "2025 (report referencing 2025 development)",
+        "summary": "In 2025, California Closets implemented automated manufacturing systems that reduced production time by 17%, improving efficiency and throughput.",
+        "relevance_score": 5,
+        "relevance_reason": "Operational efficiency improvements may lead to faster product cycles and need for rapid visual content generation.",
+        "key_insights": [
+          "17% faster production via automation",
+          "Faster product-to-market cycles",
+          "Opportunity for rapid visual generation"
+        ],
+        "category": "time_to_market"
+      },
+      {
+        "title": "California Closets Fêtes Its New Greenwich Showroom With AD’s Amy Astley",
+        "source": "Architectural Digest",
+        "url": "https://www.architecturaldigest.com/story/california-closets-fetes-its-new-greenwich-showroom-with-ads-amy-astley",
+        "published_date": "September 25, 2025",
+        "summary": "California Closets opened a new 2,500‑sq‑ft showroom in Greenwich, CT, featuring custom millwork, adaptable design, and a high‑profile event with AD’s Amy Astley, showcasing their latest offerings.",
+        "relevance_score": 6,
+        "relevance_reason": "New showroom launch with design focus suggests need for promotional visuals and consistent branding.",
+        "key_insights": [
+          "High‑profile showroom opening event",
+          "Showcases new product categories (Murphy beds, home bars)",
+          "Visual content needed for marketing and omnichannel consistency"
+        ],
+        "category": "physical_presence"
+      },
+      {
+        "title": "California Closets offers high‑end wood veneer closets with Italian hardware in 2024",
+        "source": "Future Market Insights / Closet Organizers Market report",
+        "url": "https://www.futuremarketinsights.com/reports/closet-organizers-market",
+        "published_date": "2024",
+        "summary": "In 2024, California Closets launched a premium line of wood veneer organizers featuring Italian-engineered hardware and soft-close fittings, targeting the luxury segment.",
+        "relevance_score": 7,
+        "relevance_reason": "New premium product line increases SKU complexity and visual differentiation needs.",
+        "key_insights": [
+          "Premium wood veneer line with Italian hardware",
+          "Targets luxury segment",
+          "Requires high-quality visuals for marketing"
+        ],
+        "category": "product_innovation"
+      },
+      {
+        "title": "California Closets expanded into Latin America in 2023, adding 32 new retail outlets",
+        "source": "Industry Research Biz / Built‑in Closet Market report",
+        "url": "https://www.industryresearch.biz/market-reports/built-in-closet-market-103781",
+        "published_date": "2023",
+        "summary": "In 2023, California Closets expanded into Latin America by opening 32 new retail outlets, signaling international growth and market diversification.",
+        "relevance_score": 6,
+        "relevance_reason": "International expansion increases need for localized visual content across markets.",
+        "key_insights": [
+          "32 new outlets in Latin America",
+          "International market expansion",
+          "Need for localized imagery and catalog assets"
+        ],
+        "category": "international_expansion"
+      },
+      {
+        "title": "California Closets launches proprietary 3‑D CAD software for screen‑to‑machine production",
+        "source": "EIN Presswire (2025 facility article referencing CAD use)",
+        "url": "https://www.einnews.com/pr_news/873869384/california-closets-opens-state-of-the-art-raleigh-facility-to-serve-growing-demand",
+        "published_date": "December 9, 2025",
+        "summary": "The new Raleigh facility uses screen‑to‑machine technology tied to proprietary 3‑D CAD software, enabling precise production based on designer-created layouts.",
+        "relevance_score": 6,
+        "relevance_reason": "Integration of 3D CAD suggests digital design sophistication and potential for visual content automation.",
+        "key_insights": [
+          "Screen‑to‑machine CAD integration",
+          "Digital design-to-production workflow",
+          "Opportunity to integrate generative visuals"
+        ],
+        "category": "technology_innovation"
+      },
+      {
+        "title": "California Closets hiring a Motion Graphics Designer Contractor",
+        "source": "Reddit job board",
+        "url": "https://www.reddit.com/r/jobboardsearch/comments/18ld8sp",
+        "published_date": "December 15, 2023",
+        "summary": "California Closets posted a job for a Motion Graphics Designer Contractor in December 2023, indicating investment in dynamic visual content creation.",
+        "relevance_score": 5,
+        "relevance_reason": "Hiring for motion graphics shows emphasis on visual content, aligning with Presti’s capabilities.",
+        "key_insights": [
+          "Motion graphics role indicates visual content focus",
+          "Need for dynamic imagery and video assets",
+          "Potential collaboration on scalable visual production"
+        ],
+        "category": "visual_content_strategy"
+      },
+      {
+        "title": "California Closets Connect app offers AR visualization and remote consultations",
+        "source": "WiseGuy Reports (duplicate confirmation)",
+        "url": "https://www.wiseguyreports.com/reports/closet-organizer-app-market",
+        "published_date": "September 2025 (report referencing October 2024 launch)",
+        "summary": "Reiterates the October 2024 launch of the California Closets Connect app with AR visualization, remote consultations, and in-app purchasing.",
+        "relevance_score": 9,
+        "relevance_reason": "Same as earlier but reinforces strong digital visualization initiative.",
+        "key_insights": [
+          "AR visualization central to customer experience",
+          "Digital-first sales channel",
+          "High demand for scalable visual assets"
+        ],
+        "category": "visual_content_strategy"
+      },
+      {
+        "title": "California Closets expanded production facility to support regional growth",
+        "source": "PR Newswire / PRWeb (repeat)",
+        "url": "https://www.prweb.com/releases/California_Closets_Announces_Expansion_Of_Its_Raleigh_Production_Facility/prweb18831907.htm",
+        "published_date": "August 9, 2022",
+        "summary": "Reiterates the 2022 Raleigh facility expansion by 50% to support regional franchise growth in NC and VA.",
+        "relevance_score": 5,
+        "relevance_reason": "Operational scaling implies increased product output and visual needs.",
+        "key_insights": [
+          "50% facility expansion",
+          "Supports multiple franchises",
+          "More SKUs likely requiring imagery"
+        ],
+        "category": "supply_chain_challenges"
+      }
+    ],
+    "overall_assessment": {
+      "presti_fit_score": 8,
+      "key_opportunities": [
+        "AR‑based app needs scalable lifestyle visuals",
+        "Eco‑friendly line requires sustainable material imagery",
+        "International expansion demands localized content"
+      ],
+      "recommended_approach": "Emphasize Presti’s ability to generate high‑quality AR‑ready visuals rapidly for the new app, showcase eco‑friendly materials in lifestyle contexts, and support localized imagery for Latin American expansion."
+    },
+    "scrape_metadata": {
+      "timestamp": "2026-01-06T17:34:16.124792",
+      "model": "gpt-4o",
+      "success": true,
+      "web_search_used": true
+    }
+  }
+}

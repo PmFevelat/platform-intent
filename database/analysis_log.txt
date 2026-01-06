@@ -1,0 +1,109 @@
+============================================================
+🎯 presti.ai - Job Analysis with OpenAI (ASYNC)
+🚀 Using 6 parallel workers
+============================================================
+
+📂 Loading collected job data...
+✅ Found 342 jobs to analyze
+
+🤖 Analyzing jobs with OpenAI GPT-4o-mini (6 workers)...
+------------------------------------------------------------
+[1/342] ✅ abc carpet & home - Lifecycle Marketing Manager... Score: 8/10
+[2/342] ✅ Alfred Williams & Company - Director of Sales... Score: 8/10
+[3/342] ✅ abc carpet & home - Marketing Associate... Score: 8/10
+[4/342] ✅ abc carpet & home - Lifecycle Marketing Manager... Score: 8/10
+[5/342] ✅ abc carpet & home - Marketing Associate... Score: 8/10
+[6/342] ✅ Alfred Williams & Company - Sales Account Manager... Score: 8/10
+[7/342] ✅ Alfred Williams & Company - Director of Sales... Score: 8/10
+[8/342] ✅ American Furniture Wareho - Home Furnishing Sales Consulta... Score: 8/10
+[9/342] ✅ Alfred Williams & Company - Marketing Lead Graphic Design... Score: 8/10
+[10/342] ✅ Anthropologie Home - Anthropologie - Digital Mercha... Score: 8/10
+[11/342] ✅ Anthropologie Home - Anthropologie Senior Graphic D... Score: 8/10
+[12/342] ✅ Anthropologie Home - Anthropologie Influencer Marke... Score: 7/10
+[13/342] ✅ Anthropologie Home - Anthropologie Sales Associate ... Score: 5/10
+[14/342] ✅ Anthropologie Home - Anthropologie - Senior Digital... Score: 8/10
+[15/342] ✅ Anthropologie Home - Anthropologie - Digital Market... Score: 8/10
+[16/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 5/10
+[17/342] ✅ Anthropologie Home - Anthropologie Seasonal Sales A... Score: 4/10
+[18/342] ✅ Anthropologie Home - Anthropologie Influencer Marke... Score: 7/10
+[19/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 5/10
+[20/342] ✅ Anthropologie Home - Anthropologie - Marketing Plan... Score: 8/10
+[21/342] ✅ Anthropologie Home - Anthropologie Sales Associate ... Score: 5/10
+[22/342] ✅ Anthropologie Home - Anthropologie Sales Associate ... Score: 5/10
+[23/342] ✅ Anthropologie Home - Anthropologie Sales Associate ... Score: 5/10
+[24/342] ✅ Anthropologie Home - Anthropologie Temporary Digita... Score: 7/10
+[25/342] ✅ Anthropologie Home - Anthropologie Sales Associate ... Score: 6/10
+[26/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 5/10
+[27/342] ✅ Anthropologie Home - Anthropologie Sales Associate ... Score: 5/10
+[28/342] ✅ Anthropologie Home - Anthropologie Temporary Home D... Score: 8/10
+[29/342] ✅ Anthropologie Home - Anthropologie Home - Associate... Score: 7/10
+[30/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 5/10
+[31/342] ✅ Anthropologie Home - Anthropologie Sales Associate ... Score: 5/10
+[32/342] ✅ Anthropologie Home - Anthropologie Sales Associate ... Score: 6/10
+[33/342] ✅ Anthropologie Home - Anthropologie Sales Associate ... Score: 5/10
+[34/342] ✅ Anthropologie Home - Anthropologie Junior Digital D... Score: 7/10
+[35/342] ✅ Anthropologie Home - Anthropologie Sales Associate ... Score: 5/10
+[36/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 4/10
+[37/342] ✅ Anthropologie Home - Anthropologie Sales Associate ... Score: 5/10
+[38/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 4/10
+[39/342] ✅ Anthropologie Home - Anthropologie Seasonal Sales A... Score: 4/10
+[40/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 5/10
+[41/342] ✅ Anthropologie Home - Anthropologie Seasonal Sales A... Score: 4/10
+[42/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 5/10
+[43/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 4/10
+[44/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 4/10
+[45/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 5/10
+[46/342] ✅ Anthropologie Home - Anthropologie Sales Associate ... Score: 5/10
+[47/342] ✅ Anthropologie Home - Anthropologie Sales Associate ... Score: 5/10
+[48/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 5/10
+[49/342] ✅ Anthropologie Home - Anthropologie Home Outlet Sale... Score: 4/10
+[50/342] ✅ Anthropologie Home - Anthropologie Sales Associate ... Score: 5/10
+[51/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 5/10
+[52/342] ✅ Anthropologie Home - Anthropologie Seasonal Sales A... Score: 4/10
+[53/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 5/10
+[54/342] ✅ Anthropologie Home - Anthropologie Jr. Art Director... Score: 8/10
+[55/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 5/10
+[56/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 5/10
+[57/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 4/10
+[58/342] ✅ Anthropologie Home - Anthropologie Seasonal Sales A... Score: 4/10
+[59/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 4/10
+[60/342] ✅ Anthropologie Home - Anthropologie Assistant Creati... Score: 8/10
+[61/342] ✅ Anthropologie Home - Anthropologie Group Temp: Proj... Score: 7/10
+[62/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 4/10
+[63/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 5/10
+[64/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 5/10
+[65/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 5/10
+[66/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 4/10
+[67/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 5/10
+[68/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 5/10
+[69/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 4/10
+[70/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 5/10
+[71/342] ✅ Anthropologie Home - Anthropologie Seasonal Sales A... Score: 4/10
+[72/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 5/10
+[73/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 4/10
+[74/342] ✅ Anthropologie Home - Anthropologie Seasonal Sales A... Score: 4/10
+[75/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 4/10
+[76/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 4/10
+[77/342] ✅ Anthropologie Home - Anthropologie Brand Marketing ... Score: 6/10
+[78/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 4/10
+[79/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 4/10
+[80/342] ✅ Anthropologie Home - Anthropologie Sales Associate ... Score: 6/10
+[81/342] ✅ Anthropologie Home - Anthropologie Paid Social Mark... Score: 8/10
+[82/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 5/10
+[83/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 4/10
+[84/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 5/10
+[85/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 5/10
+[86/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 5/10
+[87/342] ✅ Anthropologie Home - Anthropologie Seasonal Sales A... Score: 4/10
+[88/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 6/10
+[89/342] ✅ Anthropologie Home - Anthropologie Sales Associate ... Score: 5/10
+[90/342] ✅ Anthropologie Home - Anthropologie Sales Associate ... Score: 5/10
+[91/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 6/10
+[92/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 5/10
+[93/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 4/10
+[94/342] ✅ Anthropologie Home - Anthropologie Seasonal Sales A... Score: 4/10
+[95/342] ✅ Anthropologie Home - Anthropologie Freelance Social... Score: 7/10
+[96/342] ✅ Anthropologie Home - Anthropologie Sales Associate ... Score: 6/10
+[97/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 5/10
+[98/342] ✅ Anthropologie Home - Anthropologie Seasonal Sales A... Score: 4/10
+[99/342] ✅ Anthropologie Home - Anthropologie Sales Associate... Score: 5/10

@@ -1,0 +1,1322 @@
+{
+  "generated_at": "2025-12-08T13:17:44.193086",
+  "total_analyzed": 210,
+  "total_expected": 342,
+  "high_relevance_count": 130,
+  "by_score": {
+    "8": 74,
+    "7": 29,
+    "6": 10,
+    "4": 34,
+    "5": 36,
+    "9": 27
+  },
+  "by_company": {
+    "abc carpet & home": {
+      "count": 4,
+      "avg_score": 8.0
+    },
+    "Alfred Williams & Company": {
+      "count": 4,
+      "avg_score": 8.0
+    },
+    "American Furniture Wareho": {
+      "count": 1,
+      "avg_score": 8.0
+    },
+    "Anthropologie Home": {
+      "count": 90,
+      "avg_score": 5.2
+    },
+    "Arhaus": {
+      "count": 26,
+      "avg_score": 8.0
+    },
+    "Ashley Furniture Industri": {
+      "count": 31,
+      "avg_score": 8.5
+    },
+    "Ashley Global Retail": {
+      "count": 11,
+      "avg_score": 7.6
+    },
+    "Ballard Designs": {
+      "count": 2,
+      "avg_score": 6.0
+    },
+    "Baker-McGuire": {
+      "count": 2,
+      "avg_score": 8.0
+    },
+    "Balsam Brands": {
+      "count": 35,
+      "avg_score": 7.6
+    },
+    "Bassett Furniture Industr": {
+      "count": 4,
+      "avg_score": 7.8
+    }
+  },
+  "jobs": [
+    {
+      "index": 1,
+      "company": "abc carpet & home",
+      "title": "Lifecycle Marketing Manager",
+      "score": 8
+    },
+    {
+      "index": 2,
+      "company": "Alfred Williams & Company",
+      "title": "Director of Sales",
+      "score": 8
+    },
+    {
+      "index": 3,
+      "company": "abc carpet & home",
+      "title": "Lifecycle Marketing Manager",
+      "score": 8
+    },
+    {
+      "index": 4,
+      "company": "Alfred Williams & Company",
+      "title": "Sales Account Manager",
+      "score": 8
+    },
+    {
+      "index": 5,
+      "company": "abc carpet & home",
+      "title": "Marketing Associate",
+      "score": 8
+    },
+    {
+      "index": 6,
+      "company": "abc carpet & home",
+      "title": "Marketing Associate",
+      "score": 8
+    },
+    {
+      "index": 7,
+      "company": "American Furniture Wareho",
+      "title": "Home Furnishing Sales Consulta",
+      "score": 8
+    },
+    {
+      "index": 8,
+      "company": "Alfred Williams & Company",
+      "title": "Director of Sales",
+      "score": 8
+    },
+    {
+      "index": 9,
+      "company": "Alfred Williams & Company",
+      "title": "Marketing Lead Graphic Design",
+      "score": 8
+    },
+    {
+      "index": 10,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie - Digital Mercha",
+      "score": 8
+    },
+    {
+      "index": 11,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Senior Graphic D",
+      "score": 8
+    },
+    {
+      "index": 12,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Influencer Marke",
+      "score": 7
+    },
+    {
+      "index": 13,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate ",
+      "score": 6
+    },
+    {
+      "index": 14,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie - Digital Market",
+      "score": 8
+    },
+    {
+      "index": 15,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 4
+    },
+    {
+      "index": 16,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie - Senior Digital",
+      "score": 8
+    },
+    {
+      "index": 17,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Seasonal Sales A",
+      "score": 4
+    },
+    {
+      "index": 18,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Influencer Marke",
+      "score": 7
+    },
+    {
+      "index": 19,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 5
+    },
+    {
+      "index": 20,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate ",
+      "score": 5
+    },
+    {
+      "index": 21,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate ",
+      "score": 5
+    },
+    {
+      "index": 22,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate ",
+      "score": 5
+    },
+    {
+      "index": 23,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Temporary Digita",
+      "score": 7
+    },
+    {
+      "index": 24,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie - Marketing Plan",
+      "score": 8
+    },
+    {
+      "index": 25,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate ",
+      "score": 6
+    },
+    {
+      "index": 26,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 4
+    },
+    {
+      "index": 27,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate ",
+      "score": 5
+    },
+    {
+      "index": 28,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Temporary Home D",
+      "score": 7
+    },
+    {
+      "index": 29,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 4
+    },
+    {
+      "index": 30,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Home - Associate",
+      "score": 7
+    },
+    {
+      "index": 31,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate ",
+      "score": 6
+    },
+    {
+      "index": 32,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate ",
+      "score": 5
+    },
+    {
+      "index": 33,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate ",
+      "score": 6
+    },
+    {
+      "index": 34,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate ",
+      "score": 5
+    },
+    {
+      "index": 35,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Seasonal Sales A",
+      "score": 4
+    },
+    {
+      "index": 36,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Junior Digital D",
+      "score": 7
+    },
+    {
+      "index": 37,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 5
+    },
+    {
+      "index": 38,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate ",
+      "score": 6
+    },
+    {
+      "index": 39,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 5
+    },
+    {
+      "index": 40,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 4
+    },
+    {
+      "index": 41,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Seasonal Sales A",
+      "score": 4
+    },
+    {
+      "index": 42,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 5
+    },
+    {
+      "index": 43,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 4
+    },
+    {
+      "index": 44,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 4
+    },
+    {
+      "index": 45,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 4
+    },
+    {
+      "index": 46,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate ",
+      "score": 5
+    },
+    {
+      "index": 47,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate ",
+      "score": 6
+    },
+    {
+      "index": 48,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Home Outlet Sale",
+      "score": 4
+    },
+    {
+      "index": 49,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 5
+    },
+    {
+      "index": 50,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate ",
+      "score": 5
+    },
+    {
+      "index": 51,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 4
+    },
+    {
+      "index": 52,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Seasonal Sales A",
+      "score": 5
+    },
+    {
+      "index": 53,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 5
+    },
+    {
+      "index": 54,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Jr. Art Director",
+      "score": 8
+    },
+    {
+      "index": 55,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 5
+    },
+    {
+      "index": 56,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Group Temp: Proj",
+      "score": 7
+    },
+    {
+      "index": 57,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 4
+    },
+    {
+      "index": 58,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 4
+    },
+    {
+      "index": 59,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Seasonal Sales A",
+      "score": 4
+    },
+    {
+      "index": 60,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Assistant Creati",
+      "score": 7
+    },
+    {
+      "index": 61,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 4
+    },
+    {
+      "index": 62,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 5
+    },
+    {
+      "index": 63,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 5
+    },
+    {
+      "index": 64,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 5
+    },
+    {
+      "index": 65,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 5
+    },
+    {
+      "index": 66,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 5
+    },
+    {
+      "index": 67,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 5
+    },
+    {
+      "index": 68,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 5
+    },
+    {
+      "index": 69,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Seasonal Sales A",
+      "score": 4
+    },
+    {
+      "index": 70,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 4
+    },
+    {
+      "index": 71,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Seasonal Sales A",
+      "score": 4
+    },
+    {
+      "index": 72,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 5
+    },
+    {
+      "index": 73,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 4
+    },
+    {
+      "index": 74,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 4
+    },
+    {
+      "index": 75,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 4
+    },
+    {
+      "index": 76,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 4
+    },
+    {
+      "index": 77,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 4
+    },
+    {
+      "index": 78,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Brand Marketing ",
+      "score": 6
+    },
+    {
+      "index": 79,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 4
+    },
+    {
+      "index": 80,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Paid Social Mark",
+      "score": 8
+    },
+    {
+      "index": 81,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate ",
+      "score": 5
+    },
+    {
+      "index": 82,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 5
+    },
+    {
+      "index": 83,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 5
+    },
+    {
+      "index": 84,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 5
+    },
+    {
+      "index": 85,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 4
+    },
+    {
+      "index": 86,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 4
+    },
+    {
+      "index": 87,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Seasonal Sales A",
+      "score": 4
+    },
+    {
+      "index": 88,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate ",
+      "score": 5
+    },
+    {
+      "index": 89,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 5
+    },
+    {
+      "index": 90,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 5
+    },
+    {
+      "index": 91,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate ",
+      "score": 5
+    },
+    {
+      "index": 92,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate ",
+      "score": 5
+    },
+    {
+      "index": 93,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 5
+    },
+    {
+      "index": 94,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Freelance Social",
+      "score": 7
+    },
+    {
+      "index": 95,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 4
+    },
+    {
+      "index": 96,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 4
+    },
+    {
+      "index": 97,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Seasonal Sales A",
+      "score": 4
+    },
+    {
+      "index": 98,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Seasonal Sales A",
+      "score": 4
+    },
+    {
+      "index": 99,
+      "company": "Anthropologie Home",
+      "title": "Anthropologie Sales Associate",
+      "score": 5
+    },
+    {
+      "index": 100,
+      "company": "Arhaus",
+      "title": "Manager, Growth Marketing",
+      "score": 8
+    },
+    {
+      "index": 101,
+      "company": "Arhaus",
+      "title": "Senior Graphic Designer, Digit",
+      "score": 8
+    },
+    {
+      "index": 102,
+      "company": "Arhaus",
+      "title": "Manager, Growth Marketing",
+      "score": 9
+    },
+    {
+      "index": 103,
+      "company": "Arhaus",
+      "title": "VP, Commerce and Marketing Tec",
+      "score": 9
+    },
+    {
+      "index": 104,
+      "company": "Arhaus",
+      "title": "Sales Analyst",
+      "score": 4
+    },
+    {
+      "index": 105,
+      "company": "Arhaus",
+      "title": "Creative Project Manager",
+      "score": 8
+    },
+    {
+      "index": 106,
+      "company": "Arhaus",
+      "title": "Senior Manager, Product Market",
+      "score": 9
+    },
+    {
+      "index": 107,
+      "company": "Arhaus",
+      "title": "Senior Art Director - Digital",
+      "score": 9
+    },
+    {
+      "index": 108,
+      "company": "Arhaus",
+      "title": "Senior Product Marketing Manag",
+      "score": 9
+    },
+    {
+      "index": 109,
+      "company": "Arhaus",
+      "title": "Creative Lead, Social Media",
+      "score": 8
+    },
+    {
+      "index": 110,
+      "company": "Arhaus",
+      "title": "Art Director",
+      "score": 9
+    },
+    {
+      "index": 111,
+      "company": "Arhaus",
+      "title": "Art Director",
+      "score": 8
+    },
+    {
+      "index": 112,
+      "company": "Arhaus",
+      "title": "eCommerce Merchandise Coordina",
+      "score": 7
+    },
+    {
+      "index": 113,
+      "company": "Arhaus",
+      "title": "E-Commerce Specialist",
+      "score": 8
+    },
+    {
+      "index": 114,
+      "company": "Arhaus",
+      "title": "Creative Lead, Social Media",
+      "score": 8
+    },
+    {
+      "index": 115,
+      "company": "Arhaus",
+      "title": "Senior Product Marketing Manag",
+      "score": 9
+    },
+    {
+      "index": 116,
+      "company": "Arhaus",
+      "title": "Marketing Analyst",
+      "score": 7
+    },
+    {
+      "index": 117,
+      "company": "Arhaus",
+      "title": "Sales Associate / Design Consu",
+      "score": 7
+    },
+    {
+      "index": 118,
+      "company": "Arhaus",
+      "title": "Social Media Creative Lead",
+      "score": 8
+    },
+    {
+      "index": 119,
+      "company": "Arhaus",
+      "title": "Creative Lead, Social Media",
+      "score": 8
+    },
+    {
+      "index": 120,
+      "company": "Arhaus",
+      "title": "Creative Lead, Social Media",
+      "score": 8
+    },
+    {
+      "index": 121,
+      "company": "Arhaus",
+      "title": "E-Commerce Specialist",
+      "score": 8
+    },
+    {
+      "index": 122,
+      "company": "Arhaus",
+      "title": "E-Commerce Specialist",
+      "score": 8
+    },
+    {
+      "index": 123,
+      "company": "Arhaus",
+      "title": "E-Commerce Specialist",
+      "score": 8
+    },
+    {
+      "index": 124,
+      "company": "Arhaus",
+      "title": "E-Commerce Specialist",
+      "score": 8
+    },
+    {
+      "index": 125,
+      "company": "Arhaus",
+      "title": "Web Sales / Sales Associate",
+      "score": 7
+    },
+    {
+      "index": 126,
+      "company": "Ashley Furniture Industri",
+      "title": "AI Art Director",
+      "score": 9
+    },
+    {
+      "index": 127,
+      "company": "Ashley Furniture Industri",
+      "title": "Partnerships Marketing Special",
+      "score": 7
+    },
+    {
+      "index": 128,
+      "company": "Ashley Furniture Industri",
+      "title": "Art Director (Artificial Intel",
+      "score": 9
+    },
+    {
+      "index": 129,
+      "company": "Ashley Furniture Industri",
+      "title": "Director of Product Marketing",
+      "score": 9
+    },
+    {
+      "index": 130,
+      "company": "Ashley Furniture Industri",
+      "title": "Vice President of Stationary F",
+      "score": 9
+    },
+    {
+      "index": 131,
+      "company": "Ashley Furniture Industri",
+      "title": "Director of Product Marketing",
+      "score": 9
+    },
+    {
+      "index": 132,
+      "company": "Ashley Furniture Industri",
+      "title": "Senior Product Manager, EComme",
+      "score": 8
+    },
+    {
+      "index": 133,
+      "company": "Ashley Furniture Industri",
+      "title": "Senior Manager Influencer Mark",
+      "score": 8
+    },
+    {
+      "index": 134,
+      "company": "Ashley Furniture Industri",
+      "title": "Vice President of Stationary F",
+      "score": 8
+    },
+    {
+      "index": 135,
+      "company": "Ashley Furniture Industri",
+      "title": "Sr. CDP/CRM Marketing Speciali",
+      "score": 8
+    },
+    {
+      "index": 136,
+      "company": "Ashley Furniture Industri",
+      "title": "Senior Vice President of Outdo",
+      "score": 8
+    },
+    {
+      "index": 137,
+      "company": "Ashley Furniture Industri",
+      "title": "Senior Vice President of Stati",
+      "score": 9
+    },
+    {
+      "index": 138,
+      "company": "Ashley Furniture Industri",
+      "title": "International Marketing Specia",
+      "score": 8
+    },
+    {
+      "index": 139,
+      "company": "Ashley Furniture Industri",
+      "title": "Virtual Sales",
+      "score": 8
+    },
+    {
+      "index": 140,
+      "company": "Ashley Furniture Industri",
+      "title": "Vice President of Sales (Motio",
+      "score": 9
+    },
+    {
+      "index": 141,
+      "company": "Ashley Furniture Industri",
+      "title": "Senior Director of Product, Sa",
+      "score": 9
+    },
+    {
+      "index": 142,
+      "company": "Ashley Furniture Industri",
+      "title": "Vice President of Case Goods S",
+      "score": 9
+    },
+    {
+      "index": 143,
+      "company": "Ashley Furniture Industri",
+      "title": "Sr. CDP/CRM Marketing Speciali",
+      "score": 8
+    },
+    {
+      "index": 144,
+      "company": "Ashley Furniture Industri",
+      "title": "International Marketing Specia",
+      "score": 8
+    },
+    {
+      "index": 145,
+      "company": "Ashley Furniture Industri",
+      "title": "Vice President/Senior Director",
+      "score": 9
+    },
+    {
+      "index": 146,
+      "company": "Ashley Furniture Industri",
+      "title": "Marketing Graphic Designer",
+      "score": 8
+    },
+    {
+      "index": 147,
+      "company": "Ashley Furniture Industri",
+      "title": "Director IT Digital Commerce",
+      "score": 8
+    },
+    {
+      "index": 148,
+      "company": "Ashley Furniture Industri",
+      "title": "Email Marketing Specialist",
+      "score": 8
+    },
+    {
+      "index": 149,
+      "company": "Ashley Furniture Industri",
+      "title": "Vice President of Case Goods S",
+      "score": 9
+    },
+    {
+      "index": 150,
+      "company": "Ashley Furniture Industri",
+      "title": "Director IT Digital Commerce",
+      "score": 9
+    },
+    {
+      "index": 151,
+      "company": "Ashley Furniture Industri",
+      "title": "Director IT Digital Commerce",
+      "score": 9
+    },
+    {
+      "index": 152,
+      "company": "Ashley Furniture Industri",
+      "title": "Sr. CDP/CRM Marketing Speciali",
+      "score": 8
+    },
+    {
+      "index": 153,
+      "company": "Ashley Furniture Industri",
+      "title": "Director IT Digital Commerce",
+      "score": 9
+    },
+    {
+      "index": 154,
+      "company": "Ashley Furniture Industri",
+      "title": "Director IT Digital Commerce",
+      "score": 9
+    },
+    {
+      "index": 155,
+      "company": "Ashley Furniture Industri",
+      "title": "Sr. Marketing Technology Speci",
+      "score": 8
+    },
+    {
+      "index": 156,
+      "company": "Ashley Furniture Industri",
+      "title": "Vice President Engineering, Di",
+      "score": 8
+    },
+    {
+      "index": 157,
+      "company": "Ashley Global Retail",
+      "title": "Field Manager of Licensee Sale",
+      "score": 8
+    },
+    {
+      "index": 158,
+      "company": "Ashley Global Retail",
+      "title": "Regional Sales Manager, Electr",
+      "score": 7
+    },
+    {
+      "index": 159,
+      "company": "Ashley Global Retail",
+      "title": "Regional Sales Manager, Electr",
+      "score": 6
+    },
+    {
+      "index": 160,
+      "company": "Ashley Global Retail",
+      "title": "Retail Marketing Specialist",
+      "score": 8
+    },
+    {
+      "index": 161,
+      "company": "Ashley Global Retail",
+      "title": "Regional Sales Manager, Electr",
+      "score": 7
+    },
+    {
+      "index": 162,
+      "company": "Ashley Global Retail",
+      "title": "Marketing Coordinator",
+      "score": 7
+    },
+    {
+      "index": 163,
+      "company": "Ashley Global Retail",
+      "title": "Field Manager of Licensee Sale",
+      "score": 8
+    },
+    {
+      "index": 164,
+      "company": "Ashley Global Retail",
+      "title": "Field Manager of Licensee Sale",
+      "score": 8
+    },
+    {
+      "index": 165,
+      "company": "Ashley Global Retail",
+      "title": "Sales Manager",
+      "score": 8
+    },
+    {
+      "index": 166,
+      "company": "Ashley Global Retail",
+      "title": "Field Manager of Licensee Sale",
+      "score": 8
+    },
+    {
+      "index": 167,
+      "company": "Ashley Global Retail",
+      "title": "Senior Director of Merchandisi",
+      "score": 9
+    },
+    {
+      "index": 168,
+      "company": "Ballard Designs",
+      "title": "Sales/Operations Manager",
+      "score": 6
+    },
+    {
+      "index": 169,
+      "company": "Baker-McGuire",
+      "title": "Inside Sales Associate",
+      "score": 8
+    },
+    {
+      "index": 170,
+      "company": "Ballard Designs",
+      "title": "Sales/Operations Manager",
+      "score": 6
+    },
+    {
+      "index": 171,
+      "company": "Baker-McGuire",
+      "title": "Showroom Sales Associate",
+      "score": 8
+    },
+    {
+      "index": 172,
+      "company": "Balsam Brands",
+      "title": "Retail Sales Associate - Balsa",
+      "score": 4
+    },
+    {
+      "index": 173,
+      "company": "Balsam Brands",
+      "title": "Interim Project Coordinator, E",
+      "score": 7
+    },
+    {
+      "index": 174,
+      "company": "Balsam Brands",
+      "title": "Interim Project Coordinator, E",
+      "score": 7
+    },
+    {
+      "index": 175,
+      "company": "Balsam Brands",
+      "title": "Product Manager, Marketing",
+      "score": 8
+    },
+    {
+      "index": 176,
+      "company": "Balsam Brands",
+      "title": "Director of eCommerce (Tempora",
+      "score": 9
+    },
+    {
+      "index": 177,
+      "company": "Balsam Brands",
+      "title": "Product Manager, Marketing",
+      "score": 8
+    },
+    {
+      "index": 178,
+      "company": "Balsam Brands",
+      "title": "Email Marketing Specialist",
+      "score": 7
+    },
+    {
+      "index": 179,
+      "company": "Balsam Brands",
+      "title": "Email Marketing Specialist",
+      "score": 7
+    },
+    {
+      "index": 180,
+      "company": "Balsam Brands",
+      "title": "Email Marketing Developer",
+      "score": 7
+    },
+    {
+      "index": 181,
+      "company": "Balsam Brands",
+      "title": "Email Marketing Developer",
+      "score": 7
+    },
+    {
+      "index": 182,
+      "company": "Balsam Brands",
+      "title": "Email Marketing Developer",
+      "score": 7
+    },
+    {
+      "index": 183,
+      "company": "Balsam Brands",
+      "title": "Balsam Hill Studio Sales Assoc",
+      "score": 5
+    },
+    {
+      "index": 184,
+      "company": "Balsam Brands",
+      "title": "Performance Marketing Analyst ",
+      "score": 7
+    },
+    {
+      "index": 185,
+      "company": "Balsam Brands",
+      "title": "Engagement Marketing Analyst, ",
+      "score": 7
+    },
+    {
+      "index": 186,
+      "company": "Balsam Brands",
+      "title": "CRM Marketing Manager, Interna",
+      "score": 7
+    },
+    {
+      "index": 187,
+      "company": "Balsam Brands",
+      "title": "Account Executive, B2B Sales -",
+      "score": 8
+    },
+    {
+      "index": 188,
+      "company": "Balsam Brands",
+      "title": "Account Executive, B2B Sales -",
+      "score": 8
+    },
+    {
+      "index": 189,
+      "company": "Balsam Brands",
+      "title": "Account Executive, B2B Sales -",
+      "score": 8
+    },
+    {
+      "index": 190,
+      "company": "Balsam Brands",
+      "title": "Senior eCommerce Operations Sp",
+      "score": 8
+    },
+    {
+      "index": 191,
+      "company": "Balsam Brands",
+      "title": "Senior eCommerce Operations Sp",
+      "score": 8
+    },
+    {
+      "index": 192,
+      "company": "Balsam Brands",
+      "title": "eCommerce Sales Support Specia",
+      "score": 8
+    },
+    {
+      "index": 193,
+      "company": "Balsam Brands",
+      "title": "CRM Marketing Manager",
+      "score": 7
+    },
+    {
+      "index": 194,
+      "company": "Balsam Brands",
+      "title": "Senior Manager of Creative Con",
+      "score": 9
+    },
+    {
+      "index": 195,
+      "company": "Balsam Brands",
+      "title": "Senior Manager of Creative Con",
+      "score": 9
+    },
+    {
+      "index": 196,
+      "company": "Balsam Brands",
+      "title": "Indirect Sales Support Special",
+      "score": 8
+    },
+    {
+      "index": 197,
+      "company": "Balsam Brands",
+      "title": "Indirect Sales Support Special",
+      "score": 8
+    },
+    {
+      "index": 198,
+      "company": "Balsam Brands",
+      "title": "Senior Manager, Wholesale & B2",
+      "score": 8
+    },
+    {
+      "index": 199,
+      "company": "Balsam Brands",
+      "title": "Senior Manager of eCommerce",
+      "score": 8
+    },
+    {
+      "index": 200,
+      "company": "Balsam Brands",
+      "title": "Senior Manager of eCommerce",
+      "score": 8
+    },
+    {
+      "index": 201,
+      "company": "Balsam Brands",
+      "title": "Senior Manager of Creative Con",
+      "score": 9
+    },
+    {
+      "index": 202,
+      "company": "Balsam Brands",
+      "title": "Senior Manager of eCommerce",
+      "score": 8
+    },
+    {
+      "index": 203,
+      "company": "Balsam Brands",
+      "title": "B2B eCommerce Site Merchandisi",
+      "score": 8
+    },
+    {
+      "index": 204,
+      "company": "Balsam Brands",
+      "title": "B2B eCommerce Site Merchandisi",
+      "score": 8
+    },
+    {
+      "index": 205,
+      "company": "Balsam Brands",
+      "title": "VP of Indirect Channel Sales",
+      "score": 8
+    },
+    {
+      "index": 206,
+      "company": "Balsam Brands",
+      "title": "VP of Indirect Channel Sales",
+      "score": 8
+    },
+    {
+      "index": 207,
+      "company": "Bassett Furniture Industr",
+      "title": "DIGITAL MARKETING AND CONTENT ",
+      "score": 8
+    },
+    {
+      "index": 208,
+      "company": "Bassett Furniture Industr",
+      "title": "DIGITAL MARKETING AND CONTENT ",
+      "score": 8
+    },
+    {
+      "index": 209,
+      "company": "Bassett Furniture Industr",
+      "title": "MARKETING SUPPORT SPECIALIST",
+      "score": 7
+    },
+    {
+      "index": 210,
+      "company": "Bassett Furniture Industr",
+      "title": "DIGITAL MARKETING AND CONTENT ",
+      "score": 8
+    }
+  ]
+}
