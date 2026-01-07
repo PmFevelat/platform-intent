@@ -8,6 +8,10 @@ import os
 from datetime import datetime
 from typing import List, Dict, Any
 from openai import OpenAI
+from dotenv import load_dotenv
+
+# Charger les variables d'environnement depuis .env
+load_dotenv()
 
 # Configuration
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")

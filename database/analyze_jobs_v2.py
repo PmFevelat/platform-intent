@@ -10,15 +10,19 @@ import sys
 import os
 from datetime import datetime
 from openai import AsyncOpenAI
+from dotenv import load_dotenv
 
 sys.stdout.reconfigure(line_buffering=True)
+
+# Charger les variables d'environnement depuis .env
+load_dotenv()
 
 # Configuration
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 if not OPENAI_API_KEY:
     raise ValueError("OPENAI_API_KEY environment variable is required")
 
-NUM_WORKERS = 6
+NUM_WORKERS = 25
 OUTPUT_FILE = "jobs_analysis_v2.json"
 
 client = AsyncOpenAI(api_key=OPENAI_API_KEY)

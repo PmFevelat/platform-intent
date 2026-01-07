@@ -1,201 +1,106 @@
 {
-  "California Closets": {
-    "company_name": "California Closets",
-    "search_date": "2026-01-06",
+  "West Elm": {
+    "company_name": "West Elm",
+    "search_date": "2026-01-07",
     "management_items": [
       {
-        "title": "California Closets debuts official podcast",
-        "source": "Woodworking Network",
-        "url": "https://www.woodworkingnetwork.com/closets/california-closets-debuts-official-podcast",
-        "published_date": "April 19, 2023",
+        "title": "Williams‑Sonoma, Inc. Announces New West Elm President",
+        "source": "Business Wire",
+        "url": "https://ir.williams-sonomainc.com/investor-information/news-releases/news-release-details/2023/WILLIAMS-SONOMA-INC.-ANNOUNCES-NEW-WEST-ELM-PRESIDENT/default.aspx",
+        "published_date": "January 25, 2023",
         "format": "article",
-        "executive_name": "Charlie Chase",
-        "executive_title": "President and CEO",
-        "summary": "California Closets launched its first official podcast, “Ideas of Order,” hosted by Jeremiah Brent. The CEO emphasizes the podcast as a strategic channel to deepen conversations around belonging and home.",
+        "executive_name": "Day Kornbluth",
+        "executive_title": "President of West Elm",
+        "summary": "Announcement of Day Kornbluth joining as President, emphasizing her expertise in product and digital innovation to drive brand growth.",
         "key_quotes": [
-          "“This podcast is an important channel for California Closets to extend conversations around what it means to belong and feel at home in the world.”"
+          "“The strength of the West Elm brand represents an incredible opportunity. I am thrilled to be joining this talented team and build on the strong foundations of this business to drive growth.”"
         ],
         "topics_discussed": [
-          "brand storytelling",
+          "leadership transition",
+          "digital innovation",
+          "brand growth"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Signals strategic leadership change with emphasis on digital and product innovation, relevant for positioning Presti.",
+        "sales_insights": [
+          "Highlight Presti’s alignment with digital innovation priorities",
+          "Position Presti as a tool to support brand growth under new leadership"
+        ]
+      },
+      {
+        "title": "West Elm Launches New Mobile App",
+        "source": "Business Wire / Marketing Dive",
+        "url": "https://ir.williams-sonomainc.com/investor-information/news-releases/news-release-details/2024/WEST-ELM-LAUNCHES-NEW-MOBILE-APP/default.aspx",
+        "published_date": "March 28, 2024",
+        "format": "article",
+        "executive_name": "Day Kornbluth",
+        "executive_title": "President of West Elm",
+        "summary": "Launch of a mobile‑first shopping app with customizable features, on‑demand design support, wish‑lists, registry, and Apple Pay integration to enhance customer experience.",
+        "key_quotes": [
+          "“Delivering a fun and frictionless shopping experience is always our top priority.”",
+          "“We are proud to introduce a mobile‑first, customizable platform…”"
+        ],
+        "topics_discussed": [
+          "mobile commerce",
           "customer experience",
-          "content marketing"
-        ],
-        "relevance_score": 7,
-        "relevance_reason": "Shows CEO’s interest in storytelling and emotional branding—an angle Presti can support with lifestyle imagery.",
-        "sales_insights": [
-          "Position Presti as a visual storytelling partner for podcast-related content",
-          "Highlight ability to produce emotionally resonant imagery at scale",
-          "Align with their brand-of-belonging narrative"
-        ]
-      },
-      {
-        "title": "California Closets’ Chief Brand Officer Instills Courage To Grow 250%",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/johnellett/2023/11/02/california-closets-chief-brand-officer-instills-courage-to-grow--250/",
-        "published_date": "November 02, 2023",
-        "format": "article",
-        "executive_name": "Edward Leaman",
-        "executive_title": "Chief Brand Officer",
-        "summary": "Leaman redefined the brand’s purpose from “designing better lives” to “brand of belonging,” driving 2.5× growth since 2021. He emphasizes emotional connection and storytelling through branded materials like a 52-page book.",
-        "key_quotes": [
-          "“I inherited a brand whose core purpose was designing better lives… I wanted something more courageous.”",
-          "“Instead of making space just for your stuff, you're making space for what belongs in your life.”",
-          "“Since 2021, we have grown top line and bottom line two and a half times!”"
-        ],
-        "topics_discussed": [
-          "brand strategy",
-          "emotional positioning",
-          "growth metrics"
-        ],
-        "relevance_score": 9,
-        "relevance_reason": "High strategic relevance: brand repositioning and growth tied to emotional storytelling—Presti can support with lifestyle visuals aligned to belonging.",
-        "sales_insights": [
-          "Pitch Presti as a tool to visually articulate the 'belonging' brand narrative",
-          "Offer scalable lifestyle imagery to support branded collateral like their book",
-          "Emphasize how imagery can reinforce emotional connection and growth"
-        ]
-      },
-      {
-        "title": "California Closets | Case Study - Yext",
-        "source": "Yext",
-        "url": "https://www.yext.com/customers/california-closets",
-        "published_date": "2025-12-? (approx recent)",
-        "format": "case_study",
-        "executive_name": "Danielle Olivari",
-        "executive_title": "Product Manager, Digital Technology",
-        "summary": "Olivari discusses how California Closets uses Yext to empower local franchisees to manage content, improving SEO, local relevance, and efficiency across 182 locations.",
-        "key_quotes": [
-          "“Yext is basically a way for our local franchise teams to have more control over their content.”",
-          "“With Yext, we actually have time to analyze our local pages… and give them actionable suggestions.”"
-        ],
-        "topics_discussed": [
-          "digital content management",
-          "franchise scalability",
-          "local marketing"
+          "digital transformation"
         ],
         "relevance_score": 8,
-        "relevance_reason": "Shows digital operations and content scalability—Presti can integrate with such systems to deliver localized imagery at scale.",
+        "relevance_reason": "Demonstrates West Elm’s digital and e‑commerce priorities, directly relevant to Presti’s value proposition in scalable visual content.",
         "sales_insights": [
-          "Propose integration with Yext-managed platforms for image deployment",
-          "Offer scalable image generation for local showrooms",
-          "Highlight efficiency gains for digital teams"
+          "Emphasize Presti’s ability to enhance mobile visuals at scale",
+          "Position Presti as a tool to enrich digital customer experience"
         ]
       },
       {
-        "title": "California Closets' Experiential Showrooms Boost Sales 20-30%",
-        "source": "Elotouch",
-        "url": "https://www.elotouch.com/news/california-closets-experiential-showrooms",
-        "published_date": "2025-12-? (approx recent)",
+        "title": "West Elm Launches New Collaboration with Fashion Tastemaker and Best‑Selling Children’s Book Author, Eva Chen",
+        "source": "Business Wire",
+        "url": "https://ir.williams-sonomainc.com/investor-information/news-releases/news-release-details/2024/WEST-ELM-LAUNCHES-NEW-COLLABORATION-WITH-FASHION-TASTEMAKER-AND-BEST-SELLING-CHILDRENS-BOOK-AUTHOR-EVA-CHEN/default.aspx",
+        "published_date": "September 5, 2024",
         "format": "article",
-        "executive_name": "Beth Warren",
-        "executive_title": "SVP of Experience and Planning, Creative Realities",
-        "summary": "Warren describes the Showroom 2.0 concept with tech tables and better locations, noting customers spend 20–30% more. The next-gen tech table will allow appointment scheduling and product info emailing.",
+        "executive_name": "Day Kornbluth",
+        "executive_title": "President of West Elm",
+        "summary": "Announces a children’s collection collaboration with Eva Chen, focusing on functional yet stylish products that encourage reading and creativity.",
         "key_quotes": [
-          "“The next iteration of the tech table will simplify the experience as well as feature some technical enhancements.”"
+          "“Eva has fantastic taste and is acutely aware of what parents want for a kid’s room…”"
         ],
         "topics_discussed": [
-          "retail experience",
-          "technology integration",
-          "customer engagement"
+          "product collaboration",
+          "children’s market",
+          "design innovation"
         ],
-        "relevance_score": 8,
-        "relevance_reason": "Highlights investment in in-store tech and experiential design—Presti can supply imagery for tech tables and showroom displays.",
+        "relevance_score": 6,
+        "relevance_reason": "Highlights West Elm’s focus on creative partnerships and expanding product categories, relevant for Presti’s visual content capabilities.",
         "sales_insights": [
-          "Offer lifestyle imagery optimized for tech-table displays",
-          "Propose content packages for showroom use",
-          "Align with their experiential retail strategy"
+          "Offer Presti as a way to visualize collaborative collections quickly",
+          "Position Presti to support creative storytelling for new product lines"
         ]
-      },
-      {
-        "title": "Introducing a Podcast to Help Get Your Home in Order, Hosted by Jeremiah Brent",
-        "source": "The Spruce",
-        "url": "https://www.thespruce.com/jeremiah-brent-new-podcast-7481640",
-        "published_date": "April 18, 2023",
-        "format": "article",
-        "executive_name": "Edward Leaman",
-        "executive_title": "Chief Brand Officer",
-        "summary": "Leaman emphasizes the emotional and experiential aspects of home design in the new podcast, aligning with the brand’s human-centered approach.",
-        "key_quotes": [
-          "“We have long admired Jeremiah's customer-centric approach and the deep emotional connection he brings to his work and relationships.”"
-        ],
-        "topics_discussed": [
-          "brand storytelling",
-          "customer empathy",
-          "content strategy"
-        ],
-        "relevance_score": 7,
-        "relevance_reason": "Reinforces Leaman’s focus on emotional storytelling—Presti can support with imagery that evokes empathy and belonging.",
-        "sales_insights": [
-          "Suggest imagery for podcast promotion",
-          "Offer visuals that align with emotional storytelling",
-          "Position Presti as a creative partner for content"
-        ]
-      },
-      {
-        "title": "California Closets Introduces First Custom Design Collection",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2019/10/03/1924658/0/en/California-Closets-Introduces-First-Custom-Design-Collection.html",
-        "published_date": "October 03, 2019",
-        "format": "press_release",
-        "executive_name": "Bill Barton",
-        "executive_title": "CEO",
-        "summary": "Bill Barton introduces the Paxton Collection, a customizable design line for multiple rooms, emphasizing elevated design and functionality.",
-        "key_quotes": [
-          "“Paxton defines the first of many custom collections that we believe will not only visually appeal to our customers, but will also address the ways in which they live today.”"
-        ],
-        "topics_discussed": [
-          "product innovation",
-          "design",
-          "merchandising"
-        ],
-        "relevance_score": 0,
-        "relevance_reason": "Published before 2020—excluded due to date cutoff.",
-        "sales_insights": []
       }
     ],
     "key_executives_identified": [
       {
-        "name": "Edward Leaman",
-        "title": "Chief Brand Officer",
-        "relevance": "Leading brand repositioning and emotional storytelling—key strategic driver for imagery.",
-        "content_count": 2
-      },
-      {
-        "name": "Charlie Chase",
-        "title": "President and CEO",
-        "relevance": "CEO-level endorsement of content strategy via podcast initiative.",
-        "content_count": 1
-      },
-      {
-        "name": "Danielle Olivari",
-        "title": "Product Manager, Digital Technology",
-        "relevance": "Oversees digital content systems—relevant for scalable image deployment.",
-        "content_count": 1
-      },
-      {
-        "name": "Beth Warren",
-        "title": "SVP of Experience and Planning, Creative Realities",
-        "relevance": "Driving experiential retail innovation—opportunity for imagery in tech-enabled showrooms.",
-        "content_count": 1
+        "name": "Day Kornbluth",
+        "title": "President of West Elm",
+        "relevance": "Primary decision‑maker driving digital innovation, product strategy, and brand collaborations—key for Presti’s value proposition.",
+        "content_count": 3
       }
     ],
     "overall_assessment": {
-      "decision_maker_visibility": "medium",
+      "decision_maker_visibility": "low",
       "strategic_priorities": [
-        "Emotional brand repositioning toward 'belonging'",
-        "Content-driven storytelling via podcast and branded materials",
-        "Digital scalability and localized content control",
-        "Experiential retail enhancements with tech integration"
+        "Digital transformation and mobile commerce",
+        "Product and design collaborations",
+        "Brand growth under new leadership"
       ],
       "presti_entry_points": [
-        "Visual storytelling aligned to 'belonging' brand narrative",
-        "Scalable lifestyle imagery for local franchise content",
-        "Imagery for tech-table and showroom experiential displays"
+        "Enhance mobile visual content at scale",
+        "Support creative storytelling for collaborations",
+        "Align with digital innovation agenda"
       ],
-      "recommended_contact": "Target Edward Leaman first—he’s the architect of the brand’s emotional repositioning and has already led content initiatives. Presti can align directly with his vision to visually express 'belonging' at scale."
+      "recommended_contact": "Target Day Kornbluth, President of West Elm—she is clearly leading digital and product innovation and would be most receptive to Presti’s visual content solution."
     },
     "scrape_metadata": {
-      "timestamp": "2026-01-06T17:51:31.734542",
+      "timestamp": "2026-01-07T11:11:04.814676",
       "model": "gpt-4o",
       "success": true,
       "web_search_used": true

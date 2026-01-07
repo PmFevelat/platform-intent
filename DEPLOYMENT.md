@@ -174,3 +174,4 @@ pnpm run start
 - [Vercel Environment Variables](https://vercel.com/docs/concepts/projects/environment-variables)
 - [OpenAI API Documentation](https://platform.openai.com/docs)
 
+

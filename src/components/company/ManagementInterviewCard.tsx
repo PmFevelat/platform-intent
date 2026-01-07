@@ -2,7 +2,6 @@
 
 import { ManagementInterviewItem } from "@/lib/types";
 import { Card } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
 import { Calendar, User } from "lucide-react";
 import { cn } from "@/lib/utils";
 
@@ -12,29 +11,6 @@ interface ManagementInterviewCardProps {
 }
 
 export function ManagementInterviewCard({ item, onClick }: ManagementInterviewCardProps) {
-  // Format labels and colors
-  const formatStyles: Record<string, string> = {
-    interview: "bg-blue-50 text-blue-700 border-blue-200",
-    podcast: "bg-purple-50 text-purple-700 border-purple-200",
-    keynote: "bg-red-50 text-red-700 border-red-200",
-    article: "bg-gray-50 text-gray-700 border-gray-200",
-    panel: "bg-green-50 text-green-700 border-green-200",
-    LinkedIn_post: "bg-indigo-50 text-indigo-700 border-indigo-200",
-    webinar: "bg-cyan-50 text-cyan-700 border-cyan-200",
-    profile: "bg-amber-50 text-amber-700 border-amber-200",
-  };
-
-  const formatLabels: Record<string, string> = {
-    interview: "Interview",
-    podcast: "Podcast",
-    keynote: "Keynote",
-    article: "Article",
-    panel: "Panel",
-    LinkedIn_post: "LinkedIn",
-    webinar: "Webinar",
-    profile: "Profile",
-  };
-
   // Format date
   const formatDate = (dateStr: string) => {
     try {
@@ -84,19 +60,6 @@ export function ManagementInterviewCard({ item, onClick }: ManagementInterviewCa
             </div>
           </>
         )}
-      </div>
-
-      {/* Format Badge */}
-      <div className="mb-2">
-        <Badge 
-          variant="outline" 
-          className={cn(
-            "text-[9px] font-medium border h-4 px-1.5",
-            formatStyles[item.format] || "bg-gray-50 text-gray-700 border-gray-200"
-          )}
-        >
-          {formatLabels[item.format] || item.format}
-        </Badge>
       </div>
 
       {/* Summary */}

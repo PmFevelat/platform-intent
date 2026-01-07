@@ -10,8 +10,12 @@ import sys
 import os
 from datetime import datetime
 from openai import AsyncOpenAI
+from dotenv import load_dotenv
 
 sys.stdout.reconfigure(line_buffering=True)
+
+# Charger les variables d'environnement depuis .env
+load_dotenv()
 
 # Configuration
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")

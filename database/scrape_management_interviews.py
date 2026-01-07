@@ -9,6 +9,10 @@ import asyncio
 from datetime import datetime
 from typing import List, Dict, Any, Optional
 from openai import AsyncOpenAI
+from dotenv import load_dotenv
+
+# Charger les variables d'environnement depuis .env
+load_dotenv()
 
 # Configuration
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")

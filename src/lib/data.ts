@@ -28,9 +28,11 @@ function filterSalesJobs(jobs: Job[]): Job[] {
 }
 
 export async function getData(): Promise<DataStore> {
-  if (cachedData) return cachedData;
+  // In development, always fetch fresh data to see changes immediately
+  const isDev = process.env.NODE_ENV === 'development';
+  if (cachedData && !isDev) return cachedData;
   
-  const res = await fetch("/data.json");
+  const res = await fetch("/data.json", { cache: 'no-store' });
   const rawData: DataStore = await res.json();
   
   // Filter sales jobs from each company
@@ -38,12 +40,11 @@ export async function getData(): Promise<DataStore> {
   
   Object.entries(rawData.companies).forEach(([name, company]) => {
     const filteredJobs = filterSalesJobs(company.jobs);
-    if (filteredJobs.length > 0) {
-      filteredCompanies[name] = {
-        ...company,
-        jobs: filteredJobs,
-      };
-    }
+    // Include ALL companies, even those without jobs
+    filteredCompanies[name] = {
+      ...company,
+      jobs: filteredJobs,
+    };
   });
   
   cachedData = {

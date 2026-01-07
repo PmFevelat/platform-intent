@@ -32,7 +32,8 @@ export default function CompanyPage() {
   // Function to reload data
   const loadCompanyData = () => {
     getData().then((data) => {
-      const found = data.companies[companyName];
+      // Try exact match first, then lowercase
+      const found = data.companies[companyName] || data.companies[companyName.toLowerCase()];
       setCompany(found || null);
       setLoading(false);
     });
@@ -42,7 +43,13 @@ export default function CompanyPage() {
     fetch('/news_data.json?' + Date.now()) // Cache bust
       .then(res => res.json())
       .then((data) => {
-        const news = data[companyName];
+        // Try to find news with case-insensitive search
+        let news = data[companyName];
+        if (!news) {
+          // Try to find by case-insensitive match
+          const key = Object.keys(data).find(k => k.toLowerCase() === companyName.toLowerCase());
+          news = key ? data[key] : null;
+        }
         setCompanyNews(news || null);
       })
       .catch(() => {
@@ -56,7 +63,13 @@ export default function CompanyPage() {
       .then(res => res.json())
       .then((data) => {
         console.log('[loadInterviewsData] Received data:', data);
-        const interviews = data[companyName];
+        // Try to find interviews with case-insensitive search
+        let interviews = data[companyName];
+        if (!interviews) {
+          // Try to find by case-insensitive match
+          const key = Object.keys(data).find(k => k.toLowerCase() === companyName.toLowerCase());
+          interviews = key ? data[key] : null;
+        }
         console.log('[loadInterviewsData] Interviews for company:', interviews);
         setManagementInterviews(interviews || null);
       })

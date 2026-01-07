@@ -8,11 +8,18 @@ import csv
 import requests
 import json
 import time
+import os
 from datetime import datetime
 import html
+from dotenv import load_dotenv
+
+# Charger les variables d'environnement depuis .env
+load_dotenv()
 
 # Configuration API Mantiks
-API_KEY = "gAAAAABpNqgBNC-71TSTMTTeFqP6TLDqHSCXnCCVRbkXOvdrOh3uqXwYsA7XtOGTo8lSp_VJWLxI76bQ5-jR0aGVpEXx1bk5iw=="
+API_KEY = os.environ.get("MANTIKS_API_KEY")
+if not API_KEY:
+    raise ValueError("MANTIKS_API_KEY environment variable is required")
 API_URL = "https://api.mantiks.io/company/jobs"
 
 # Mots-clés de recherche pour les titres de poste

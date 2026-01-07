@@ -13,9 +13,13 @@ import os
 from datetime import datetime
 import html
 from openai import AsyncOpenAI
+from dotenv import load_dotenv
 
 # Force unbuffered output
 sys.stdout.reconfigure(line_buffering=True)
+
+# Charger les variables d'environnement depuis .env
+load_dotenv()
 
 # Configuration
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")

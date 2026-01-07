@@ -9731,5 +9731,1359 @@
       "success": true,
       "web_search_used": true
     }
+  },
+  "Costco": {
+    "company_name": "Costco",
+    "search_date": "2026-01-07",
+    "news_items": [
+      {
+        "title": "Costco ecommerce sales rise 18.9% in fiscal Q4",
+        "source": "Digital Commerce 360",
+        "url": "https://www.digitalcommerce360.com/2024/09/27/costco-ecommerce-sales-q4-fiscal-2024/",
+        "published_date": "September 27, 2024",
+        "summary": "Costco’s ecommerce sales grew 18.9% year‑over‑year in fiscal Q4 2024, outpacing total comparable sales. Appliances and furniture led growth, and Costco Next marketplace sales grew nearly 40%. The company also improved delivery, app search, and launched buy‑online‑pick‑up‑in‑warehouse for TVs.",
+        "relevance_score": 9,
+        "relevance_reason": "Strong ecommerce and catalog expansion, especially in furniture and appliances—high need for scalable visuals.",
+        "key_insights": [
+          "Furniture and appliances ecommerce surging—visual demand rising",
+          "Costco Next marketplace growth—new SKUs require imagery",
+          "App improvements and BOPIS for TVs—omnichannel visuals needed"
+        ],
+        "category": "ecommerce_growth"
+      },
+      {
+        "title": "Costco ecommerce sales off to hot start in Q1 of its fiscal 2025",
+        "source": "Digital Commerce 360",
+        "url": "https://www.digitalcommerce360.com/2024/12/13/costco-ecommerce-sales-q1-2025/",
+        "published_date": "December 13, 2024",
+        "summary": "In Q1 fiscal 2025, Costco ecommerce sales rose 13% year‑over‑year, more than double total comparable growth. Home furnishings, sporting goods, hardware, and gift cards led. Costco Logistics completed nearly 1 million deliveries. Costco also launched its retail media network.",
+        "relevance_score": 8,
+        "relevance_reason": "Home furnishings growth and retail media network highlight need for rich visual content and campaign assets.",
+        "key_insights": [
+          "Home furnishings ecommerce booming—visuals needed pre‑launch",
+          "Retail media network live—content production demand rising",
+          "High delivery volume—logistics visuals for marketing"
+        ],
+        "category": "digital_transformation"
+      },
+      {
+        "title": "Costco ecommerce sales growth in Q2 reaches three‑year high",
+        "source": "Digital Commerce 360",
+        "url": "https://www.digitalcommerce360.com/2025/03/07/costco-ecommerce-sales-q2-fy25/",
+        "published_date": "March 7, 2025",
+        "summary": "Costco ecommerce sales grew 20.9% in Q2 fiscal 2025, more than double total sales growth. Home furnishings, small electrics, hardware, and sporting goods saw double‑digit growth. Costco introduced personalized digital mailers and app warehouse‑tool visits exceeded 43 million.",
+        "relevance_score": 9,
+        "relevance_reason": "Strong growth in home furnishings and personalized digital marketing—high visual content demand.",
+        "key_insights": [
+          "Home furnishings double‑digit growth—visual scale needed",
+          "Personalized digital mailers—need varied imagery",
+          "App warehouse tool usage high—visual consistency across channels"
+        ],
+        "category": "catalog_expansion"
+      },
+      {
+        "title": "Here’s How Costco’s Digital Shift Is Emerging as Key Growth Driver",
+        "source": "Zacks.com",
+        "url": "https://www.zacks.com/stock/news/2742381/heres-how-costcos-digital-shift-is-emerging-as-key-growth-driver",
+        "published_date": "August 25, 2025",
+        "summary": "In Q3 fiscal 2025, Costco’s ecommerce grew 15.1%, website traffic rose 20%, and deliveries of big and bulky items increased 31%. Categories like home furnishings, toys, jewelry saw double‑digit online gains. Initiatives include Affirm BNPL, personalized recommendations, and Costco Next marketplace expansion.",
+        "relevance_score": 9,
+        "relevance_reason": "Digital transformation with home furnishings and personalized tools—visual content at scale critical.",
+        "key_insights": [
+          "Big and bulky item deliveries up 31%—need pre‑visuals",
+          "Personalized recommendations—diverse imagery required",
+          "BNPL for furniture—marketing visuals needed"
+        ],
+        "category": "visual_content_strategy"
+      },
+      {
+        "title": "Costco Reports January 2025 Net Sales of $19.51 Billion, Marking 9.2% Year‑Over‑Year Growth",
+        "source": "Nasdaq (via Quiver Quantitative)",
+        "url": "https://www.nasdaq.com/articles/costco-reports-january-2025-net-sales-1951-billion-marking-92-year-over-year-growth",
+        "published_date": "February 05, 2025",
+        "summary": "Costco’s January 2025 net sales rose 9.2% year‑over‑year, with ecommerce sales increasing 13.6% for the four‑week period. U.S. comparable sales grew 9.2%, and total net sales for the first 22 weeks rose 8.2%.",
+        "relevance_score": 6,
+        "relevance_reason": "Solid ecommerce growth indicates sustained digital momentum, though less product‑specific.",
+        "key_insights": [
+          "Ecommerce up 13.6%—ongoing digital demand",
+          "Strong comparable sales—catalog relevance",
+          "Early‑year momentum—timely visual campaigns"
+        ],
+        "category": "ecommerce_growth"
+      },
+      {
+        "title": "Costco’s holiday‑season sales jump was not just about food, analyst says",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/costcos-online-sales-in-december-get-a-boost-from-this-years-late-thanksgiving-6369c8b6",
+        "published_date": "January 8, 2025",
+        "summary": "For the five weeks ending January 5, 2025, Costco’s sales rose 9.9% year‑over‑year, with ecommerce sales up 34.4%, boosted by late Thanksgiving and holiday timing. Same‑store sales rose 7.4%.",
+        "relevance_score": 7,
+        "relevance_reason": "Huge holiday ecommerce spike—high demand for seasonal visual content.",
+        "key_insights": [
+          "Holiday ecommerce up 34%—seasonal visuals needed",
+          "Discretionary categories strong—visual variety required",
+          "Timing shifts impact content planning"
+        ],
+        "category": "marketing_campaigns"
+      },
+      {
+        "title": "Costco’s March Was Strong. Tariff Uncertainty Didn’t Stop Consumers.",
+        "source": "Barron’s",
+        "url": "https://www.barrons.com/articles/costco-sales-march-2025-tariffs-8b2a2f34",
+        "published_date": "April 9, 2025",
+        "summary": "In March 2025, Costco’s net sales rose 8.6% year‑over‑year, and e‑commerce same‑store sales surged 16%. Discretionary categories like jewelry, toys, and seasonal items performed well, despite tariff concerns.",
+        "relevance_score": 7,
+        "relevance_reason": "Discretionary ecommerce strength—visual content for non‑essentials important.",
+        "key_insights": [
+          "Jewelry and toys strong online—visuals for small items needed",
+          "Seasonal items performing—campaign imagery opportunity",
+          "Tariff resilience—visual storytelling of value"
+        ],
+        "category": "ecommerce_growth"
+      },
+      {
+        "title": "Wagyu beef, $1,200 swing sets, and fake trees are helping drive up Costco sales",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/costco-third-quarter-wagyu-beef-fake-trees-boost-sales-2024-5",
+        "published_date": "May 31, 2024",
+        "summary": "In Q3 fiscal 2024, Costco’s sales grew 9.1%. Trending large and novelty products—wagyu beef, $1,200 swing sets, artificial trees, gold bullion—drove both in‑store and ecommerce sales. App downloads grew 32%.",
+        "relevance_score": 6,
+        "relevance_reason": "Novelty and big‑ticket items trending—visuals for unique SKUs needed.",
+        "key_insights": [
+          "Big‑ticket novelty items—pre‑visualization critical",
+          "App downloads up 32%—digital visuals reach growing audience",
+          "Gold bullion strong online—luxury visuals opportunity"
+        ],
+        "category": "product_innovation"
+      },
+      {
+        "title": "Costco Reports Second Quarter and Year‑to‑Date Operating Results for Fiscal 2024",
+        "source": "Costco Investor Relations (Globe Newswire)",
+        "url": "https://investor.costco.com/news/news-details/2024/Costco-Wholesale-Corporation-Reports-Second-Quarter-and-Year-to-Date-Operating-Results-for-Fiscal-2024-and-February-Sales-Results/default.aspx",
+        "published_date": "March 7, 2024",
+        "summary": "In Q2 fiscal 2024, Costco’s ecommerce grew 18.4% year‑over‑year, far outpacing total comparable sales. E‑commerce was a key driver across regions, with strong growth in U.S., Canada, and international markets.",
+        "relevance_score": 7,
+        "relevance_reason": "Consistent ecommerce growth across geographies—visual scale needed globally.",
+        "key_insights": [
+          "Ecommerce up 18%—global visual demand",
+          "International growth—localized imagery needed",
+          "Strong across regions—consistent visual strategy"
+        ],
+        "category": "international_expansion"
+      },
+      {
+        "title": "5 key changes coming to Costco in 2026 – and shoppers could be turned away at food courts",
+        "source": "The Sun",
+        "url": "https://www.the-sun.com/money/15682369/costco-new-warehouses-self-checkout-technology/",
+        "published_date": "January 2026",
+        "summary": "Costco will roll out self‑checkout technology in 2026, enhance its app with personalization and membership perks, and expand local sourcing for Kirkland to reduce carbon footprint and tariffs.",
+        "relevance_score": 8,
+        "relevance_reason": "Digital personalization and sustainability initiatives—visual content for app and local products.",
+        "key_insights": [
+          "App personalization—dynamic visuals needed",
+          "Local Kirkland sourcing—new product visuals required",
+          "Self‑checkout tech—visuals for digital UX"
+        ],
+        "category": "technology_innovation"
+      }
+    ],
+    "overall_assessment": {
+      "presti_fit_score": 9,
+      "key_opportunities": [
+        "Home furnishings ecommerce booming—visuals for new SKUs",
+        "Retail media network needs scalable campaign imagery",
+        "Personalized app features demand varied visual assets"
+      ],
+      "recommended_approach": "Emphasize Presti’s ability to generate high‑quality lifestyle visuals for home furnishings and big‑ticket items ahead of physical production, supporting Costco’s digital growth, retail media, and app personalization initiatives."
+    },
+    "scrape_metadata": {
+      "timestamp": "2026-01-07T10:45:42.190519",
+      "model": "gpt-4o",
+      "success": true,
+      "web_search_used": true
+    }
+  },
+  "Target": {
+    "company_name": "Target",
+    "search_date": "2026-01-07",
+    "news_items": [
+      {
+        "title": "Target Announces Strategic Plans to Drive More Than $15 Billion in Sales Growth by 2030",
+        "source": "Target Corporate Press Release",
+        "url": "https://corporate.target.com/press/release/2025/03/target-announces-strategic-plans-to-drive-more-than-%2415-billion-in-sales-growth-by-2030",
+        "published_date": "March 4, 2025",
+        "summary": "Target outlined a multi‑year strategy to accelerate digital experience, assortment newness, and supply chain investments to drive over $15 billion in profitable sales growth by 2030. Plans include expanding Target Plus marketplace, AI‑powered personalization, and faster fulfillment.",
+        "relevance_score": 9,
+        "relevance_reason": "Strong digital transformation, catalog expansion, AI personalization, and marketplace growth—all create high demand for scalable visual content.",
+        "key_insights": [
+          "Expanding Target Plus marketplace needs visuals for hundreds of new third‑party SKUs",
+          "AI‑powered personalization implies dynamic imagery needs",
+          "Trend‑forward home assortment refresh (Hearth & Hand, Threshold) requires new visuals"
+        ],
+        "category": "ecommerce_growth"
+      },
+      {
+        "title": "Target online sales rise in Q4 and 2024 as total sales drop",
+        "source": "Digital Commerce 360",
+        "url": "https://www.digitalcommerce360.com/2025/03/05/target-online-sales-q4-fy24/",
+        "published_date": "March 5, 2025",
+        "summary": "Target’s digital sales grew 8.7 % in Q4 and 7.5 % for full‑year 2024. Digital channels now account for nearly 20 % of total sales. Target Plus marketplace grew to $1 billion in 2024. The company is investing $4–5 billion in stores, supply chain, and technology.",
+        "relevance_score": 8,
+        "relevance_reason": "E‑commerce growth and marketplace expansion signal increased need for product visuals at scale.",
+        "key_insights": [
+          "Digital now ~20 % of sales—visuals critical for online conversion",
+          "Target Plus growth to $1 billion means many new SKUs needing imagery",
+          "Tech investment suggests modernization of content pipelines"
+        ],
+        "category": "ecommerce_growth"
+      },
+      {
+        "title": "Target Digital Sales Up 4.7% in Q1: Is Circle 360 the Real Driver?",
+        "source": "Nasdaq (Zacks)",
+        "url": "https://www.nasdaq.com/articles/target-digital-sales-47-q1-circle-360-real-driver",
+        "published_date": "June 10, 2025",
+        "summary": "Digitally originated comparable sales rose 4.7 % in Q1 2025, driven by a 35 % jump in same‑day delivery via Target Circle 360. The membership includes third‑party orders via Shipt, offering seamless omnichannel experience.",
+        "relevance_score": 7,
+        "relevance_reason": "Omnichannel growth and same‑day delivery expansion suggest need for consistent visuals across channels.",
+        "key_insights": [
+          "Circle 360’s growth means more third‑party product visuals needed",
+          "Omnichannel consistency across app, web, and in‑store digital displays",
+          "Fast delivery emphasizes need for pre‑launch visuals"
+        ],
+        "category": "omnichannel_strategy"
+      },
+      {
+        "title": "Target Is Expanding Its Wellness Assortment with 2,000 New Items, More Than Half Under $10",
+        "source": "Target Corporate Press Release",
+        "url": "https://corporate.target.com/press/release/2025/01/target-is-expanding-its-wellness-assortment-with-2%2C000-new-items%2C-more-than-half-under-%2410",
+        "published_date": "January 9, 2025",
+        "summary": "Target is introducing over 2,000 new wellness items, including 600 exclusives, across categories like beauty, tech, beverages, and activewear. Many items are under $10, and the assortment will be featured both in‑store and online with personalized recommendations.",
+        "relevance_score": 8,
+        "relevance_reason": "Massive SKU expansion in wellness—high volume of new visuals needed quickly.",
+        "key_insights": [
+          "2,000 new SKUs across wellness need scalable imagery",
+          "Exclusive and affordable items require appealing visuals to drive discovery",
+          "Online personalization will benefit from diverse lifestyle imagery"
+        ],
+        "category": "catalog_expansion"
+      },
+      {
+        "title": "Over 2,000 New Products Hit Target Shelves",
+        "source": "Happi",
+        "url": "https://www.happi.com/breaking-news/over-2000-new-products-hit-target-shelves/",
+        "published_date": "February 13, 2025",
+        "summary": "Target added more than 2,000 new beauty products and nearly 50 new brands, with 90 % of items under $20. The assortment includes national, Target-owned, and emerging brands by diverse founders.",
+        "relevance_score": 7,
+        "relevance_reason": "Beauty category expansion and new brands increase visual content needs for diverse SKUs.",
+        "key_insights": [
+          "Beauty expansion means many new SKUs needing imagery",
+          "Emerging and diverse brands may require tailored visual styles",
+          "Low‑price items benefit from aspirational lifestyle visuals"
+        ],
+        "category": "catalog_expansion"
+      },
+      {
+        "title": "Target and kate spade new york Partner for One of Target's Largest Limited‑Time Collections",
+        "source": "PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/target-and-kate-spade-new-york-partner-for-one-of-targets-largest-limited-time-collections-302417562.html",
+        "published_date": "April 2, 2025",
+        "summary": "Target launched a limited‑time kate spade new york collection with over 300 pieces across apparel, accessories, and home décor, many priced under $15, available online and in‑store starting April 12.",
+        "relevance_score": 8,
+        "relevance_reason": "Large-scale collaboration with lifestyle brand requires high-quality visuals across many SKUs.",
+        "key_insights": [
+          "300+ SKUs in collaboration need cohesive visual campaign",
+          "Cross‑category (apparel, home) visuals needed",
+          "Online and in‑store consistency critical for limited‑time launch"
+        ],
+        "category": "visual_content_strategy"
+      },
+      {
+        "title": "Target Announces Diane von Furstenberg Designer Collab - and Yes, It Includes the Iconic Wrap Dress",
+        "source": "People",
+        "url": "https://people.com/target-announces-diane-von-furstenberg-designer-collaboration-8594599",
+        "published_date": "February 20, 2024",
+        "summary": "Target’s DVF collaboration launching March 23 includes over 200 pieces—apparel, accessories, homewares, beauty, and made‑to‑order furniture customizable in seven fabrics. Adaptive sizing included.",
+        "relevance_score": 9,
+        "relevance_reason": "Customizable furniture and wide-ranging SKUs demand scalable, customizable visuals—ideal for Presti.",
+        "key_insights": [
+          "Made‑to‑order furniture with fabric options needs dynamic visuals",
+          "Adaptive sizing apparel requires inclusive imagery",
+          "Cross‑category visuals (fashion, home, beauty) needed"
+        ],
+        "category": "product_customization"
+      },
+      {
+        "title": "Target Just Dropped A Spring‑Ready Collab With Rifle Paper Co. Featuring Furniture And Decor",
+        "source": "Southern Living",
+        "url": "https://www.southernliving.com/rifle-paper-co-target-limited-time-collection-8559258",
+        "published_date": "February 7, 2024",
+        "summary": "Target released a limited‑time Rifle Paper Co. home collection online on February 4, 2024, featuring 14 floral‑print furniture and décor items, including accent chairs, lamps, planters, and room dividers.",
+        "relevance_score": 6,
+        "relevance_reason": "Niche home décor collaboration adds new SKUs needing visual support, though smaller scale.",
+        "key_insights": [
+          "14 new home décor SKUs need lifestyle visuals",
+          "Floral prints require styled imagery to convey design",
+          "Online exclusivity emphasizes digital visual quality"
+        ],
+        "category": "catalog_expansion"
+      },
+      {
+        "title": "Target launches a new dollar‑store‑style budget brand",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/target-new-dollar-store-budget-brand-dealworthy-clothes-beauty-electronics-2024-2",
+        "published_date": "February 15, 2024",
+        "summary": "Target introduced Dealworthy, a budget private‑label line with nearly 400 essential items (clothing, beauty, home, electronics), mostly under $10, launching online and in stores starting February 18, 2024.",
+        "relevance_score": 7,
+        "relevance_reason": "New private‑label line with hundreds of SKUs—visual content needed at scale, especially for low‑cost items.",
+        "key_insights": [
+          "400 new SKUs in Dealworthy need product imagery",
+          "Low‑cost essentials benefit from clean, simple visuals",
+          "Private‑label launch requires cohesive branding imagery"
+        ],
+        "category": "private_label"
+      },
+      {
+        "title": "Target Launches 10,000 New Items to Make the Most of Every Summer Moment, Starting at Just $1",
+        "source": "PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/target-launches-10-000-new-items-to-make-the-most-of-every-summer-moment-starting-at-just-1--302456031.html",
+        "published_date": "May 15, 2025",
+        "summary": "Target is rolling out over 10,000 new items—many exclusive and affordable—across categories like swimwear, outdoor, beauty, home, and snacks, available in stores and online through August.",
+        "relevance_score": 9,
+        "relevance_reason": "Massive seasonal SKU expansion across categories—huge need for scalable lifestyle visuals.",
+        "key_insights": [
+          "10,000 new SKUs across categories need rapid visual generation",
+          "Seasonal launch demands timely, styled imagery",
+          "Online and in‑store consistency essential for summer campaign"
+        ],
+        "category": "catalog_expansion"
+      },
+      {
+        "title": "New Owala Colors and More Joanna Gaines Spring Launches to Shop at Target, Starting at $7",
+        "source": "Food & Wine",
+        "url": "https://www.foodandwine.com/target-hearth-and-hand-magnolia-spring-collection-2025-8769052",
+        "published_date": "January 6, 2025",
+        "summary": "Target’s Hearth & Hand with Magnolia Spring 2025 collection includes new Owala water bottle colors, glassware, serveware, and décor items starting at $7, offering affordable seasonal home refresh options.",
+        "relevance_score": 6,
+        "relevance_reason": "Seasonal home décor SKUs with new colors—visuals needed to showcase variants.",
+        "key_insights": [
+          "New color variants of products need updated imagery",
+          "Home décor styling visuals support seasonal refresh",
+          "Affordable price points benefit from aspirational visuals"
+        ],
+        "category": "product_innovation"
+      },
+      {
+        "title": "5 Best New Items Coming to Target in Early 2025",
+        "source": "AOL",
+        "url": "https://www.aol.com/5-best-items-coming-target-120057842.html",
+        "published_date": "January 2025",
+        "summary": "Highlights include up&up brand relaunch with over 200 new items, farmhouse‑style spring décor, and Poppi x Target limited‑edition apparel collection launched December 2024.",
+        "relevance_score": 7,
+        "relevance_reason": "Brand relaunch and limited‑edition apparel need fresh visuals across categories.",
+        "key_insights": [
+          "up&up relaunch adds 200+ SKUs needing imagery",
+          "Poppi apparel collection requires lifestyle visuals",
+          "Farmhouse décor items need styled photography"
+        ],
+        "category": "catalog_expansion"
+      }
+    ],
+    "overall_assessment": {
+      "presti_fit_score": 9,
+      "key_opportunities": [
+        "10,000‑SKU summer launch needs rapid lifestyle visuals",
+        "Made‑to‑order furniture in DVF collab needs dynamic imagery",
+        "Target Plus marketplace expansion demands scalable product visuals"
+      ],
+      "recommended_approach": "Emphasize Presti’s ability to generate high‑quality, customizable visuals at scale for Target’s massive seasonal and collaboration launches, especially for marketplace and made‑to‑order furniture, enabling faster go‑to‑market and consistent omnichannel presentation."
+    },
+    "scrape_metadata": {
+      "timestamp": "2026-01-07T10:46:35.763449",
+      "model": "gpt-4o",
+      "success": true,
+      "web_search_used": true
+    }
+  },
+  "Home Depot": {
+    "company_name": "Home Depot",
+    "search_date": "2026-01-07",
+    "news_items": [
+      {
+        "title": "E‑Commerce Gains at Home Depot: Incremental or Game‑Changing?",
+        "source": "Nasdaq / Zacks",
+        "url": "https://www.nasdaq.com/articles/e-commerce-gains-home-depot-incremental-or-game-changing",
+        "published_date": "July 9, 2025",
+        "summary": "Home Depot’s online comparable sales grew 8% year‑over‑year in Q1 FY25, driven by omnichannel enhancements, mobile upgrades, real‑time inventory visibility, and delivery improvements. The One Supply Chain network and fulfillment investments are central to this digital transformation.",
+        "relevance_score": 9,
+        "relevance_reason": "Strong digital transformation and omnichannel momentum, indicating high demand for scalable visual content to support online growth.",
+        "key_insights": [
+          "8% online comp sales growth in Q1 FY25",
+          "Mobile and inventory visibility upgrades",
+          "One Supply Chain network boosting fulfillment"
+        ],
+        "category": "digital_transformation"
+      },
+      {
+        "title": "Home Depot online sales grow more than 10% in Q2",
+        "source": "Dotdesh",
+        "url": "https://www.dotdesh.com/home-depot-online-sales-grow-more-than-10-in-q2/",
+        "published_date": "2025‑08‑2025 (Q2 FY25)",
+        "summary": "In Q2 FY25, Home Depot’s online sales increased 12% year‑over‑year, outpacing total sales growth. Faster delivery speeds, driven by machine‑learning‑based fulfillment and expanded same‑/next‑day delivery, are boosting customer engagement.",
+        "relevance_score": 9,
+        "relevance_reason": "Double‑digit online growth and fulfillment speed improvements create immediate need for high‑volume visual content.",
+        "key_insights": [
+          "12% online sales growth in Q2 FY25",
+          "Machine‑learning ‘ship from best location’ system",
+          "Expanded same‑day and next‑day delivery"
+        ],
+        "category": "ecommerce_growth"
+      },
+      {
+        "title": "Home Depot grows online sales in Q3",
+        "source": "Digital Commerce 360",
+        "url": "https://www.digitalcommerce360.com/2024/11/14/home-depot-online-sales-q3-2024/",
+        "published_date": "November 14, 2024",
+        "summary": "Home Depot’s online sales rose 4% year‑over‑year in Q3 FY24, with nearly half of web orders fulfilled via stores. The company improved delivery speeds, AI‑powered search and review summaries, and launched a marketing campaign to promote faster delivery options.",
+        "relevance_score": 8,
+        "relevance_reason": "AI‑powered content enhancements and omnichannel fulfillment improvements suggest growing visual and content needs.",
+        "key_insights": [
+          "4% online sales growth in Q3 FY24",
+          "AI‑powered search and review summaries",
+          "Marketing campaign for faster delivery awareness"
+        ],
+        "category": "visual_content_strategy"
+      },
+      {
+        "title": "Home Depot online sales, GMS acquisition help lift Q3 revenue",
+        "source": "Digital Commerce 360",
+        "url": "https://www.digitalcommerce360.com/article/home-depot-online-sales/",
+        "published_date": "November 18, 2025",
+        "summary": "In Q3 FY25, Home Depot’s online sales grew about 11% year‑over‑year, more than triple total sales growth. The GMS acquisition contributed $900 million in sales, while fulfillment speeds and new tools supported digital engagement.",
+        "relevance_score": 9,
+        "relevance_reason": "Strong online growth and acquisition‑driven catalog expansion signal urgent need for scalable product visuals.",
+        "key_insights": [
+          "11% online sales growth in Q3 FY25",
+          "GMS acquisition adds $900M in sales",
+          "New tools and fulfillment speeds boosting engagement"
+        ],
+        "category": "catalog_expansion"
+      },
+      {
+        "title": "Home Depot acquisition helps Q4 total sales outpace online sales",
+        "source": "Digital Commerce 360",
+        "url": "https://www.digitalcommerce360.com/2025/02/26/home-depot-online-sales-q4-2024/",
+        "published_date": "February 26, 2025",
+        "summary": "In Q4 FY24, Home Depot’s online sales grew 9% year‑over‑year (excluding an extra week), supported by AI‑enhanced chat features, product descriptions, and rating summaries. Fulfillment improvements via flatbed distribution centers improved delivery and in‑store operations.",
+        "relevance_score": 8,
+        "relevance_reason": "AI‑driven content enhancements and fulfillment infrastructure improvements highlight visual content scalability opportunities.",
+        "key_insights": [
+          "9% online sales growth in Q4 FY24",
+          "AI‑enhanced chat, descriptions, rating summaries",
+          "Flatbed distribution centers improving fulfillment"
+        ],
+        "category": "technology_innovation"
+      },
+      {
+        "title": "Home Depot's Focus on Omnichannel: Real Impact or Buzzword?",
+        "source": "Nasdaq / Zacks",
+        "url": "https://www.nasdaq.com/articles/home-depots-focus-omnichannel-real-impact-or-buzzword",
+        "published_date": "July 31, 2025",
+        "summary": "Over 45% of online orders in Q1 FY25 were fulfilled through stores. Home Depot enhanced app experience, search relevance, checkout, delivery, returns, and Pro capabilities as part of its omnichannel strategy.",
+        "relevance_score": 8,
+        "relevance_reason": "Omnichannel integration and digital touchpoint enhancements create demand for consistent visual assets across channels.",
+        "key_insights": [
+          "45% of online orders fulfilled via stores",
+          "App, search, checkout improvements",
+          "Enhanced delivery, returns, and Pro capabilities"
+        ],
+        "category": "omnichannel_strategy"
+      },
+      {
+        "title": "Home Depot to buy building supply distributor SRS in $18B deal -- its biggest acquisition ever",
+        "source": "New York Post",
+        "url": "https://nypost.com/2024/03/28/home-depot-to-buy-building-supply-distributor-srs-for-18-25b/",
+        "published_date": "March 28, 2024",
+        "summary": "Home Depot announced its largest acquisition ever: SRS Distribution for $18.25 billion. The deal expands its reach into professional contractor markets and includes new distribution centers in Detroit, Los Angeles, San Antonio, and Toronto.",
+        "relevance_score": 7,
+        "relevance_reason": "Major catalog and market expansion into Pro channels will require extensive visual content for new SKUs and geographies.",
+        "key_insights": [
+          "SRS acquisition expands Pro contractor catalog",
+          "New distribution centers in four major cities",
+          "Largest acquisition in company history"
+        ],
+        "category": "international_expansion"
+      },
+      {
+        "title": "Home Depot breaks same‑store sales slump in US housing market that remains stressed",
+        "source": "AP News",
+        "url": "https://apnews.com/article/2741fa75733b1759082ef91a736d5c34",
+        "published_date": "February 25, 2025",
+        "summary": "Home Depot ended a two‑year slump in same‑store sales in Q4 FY24, with U.S. comparable sales rising 1.3%. Customer transactions rose 7.6%, and average spending increased slightly, signaling renewed consumer engagement.",
+        "relevance_score": 5,
+        "relevance_reason": "Improved customer engagement may drive demand for refreshed product visuals, though not directly digital‑focused.",
+        "key_insights": [
+          "1.3% U.S. comparable sales growth in Q4 FY24",
+          "7.6% increase in customer transactions",
+          "Renewed consumer engagement despite housing stress"
+        ],
+        "category": "business_performance"
+      },
+      {
+        "title": "Home Depot beats on revenue, but says customers are still putting off big renovation projects",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/home-depot-q4-earnings-home-improvement-profit-sales-2025-2",
+        "published_date": "February 25, 2025",
+        "summary": "Home Depot reported Q4 FY24 revenue of $39.7 billion (+14%), but noted that customers continue to defer large renovation projects due to high interest rates. The company plans to open 13 new stores in FY25.",
+        "relevance_score": 4,
+        "relevance_reason": "Store expansion and deferred large projects suggest potential future catalog needs, but less immediate digital content urgency.",
+        "key_insights": [
+          "Q4 FY24 revenue up 14%",
+          "Customers deferring large renovation projects",
+          "13 new stores planned for FY25"
+        ],
+        "category": "physical_presence"
+      },
+      {
+        "title": "Home Depot (HD): The Good, the Bad, and the Ugly from HD's Earnings Call",
+        "source": "Reddit summary of earnings",
+        "url": "https://www.reddit.com/r/EarningsCalls/comments/1krndkj",
+        "published_date": "May 20, 2025",
+        "summary": "Q1 FY25 total sales rose 9.4% YoY. Online comparable sales rose 8%, driven by digital tools including generative AI “Magic Apron.” Supply chain diversification and strong Pro segment performance were also highlighted.",
+        "relevance_score": 8,
+        "relevance_reason": "Mention of generative AI tools (“Magic Apron”) indicates internal use of AI for visuals/content—direct alignment with Presti’s capabilities.",
+        "key_insights": [
+          "9.4% total sales growth in Q1 FY25",
+          "8% online comp sales growth",
+          "Use of generative AI “Magic Apron” tool"
+        ],
+        "category": "ai_adoption"
+      }
+    ],
+    "overall_assessment": {
+      "presti_fit_score": 9,
+      "key_opportunities": [
+        "Double‑digit online growth demands scalable visuals",
+        "AI tools like “Magic Apron” show visual tech openness",
+        "Omnichannel fulfillment needs consistent imagery",
+        "SRS/GMS acquisitions expand SKU catalog dramatically"
+      ],
+      "recommended_approach": "Emphasize Presti’s ability to rapidly generate high‑quality visuals for expanding online SKUs and Pro catalogs, support AI‑driven content strategies, and ensure consistent omnichannel imagery across digital and physical touchpoints."
+    },
+    "scrape_metadata": {
+      "timestamp": "2026-01-07T10:46:59.980070",
+      "model": "gpt-4o",
+      "success": true,
+      "web_search_used": true
+    }
+  },
+  "Lowe's": {
+    "company_name": "Lowe's",
+    "search_date": "2026-01-07",
+    "news_items": [
+      {
+        "title": "Lowe’s accelerates its online marketplace, announces partnership with Mirakl",
+        "source": "PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/lowes-accelerates-its-online-marketplace-announces-partnership-with-mirakl-302462098.html",
+        "published_date": "May 21, 2025",
+        "summary": "Lowe’s launched its online marketplace in December 2024 and is now partnering with Mirakl to scale it further, enabling third-party sellers to manage catalogs on Lowes.com and expanding product offerings across home categories.",
+        "relevance_score": 9,
+        "relevance_reason": "Marketplace expansion creates massive need for scalable product visuals across new third‑party SKUs.",
+        "key_insights": [
+          "Marketplace adds thousands of third‑party SKUs needing visuals",
+          "Lowes expanding into furniture, décor, tools categories",
+          "Mirakl enables rapid catalog onboarding without inventory"
+        ],
+        "category": "ecommerce_growth"
+      },
+      {
+        "title": "Lowe’s grows online sales 9.5% in Q4",
+        "source": "Digital Commerce 360",
+        "url": "https://www.digitalcommerce360.com/2025/03/11/lowes-grows-online-sales-q4-2024/",
+        "published_date": "March 11, 2025",
+        "summary": "In Q4 FY2024, Lowe’s online sales rose 9.5% year-over-year, aided by a new AI-powered Home Improvement Virtual Adviser, improved BOPIS, and a revamped loyalty program for Pro customers.",
+        "relevance_score": 8,
+        "relevance_reason": "Strong online growth and AI adviser indicate increasing digital content needs and visual support.",
+        "key_insights": [
+          "AI Virtual Adviser driving online engagement",
+          "BOPIS enhancements improving omnichannel flow",
+          "Pro loyalty program boosting digital traffic"
+        ],
+        "category": "digital_transformation"
+      },
+      {
+        "title": "Lowe’s introduces new Lowe’s Digital Home Platform, giving its loyalty members personalized home maintenance support",
+        "source": "PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/lowes-introduces-new-lowes-digital-home-platform-giving-its-loyalty-members-personalized-home-maintenance-support-302295485.html",
+        "published_date": "November 4, 2024",
+        "summary": "Lowe’s launched a Digital Home Platform for MyLowe’s Rewards members, offering personalized maintenance support, manuals, warranties, how‑to content, and product recommendations—powered by Lowe’s Innovation Labs and including AR tools like Style Studio and Measure Your Space.",
+        "relevance_score": 8,
+        "relevance_reason": "Digital home platform and AR tools signal demand for rich visual content and virtual product experiences.",
+        "key_insights": [
+          "AR visualization tools (Style Studio, Measure Your Space)",
+          "Generative AI content (Product Expert GPT)",
+          "Digital twin concept for home maintenance"
+        ],
+        "category": "visual_content_strategy"
+      },
+      {
+        "title": "Lowe’s rolls out new AI tool to help answer customers’ questions in stores",
+        "source": "Houston Chronicle",
+        "url": "https://www.houstonchronicle.com/news/houston-texas/trending/article/lowes-ai-20316961.php",
+        "published_date": "May 9, 2025",
+        "summary": "Lowe’s launched Mylow Companion, a generative AI app developed with OpenAI, enabling store associates to answer customer questions and provide product advice via voice‑to‑text on handheld devices across 1,700+ stores.",
+        "relevance_score": 7,
+        "relevance_reason": "AI‑powered in‑store tool shows Lowe’s investment in generative tech and product knowledge—visual aids could enhance this experience.",
+        "key_insights": [
+          "Generative AI supports associate product guidance",
+          "Voice‑to‑text interface on handheld devices",
+          "Integration with store inventory and product info"
+        ],
+        "category": "technology_innovation"
+      },
+      {
+        "title": "Lowe’s is getting an AI upgrade with a little help from Dell",
+        "source": "Lifewire",
+        "url": "https://www.lifewire.com/dell-lowes-ai-retail-partnership-11760230",
+        "published_date": "June 24, 2025",
+        "summary": "Lowe’s is partnering with Dell and NVIDIA to equip its 1,700+ stores with AI‑powered hardware to improve inventory forecasting, asset protection, checkout, and in‑store customer support as part of its 2025 Total Home Strategy.",
+        "relevance_score": 6,
+        "relevance_reason": "AI hardware rollout underlines digital modernization—visual content could support training and customer engagement.",
+        "key_insights": [
+          "In‑store AI hardware deployment at scale",
+          "Smarter inventory forecasting and checkout",
+          "Part of broader Total Home Strategy"
+        ],
+        "category": "digital_transformation"
+      },
+      {
+        "title": "Lowe’s outlines growth strategy, reaffirms 2024 guidance",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/lowes-outlines-growth-strategy-reaffirms-2024-guidance-93CH-3765835",
+        "published_date": "December 11, 2024",
+        "summary": "At its 2024 Analyst Conference, Lowe’s detailed its Total Home Strategy: boosting Pro penetration, online sales, loyalty ecosystem, Pro Extended Aisle, AI framework with NVIDIA/OpenAI/Palantir, and rural store expansion with 10–15 new openings annually.",
+        "relevance_score": 8,
+        "relevance_reason": "AI framework and Pro Extended Aisle suggest need for scalable visual content for new Pro offerings and loyalty channels.",
+        "key_insights": [
+          "AI framework partnerships (NVIDIA, OpenAI, Palantir)",
+          "Pro Extended Aisle for large special orders",
+          "Rural store expansion with digital integration"
+        ],
+        "category": "digital_transformation"
+      },
+      {
+        "title": "Lowe’s Pro Sales Rise as Outlook Holds",
+        "source": "Nasdaq (Motley Fool)",
+        "url": "https://www.nasdaq.com/articles/lowes-pro-sales-rise-outlook-holds",
+        "published_date": "May 21, 2025",
+        "summary": "In Q1 2025, Lowe’s Pro segment showed mid‑single‑digit growth, online sales rose 6%, and the company announced acquisition of Artisan Design Group (ADG) to expand into design, delivery, and installation of interior finishes.",
+        "relevance_score": 9,
+        "relevance_reason": "ADG acquisition expands product lines (flooring, cabinets) requiring extensive visual assets for new offerings.",
+        "key_insights": [
+          "ADG adds interior finishes (flooring, cabinets)",
+          "Pro segment growth and online lift",
+          "Marketplace scaling via Mirakl"
+        ],
+        "category": "catalog_expansion"
+      },
+      {
+        "title": "Lowe’s grows online sales 7.5% in Q2 with help from rewards program",
+        "source": "Digital Commerce 360",
+        "url": "https://www.digitalcommerce360.com/2025/08/22/lowes-online-sales-q2-fy25/",
+        "published_date": "August 22, 2025",
+        "summary": "In Q2 FY2025, Lowe’s online sales increased 7.5%, driven by immersive shopping experiences, Lowe’s Rewards, and its first home improvement creator network with MrBeast; the company also acquired Foundation Building Materials (FBM) to bolster its Pro portfolio.",
+        "relevance_score": 8,
+        "relevance_reason": "Creator network and immersive experience point to visual content demand; FBM acquisition expands product categories needing imagery.",
+        "key_insights": [
+          "Creator network (MrBeast) for immersive content",
+          "Rewards program boosting loyalty and visuals",
+          "FBM adds drywall, insulation, framing products"
+        ],
+        "category": "marketing_campaigns"
+      },
+      {
+        "title": "Lowe’s customer engagement strategy: building retail resilience through loyalty‑driven value creation",
+        "source": "AInvest",
+        "url": "https://www.ainvest.com/news/lowe-customer-engagement-strategy-building-retail-resilience-loyalty-driven-creation-2601",
+        "published_date": "January 2025",
+        "summary": "Lowe’s AI‑powered virtual adviser Mylow handles one million customer inquiries monthly, boosting online sales by 11.4% in Q3 2025; generative AI improved internal productivity and supports Total Home Strategy alongside ADG and FBM acquisitions.",
+        "relevance_score": 8,
+        "relevance_reason": "High volume of AI‑driven customer interactions and rapid online growth indicate strong need for scalable visual content in digital channels.",
+        "key_insights": [
+          "Mylow handles 1M inquiries monthly",
+          "Online sales up 11.4% in Q3",
+          "Generative AI improving internal workflows"
+        ],
+        "category": "ai_adoption"
+      }
+    ],
+    "overall_assessment": {
+      "presti_fit_score": 9,
+      "key_opportunities": [
+        "Marketplace SKUs from Mirakl need scalable visuals",
+        "ADG and FBM acquisitions expand product categories",
+        "AR tools and virtual adviser require lifestyle imagery"
+      ],
+      "recommended_approach": "Position Presti as the ideal partner to rapidly generate high‑quality lifestyle visuals for Lowe’s expanding marketplace, Pro acquisitions, and AR/digital platforms—enabling faster launches, omnichannel consistency, and reduced photography costs."
+    },
+    "scrape_metadata": {
+      "timestamp": "2026-01-07T10:47:21.786893",
+      "model": "gpt-4o",
+      "success": true,
+      "web_search_used": true
+    }
+  },
+  "La-Z-Boy": {
+    "company_name": "La-Z-Boy",
+    "search_date": "2026-01-07",
+    "news_items": [
+      {
+        "title": "La‑Z‑Boy Announces Next‑Gen 3D Product Configuration with WebAR OnDemand™, Powered by 3D Cloud by Marxent",
+        "source": "PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/la-z-boy-announces-next-gen-3d-product-configuration-with-webar-ondemand-powered-by-3d-cloud-by-marxent-301941736.html",
+        "published_date": "September 28, 2023",
+        "summary": "La‑Z‑Boy launched next‑generation 3D product configuration and WebAR OnDemand technology on its website, enabling shoppers to configure products from over 29 million combinations and preview them in AR without an app, boosting AR sessions by over 150%.",
+        "relevance_score": 10,
+        "relevance_reason": "Massive configurator and AR rollout shows huge need for scalable visual content and digital product imagery.",
+        "key_insights": [
+          "29 million product configurations available online",
+          "150% increase in AR usage via WebAR OnDemand",
+          "Bridges online research with in‑store experience"
+        ],
+        "category": "visual_content_strategy"
+      },
+      {
+        "title": "See what La‑Z‑Boy is doing with the latest AR technology",
+        "source": "Furniture Today",
+        "url": "https://www.furnituretoday.com/e-commerce/see-what-la-z-boy-is-doing-with-the-latest-ar-technology/",
+        "published_date": "September 28, 2023",
+        "summary": "Furniture Today reports on La‑Z‑Boy’s launch of WebAR OnDemand and upgraded product configurators powered by 3D Cloud, enabling immersive online shopping with millions of configurations.",
+        "relevance_score": 9,
+        "relevance_reason": "Trade publication coverage confirms digital innovation and visual tech adoption.",
+        "key_insights": [
+          "WebAR OnDemand powers immersive configurator",
+          "Automated 3D content creation at scale",
+          "Supports highly configurable catalog online"
+        ],
+        "category": "visual_content_strategy"
+      },
+      {
+        "title": "La‑Z‑Boy Partners with Fivetran to Accelerate Data‑Driven Decision Making",
+        "source": "Furniture Today",
+        "url": "https://www.furnituretoday.com/ft-bulletin-board/la-z-boy-partners-with-fivetran-to-accelerate-data-driven-decision-making/",
+        "published_date": "December 12, 2023",
+        "summary": "La‑Z‑Boy implemented Fivetran to centralize data across the organization, enabling inventory optimization (saving over $5M), 20% better shipping date accuracy, and improved e‑commerce order tracking.",
+        "relevance_score": 7,
+        "relevance_reason": "Digital transformation and supply chain efficiency improvements suggest growing e‑commerce and catalog operations.",
+        "key_insights": [
+          "Inventory optimization saved $5M",
+          "20% increase in shipping date accuracy",
+          "Enhanced e‑commerce order tracking"
+        ],
+        "category": "digital_transformation"
+      },
+      {
+        "title": "La‑Z‑Boy Incorporated Announces Investment in Furniture Market Showrooms, Reinforcing Commitment to Industry Furniture Markets",
+        "source": "La‑Z‑Boy Incorporated (Investor Release)",
+        "url": "https://lazboy.gcs-web.com/news-releases/news-release-details/la-z-boy-incorporated-announces-investment-furniture-market",
+        "published_date": "February 05, 2024",
+        "summary": "La‑Z‑Boy extended leases and committed to major renovations of its showrooms at High Point Market and Las Vegas Market, aiming to deliver modern, high‑tech showroom experiences for its brands.",
+        "relevance_score": 6,
+        "relevance_reason": "Showroom modernization may require updated visual content and omnichannel consistency.",
+        "key_insights": [
+          "Renovating High Point and Las Vegas showrooms",
+          "Focus on modern, high‑tech showroom experience",
+          "Supports in‑person brand experience"
+        ],
+        "category": "physical_presence_events"
+      },
+      {
+        "title": "La‑Z‑Boy Incorporated Reports Solid Fourth Quarter and Full Year Results; Operating Cash Flow of $158 million for the Full Year",
+        "source": "La‑Z‑Boy Incorporated (Investor Release)",
+        "url": "https://investors.la-z-boy.com/news-releases/news-release-details/la-z-boy-incorporated-reports-solid-fourth-quarter-and-full-year-results-operating-cash-flow-of-158-million-for-the-full-year",
+        "published_date": "June 17, 2024",
+        "summary": "Fiscal 2024 results show La‑Z‑Boy generated $158M in operating cash flow, opened six company‑owned stores and acquired 11 independent ones, making company‑owned stores over half of its network for the first time.",
+        "relevance_score": 5,
+        "relevance_reason": "Retail expansion and store network growth may drive demand for consistent visual content across channels.",
+        "key_insights": [
+          "Generated $158M operating cash flow",
+          "Opened 6 new and acquired 11 independent stores",
+          "Company‑owned stores now over 50% of network"
+        ],
+        "category": "omnichannel_strategy"
+      },
+      {
+        "title": "La‑Z‑Boy Incorporated Reports Strong Third Quarter Results; Sales Growth Across All Segments, Company‑Owned Same‑Store Sales Accelerate",
+        "source": "La‑Z‑Boy Incorporated (Investor Release)",
+        "url": "https://lazboy.gcs-web.com/news-releases/news-release-details/la-z-boy-incorporated-reports-strong-third-quarter-results-sales",
+        "published_date": "February 18, 2025",
+        "summary": "In Q3 FY2025, La‑Z‑Boy delivered 4% consolidated sales growth, with retail up 11% driven by same‑store growth and acquisitions, reinforcing momentum in its Century Vision strategy.",
+        "relevance_score": 4,
+        "relevance_reason": "Growth in retail footprint and same‑store performance indicates scaling operations and visual content needs.",
+        "key_insights": [
+          "4% consolidated sales growth",
+          "Retail segment up 11%",
+          "Growth via same‑store and acquisitions"
+        ],
+        "category": "large_catalog_operations"
+      }
+    ],
+    "overall_assessment": {
+      "presti_fit_score": 9,
+      "key_opportunities": [
+        "Need for scalable visuals for 29M product configurations",
+        "AR configurator expansion across digital channels",
+        "Modern showroom visuals to match high‑tech renovations"
+      ],
+      "recommended_approach": "Highlight Presti’s ability to generate high‑quality lifestyle visuals at scale to feed La‑Z‑Boy’s 29 million configurator combinations and WebAR experiences, and support refreshed showroom content with consistent, rapid imagery."
+    },
+    "scrape_metadata": {
+      "timestamp": "2026-01-07T10:47:46.671475",
+      "model": "gpt-4o",
+      "success": true,
+      "web_search_used": true
+    }
+  },
+  "Pottery Barn": {
+    "company_name": "Pottery Barn",
+    "search_date": "2026-01-07",
+    "news_items": [
+      {
+        "title": "Pottery Barn Launches Mobile App Featuring a New Shopping and Design Experience",
+        "source": "Business Wire / Williams‑Sonoma, Inc.",
+        "url": "https://www.businesswire.com/news/home/20231114385878/en/POTTERY-BARN-LAUNCHES-MOBILE-APP-FEATURING-A-NEW-SHOPPING-AND-DESIGN-EXPERIENCE",
+        "published_date": "November 14, 2023",
+        "summary": "Pottery Barn launched a new iOS mobile app offering shoppable content, virtual preview via camera, registry management, design expert chat, and room-based shopping.",
+        "relevance_score": 9,
+        "relevance_reason": "Strong digital transformation and visual content need—virtual preview and shoppable rooms require scalable imagery.",
+        "key_insights": [
+          "Virtual preview demands high-quality product visuals",
+          "Room-based shopping needs multiple angles and contexts",
+          "Registry and share features increase visual content volume"
+        ],
+        "category": "digital_transformation"
+      },
+      {
+        "title": "Pottery Barn Launches New Coastal Lookbook for Summer",
+        "source": "Business Wire / Williams‑Sonoma, Inc.",
+        "url": "https://www.businesswire.com/news/home/20240506805848/en/POTTERY-BARN-LAUNCHES-NEW-COASTAL-LOOKBOOK-FOR-SUMMER",
+        "published_date": "May 6, 2024",
+        "summary": "Pottery Barn released a Summer 2024 Coastal Lookbook featuring exclusive in‑house designed products across indoor and outdoor categories, supported by virtual and in‑home design services.",
+        "relevance_score": 7,
+        "relevance_reason": "Lookbook launch indicates high volume of curated visuals needed for seasonal marketing and e‑commerce.",
+        "key_insights": [
+          "Seasonal lookbook requires fresh imagery",
+          "Indoor/outdoor product range increases SKU variety",
+          "Virtual design services amplify visual demand"
+        ],
+        "category": "marketing_campaigns"
+      },
+      {
+        "title": "Pottery Barn, Pottery Barn Kids and Pottery Barn Teen Launch New Collections with Iconic Resort Wear and Lifestyle Brand Lilly Pulitzer",
+        "source": "Williams‑Sonoma, Inc. Investor News",
+        "url": "https://ir.williams-sonomainc.com/investor-information/news-releases/news-release-details/2024/POTTERY-BARN-POTTERY-BARN-KIDS-AND-POTTERY-BARN-TEEN-LAUNCH-NEW-COLLECTIONS-WITH-ICONIC-RESORT-WEAR-AND-LIFESTYLE-BRAND-LILLY-PULITZER/default.aspx",
+        "published_date": "March 26, 2024",
+        "summary": "Pottery Barn brands launched new Lilly Pulitzer collaborations across adult, kids, and teen lines, featuring vibrant prints on bedding, décor, outdoor accessories, and occasional furniture.",
+        "relevance_score": 8,
+        "relevance_reason": "New collections across multiple categories and age segments require extensive visual content at scale.",
+        "key_insights": [
+          "Multi‑category collaboration increases SKU count",
+          "Exclusive prints demand unique visuals",
+          "Cross‑brand consistency needed across platforms"
+        ],
+        "category": "catalog_expansion"
+      },
+      {
+        "title": "Pottery Barn Brands Expand Collaboration with LoveShackFancy",
+        "source": "Williams‑Sonoma, Inc. Investor News",
+        "url": "https://ir.williams-sonomainc.com/investor-information/news-releases/news-release-details/2025/POTTERY-BARN-BRANDS-EXPAND-COLLABORATION-WITH-LOVESHACKFANCY/default.aspx",
+        "published_date": "March 26, 2025",
+        "summary": "Pottery Barn expanded its LoveShackFancy collaboration to include the main Pottery Barn line, offering products with bows, lace, embroidery, and hand‑cut glass across bedding, decor, tabletop, and seating.",
+        "relevance_score": 8,
+        "relevance_reason": "New visually rich collection across many SKUs—high demand for styled imagery and lifestyle visuals.",
+        "key_insights": [
+          "Intricate design details require high‑quality visuals",
+          "Wide product range across categories",
+          "Lifestyle storytelling opportunity"
+        ],
+        "category": "product_innovation"
+      },
+      {
+        "title": "AERIN and Pottery Barn Kids Launch First‑Ever Collection",
+        "source": "Architectural Digest",
+        "url": "https://www.architecturaldigest.com/story/aerin-lauder-and-pottery-barn-kids-launch-collection",
+        "published_date": "January 17, 2024",
+        "summary": "Aerin Lauder partnered with Pottery Barn Kids to launch a collection featuring wallpaper, bedding, toys, and furniture with wicker textures, scalloped edges, and floral/animal motifs.",
+        "relevance_score": 7,
+        "relevance_reason": "New collection with distinctive design elements across multiple product types—visual content needs for catalog and digital channels.",
+        "key_insights": [
+          "Diverse product types increase visual complexity",
+          "Design‑led collection needs compelling imagery",
+          "Kids segment adds new visual context"
+        ],
+        "category": "catalog_expansion"
+      },
+      {
+        "title": "Williams Sonoma, Williams Sonoma Home, Pottery Barn Kids and Pottery Barn Teen Expand Collaboration with AERIN",
+        "source": "Business Wire / Williams‑Sonoma, Inc.",
+        "url": "https://www.businesswire.com/news/home/20250408695196/en/WILLIAMS-SONOMA-WILLIAMS-SONOMA-HOME-POTTERY-BARN-KIDS-AND-POTTERY-BARN-TEEN-EXPAND-COLLABORATION-WITH-AERIN",
+        "published_date": "April 8, 2025",
+        "summary": "The AERIN collaboration expanded to include Pottery Barn Teen and additional home categories, featuring rattan, hand‑painted ceramics, embroidered linens, and floral dinnerware.",
+        "relevance_score": 8,
+        "relevance_reason": "Expansion into teen and home categories increases SKU diversity and visual storytelling needs.",
+        "key_insights": [
+          "New demographic (teens) requires tailored visuals",
+          "Natural textures and ceramics need high‑fidelity imagery",
+          "Cross‑category expansion multiplies visual assets"
+        ],
+        "category": "catalog_expansion"
+      },
+      {
+        "title": "Pottery Barn’s New Collection Is ‘Timeless, Classic, and All‑American’ — and Ideal for a Summer Refresh",
+        "source": "People.com",
+        "url": "https://people.com/pottery-barn-mark-d-sikes-collection-launch-may-2025-11727006",
+        "published_date": "May 3, 2025",
+        "summary": "Pottery Barn launched a summer collection with designer Mark D. Sikes, including bedding, tableware, wallpaper, and accessories in classic, optimistic styles, available online.",
+        "relevance_score": 6,
+        "relevance_reason": "New designer collection across multiple product types—visual content needed for marketing and e‑commerce.",
+        "key_insights": [
+          "Designer collaboration boosts visual storytelling",
+          "Multiple product categories increase imagery needs",
+          "Wallpaper and accessories require styled visuals"
+        ],
+        "category": "product_innovation"
+      },
+      {
+        "title": "Cynthia Rowley’s Whimsical Pottery Barn Collection Is Here — and It’s Like ‘Stepping Into a Storybook’",
+        "source": "People.com",
+        "url": "https://people.com/pottery-barn-cynthia-rowley-collection-launch-june-2025-11754397",
+        "published_date": "June 13, 2025",
+        "summary": "Pottery Barn launched a whimsical tableware and décor collection with Cynthia Rowley, featuring floral napkins, hand‑painted bowls, decorative plates, mugs, and candle holders, all functional and visually enchanting.",
+        "relevance_score": 6,
+        "relevance_reason": "Visually rich collection requiring high-quality imagery for digital channels and social media.",
+        "key_insights": [
+          "Whimsical design needs creative visual presentation",
+          "Multiple small décor items increase visual volume",
+          "Cross‑use in marketing and social media"
+        ],
+        "category": "product_innovation"
+      },
+      {
+        "title": "Pottery Barn to Debut in UK Market Autumn 2025",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/company-news/pottery-barn-to-debut-in-uk-market-autumn-2025-4052893",
+        "published_date": "May 19, 2025",
+        "summary": "Pottery Barn will launch in the UK in autumn 2025 with a dedicated website, curated product selection, and complimentary design services, marking a major international expansion.",
+        "relevance_score": 9,
+        "relevance_reason": "International expansion into UK market creates urgent need for localized visual content at scale.",
+        "key_insights": [
+          "UK launch requires localized imagery",
+          "Curated selection demands fresh visuals",
+          "Design services amplify visual content needs"
+        ],
+        "category": "international_expansion"
+      },
+      {
+        "title": "Pottery Barn Announces Upcoming Launch in the United Kingdom",
+        "source": "Business Wire / Williams‑Sonoma, Inc.",
+        "url": "https://ir.williams-sonomainc.com/investor-information/news-releases/news-release-details/2025/POTTERY-BARN-ANNOUNCES-UPCOMING-LAUNCH-IN-THE-UNITED-KINGDOM/default.aspx",
+        "published_date": "May 19, 2025",
+        "summary": "Pottery Barn confirmed its UK launch in autumn 2025, including a new website and pop‑up shop in London, extending its global footprint.",
+        "relevance_score": 9,
+        "relevance_reason": "Same expansion event—reinforces need for UK‑specific visual assets and omnichannel consistency.",
+        "key_insights": [
+          "Pop‑up shop needs promotional visuals",
+          "Omnichannel consistency across UK website and physical presence",
+          "Localized content imperative"
+        ],
+        "category": "international_expansion"
+      },
+      {
+        "title": "Pottery Barn Kids and Pottery Barn Teen Announce Exclusive Home Furnishings Collaboration with Fashion and Lifestyle Brand Roller Rabbit",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/pottery-barn-kids-and-pottery-barn-teen-announce-exclusive-home-furnishings-collaboration-with-fashion-and-lifestyle-brand-roller-rabbit-94ffdd67",
+        "published_date": "June 20, 2024",
+        "summary": "Pottery Barn Kids and Teen launched a new collaboration with Roller Rabbit, offering bedding, décor, and accessories with whimsical, travel‑inspired prints.",
+        "relevance_score": 7,
+        "relevance_reason": "New visually distinctive collection across kids and teen segments—visual content demand for catalog and online.",
+        "key_insights": [
+          "Whimsical prints need vibrant imagery",
+          "Kids/teen segments expand visual contexts",
+          "Collaboration increases SKU variety"
+        ],
+        "category": "catalog_expansion"
+      }
+    ],
+    "overall_assessment": {
+      "presti_fit_score": 9,
+      "key_opportunities": [
+        "Mobile app virtual preview needs scalable product visuals",
+        "UK launch demands localized imagery for new market",
+        "Multiple designer collaborations require high‑volume styled content"
+      ],
+      "recommended_approach": "Emphasize Presti’s ability to rapidly generate localized, styled visuals for Pottery Barn’s mobile app, UK launch, and designer collections—highlighting speed, scale, and supply‑chain independence."
+    },
+    "scrape_metadata": {
+      "timestamp": "2026-01-07T10:48:11.147299",
+      "model": "gpt-4o",
+      "success": true,
+      "web_search_used": true
+    }
+  },
+  "Williams Sonoma": {
+    "company_name": "Williams Sonoma",
+    "search_date": "2026-01-07",
+    "news_items": [
+      {
+        "title": "Williams‑Sonoma, Inc. named top retailer on TIME’s 2024 list of America’s Best Mid‑Sized Companies",
+        "source": "Business Wire",
+        "url": "https://www.businesswire.com/news/home/20240805270800/en/WILLIAMS-SONOMA-INC.-NAMED-TOP-RETAILER-ON-TIMES-2024-LIST-OF-AMERICAS-BEST-MID-SIZED-COMPANIES",
+        "published_date": "August 5, 2024",
+        "summary": "Williams‑Sonoma was ranked as the top retailer on TIME’s 2024 list of America’s Best Mid‑Sized Companies, recognized for digital‑first strategy, design leadership, and sustainability transparency across its brands and e‑commerce channels.",
+        "relevance_score": 6,
+        "relevance_reason": "Highlights Williams‑Sonoma’s digital‑first positioning and sustainability focus, signaling alignment with Presti’s eco‑friendly visual production.",
+        "key_insights": [
+          "Digital‑first branding across multiple brands",
+          "Sustainability transparency is a strategic priority",
+          "E‑commerce and catalog channels are core to business"
+        ],
+        "category": "digital_transformation"
+      },
+      {
+        "title": "Williams‑Sonoma, Inc. releases 2023 Impact Report",
+        "source": "Business Wire",
+        "url": "https://ir.williams-sonomainc.com/investor-information/news-releases/news-release-details/2024/Williams-Sonoma-Inc.-Releases-2023-Impact-Report/default.aspx",
+        "published_date": "July 30, 2024",
+        "summary": "The 2023 Impact Report highlights operational efficiencies, renewable energy adoption, packaging innovation, waste diversion, and launch of GreenRow, a sustainability‑focused home furnishings brand.",
+        "relevance_score": 5,
+        "relevance_reason": "Sustainability initiatives and new brand (GreenRow) suggest need for eco‑aligned visual content and new catalog imagery.",
+        "key_insights": [
+          "GreenRow brand launch requires new visuals",
+          "Packaging and sustainability themes could be visualized",
+          "Operational efficiency narrative supports digital imagery"
+        ],
+        "category": "sustainability_initiative"
+      },
+      {
+        "title": "Williams‑Sonoma, Inc. announces fourth quarter and fiscal year 2024 results",
+        "source": "Business Wire",
+        "url": "https://ir.williams-sonomainc.com/investor-information/news-releases/news-release-details/2025/Williams-Sonoma-Inc--announces-fourth-quarter-and-fiscal-year-2024-results/",
+        "published_date": "March 19, 2025",
+        "summary": "Fiscal 2024 Q4 comparable brand revenue rose 3.1%, with record operating margin of 21.5%, driven by standout seasonal offerings, impactful collaborations, and strong improvement in both retail and online furniture sales.",
+        "relevance_score": 7,
+        "relevance_reason": "Growth in online furniture sales and seasonal offerings implies expanding SKU visuals and fast‑turnaround needs.",
+        "key_insights": [
+          "Online furniture sales improving",
+          "Seasonal offerings and collaborations expanding catalog",
+          "High margins support investment in visual tech"
+        ],
+        "category": "ecommerce_growth"
+      },
+      {
+        "title": "Williams‑Sonoma, Inc. announces first quarter 2024 results",
+        "source": "Business Wire",
+        "url": "https://ir.williams-sonomainc.com/investor-information/news-releases/news-release-details/2024/Williams-Sonoma-Inc.-announces-first-quarter-2024-results/default.aspx",
+        "published_date": "May 22, 2024",
+        "summary": "Q1 2024 comparable brand revenue declined 4.9%, but gross margin improved significantly due to merchandise margin gains and supply‑chain efficiencies, indicating operational focus amid top‑line pressure.",
+        "relevance_score": 5,
+        "relevance_reason": "Margin improvements and supply‑chain efficiencies may free resources for digital content investment; catalog refresh could support growth.",
+        "key_insights": [
+          "Margin gains free budget for digital initiatives",
+          "Supply‑chain efficiencies may reduce physical shoot reliance",
+          "Revenue pressure may drive digital innovation"
+        ],
+        "category": "supply_chain_challenges"
+      },
+      {
+        "title": "Williams‑Sonoma is fined by US FTC over 'Made in USA' claims",
+        "source": "Reuters",
+        "url": "https://www.reuters.com/business/retail-consumer/williams-sonoma-is-fined-by-us-ftc-over-made-usa-claims-2024-04-23/",
+        "published_date": "April 23, 2024",
+        "summary": "Williams‑Sonoma agreed to pay a $3.18 million penalty for falsely advertising some products as 'Made in USA' between April 2022 and August 2023, and must certify compliance for five years.",
+        "relevance_score": 3,
+        "relevance_reason": "While not directly about visuals, the compliance focus may push for more accurate, controlled imagery and product representation.",
+        "key_insights": [
+          "Need for accurate product representation",
+          "Controlled imagery reduces mislabeling risk",
+          "Compliance may drive tighter visual workflows"
+        ],
+        "category": "operations_efficiency"
+      },
+      {
+        "title": "Williams‑Sonoma’s stock soars to a record after profit beat, dividend raised 26%",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/williams-sonomas-stock-hits-a-record-after-profit-beat-and-26-dividend-raise-d7868236",
+        "published_date": "March 13, 2024",
+        "summary": "Shares jumped nearly 19% after beating earnings expectations, driven by full‑price selling and supply‑chain improvements; company raised dividend by 26% and launched a $1 billion buyback program.",
+        "relevance_score": 4,
+        "relevance_reason": "Strong financials and supply‑chain gains suggest capacity to invest in digital content and visual innovation.",
+        "key_insights": [
+          "Financial strength supports digital investment",
+          "Supply‑chain improvements align with virtual imagery",
+          "Full‑price strategy emphasizes premium visuals"
+        ],
+        "category": "business_performance"
+      },
+      {
+        "title": "Why You Shouldn't Expect Promotional Prices at Williams‑Sonoma",
+        "source": "Investopedia",
+        "url": "https://www.investopedia.com/why-you-shouldnt-expect-promotional-prices-williams-sonoma-west-elm-pottery-bar-8748965",
+        "published_date": "November 20, 2024",
+        "summary": "Williams‑Sonoma avoids promotional pricing, focusing on consistent, full‑price selling to appeal to higher‑income shoppers; Pottery Barn Kids and Teen saw revenue gains, while other brands varied.",
+        "relevance_score": 6,
+        "relevance_reason": "Premium positioning and consistent pricing underscore need for high‑quality, aspirational visuals across SKUs.",
+        "key_insights": [
+          "Premium brand positioning demands high‑quality visuals",
+          "Consistent pricing supports timeless imagery",
+          "Growth in Pottery Barn Kids/Teen suggests new SKUs"
+        ],
+        "category": "brand_strategy"
+      },
+      {
+        "title": "Williams‑Sonoma says rivals who lean into discounts are training shoppers to 'wait for that promotion'",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/williams-sonoma-ceo-says-discounts-train-customers-to-delay-purchases-2024-11",
+        "published_date": "November 21, 2024",
+        "summary": "CEO Laura Alber emphasized that avoiding frequent discounts encourages immediate purchases and fosters loyalty; consistent pricing and quality eliminate uncertainty for buyers.",
+        "relevance_score": 6,
+        "relevance_reason": "Reinforces premium, consistent brand image—visuals must reflect quality and immediacy, aligning with Presti’s fast, high‑quality imagery.",
+        "key_insights": [
+          "Visuals must convey quality and urgency",
+          "Consistent imagery supports pricing strategy",
+          "Immediate purchase behavior aligns with fast content"
+        ],
+        "category": "marketing_campaigns"
+      },
+      {
+        "title": "Williams‑Sonoma, Inc. releases 2022 Annual Impact Report",
+        "source": "Williams‑Sonoma Investor Relations",
+        "url": "https://ir.williams-sonomainc.com/investor-information/news-releases/news-release-details/2023/WILLIAMS-SONOMA-INC.-RELEASES-2022-ANNUAL-IMPACT-REPORT/default.aspx",
+        "published_date": "2023-??-??",
+        "summary": "The 2022 Impact Report notes a 24% reduction in operational emissions, first long‑term renewable energy PPA in Texas, and progress toward Fair Trade and Nest‑certified product investments.",
+        "relevance_score": 5,
+        "relevance_reason": "Sustainability and renewable energy investments reinforce eco‑friendly brand narrative, suitable for sustainable visual storytelling.",
+        "key_insights": [
+          "Renewable energy investments support green branding",
+          "Fair Trade and Nest certifications need visual storytelling",
+          "Emission reductions align with virtual imagery benefits"
+        ],
+        "category": "sustainability_initiative"
+      },
+      {
+        "title": "Williams‑Sonoma, Inc.: Leveraging Global Expansion, Digital Transformation, and Brand Synergy for Sustained Retail Growth",
+        "source": "AInvest",
+        "url": "https://www.ainvest.com/news/williams-sonoma-leveraging-global-expansion-digital-transformation-brand-synergy-sustained-retail-growth-2508/",
+        "published_date": "2025-??-??",
+        "summary": "E‑commerce grew 2.1% in Q1 FY25 via AI‑powered personalization, increasing average order value by 12%; infrastructure upgrades (SD‑WAN, SASE) support scale; acquisition of Dormify targets Gen Z; B2B segment now $1B.",
+        "relevance_score": 9,
+        "relevance_reason": "AI personalization, e‑commerce growth, new brand (Dormify), and infrastructure modernization all point to strong demand for scalable, AI‑generated visuals across channels and segments.",
+        "key_insights": [
+          "AI personalization drives visual content demand",
+          "Dormify acquisition expands SKU and demographic reach",
+          "Infrastructure supports scalable visual delivery"
+        ],
+        "category": "technology_innovation"
+      }
+    ],
+    "overall_assessment": {
+      "presti_fit_score": 8,
+      "key_opportunities": [
+        "AI‑powered personalization increasing visual content demand",
+        "Dormify acquisition expands catalog and Gen Z visuals",
+        "GreenRow sustainability brand needs eco‑aligned imagery"
+      ],
+      "recommended_approach": "Emphasize Presti’s ability to rapidly generate high‑quality, sustainable visuals for new brands like Dormify and GreenRow, supporting AI‑driven personalization and premium positioning across digital channels."
+    },
+    "scrape_metadata": {
+      "timestamp": "2026-01-07T10:48:38.197035",
+      "model": "gpt-4o",
+      "success": true,
+      "web_search_used": true
+    }
+  },
+  "West Elm": {
+    "company_name": "West Elm",
+    "search_date": "2026-01-07",
+    "news_items": [
+      {
+        "title": "WEST ELM LAUNCHES NEW MOBILE APP",
+        "source": "Business Wire (Williams‑Sonoma, Inc.)",
+        "url": "https://ir.williams-sonomainc.com/investor-information/news-releases/news-release-details/2024/WEST-ELM-LAUNCHES-NEW-MOBILE-APP/default.aspx",
+        "published_date": "March 28, 2024",
+        "summary": "West Elm launched a new iOS mobile app featuring customizable shopping, on‑demand design support, shareable wish‑lists, dynamic registry, and Apple Pay checkout to enhance the digital customer journey.",
+        "relevance_score": 8,
+        "relevance_reason": "Strong digital transformation and e‑commerce enhancement signals, indicating increased need for scalable visual content across mobile channels.",
+        "key_insights": [
+          "Mobile‑first platform demands high‑quality visuals",
+          "On‑demand design support needs varied product imagery",
+          "Shareable wish‑lists require compelling visuals for social sharing"
+        ],
+        "category": "digital_transformation"
+      },
+      {
+        "title": "WEST ELM DEBUTS SECOND COLLECTION WITH LIFESTYLE BRAND RHODE FOR SUMMER 2024",
+        "source": "Business Wire (Williams‑Sonoma, Inc.)",
+        "url": "https://www.businesswire.com/news/home/20240603059130/en/WEST-ELM-DEBUTS-SECOND-COLLECTION-WITH-LIFESTYLE-BRAND-RHODE-FOR-SUMMER-2024",
+        "published_date": "June 3, 2024",
+        "summary": "West Elm expanded its collaboration with fashion brand RHODE, launching a 120‑piece collection including textiles, tabletop, lighting, accessories, bath, rugs, and dorm items—an expanded SKU range.",
+        "relevance_score": 9,
+        "relevance_reason": "Large new collection with diverse SKUs across categories—high demand for scalable product visuals before physical production.",
+        "key_insights": [
+          "120‑piece collection across multiple categories",
+          "New prints and patterns require fresh visuals",
+          "Dorm‑focused items signal new customer segment"
+        ],
+        "category": "catalog_expansion"
+      },
+      {
+        "title": "WEST ELM LAUNCHES NEW COLLABORATION WITH ACCLAIMED INTERIOR DESIGNER BILLY COTTON",
+        "source": "Business Wire (Williams‑Sonoma, Inc.)",
+        "url": "https://ir.williams-sonomainc.com/investor-information/news-releases/news-release-details/2024/WEST-ELM-LAUNCHES-NEW-COLLABORATION-WITH-ACCLAIMED-INTERIOR-DESIGNER-BILLY-COTTON/default.aspx",
+        "published_date": "February 26, 2024",
+        "summary": "West Elm introduced a 25‑piece capsule collection with designer Billy Cotton, featuring furniture, tableware, and accessories emphasizing craftsmanship, neutral palettes, and functional design.",
+        "relevance_score": 7,
+        "relevance_reason": "New designer capsule adds SKUs and requires high‑quality imagery to showcase craftsmanship and design details.",
+        "key_insights": [
+          "25‑piece designer capsule needs detailed visuals",
+          "Focus on craftsmanship demands close‑up imagery",
+          "Neutral palettes require styling versatility"
+        ],
+        "category": "product_innovation"
+      },
+      {
+        "title": "WEST ELM LAUNCHES COLLECTION WITH CELEBRATED CHEF MARCUS SAMUELSSON",
+        "source": "Business Wire (Williams‑Sonoma, Inc.)",
+        "url": "https://ir.williams-sonomainc.com/investor-information/news-releases/news-release-details/2024/WEST-ELM-LAUNCHES-COLLECTION-WITH-CELEBRATED-CHEF-MARCUS-SAMUELSSON/default.aspx",
+        "published_date": "July 8, 2024",
+        "summary": "West Elm launched a 32‑piece capsule collection with chef Marcus Samuelsson, spanning furniture, lighting, tableware, textiles, and art, inspired by his Swedish and Ethiopian heritage.",
+        "relevance_score": 8,
+        "relevance_reason": "Cross‑category capsule with cultural storytelling—visuals must convey heritage and lifestyle before physical availability.",
+        "key_insights": [
+          "32‑piece cross‑category collection",
+          "Cultural storytelling visuals needed",
+          "Lifestyle imagery to reflect heritage themes"
+        ],
+        "category": "catalog_expansion"
+      },
+      {
+        "title": "WEST ELM LAUNCHES NEW COLLABORATION WITH FASHION TASTEMAKER AND BEST‑SELLING CHILDREN’S BOOK AUTHOR, EVA CHEN",
+        "source": "Business Wire (Williams‑Sonoma, Inc.)",
+        "url": "https://ir.williams-sonomainc.com/investor-information/news-releases/news-release-details/2024/WEST-ELM-LAUNCHES-NEW-COLLABORATION-WITH-FASHION-TASTEMAKER-AND-BEST-SELLING-CHILDRENS-BOOK-AUTHOR-EVA-CHEN/default.aspx",
+        "published_date": "September 5, 2024",
+        "summary": "West Elm collaborated with Eva Chen on a 34‑piece children’s collection featuring furniture, textiles, lighting, and accessories designed to encourage reading and functional play spaces.",
+        "relevance_score": 8,
+        "relevance_reason": "New kids collection with storytelling elements and functional design—visuals must highlight reading‑friendly features and playful aesthetics.",
+        "key_insights": [
+          "34‑piece kids collection needs lifestyle visuals",
+          "Reading‑focused design features to highlight",
+          "Functional play visuals required"
+        ],
+        "category": "product_innovation"
+      },
+      {
+        "title": "WEST ELM LAUNCHES COLLABORATION WITH POPULAR INTERIOR DESIGN DUO, PIERCE & WARD",
+        "source": "Business Wire (Williams‑Sonoma, Inc.)",
+        "url": "https://ir.williams-sonomainc.com/investor-information/news-releases/news-release-details/2025/WEST-ELM-LAUNCHES-COLLABORATION-WITH-POPULAR-INTERIOR-DESIGN-DUO-PIERCE--WARD/default.aspx",
+        "published_date": "March 31, 2025",
+        "summary": "West Elm launched a collection with interior design duo Pierce & Ward, offering over 100 new items including furniture, textiles, lighting, and accessories in a vintage‑inspired, layered aesthetic.",
+        "relevance_score": 9,
+        "relevance_reason": "Extensive 100+ SKU collection with rich textures and patterns—high demand for diverse, styled visuals across categories.",
+        "key_insights": [
+          "100+ item collection across categories",
+          "Vintage‑inspired textures need styled imagery",
+          "Layered aesthetic requires multiple context shots"
+        ],
+        "category": "catalog_expansion"
+      },
+      {
+        "title": "Pierce & Ward Redefine Modern Heirlooms With a Vintage‑Inspired Collection for West Elm",
+        "source": "Vogue",
+        "url": "https://www.vogue.com/article/pierce-ward-west-elm-collaboration",
+        "published_date": "March 31, 2025",
+        "summary": "Vogue covered the Pierce & Ward x West Elm collection, noting its 100‑piece vintage‑inspired line with furniture and décor, blending heirloom aesthetics with modern functionality.",
+        "relevance_score": 7,
+        "relevance_reason": "Media coverage emphasizes design storytelling and visual appeal—reinforces need for compelling imagery to support PR and marketing.",
+        "key_insights": [
+          "Editorial visuals amplify collection storytelling",
+          "Heirloom aesthetic needs rich photography",
+          "Media exposure increases visual demand"
+        ],
+        "category": "marketing_campaigns"
+      },
+      {
+        "title": "Home: West Elm a winner for Williams‑Sonoma",
+        "source": "Jinhan Fair (via press release summary)",
+        "url": "https://www.jinhanfair.com/press/pressrelease/2024",
+        "published_date": "2024",
+        "summary": "Williams‑Sonoma reported e‑commerce net revenues grew 12.1% to $2.371 billion, exceeding 50% of annual revenues for the first time; West Elm plans 19 new stores and enhanced online business with mobile marketing initiatives.",
+        "relevance_score": 8,
+        "relevance_reason": "E‑commerce growth and mobile marketing expansion signal increased need for scalable digital visuals across channels.",
+        "key_insights": [
+          "E‑commerce now over 50% of revenues",
+          "Mobile marketing initiatives underway",
+          "New stores plus online growth require consistent visuals"
+        ],
+        "category": "ecommerce_growth"
+      },
+      {
+        "title": "West Elm sees Q3 sales rise along with parent group",
+        "source": "Big Furniture Group",
+        "url": "https://www.bigfurnituregroup.com/west-elm-sees-q3-sales-rise-along-with-parent-group/",
+        "published_date": "2025-11-02",
+        "summary": "In Q3 2025, West Elm sales rose 3.3% to $468.2 million, contributing to Williams‑Sonoma’s overall growth; operating margin improved, reflecting strong performance across brands.",
+        "relevance_score": 5,
+        "relevance_reason": "Positive business performance suggests ongoing investment capacity, though not directly visual‑content related.",
+        "key_insights": [
+          "Sales growth indicates budget for marketing visuals",
+          "Improved margins support digital investment",
+          "Strong performance may fund visual innovation"
+        ],
+        "category": "business_performance"
+      },
+      {
+        "title": "Williams‑Sonoma Stock Skyrockets 30% on Outlook Boost, Earnings that Beat Estimates",
+        "source": "Investopedia",
+        "url": "https://www.investopedia.com/williams-sonoma-stock-skyrockets-on-outlook-boost-earnings-that-beat-estimates-8748719",
+        "published_date": "November 20, 2024",
+        "summary": "Williams‑Sonoma stock surged after better‑than‑expected earnings and raised full‑year outlook; operational improvements and margin strength were cited as drivers.",
+        "relevance_score": 4,
+        "relevance_reason": "Strong financial health supports potential investment in digital/content initiatives, though indirect for Presti.",
+        "key_insights": [
+          "Financial strength enables tech and visual investments",
+          "Operational improvements may include content workflows",
+          "Positive outlook supports innovation funding"
+        ],
+        "category": "business_performance"
+      },
+      {
+        "title": "West Elm’s New Collection Is a Master Class in Modern Minimalism",
+        "source": "Real Simple",
+        "url": "https://www.realsimple.com/west-elm-billy-cotton-collection-8598890",
+        "published_date": "February 26, 2024",
+        "summary": "Real Simple highlighted West Elm’s Billy Cotton collection as a modern minimalism master class, focusing on functional, high‑design everyday pieces like bowls, lamps, nightstands with neutral palettes.",
+        "relevance_score": 6,
+        "relevance_reason": "Editorial emphasis on minimalism and functionality underscores need for clean, versatile visuals.",
+        "key_insights": [
+          "Minimalist design needs clean, styled imagery",
+          "Everyday objects require lifestyle context",
+          "Editorial coverage increases visual demand"
+        ],
+        "category": "visual_content_strategy"
+      }
+    ],
+    "overall_assessment": {
+      "presti_fit_score": 9,
+      "key_opportunities": [
+        "120‑piece RHODE collection needs scalable visuals",
+        "100+ Pierce & Ward SKUs demand styled imagery",
+        "Mobile app launch requires mobile‑optimized visuals"
+      ],
+      "recommended_approach": "Emphasize Presti’s ability to generate high‑quality lifestyle visuals at scale for West Elm’s large new collections (RHODE, Pierce & Ward) and mobile app, reducing time‑to‑market and supporting digital expansion."
+    },
+    "scrape_metadata": {
+      "timestamp": "2026-01-07T10:49:04.908111",
+      "model": "gpt-4o",
+      "success": true,
+      "web_search_used": true
+    }
   }
 }

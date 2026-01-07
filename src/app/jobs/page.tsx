@@ -46,8 +46,26 @@ export default function JobsPage() {
 
   const companies = data?.companies ? Object.values(data.companies) : [];
   
-  // Sort by number of jobs
-  const sortedCompanies = [...companies].sort((a, b) => b.jobs.length - a.jobs.length);
+  // Priority companies: 8 new ones + California Closets
+  const newCompanies = ['Costco', 'Target', 'Home Depot', "Lowe's", 'La-Z-Boy', 'Pottery Barn', 'Williams Sonoma', 'West Elm'];
+  const priorityCompanies = [...newCompanies, 'California Closets'];
+  
+  // Custom sort: priority companies first, then rest by job count
+  const sortedCompanies = [...companies].sort((a, b) => {
+    const aIsPriority = priorityCompanies.includes(a.name);
+    const bIsPriority = priorityCompanies.includes(b.name);
+    
+    if (aIsPriority && !bIsPriority) return -1;
+    if (!aIsPriority && bIsPriority) return 1;
+    
+    // Both priority: sort by priority order
+    if (aIsPriority && bIsPriority) {
+      return priorityCompanies.indexOf(a.name) - priorityCompanies.indexOf(b.name);
+    }
+    
+    // Both not priority: sort by job count
+    return b.jobs.length - a.jobs.length;
+  });
 
   return (
     <div className="min-h-screen">
@@ -98,10 +116,9 @@ export default function JobsPage() {
             <Table>
               <TableHeader>
                 <TableRow className="bg-neutral-50/50 hover:bg-neutral-50/50">
-                  <TableHead className="font-medium text-xs h-9">Company</TableHead>
-                  <TableHead className="font-medium text-xs h-9">Industry</TableHead>
-                  <TableHead className="font-medium text-xs h-9 text-center">Jobs</TableHead>
-                  <TableHead className="w-8 h-9"></TableHead>
+                  <TableHead className="font-medium text-[10px] h-7">Company</TableHead>
+                  <TableHead className="font-medium text-[10px] h-7">Industry</TableHead>
+                  <TableHead className="font-medium text-[10px] h-7 text-center">Jobs</TableHead>
                 </TableRow>
               </TableHeader>
               <TableBody>
@@ -112,36 +129,36 @@ export default function JobsPage() {
                       key={company.name}
                       className="cursor-pointer hover:bg-neutral-50/50"
                     >
-                      <TableCell className="py-2.5">
+                      <TableCell className="py-1.5">
                         <Link href={`/jobs/${encodeURIComponent(company.name)}`} className="block">
-                          <div className="flex items-center gap-2.5">
-                            <div className="w-7 h-7 rounded-md bg-neutral-100 flex items-center justify-center">
-                              <Building2 className="w-3.5 h-3.5 text-neutral-500" />
+                          <div className="flex items-center gap-2">
+                            <div className="w-5 h-5 rounded bg-neutral-100 flex items-center justify-center">
+                              <Building2 className="w-3 h-3 text-neutral-500" />
                             </div>
                             <div>
-                              <div className="font-medium text-neutral-900 text-sm">{company.name}</div>
-                              <div className="text-[10px] text-neutral-400">{company.employees} emp.</div>
+                              <div className="flex items-center gap-1.5">
+                                <div className="font-medium text-neutral-900 text-xs">{company.name}</div>
+                                {newCompanies.includes(company.name) && (
+                                  <Badge variant="secondary" className="font-normal text-[9px] h-4 bg-green-100 text-green-700 hover:bg-green-100">
+                                    Tier 0
+                                  </Badge>
+                                )}
+                              </div>
+                              <div className="text-[9px] text-neutral-400">{company.employees} emp.</div>
                             </div>
                           </div>
                         </Link>
                       </TableCell>
-                      <TableCell className="py-2.5">
-                        <Badge variant="secondary" className="font-normal text-[10px] h-5">
+                      <TableCell className="py-1.5">
+                        <Badge variant="secondary" className="font-normal text-[9px] h-4">
                           {company.industry}
                         </Badge>
                       </TableCell>
-                      <TableCell className="text-center py-2.5">
+                      <TableCell className="text-center py-1.5">
                         <div className="flex items-center justify-center gap-1">
-                          <Briefcase className="w-3 h-3 text-neutral-400" />
-                          <span className="font-medium text-sm">{stats.totalJobs}</span>
+                          <Briefcase className="w-2.5 h-2.5 text-neutral-400" />
+                          <span className="font-medium text-xs">{stats.totalJobs}</span>
                         </div>
-                      </TableCell>
-                      <TableCell className="py-2.5">
-                        <Link href={`/jobs/${encodeURIComponent(company.name)}`}>
-                          <Button variant="ghost" size="sm" className="h-6 w-6 p-0">
-                            <ExternalLink className="w-3.5 h-3.5 text-neutral-400" />
-                          </Button>
-                        </Link>
                       </TableCell>
                     </TableRow>
                   );

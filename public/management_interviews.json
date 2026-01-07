@@ -1,282 +1,2258 @@
 {
-  "California Closets": {
-    "company_name": "California Closets",
-    "search_date": "2026-01-06",
-    "management_items": [
+  "Costco": {
+    "company_name": "Costco",
+    "interviews": [
       {
-        "title": "California Closets | Case Study - Yext",
-        "source": "Yext",
-        "url": "https://www.yext.com/customers/california-closets",
-        "published_date": "2025-12-? (approx recent)",
-        "format": "case_study",
-        "executive_name": "Danielle Olivari",
-        "executive_title": "Product Manager, Digital Technology",
-        "summary": "Olivari discusses how California Closets uses Yext to empower local franchisees to manage content, improving SEO, local relevance, and efficiency across 182 locations.",
-        "key_quotes": [
-          "“Yext is basically a way for our local franchise teams to have more control over their content.”",
-          "“With Yext, we actually have time to analyze our local pages… and give them actionable suggestions.”"
-        ],
-        "topics_discussed": [
-          "digital content management",
-          "franchise scalability",
-          "local marketing"
-        ],
-        "relevance_score": 8,
-        "relevance_reason": "Shows digital operations and content scalability—Presti can integrate with such systems to deliver localized imagery at scale.",
-        "sales_insights": [
-          "Propose integration with Yext-managed platforms for image deployment",
-          "Offer scalable image generation for local showrooms",
-          "Highlight efficiency gains for digital teams"
-        ]
-      },
-      {
-        "title": "California Closets' Experiential Showrooms Boost Sales 20-30%",
-        "source": "Elotouch",
-        "url": "https://www.elotouch.com/news/california-closets-experiential-showrooms",
-        "published_date": "2025-12-? (approx recent)",
-        "format": "article",
-        "executive_name": "Beth Warren",
-        "executive_title": "SVP of Experience and Planning, Creative Realities",
-        "summary": "Warren describes the Showroom 2.0 concept with tech tables and better locations, noting customers spend 20–30% more. The next-gen tech table will allow appointment scheduling and product info emailing.",
-        "key_quotes": [
-          "“The next iteration of the tech table will simplify the experience as well as feature some technical enhancements.”"
-        ],
-        "topics_discussed": [
-          "retail experience",
-          "technology integration",
-          "customer engagement"
-        ],
-        "relevance_score": 8,
-        "relevance_reason": "Highlights investment in in-store tech and experiential design—Presti can supply imagery for tech tables and showroom displays.",
-        "sales_insights": [
-          "Offer lifestyle imagery optimized for tech-table displays",
-          "Propose content packages for showroom use",
-          "Align with their experiential retail strategy"
-        ]
-      },
-      {
-        "title": "Process Makes Perfect",
-        "source": "California Closets (company site)",
-        "url": "https://www.californiaclosets.com/process-makes-perfect/",
-        "published_date": "July 03, 2024",
-        "format": "article",
-        "executive_name": "—",
-        "executive_title": "—",
-        "summary": "Describes California Closets’ design process, including virtual consultations and custom solutions tailored to lifestyle and budget.",
+        "title": "Costco CIO Javier Polit on leading with accountability",
+        "source": "McKinsey",
+        "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/shared-accountability-and-adaptability-keys-to-a-successful-cio-journey",
+        "published_date": "2025",
+        "date": "2025",
+        "executive_name": "Javier Polit",
+        "executive_title": "Chief Information and Digital Officer",
+        "format": "interview",
+        "summary": "Javier Polit discusses the importance of prioritizing revenue-generating platforms while maintaining customer satisfaction at Costco. He emphasizes the role of digital transformation and adaptability in positioning the company for technology-driven growth. Polit highlights the use of machine learning for customer personalization to boost digital revenues and the significance of building business trust through digital partnerships. These insights are crucial for Presti as they align with the focus on enhancing e-commerce and digital strategies.",
         "key_quotes": [],
         "topics_discussed": [
-          "virtual consultations",
-          "custom design",
-          "customer experience"
+          "Digital transformation",
+          "Technology-driven growth",
+          "Customer personalization"
         ],
-        "relevance_score": 5,
-        "relevance_reason": "Highlights digital and virtual design channels—Presti can support with imagery for virtual consultations.",
+        "key_insights": [
+          "Prioritizing revenue-generating platforms while maintaining customer satisfaction.",
+          "Positioning for technology-driven growth via digital transformation and adaptability.",
+          "Using machine learning for customer personalization to boost digital revenues."
+        ],
         "sales_insights": [
-          "Propose Presti imagery to enhance virtual consultation experience.",
-          "Emphasize scalable visuals for custom design presentations.",
-          "Align with their focus on lifestyle and budget customization."
-        ]
+          "Building business trust through digital partnerships."
+        ],
+        "relevance_reason": "The focus on digital transformation and customer personalization is directly relevant to Presti's e-commerce platform.",
+        "relevance_score": 9
       },
       {
-        "title": "Liftify Celebrates California Closets® Achieving 10x Google Review Growth at 2024 Convention",
-        "source": "Liftify",
-        "url": "https://www.liftify.com/news/california-closets-convention2024",
-        "published_date": "March 15, 2024",
+        "title": "NRF Foundation 20 Questions with Costco Wholesale's Torsten Lubach",
+        "source": "National Retail Federation (NRF Foundation)",
+        "url": "https://nrffoundation.org/blog/costcos-chief-technology-officer-torsten-lubach",
+        "published_date": "2024-09-16",
+        "date": "2024-09-16",
+        "executive_name": "Torsten Lubach",
+        "executive_title": "Chief Technology Officer",
+        "format": "interview",
+        "summary": "Torsten Lubach focuses on enhancing the member shopping experience through improved online ordering and delivery options. He emphasizes the importance of speeding up the shopping process and making it more enjoyable, reflecting a commitment to digital innovation. Lubach's insights into the hidden complexities of retail operations and his leadership philosophy highlight the need for accountability and collaboration. These strategies are relevant to Presti's interest in improving e-commerce and digital customer experiences.",
+        "key_quotes": [],
+        "topics_discussed": [
+          "Member shopping experience",
+          "Online ordering",
+          "Leadership philosophy"
+        ],
+        "key_insights": [
+          "Improving member shopping experience through online ordering and delivery options.",
+          "Emphasis on speeding up the shopping process and making it more enjoyable.",
+          "Retail operations are complex and mostly hidden, requiring effective management."
+        ],
+        "sales_insights": [
+          "Enhancing online ordering and delivery options to improve customer satisfaction."
+        ],
+        "relevance_reason": "The focus on digital innovation and improving customer experience aligns with Presti's goals for e-commerce enhancement.",
+        "relevance_score": 8
+      },
+      {
+        "title": "Costco's CEO started his career as a forklift driver. Now he's leading the company to Fortune 500 success.",
+        "source": "Fortune",
+        "url": "https://fortune.com/2025/06/04/costco-ceo-ron-vachris-fortune-500-success/",
+        "published_date": "2025-06-04",
+        "date": "2025-06-04",
+        "executive_name": "Ron Vachris",
+        "executive_title": "CEO",
+        "format": "interview",
+        "summary": "Ron Vachris discusses his leadership approach and strategic focus on international expansion and e-commerce improvements at Costco. He highlights initiatives like buy-now-pay-later and the Costco Next program, as well as investments in digital technology to enhance member experience. These insights are significant for Presti as they underscore the importance of digital transformation and innovative payment solutions in e-commerce.",
+        "key_quotes": [],
+        "topics_discussed": [
+          "Leadership approach",
+          "E-commerce improvements",
+          "Digital technology investments"
+        ],
+        "key_insights": [
+          "Focus on international expansion and e-commerce improvements.",
+          "Initiatives like buy-now-pay-later and Costco Next program.",
+          "Investments in digital technology to enhance member experience."
+        ],
+        "sales_insights": [
+          "E-commerce improvements like buy-now-pay-later to drive sales."
+        ],
+        "relevance_reason": "The emphasis on digital technology and e-commerce aligns with Presti's focus on enhancing online retail experiences.",
+        "relevance_score": 9
+      }
+    ],
+    "management_items": [
+      {
+        "title": "Costco CIO Javier Polit on leading with accountability",
+        "source": "McKinsey",
+        "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/shared-accountability-and-adaptability-keys-to-a-successful-cio-journey",
+        "published_date": "2025",
+        "date": "2025",
+        "executive_name": "Javier Polit",
+        "executive_title": "Chief Information and Digital Officer",
+        "format": "interview",
+        "summary": "Javier Polit discusses the importance of prioritizing revenue-generating platforms while maintaining customer satisfaction at Costco. He emphasizes the role of digital transformation and adaptability in positioning the company for technology-driven growth. Polit highlights the use of machine learning for customer personalization to boost digital revenues and the significance of building business trust through digital partnerships. These insights are crucial for Presti as they align with the focus on enhancing e-commerce and digital strategies.",
+        "key_quotes": [],
+        "topics_discussed": [
+          "Digital transformation",
+          "Technology-driven growth",
+          "Customer personalization"
+        ],
+        "key_insights": [
+          "Prioritizing revenue-generating platforms while maintaining customer satisfaction.",
+          "Positioning for technology-driven growth via digital transformation and adaptability.",
+          "Using machine learning for customer personalization to boost digital revenues."
+        ],
+        "sales_insights": [
+          "Building business trust through digital partnerships."
+        ],
+        "relevance_reason": "The focus on digital transformation and customer personalization is directly relevant to Presti's e-commerce platform.",
+        "relevance_score": 9
+      },
+      {
+        "title": "NRF Foundation 20 Questions with Costco Wholesale's Torsten Lubach",
+        "source": "National Retail Federation (NRF Foundation)",
+        "url": "https://nrffoundation.org/blog/costcos-chief-technology-officer-torsten-lubach",
+        "published_date": "2024-09-16",
+        "date": "2024-09-16",
+        "executive_name": "Torsten Lubach",
+        "executive_title": "Chief Technology Officer",
+        "format": "interview",
+        "summary": "Torsten Lubach focuses on enhancing the member shopping experience through improved online ordering and delivery options. He emphasizes the importance of speeding up the shopping process and making it more enjoyable, reflecting a commitment to digital innovation. Lubach's insights into the hidden complexities of retail operations and his leadership philosophy highlight the need for accountability and collaboration. These strategies are relevant to Presti's interest in improving e-commerce and digital customer experiences.",
+        "key_quotes": [],
+        "topics_discussed": [
+          "Member shopping experience",
+          "Online ordering",
+          "Leadership philosophy"
+        ],
+        "key_insights": [
+          "Improving member shopping experience through online ordering and delivery options.",
+          "Emphasis on speeding up the shopping process and making it more enjoyable.",
+          "Retail operations are complex and mostly hidden, requiring effective management."
+        ],
+        "sales_insights": [
+          "Enhancing online ordering and delivery options to improve customer satisfaction."
+        ],
+        "relevance_reason": "The focus on digital innovation and improving customer experience aligns with Presti's goals for e-commerce enhancement.",
+        "relevance_score": 8
+      },
+      {
+        "title": "Costco's CEO started his career as a forklift driver. Now he's leading the company to Fortune 500 success.",
+        "source": "Fortune",
+        "url": "https://fortune.com/2025/06/04/costco-ceo-ron-vachris-fortune-500-success/",
+        "published_date": "2025-06-04",
+        "date": "2025-06-04",
+        "executive_name": "Ron Vachris",
+        "executive_title": "CEO",
+        "format": "interview",
+        "summary": "Ron Vachris discusses his leadership approach and strategic focus on international expansion and e-commerce improvements at Costco. He highlights initiatives like buy-now-pay-later and the Costco Next program, as well as investments in digital technology to enhance member experience. These insights are significant for Presti as they underscore the importance of digital transformation and innovative payment solutions in e-commerce.",
+        "key_quotes": [],
+        "topics_discussed": [
+          "Leadership approach",
+          "E-commerce improvements",
+          "Digital technology investments"
+        ],
+        "key_insights": [
+          "Focus on international expansion and e-commerce improvements.",
+          "Initiatives like buy-now-pay-later and Costco Next program.",
+          "Investments in digital technology to enhance member experience."
+        ],
+        "sales_insights": [
+          "E-commerce improvements like buy-now-pay-later to drive sales."
+        ],
+        "relevance_reason": "The emphasis on digital technology and e-commerce aligns with Presti's focus on enhancing online retail experiences.",
+        "relevance_score": 9
+      }
+    ],
+    "search_date": "2026-01-07T15:28:06.614824",
+    "scrape_metadata": {
+      "timestamp": "2026-01-07T15:28:06.614844",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "interviews_found": 3,
+      "themes_searched": [
+        "digital_leaders",
+        "marketing_leaders",
+        "tech_leaders",
+        "ceo_strategic"
+      ]
+    },
+    "_cache_bust": "1767796159522"
+  },
+  "Target": {
+    "company_name": "Target",
+    "search_date": "2026-01-07",
+    "management_items": [
+      {
+        "title": "Target Announces Strategic Plans to Drive More Than $15 Billion in Sales Growth by 2030",
+        "source": "Target Corporate Press Release",
+        "url": "https://corporate.target.com/press/release/2025/03/target-announces-strategic-plans-to-drive-more-than-%2415-billion-in-sales-growth-by-2030",
+        "published_date": "March 4, 2025",
         "format": "article",
-        "executive_name": "Heather Woods",
-        "executive_title": "Director of Sales & Marketing, California Closets of Southwest Florida",
-        "summary": "Heather Woods credits Liftify for dramatically increasing Google reviews and NPS, noting customers now request specific designers based on positive reviews.",
+        "executive_name": "Brian Cornell",
+        "executive_title": "Chair and Chief Executive Officer",
+        "summary": "Brian Cornell outlines Target’s multi‑channel strategy to drive $15B in sales growth by 2030, focusing on trend‑forward assortments, digital‑physical integration, AI personalization, marketplace expansion, and supply‑chain speed and reliability.",
         "key_quotes": [
-          "Our Google reviews have skyrocketed since we started working with Liftify.",
-          "We have customers reach out and ask to work with specific designers because they have seen the positive reviews calling out our great team members."
+          "Shoppers continue to seek differentiated options and distinctive shopping experiences without sacrificing value, and Target has the scale, strategy and capabilities to support all the ways consumers shop and engage with brands.",
+          "Our strategy is all about creating today's Tarzhay, offering everyday discovery and delight for millions of families and ensuring Target is a consumer favorite for years to come."
         ],
         "topics_discussed": [
-          "customer reviews",
-          "digital reputation",
-          "customer experience"
+          "assortment innovation",
+          "omnichannel integration",
+          "AI personalization",
+          "marketplace growth",
+          "supply chain investment"
         ],
-        "relevance_score": 6,
-        "relevance_reason": "Shows marketing focus on digital reputation and customer trust—Presti imagery can enhance review-driven marketing.",
+        "relevance_score": 10,
+        "relevance_reason": "Direct strategic priorities align with Presti’s value in scalable visual content, digital experience, and speed-to-market.",
         "sales_insights": [
-          "Suggest using Presti visuals in review showcases and social proof.",
-          "Highlight how lifestyle imagery can drive emotional trust in reviews.",
-          "Position Presti as enhancing digital reputation through visuals."
+          "Position Presti as a partner to accelerate trend‑forward home assortment imagery.",
+          "Emphasize Presti’s ability to support AI‑driven personalization with scalable image generation.",
+          "Highlight how Presti can enhance marketplace product discovery and digital content efficiency."
         ]
       },
       {
-        "title": "Ideas of Order®, the California Closets Podcast, Announces Season 2 and Joins the SURROUND Podcast Network",
-        "source": "SURROUND Podcast Network / Press Release",
-        "url": "https://surroundpodcasts.com/ideas-of-order-the-california-closets-podcast-announces-season-2-and-joins-the-surround-podcast-network/",
-        "published_date": "December 11, 2023",
-        "format": "podcast announcement",
-        "executive_name": "Charlie Chase",
-        "executive_title": "President & CEO, California Closets",
-        "summary": "Charlie Chase emphasizes storytelling around home, belonging, and individuality through the podcast 'Ideas of Order' hosted by Jeremiah Brent.",
+        "title": "Get to Know Lisa Roath, Target's New Chief Marketing Officer",
+        "source": "Target Corporate News‑Features",
+        "url": "https://corporate.target.com/news-features/article/2023/07/lisa-roath",
+        "published_date": "July 12, 2023",
+        "format": "article",
+        "executive_name": "Lisa Roath",
+        "executive_title": "Chief Marketing Officer",
+        "summary": "Lisa Roath, newly appointed CMO, emphasizes marketing’s role in delivering inspiration, connection, and joy, and shares her focus on simplifying complex ideas into three priorities: value, ease, and differentiation.",
         "key_quotes": [
-          "We help our customers create where they belong, and these conversations celebrate the humanity and individuality that is at the core of our work at California Closets."
+          "Marketing is such a core component of how we relate to our guests, and in many ways, we’re just getting started in connecting people with the affordable joy that defines our shopping experience.",
+          "We distilled our list to three priorities: value, ease and differentiation."
         ],
         "topics_discussed": [
-          "brand storytelling",
-          "customer connection",
-          "media strategy"
+          "marketing strategy",
+          "brand experience",
+          "simplicity in priorities"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "CMO’s focus on differentiation and ease aligns with Presti’s ability to deliver compelling lifestyle imagery that simplifies marketing execution.",
+        "sales_insights": [
+          "Pitch Presti as a tool to deliver differentiated visual storytelling with ease.",
+          "Frame Presti’s imagery as supporting marketing’s value‑ease‑differentiation pillars.",
+          "Offer pilot to demonstrate speed and simplicity in content creation."
+        ]
+      },
+      {
+        "title": "Target CEO (and Head “Coach”) Brian Cornell Focuses On Retail Fundamentals",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/donyaeger/2024/05/29/target-ceo-and-head-coach-brian-cornell-focuses-on-retail-fundamentals/",
+        "published_date": "May 29, 2024",
+        "format": "article",
+        "executive_name": "Brian Cornell",
+        "executive_title": "Chair and Chief Executive Officer",
+        "summary": "Cornell emphasizes the importance of retail fundamentals—reliability, availability, and guest experience—drawing parallels to sports coaching and highlighting in‑person mentorship and trust building.",
+        "key_quotes": [
+          "When we think about retail fundamentals, we focus on making sure that we're reliable, which in our business is code for the promise that when you shop, either online or in our store, what you're shopping for is going to be available.",
+          "Eight times a year, he takes a big handful of his officers on a two‑day, “accelerated mentorship program” … spend time in Target stores and distribution centers."
+        ],
+        "topics_discussed": [
+          "retail fundamentals",
+          "availability",
+          "leadership development"
         ],
         "relevance_score": 7,
-        "relevance_reason": "Shows leadership’s focus on emotional storytelling and media channels—Presti can support this with scalable visual content.",
+        "relevance_reason": "Focus on reliability and availability underscores the need for consistent, high‑quality visual content across channels—an area Presti can support.",
         "sales_insights": [
-          "Position Presti as a visual storytelling partner for their media initiatives.",
-          "Suggest lifestyle image content to complement podcast themes of belonging.",
-          "Offer scalable imagery to support cross-channel storytelling."
+          "Position Presti as a reliable content partner ensuring consistent imagery availability.",
+          "Highlight Presti’s scalability to support omnichannel consistency.",
+          "Suggest executive‑level pilot tied to store‑level merchandising reliability."
         ]
       },
       {
-        "title": "California Closets’ Chief Brand Officer Instills Courage To Grow 250%",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/johnellett/2023/11/02/california-closets-chief-brand-officer-instills-courage-to-grow--250/",
-        "published_date": "November 02, 2023",
+        "title": "Target’s CEO brought his top 50 leaders together. Here’s the advice he gave them",
+        "source": "Fortune",
+        "url": "https://fortune.com/2024/11/11/target-ceo-corporate-culture-executive-meeting-answering-why/",
+        "published_date": "November 11, 2024",
         "format": "article",
-        "executive_name": "Edward Leaman",
-        "executive_title": "Chief Brand Officer, California Closets",
-        "summary": "Edward Leaman describes a brand repositioning toward 'belonging' and 'Practical Magic' to drive emotional connection and significant growth since 2021.",
+        "executive_name": "Brian Cornell",
+        "executive_title": "Chief Executive Officer",
+        "summary": "At a leadership meeting, Cornell emphasized understanding the 'why' behind decisions and investments, stressing culture and purpose over just actions.",
         "key_quotes": [
-          "We’re not in the home improvement business. We’re in the simplify your life business!",
-          "I want us to be the brand of belonging.",
-          "Since 2021, we have grown top line and bottom line two and a half times!"
+          "We spent a lot of time making sure we understood the why—why do we make certain decisions? Why do we make certain investments? Why is culture so important?"
         ],
         "topics_discussed": [
-          "brand strategy",
-          "emotional positioning",
-          "growth metrics"
+          "leadership culture",
+          "strategic purpose"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Understanding the 'why' provides a way to align Presti’s value proposition with Target’s cultural and strategic intent.",
+        "sales_insights": [
+          "Frame Presti’s solution in terms of why it matters—guest delight, brand culture, innovation.",
+          "Use storytelling that aligns with Target’s purpose‑driven culture.",
+          "Propose a pilot that ties to cultural impact, not just ROI."
+        ]
+      },
+      {
+        "title": "New Target CEO Michael Fiddelke faces challenges",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2025/08/20/new-target-ceo-michael-fiddelke-faces-challenges.html",
+        "published_date": "August 20, 2025",
+        "format": "article",
+        "executive_name": "Michael Fiddelke",
+        "executive_title": "Incoming Chief Executive Officer (then COO)",
+        "summary": "Fiddelke acknowledges slumping sales and customer loyalty, and outlines his top priorities: restoring merchant reputation, enhancing in‑store experience, and leveraging technology to improve operations.",
+        "key_quotes": [
+          "I know we're not realizing our full potential right now, and so I'm stepping into the role with a clear and urgent commitment to build new momentum in the business and get back to profitable growth.",
+          "He pledged to move with urgency to get the company back to sales growth."
+        ],
+        "topics_discussed": [
+          "turnaround strategy",
+          "customer experience",
+          "technology"
         ],
         "relevance_score": 9,
-        "relevance_reason": "Strong strategic vision around brand positioning and emotional storytelling aligns with Presti’s ability to deliver lifestyle imagery that reinforces belonging.",
+        "relevance_reason": "Incoming CEO’s focus on tech‑enabled customer experience and momentum aligns with Presti’s capabilities in accelerating visual content and digital merchandising.",
         "sales_insights": [
-          "Frame Presti’s visuals as reinforcing the 'belonging' brand narrative.",
-          "Highlight how lifestyle imagery can embody 'Practical Magic' in customers’ homes.",
-          "Use growth metrics to show ROI potential from enhanced visual storytelling."
+          "Position Presti as a fast, tech‑driven lever to improve customer experience.",
+          "Emphasize speed and momentum in content creation to support turnaround.",
+          "Offer a pilot focused on improving in‑store and online visual experience."
         ]
       },
       {
-        "title": "California Closets debuts official podcast",
-        "source": "Woodworking Network",
-        "url": "https://www.woodworkingnetwork.com/closets/california-closets-debuts-official-podcast",
-        "published_date": "April 19, 2023",
+        "title": "All About Target’s Next CEO, Michael Fiddelke",
+        "source": "Target Corporate News‑Features",
+        "url": "https://corporate.target.com/news-features/article/2025/08/michael-fiddelke-ceo",
+        "published_date": "August 20, 2025",
         "format": "article",
-        "executive_name": "Charlie Chase",
-        "executive_title": "President & CEO, California Closets",
-        "summary": "Charlie Chase frames the podcast as a channel to extend conversations about belonging and home, collaborating with Jeremiah Brent to bring empathy and storytelling to life.",
+        "executive_name": "Michael Fiddelke",
+        "executive_title": "Incoming Chief Executive Officer (then COO)",
+        "summary": "Target introduces Fiddelke, highlighting his leadership across operations, supply chain, digital capabilities, and his belief in design‑led innovation and simplifying work to accelerate performance.",
         "key_quotes": [
-          "This podcast is an important channel for California Closets to extend conversations around what it means to belong and feel at home in the world.",
-          "We have long admired Jeremiah’s empathy and human-centered approach to design, and we are thrilled to collaborate with him—his compassion brings this storytelling to life."
+          "We’re a design‑led company that wins by pairing incredible product with an incredible experience, and my confidence in our team and my belief that Target’s best days are ahead of us could not be higher."
         ],
         "topics_discussed": [
-          "media strategy",
-          "brand storytelling",
-          "customer empathy"
+          "design‑led innovation",
+          "simplification",
+          "performance acceleration"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Fiddelke’s design‑led and simplification focus aligns with Presti’s ability to streamline visual content creation and enhance product experience.",
+        "sales_insights": [
+          "Highlight Presti’s design‑led imagery generation as aligned with his vision.",
+          "Emphasize simplification of content workflows.",
+          "Propose a pilot that accelerates performance via streamlined visual production."
+        ]
+      },
+      {
+        "title": "Target CEO Brian Cornell weighs in on price gouging",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2024/08/21/target-ceo-brian-cornell-weighs-in-on-price-gouging.html",
+        "published_date": "August 21, 2024",
+        "format": "article",
+        "executive_name": "Brian Cornell",
+        "executive_title": "Chief Executive Officer",
+        "summary": "Cornell rejects price‑gouging accusations, noting retail’s slim margins and competitive pricing, and emphasizes customer responsiveness and affordability.",
+        "key_quotes": [
+          "We're in a penny business.",
+          "Retailers have to be responsive to customers or risk losing business."
+        ],
+        "topics_discussed": [
+          "pricing strategy",
+          "customer responsiveness",
+          "affordability"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Emphasis on affordability and responsiveness suggests Presti’s cost‑efficient imagery could support value messaging.",
+        "sales_insights": [
+          "Position Presti as cost‑effective content solution supporting affordability narrative.",
+          "Highlight ability to quickly respond to pricing or promotional shifts with updated visuals.",
+          "Offer rapid imagery updates tied to pricing campaigns."
+        ]
+      },
+      {
+        "title": "Al Sharpton calls meeting with Target's CEO amid DEI backlash 'very constructive and candid'",
+        "source": "AP News",
+        "url": "https://apnews.com/article/520dbc23cd668b57b3bfef76d1bc7cdd",
+        "published_date": "April 17, 2025",
+        "format": "article",
+        "executive_name": "Brian Cornell",
+        "executive_title": "Chief Executive Officer",
+        "summary": "Cornell met with Rev. Al Sharpton amid backlash over Target scaling back DEI initiatives; the meeting was described as 'very constructive and candid' as Target navigates reputational challenges.",
+        "key_quotes": [
+          "Sharpton called the meeting with Target CEO Brian Cornell 'very constructive and candid.'"
+        ],
+        "topics_discussed": [
+          "DEI backlash",
+          "stakeholder engagement",
+          "reputation management"
         ],
         "relevance_score": 6,
-        "relevance_reason": "Reinforces leadership’s emphasis on storytelling and emotional connection—Presti’s imagery can enhance this narrative.",
+        "relevance_reason": "Shows leadership engagement in sensitive brand issues—Presti could support inclusive imagery strategies to rebuild trust.",
         "sales_insights": [
-          "Offer Presti’s imagery as a visual companion to podcast storytelling.",
-          "Highlight ability to create empathetic, human-centered visuals at scale.",
-          "Suggest integration of lifestyle visuals into media content."
+          "Offer Presti’s imagery to support inclusive, sensitive visual storytelling.",
+          "Position as a partner in rebuilding brand trust through thoughtful content.",
+          "Suggest pilot for inclusive home imagery campaigns."
         ]
-      },
-      {
-        "title": "Introducing a Podcast to Help Get Your Home in Order, Hosted by Jeremiah Brent",
-        "source": "The Spruce",
-        "url": "https://www.thespruce.com/jeremiah-brent-new-podcast-7481640",
-        "published_date": "April 18, 2023",
-        "format": "article",
-        "executive_name": "Edward Leaman",
-        "executive_title": "Chief Brand Officer",
-        "summary": "Leaman emphasizes the emotional and experiential aspects of home design in the new podcast, aligning with the brand’s human-centered approach.",
-        "key_quotes": [
-          "“We have long admired Jeremiah's customer-centric approach and the deep emotional connection he brings to his work and relationships.”"
-        ],
-        "topics_discussed": [
-          "brand storytelling",
-          "customer empathy",
-          "content strategy"
-        ],
-        "relevance_score": 7,
-        "relevance_reason": "Reinforces Leaman’s focus on emotional storytelling—Presti can support with imagery that evokes empathy and belonging.",
-        "sales_insights": [
-          "Suggest imagery for podcast promotion",
-          "Offer visuals that align with emotional storytelling",
-          "Position Presti as a creative partner for content"
-        ]
-      },
-      {
-        "title": "California Closets Introduces First Custom Design Collection",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2019/10/03/1924658/0/en/California-Closets-Introduces-First-Custom-Design-Collection.html",
-        "published_date": "October 03, 2019",
-        "format": "press_release",
-        "executive_name": "Bill Barton",
-        "executive_title": "CEO",
-        "summary": "Bill Barton introduces the Paxton Collection, a customizable design line for multiple rooms, emphasizing elevated design and functionality.",
-        "key_quotes": [
-          "“Paxton defines the first of many custom collections that we believe will not only visually appeal to our customers, but will also address the ways in which they live today.”"
-        ],
-        "topics_discussed": [
-          "product innovation",
-          "design",
-          "merchandising"
-        ],
-        "relevance_score": 0,
-        "relevance_reason": "Published before 2020—excluded due to date cutoff.",
-        "sales_insights": []
       }
     ],
     "key_executives_identified": [
       {
-        "name": "Edward Leaman",
-        "title": "Chief Brand Officer",
-        "relevance": "Leads brand strategy and emotional positioning—key for aligning Presti’s visual storytelling.",
-        "content_count": 3
+        "name": "Brian Cornell",
+        "title": "Chair and Chief Executive Officer",
+        "relevance": "Primary strategic voice shaping Target’s omnichannel, assortment, and brand culture priorities.",
+        "content_count": 5
       },
       {
-        "name": "Charlie Chase",
-        "title": "President & CEO",
-        "relevance": "Sets overall brand and media direction, including storytelling via podcast and brand messaging.",
-        "content_count": 3
-      },
-      {
-        "name": "Heather Woods",
-        "title": "Director of Sales & Marketing (Southwest Florida)",
-        "relevance": "Represents regional marketing leadership focused on digital reputation and customer experience.",
+        "name": "Lisa Roath",
+        "title": "Chief Marketing Officer",
+        "relevance": "Leads marketing strategy focused on value, ease, and differentiation—key for visual content alignment.",
         "content_count": 1
       },
       {
-        "name": "Danielle Olivari",
-        "title": "Product Manager, Digital Technology",
-        "relevance": "Oversees digital content systems—relevant for scalable image deployment.",
+        "name": "Michael Fiddelke",
+        "title": "Incoming Chief Executive Officer (then COO)",
+        "relevance": "New CEO focused on turnaround, technology, design‑led innovation and simplification—strong alignment with Presti’s value.",
+        "content_count": 2
+      }
+    ],
+    "overall_assessment": {
+      "decision_maker_visibility": "high",
+      "strategic_priorities": [
+        "Omnichannel growth via digital‑physical integration and AI personalization",
+        "Assortment innovation and trend‑forward product speed to market",
+        "Turnaround via customer experience, technology, and design‑led simplification"
+      ],
+      "presti_entry_points": [
+        "Accelerate trend‑forward home imagery to support assortment innovation",
+        "Enable scalable, AI‑ready visuals for omnichannel personalization",
+        "Simplify content workflows to support turnaround and design‑led experience"
+      ],
+      "recommended_contact": "Begin with Lisa Roath, CMO—her focus on value, ease, and differentiation aligns directly with Presti’s strengths in simplifying and differentiating visual content. A pilot with marketing can demonstrate quick wins and build internal momentum."
+    },
+    "scrape_metadata": {
+      "timestamp": "2026-01-07T11:07:33.483801",
+      "model": "gpt-4o",
+      "success": true,
+      "web_search_used": true
+    }
+  },
+  "Home Depot": {
+    "company_name": "Home Depot",
+    "search_date": "2026-01-07",
+    "management_items": [
+      {
+        "title": "Tech Talks Business Features Ted Decker and Fahim Siddiqui of The Home Depot",
+        "source": "Georgia Tech Tech Talks Business",
+        "url": "https://www.scheller.gatech.edu/news/2024/tech-talks-business-features-ted-decker-and-fahim-siddiqui-of-the-home-depot.html",
+        "published_date": "September 03, 2024",
+        "format": "keynote",
+        "executive_name": "Ted Decker",
+        "executive_title": "Chair, President, and CEO",
+        "summary": "Ted Decker and Fahim Siddiqui discuss Home Depot’s culture, technology innovation, and the seamless integration of online and in-store experiences, including AI-driven search and supply chain efficiencies.",
+        "key_quotes": [
+          "Retail has changed more in the last 3 years than it has in the last 30 years… we aggressively designed strategies to go after our own business.",
+          "Currently, the company is the fifth largest online e‑commerce business in the U.S., with 60 percent of The Home Depot's transactions starting online.",
+          "As more customers search online, they look for solutions rather than simply searching for products."
+        ],
+        "topics_discussed": [
+          "digital transformation",
+          "e‑commerce scale",
+          "AI search",
+          "omnichannel integration"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Highlights Home Depot’s focus on AI-powered search and seamless visual customer journeys—directly relevant to Presti’s lifestyle imagery solution.",
+        "sales_insights": [
+          "Position Presti as a way to enhance solution-oriented visual search experiences.",
+          "Emphasize scale: support high-volume, online-first transactions.",
+          "Tie into omnichannel strategy by bridging in-store and digital visual consistency."
+        ]
+      },
+      {
+        "title": "A conversation with Fahim Siddiqui, EVP and CIO at Home Depot",
+        "source": "Thoughtworks DTO Transform.ed Series",
+        "url": "https://www.thoughtworks.com/en-cl/about-us/events/webinars/dto-transformed-series/a-conversation-with-fahim-siddiqui-evp-cio-home-depot",
+        "published_date": "2024 (exact date not specified)",
+        "format": "webinar",
+        "executive_name": "Fahim Siddiqui",
+        "executive_title": "Executive Vice President and Chief Information Officer",
+        "summary": "Fahim Siddiqui outlines Home Depot’s digital transformation vision, including leveraging cloud-based engineering, agile development, and innovation across marketing, merchandising, data, analytics, and supply chain.",
+        "key_quotes": [
+          "They cover a lot of ground, to include Home Depot's vision for digital transformation, Generative AI…",
+          "Using an agile approach and the latest in cloud-based engineering practices, they enhance the interconnected experience across the company for customers and associates."
+        ],
+        "topics_discussed": [
+          "digital transformation",
+          "Generative AI",
+          "cloud engineering",
+          "agile innovation"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Direct insight into Home Depot’s use of generative AI and cloud infrastructure—key enablers for Presti’s AI imagery solution.",
+        "sales_insights": [
+          "Frame Presti as a generative AI partner aligned with their digital transformation.",
+          "Highlight cloud-native deployment and agile integration.",
+          "Position Presti as enhancing merchandising and marketing with scalable AI-generated visuals."
+        ]
+      },
+      {
+        "title": "Home Depot elevates CIO from within as AI adoption plans progress",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/home-depot-cio-appointment-angie-brown/749514/",
+        "published_date": "June 2, 2025",
+        "format": "article",
+        "executive_name": "Angie Brown",
+        "executive_title": "Executive Vice President and Chief Information Officer",
+        "summary": "Angie Brown is appointed EVP and CIO, leading technology strategy and AI adoption. Home Depot has piloted over 175 machine learning and generative AI use cases, including in-store productivity tools and cloud-based AI capabilities.",
+        "key_quotes": [
+          "Her strategic vision and deep expertise have been instrumental in transforming Home Depot's interconnected experience, making home improvement more modern, more seamless and more convenient.",
+          "By mid‑2024, Home Depot was piloting more than 175 machine learning and generative AI use cases."
+        ],
+        "topics_discussed": [
+          "AI adoption",
+          "machine learning",
+          "cloud infrastructure",
+          "technology leadership"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Demonstrates Home Depot’s aggressive generative AI experimentation—Presti can align with their AI roadmap and offer visual content use cases.",
+        "sales_insights": [
+          "Pitch Presti as a mature generative AI partner ready for rapid deployment.",
+          "Offer pilot programs to integrate Presti’s imagery into existing AI use cases.",
+          "Emphasize modernization and convenience in visual content workflows."
+        ]
+      },
+      {
+        "title": "Home Depot builds a revised growth strategy",
+        "source": "Digital Commerce 360",
+        "url": "https://www.digitalcommerce360.com/2024/06/20/home-depot-builds-a-revised-growth-strategy/",
+        "published_date": "June 20, 2024",
+        "format": "article",
+        "executive_name": "Ted Decker",
+        "executive_title": "Chairman, President and CEO",
+        "summary": "Ted Decker announces Jordan Boggi’s elevation to EVP of Customer Experience and President of Online, emphasizing data-driven innovation to remove friction across digital and physical channels, alongside the strategic acquisition of SRS Distribution to expand market reach.",
+        "key_quotes": [
+          "In his role as president of our online business, [Boggi] brought data‑driven innovation and value to the millions of customers and suppliers who use our website and mobile app.",
+          "We continue to remove friction from our customers’ interconnected experience."
+        ],
+        "topics_discussed": [
+          "customer experience",
+          "e‑commerce innovation",
+          "digital friction reduction",
+          "strategic acquisition"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Focus on frictionless customer journeys and digital innovation aligns with Presti’s ability to streamline visual content creation at scale.",
+        "sales_insights": [
+          "Target Jordan Boggi with messaging around reducing visual content friction.",
+          "Highlight how Presti supports seamless customer experience across channels.",
+          "Tie into e‑commerce growth and acquisition-driven expansion."
+        ]
+      },
+      {
+        "title": "Home Depot Names Jordan Broggi Executive Vice Pres of Customer Experience and Pres of Online",
+        "source": "Wall Street Journal",
+        "url": "https://www.wsj.com/articles/home-depot-names-jordan-broggi-executive-vice-pres-of-customer-experience-and-pres-of-online-hd-0b04be28",
+        "published_date": "May 30, 2024",
+        "format": "article",
+        "executive_name": "Jordan Broggi",
+        "executive_title": "Executive Vice President of Customer Experience and President of Online",
+        "summary": "Jordan Broggi is appointed to oversee online operations and customer experience, focusing on digital strategy, online shopping platforms, and customer-centric innovation.",
+        "key_quotes": [
+          "He will oversee the company's online business operations and initiatives to enhance customer experience."
+        ],
+        "topics_discussed": [
+          "online operations",
+          "customer experience",
+          "digital strategy"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Broggi’s role in digital CX and online operations makes him a key target for Presti’s visual content solution.",
+        "sales_insights": [
+          "Approach Broggi with value proposition around enhancing online visual merchandising.",
+          "Emphasize customer-centric imagery that scales with online operations.",
+          "Offer pilot visuals for mobile and web platforms."
+        ]
+      },
+      {
+        "title": "CEO Craig Menear Talks Innovation: Follow the Consumer",
+        "source": "The Aspen Institute / Home Depot corporate",
+        "url": "https://corporate.homedepot.com/news/leadership/ceo-craig-menear-talks-innovation-follow-consumer",
+        "published_date": "2024 (crawled recently)",
+        "format": "article",
+        "executive_name": "Craig Menear",
+        "executive_title": "CEO",
+        "summary": "Craig Menear emphasizes rapid retail change, the importance of innovation, and consumer-centric strategy. He describes internal 'war games' to anticipate disruptors and foster entrepreneurial spirit.",
+        "key_quotes": [
+          "Retail has changed more in the last 3 years than it has in the last 30 years… we aggressively designed strategies to go after our own business.",
+          "Our leadership team did a ‘war games’ exercise… it really lit a fire under our value of creating an entrepreneurial spirit throughout our company."
+        ],
+        "topics_discussed": [
+          "innovation",
+          "consumer focus",
+          "strategic agility",
+          "entrepreneurial culture"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Highlights Home Depot’s proactive innovation culture—Presti can position itself as a disruptive visual content partner.",
+        "sales_insights": [
+          "Frame Presti as an entrepreneurial, disruptive solution aligned with their innovation mindset.",
+          "Suggest war‑game style pilot to demonstrate Presti’s impact.",
+          "Emphasize speed and agility in visual content generation."
+        ]
+      },
+      {
+        "title": "Watch CNBC's full interview with The Home Depot CEO Ted Decker",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/video/2024/11/15/watch-cnbcs-full-interview-with-the-home-depot-ceo-ted-decker.html",
+        "published_date": "November 15, 2024",
+        "format": "interview",
+        "executive_name": "Ted Decker",
+        "executive_title": "President and CEO",
+        "summary": "Ted Decker discusses Home Depot’s earnings, raised outlook, and strategic focus areas during a CNBC 'Squawk Box' interview.",
+        "key_quotes": [
+          "Watch CNBC's full interview with The Home Depot CEO Ted Decker."
+        ],
+        "topics_discussed": [
+          "earnings outlook",
+          "strategic direction",
+          "market positioning"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Provides high-level strategic context and CEO visibility, though less focused on visual or digital specifics.",
+        "sales_insights": [
+          "Use CEO-level messaging to align Presti with financial and strategic growth.",
+          "Position Presti as supporting improved margins via scalable imagery."
+        ]
+      },
+      {
+        "title": "Home Depot CEO: We are looking for housing to unlock",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/video/2024/11/15/home-depot-ceo-we-are-looking-for-housing-to-unlock.html",
+        "published_date": "November 15, 2024",
+        "format": "interview",
+        "executive_name": "Ted Decker",
+        "executive_title": "CEO",
+        "summary": "In this CNBC segment, Ted Decker mentions Home Depot’s strategic interest in unlocking housing opportunities as part of broader growth initiatives.",
+        "key_quotes": [
+          "We are looking for housing to unlock."
+        ],
+        "topics_discussed": [
+          "housing market",
+          "growth strategy",
+          "market expansion"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Signals strategic growth areas but less directly tied to digital or visual content needs.",
+        "sales_insights": [
+          "Position Presti as supporting visual content for housing-related product lines.",
+          "Align with growth in housing segments needing scalable imagery."
+        ]
+      }
+    ],
+    "key_executives_identified": [
+      {
+        "name": "Ted Decker",
+        "title": "Chair, President and CEO",
+        "relevance": "Sets overall strategic vision, innovation, and digital transformation priorities.",
+        "content_count": 5
+      },
+      {
+        "name": "Fahim Siddiqui",
+        "title": "Executive Vice President and Chief Information Officer",
+        "relevance": "Leads digital transformation, AI, and technology infrastructure—critical for Presti’s integration.",
+        "content_count": 2
+      },
+      {
+        "name": "Angie Brown",
+        "title": "Executive Vice President and Chief Information Officer",
+        "relevance": "Now leading AI adoption and tech strategy—key decision-maker for generative AI solutions.",
         "content_count": 1
       },
       {
-        "name": "Beth Warren",
-        "title": "SVP of Experience and Planning, Creative Realities",
-        "relevance": "Driving experiential retail innovation—opportunity for imagery in tech-enabled showrooms.",
+        "name": "Jordan Broggi",
+        "title": "Executive Vice President of Customer Experience and President of Online",
+        "relevance": "Oversees online CX and e‑commerce—primary target for visual content innovation.",
+        "content_count": 2
+      },
+      {
+        "name": "Craig Menear",
+        "title": "CEO (prior to Decker)",
+        "relevance": "Articulated innovation culture and consumer focus—foundational leadership context.",
         "content_count": 1
       }
     ],
     "overall_assessment": {
       "decision_maker_visibility": "medium",
       "strategic_priorities": [
-        "Emotional brand repositioning toward 'belonging'",
-        "Content-driven storytelling via podcast and branded materials",
-        "Digital scalability and localized content control",
-        "Experiential retail enhancements with tech integration"
+        "Accelerating digital transformation and AI adoption across customer experience and operations",
+        "Seamless omnichannel integration and reducing friction in customer journeys",
+        "Innovation culture and entrepreneurial agility to preempt disruptors"
       ],
       "presti_entry_points": [
-        "Visual storytelling aligned to 'belonging' brand narrative",
-        "Scalable lifestyle imagery for local franchise content",
-        "Imagery for tech-table and showroom experiential displays"
+        "Generative AI imagery to enhance solution-oriented search experiences",
+        "Scalable visual content to support omnichannel customer experience",
+        "Pilot visual workflows aligned with their agile innovation mindset"
       ],
-      "recommended_contact": "Target Edward Leaman first—he’s the architect of the brand’s emotional repositioning and has already led content initiatives. Presti can align directly with his vision to visually express 'belonging' at scale."
+      "recommended_contact": "Begin with Angie Brown (EVP & CIO) to align on generative AI infrastructure and pilot opportunities, then engage Jordan Broggi (EVP Customer Experience & President of Online) to demonstrate how Presti can enhance online visual merchandising and customer experience."
     },
     "scrape_metadata": {
-      "timestamp": "2026-01-06T17:51:31.734542",
+      "timestamp": "2026-01-07T11:08:03.866589",
+      "model": "gpt-4o",
+      "success": true,
+      "web_search_used": true
+    }
+  },
+  "Lowe's": {
+    "company_name": "Lowe's",
+    "interviews": [
+      {
+        "title": "How Lowe's is Reimagining the Digital Customer Journey",
+        "source": "Total Retail Talks Podcast",
+        "url": "https://www.mytotalretail.com/podcast/total-retail-talks/how-lowes-is-reimagining-the-digital-customer-journey/",
+        "published_date": "2025-01-01",
+        "date": "2025-01-01",
+        "executive_name": "Joe Cano",
+        "executive_title": "Senior Vice President of Digital and E-commerce",
+        "format": "Podcast",
+        "summary": "Joe Cano discusses Lowe's digital strategy, focusing on personalization and marketplace expansion.",
+        "key_quotes": [
+          "Lowe's personalizes digital shopping for DIY and pro customers using real-time data and AI for support and recommendations."
+        ],
+        "topics_discussed": [
+          "Digital strategy",
+          "E-commerce",
+          "Personalization",
+          "Marketplace expansion"
+        ],
+        "key_insights": [
+          "Emphasizes a closed third-party marketplace to expand products and attract customers."
+        ],
+        "sales_insights": [
+          "Cano oversees digital strategy, sales, P&L, and omnichannel experiences."
+        ],
+        "relevance_reason": "Deep insights on digital strategy and e-commerce operations.",
+        "relevance_score": 9
+      },
+      {
+        "title": "Lowe's wants to do more with AI shopping in 2026",
+        "source": "Modern Retail",
+        "url": "https://www.modernretail.co/technology/lowes-wants-to-do-more-with-ai-shopping-in-2026/",
+        "published_date": "2025-01-01",
+        "date": "2025-12-01",
+        "executive_name": "Joe Cano",
+        "executive_title": "Senior Vice President of Digital Commerce",
+        "format": "Article",
+        "summary": "Joe Cano outlines plans for AI-powered personalization and video content expansion.",
+        "key_quotes": [
+          "Plans AI-powered personalization on websites using first-party data for tailored recommendations."
+        ],
+        "topics_discussed": [
+          "AI personalization",
+          "Video content",
+          "E-commerce growth"
+        ],
+        "key_insights": [
+          "Expanding video content on high-ticket product pages to boost conversions."
+        ],
+        "sales_insights": [
+          "Online sales grew 11.4% in Q3 2025 via SEO, ads, and marketplace growth."
+        ],
+        "relevance_reason": "Strong strategic insights on AI and e-commerce innovation.",
+        "relevance_score": 8
+      },
+      {
+        "title": "Lowe's puts tech first in its 2025 CX plans",
+        "source": "Customer Experience Dive",
+        "url": "https://www.customerexperiencedive.com/news/lowes-investor-day-2024-loyalty-generative-ai-experience/735320/",
+        "published_date": "2024-01-01",
+        "date": "2024-01-01",
+        "executive_name": "Seemantini Godbole",
+        "executive_title": "Chief Digital and Information Officer",
+        "format": "Article",
+        "summary": "Seemantini Godbole discusses combining in-store and online experiences via AI.",
+        "key_quotes": [
+          "Combining in-store and online experiences via AI, including guided selling tools."
+        ],
+        "topics_discussed": [
+          "AI integration",
+          "Customer experience",
+          "Loyalty program"
+        ],
+        "key_insights": [
+          "Relaunching loyalty program as MyLowe's Pro Rewards for faster rewards."
+        ],
+        "sales_insights": [
+          "Part of broader tech revamp to grow market share against competitors."
+        ],
+        "relevance_reason": "Deep insights on digital strategy and customer experience.",
+        "relevance_score": 9
+      },
+      {
+        "title": "Lowe's new CMO on shifting customer loyalties and big challenges",
+        "source": "Retail Brew",
+        "url": "https://www.retailbrew.com/stories/2024/06/18/lowe-s-new-cmo-on-shifting-customer-loyalties-and-big-challenges",
+        "published_date": "2024-06-18",
+        "date": "2024-06-18",
+        "executive_name": "Jennifer Wilson",
+        "executive_title": "Chief Marketing Officer",
+        "format": "Article",
+        "summary": "Jennifer Wilson discusses maintaining customer loyalty and strategic marketing.",
+        "key_quotes": [
+          "Primary focus is maintaining customer loyalty by combining automation with human analysis."
+        ],
+        "topics_discussed": [
+          "Customer loyalty",
+          "Marketing strategy",
+          "Retail media network"
+        ],
+        "key_insights": [
+          "Strategy emphasizes the retail media network's role in partnering with vendors."
+        ],
+        "sales_insights": [
+          "Positioning Lowe's as the preferred brand for millennials and Gen Z."
+        ],
+        "relevance_reason": "Strong strategic insights on marketing and customer experience.",
+        "relevance_score": 8
+      },
+      {
+        "title": "CMO of the Week: Lowe's Jennifer Wilson",
+        "source": "Brand Innovators",
+        "url": "https://brand-innovators.com/cmo-of-the-week-lowes-jennifer-wilson/",
+        "published_date": "2024-01-01",
+        "date": "2024-01-01",
+        "executive_name": "Jennifer Wilson",
+        "executive_title": "Chief Marketing Officer",
+        "format": "Article",
+        "summary": "Jennifer Wilson discusses her role as a revenue driver and strategic marketing approaches.",
+        "key_quotes": [
+          "Views the marketer's role as a revenue driver and pushes against the notion that marketing doesn't own a P&L."
+        ],
+        "topics_discussed": [
+          "Marketing strategy",
+          "Revenue generation",
+          "Brand positioning"
+        ],
+        "key_insights": [
+          "Emphasizes 'jobs to be done' framework as a core strategic approach."
+        ],
+        "sales_insights": [
+          "Retail media network focuses on ensuring vendor partners' brands align with Lowe's priorities."
+        ],
+        "relevance_reason": "Strong strategic insights on marketing and innovation.",
+        "relevance_score": 8
+      },
+      {
+        "title": "How Lowe's Builds for the Future of Marketing, Branding, and Loyalty",
+        "source": "Retail Brew",
+        "url": "https://www.retailbrew.com/stories/2024/06/18/lowe-s-new-cmo-on-shifting-customer-loyalties-and-big-challenges",
+        "published_date": "2024-01-01",
+        "date": "2024-01-01",
+        "executive_name": "Jennifer Wilson",
+        "executive_title": "Chief Marketing Officer",
+        "format": "Video",
+        "summary": "Jennifer Wilson discusses strategic focus on marketing and brand loyalty.",
+        "key_quotes": [
+          "Emphasizes that marketers should view themselves as revenue drivers for the company."
+        ],
+        "topics_discussed": [
+          "Marketing strategy",
+          "Brand loyalty",
+          "Revenue generation"
+        ],
+        "key_insights": [
+          "Pushing against category convention and bringing strategic focus to 'jobs to be done' framework."
+        ],
+        "sales_insights": [
+          "Integrated approach to brand strategy informed by merchandising and marketing experience."
+        ],
+        "relevance_reason": "Strong strategic insights on marketing and brand strategy.",
+        "relevance_score": 8
+      },
+      {
+        "title": "Lowe's CIO Explains Current Cybersecurity Concerns",
+        "source": "YouTube",
+        "url": "https://www.youtube.com/watch?v=tf2LEL8DDIU",
+        "published_date": "2024-01-01",
+        "date": "2024-01-01",
+        "executive_name": "Seemantini Godbole",
+        "executive_title": "Chief Digital and Information Officer",
+        "format": "Video",
+        "summary": "Seemantini Godbole addresses cybersecurity challenges and AI threats.",
+        "key_quotes": [
+          "Addresses cybersecurity challenges, anti-theft measures, and AI threats like ChatGPT as top concerns."
+        ],
+        "topics_discussed": [
+          "Cybersecurity",
+          "AI threats",
+          "Technology investments"
+        ],
+        "key_insights": [
+          "Lowe's invests in over 50 AI products and micro data centers for efficient operations."
+        ],
+        "sales_insights": [
+          "Emphasizes tech's role in business transformation and new opportunities."
+        ],
+        "relevance_reason": "Deep insights on technology adoption and cybersecurity.",
+        "relevance_score": 9
+      },
+      {
+        "title": "How Lowe’s is trying to spruce up shopping with AI, mixed-reality headsets, and other new technologies",
+        "source": "Fortune",
+        "url": "https://fortune.com/2024/12/18/lowes-cio-ai-tech/",
+        "published_date": "2024-12-18",
+        "date": "2024-12-18",
+        "executive_name": "Seemantini Godbole",
+        "executive_title": "Chief Information Officer and Chief Digital Officer",
+        "format": "Article",
+        "summary": "Seemantini Godbole discusses AI and mixed-reality innovations to modernize shopping.",
+        "key_quotes": [
+          "Focuses on AI, mixed-reality headsets, and other innovations to modernize shopping."
+        ],
+        "topics_discussed": [
+          "AI integration",
+          "Mixed-reality",
+          "Technology modernization"
+        ],
+        "key_insights": [
+          "Notes IT outages now demand CEO-level attention on communications and risk protocols."
+        ],
+        "sales_insights": [
+          "Emphasizes business tech savvy and leadership in tech infrastructure revamp."
+        ],
+        "relevance_reason": "Deep insights on technology adoption and innovation.",
+        "relevance_score": 9
+      },
+      {
+        "title": "How Lowe's Has Prioritized its Tech and Innovation Strategy",
+        "source": "MyTotalRetail",
+        "url": "https://www.mytotalretail.com/video/total-retail-tech/how-lowes-has-prioritized-its-tech-and-innovation-strategy/",
+        "published_date": "2024-01-01",
+        "date": "2024-01-01",
+        "executive_name": "Josh Shabtai",
+        "executive_title": "Senior Director of Ecosystem at Lowe's Innovation Labs",
+        "format": "Video",
+        "summary": "Josh Shabtai discusses the four pillars guiding Lowe's Innovation Labs.",
+        "key_quotes": [
+          "Details four pillars guiding Lowe's Innovation Labs to focus emerging tech on home improvement."
+        ],
+        "topics_discussed": [
+          "Innovation strategy",
+          "Emerging technology",
+          "Home improvement"
+        ],
+        "key_insights": [
+          "Aims to imagine, explore, and accelerate innovations ensuring alignment with broader Lowe's priorities."
+        ],
+        "sales_insights": [
+          "Aligning innovation strategy with Lowe's broader priorities."
+        ],
+        "relevance_reason": "Deep insights on innovation strategy and technology adoption.",
+        "relevance_score": 9
+      },
+      {
+        "title": "Lowe's CEO Used to Make $4.35 an Hour Working at Target",
+        "source": "Fortune",
+        "url": "https://fortune.com/2025/11/27/lowes-ceo-marvin-ellison-success-story-from-hourly-target-worker-to-fortune-500-ceo/",
+        "published_date": "2025-11-27",
+        "date": "2025-11-27",
+        "executive_name": "Marvin Ellison",
+        "executive_title": "CEO",
+        "format": "Article",
+        "summary": "Marvin Ellison shares his journey from hourly worker to CEO and discusses AI integration.",
+        "key_quotes": [
+          "We're preparing to be at our best when the cycle turns up, and we know that's going to happen."
+        ],
+        "topics_discussed": [
+          "Leadership journey",
+          "AI integration",
+          "Diversity and inclusion"
+        ],
+        "key_insights": [
+          "Emphasizes 'talk less and do more' by prioritizing diverse hires."
+        ],
+        "sales_insights": [
+          "Over 50 AI models for sourcing, inventory, pricing, and retail environment."
+        ],
+        "relevance_reason": "Deep insights on leadership and AI integration.",
+        "relevance_score": 9
+      },
+      {
+        "title": "Marvin Ellison's Journey To Leading Lowe's As The Top Black CEO",
+        "source": "AFROTECH",
+        "url": "https://afrotech.com/marvin-ellison-leading-lowes-few-black-fortune-500-ceos",
+        "published_date": "2025-01-01",
+        "date": "2025-01-01",
+        "executive_name": "Marvin Ellison",
+        "executive_title": "President, CEO, and Chairman",
+        "format": "Article",
+        "summary": "Marvin Ellison discusses representation and supplier opportunities for minority entrepreneurs.",
+        "key_quotes": [
+          "Mixed emotions as top Black Fortune 500 CEO by revenue; aims to role model and create pathways."
+        ],
+        "topics_discussed": [
+          "Leadership",
+          "Diversity",
+          "Supplier opportunities"
+        ],
+        "key_insights": [
+          "Creates access for minority entrepreneurs to sell products in Lowe's $100B retail channels."
+        ],
+        "sales_insights": [
+          "High performance benefits shareholders and future diverse leaders."
+        ],
+        "relevance_reason": "Deep insights on leadership and diversity.",
+        "relevance_score": 9
+      },
+      {
+        "title": "Lowe's CEO's Advice for Young Workers As AI Replaces Jobs",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/lowes-ceo-advice-stay-close-to-customer-ai-job-disruption-2025-6",
+        "published_date": "2025-06-01",
+        "date": "2025-06-01",
+        "executive_name": "Marvin Ellison",
+        "executive_title": "CEO",
+        "format": "Article",
+        "summary": "Marvin Ellison offers career advice in the context of AI job disruption.",
+        "key_quotes": [
+          "AI isn't going to fix a hole in your roof or handle electrical/water issues."
+        ],
+        "topics_discussed": [
+          "AI job disruption",
+          "Career advice",
+          "Education support"
+        ],
+        "key_insights": [
+          "Stay as close to the cash register as you can and close to customers for enduring opportunities."
+        ],
+        "sales_insights": [
+          "Tuition-free programs for employees, who may then work for Lowe's customers like contractors."
+        ],
+        "relevance_reason": "Deep insights on leadership and AI job disruption.",
+        "relevance_score": 9
+      }
+    ],
+    "management_items": [
+      {
+        "title": "How Lowe's is Reimagining the Digital Customer Journey",
+        "source": "Total Retail Talks Podcast",
+        "url": "https://www.mytotalretail.com/podcast/total-retail-talks/how-lowes-is-reimagining-the-digital-customer-journey/",
+        "published_date": "2025-01-01",
+        "date": "2025-01-01",
+        "executive_name": "Joe Cano",
+        "executive_title": "Senior Vice President of Digital and E-commerce",
+        "format": "Podcast",
+        "summary": "Joe Cano discusses Lowe's digital strategy, focusing on personalization and marketplace expansion.",
+        "key_quotes": [
+          "Lowe's personalizes digital shopping for DIY and pro customers using real-time data and AI for support and recommendations."
+        ],
+        "topics_discussed": [
+          "Digital strategy",
+          "E-commerce",
+          "Personalization",
+          "Marketplace expansion"
+        ],
+        "key_insights": [
+          "Emphasizes a closed third-party marketplace to expand products and attract customers."
+        ],
+        "sales_insights": [
+          "Cano oversees digital strategy, sales, P&L, and omnichannel experiences."
+        ],
+        "relevance_reason": "Deep insights on digital strategy and e-commerce operations.",
+        "relevance_score": 9
+      },
+      {
+        "title": "Lowe's wants to do more with AI shopping in 2026",
+        "source": "Modern Retail",
+        "url": "https://www.modernretail.co/technology/lowes-wants-to-do-more-with-ai-shopping-in-2026/",
+        "published_date": "2025-01-01",
+        "date": "2025-12-01",
+        "executive_name": "Joe Cano",
+        "executive_title": "Senior Vice President of Digital Commerce",
+        "format": "Article",
+        "summary": "Joe Cano outlines plans for AI-powered personalization and video content expansion.",
+        "key_quotes": [
+          "Plans AI-powered personalization on websites using first-party data for tailored recommendations."
+        ],
+        "topics_discussed": [
+          "AI personalization",
+          "Video content",
+          "E-commerce growth"
+        ],
+        "key_insights": [
+          "Expanding video content on high-ticket product pages to boost conversions."
+        ],
+        "sales_insights": [
+          "Online sales grew 11.4% in Q3 2025 via SEO, ads, and marketplace growth."
+        ],
+        "relevance_reason": "Strong strategic insights on AI and e-commerce innovation.",
+        "relevance_score": 8
+      },
+      {
+        "title": "Lowe's puts tech first in its 2025 CX plans",
+        "source": "Customer Experience Dive",
+        "url": "https://www.customerexperiencedive.com/news/lowes-investor-day-2024-loyalty-generative-ai-experience/735320/",
+        "published_date": "2024-01-01",
+        "date": "2024-01-01",
+        "executive_name": "Seemantini Godbole",
+        "executive_title": "Chief Digital and Information Officer",
+        "format": "Article",
+        "summary": "Seemantini Godbole discusses combining in-store and online experiences via AI.",
+        "key_quotes": [
+          "Combining in-store and online experiences via AI, including guided selling tools."
+        ],
+        "topics_discussed": [
+          "AI integration",
+          "Customer experience",
+          "Loyalty program"
+        ],
+        "key_insights": [
+          "Relaunching loyalty program as MyLowe's Pro Rewards for faster rewards."
+        ],
+        "sales_insights": [
+          "Part of broader tech revamp to grow market share against competitors."
+        ],
+        "relevance_reason": "Deep insights on digital strategy and customer experience.",
+        "relevance_score": 9
+      },
+      {
+        "title": "Lowe's new CMO on shifting customer loyalties and big challenges",
+        "source": "Retail Brew",
+        "url": "https://www.retailbrew.com/stories/2024/06/18/lowe-s-new-cmo-on-shifting-customer-loyalties-and-big-challenges",
+        "published_date": "2024-06-18",
+        "date": "2024-06-18",
+        "executive_name": "Jennifer Wilson",
+        "executive_title": "Chief Marketing Officer",
+        "format": "Article",
+        "summary": "Jennifer Wilson discusses maintaining customer loyalty and strategic marketing.",
+        "key_quotes": [
+          "Primary focus is maintaining customer loyalty by combining automation with human analysis."
+        ],
+        "topics_discussed": [
+          "Customer loyalty",
+          "Marketing strategy",
+          "Retail media network"
+        ],
+        "key_insights": [
+          "Strategy emphasizes the retail media network's role in partnering with vendors."
+        ],
+        "sales_insights": [
+          "Positioning Lowe's as the preferred brand for millennials and Gen Z."
+        ],
+        "relevance_reason": "Strong strategic insights on marketing and customer experience.",
+        "relevance_score": 8
+      },
+      {
+        "title": "CMO of the Week: Lowe's Jennifer Wilson",
+        "source": "Brand Innovators",
+        "url": "https://brand-innovators.com/cmo-of-the-week-lowes-jennifer-wilson/",
+        "published_date": "2024-01-01",
+        "date": "2024-01-01",
+        "executive_name": "Jennifer Wilson",
+        "executive_title": "Chief Marketing Officer",
+        "format": "Article",
+        "summary": "Jennifer Wilson discusses her role as a revenue driver and strategic marketing approaches.",
+        "key_quotes": [
+          "Views the marketer's role as a revenue driver and pushes against the notion that marketing doesn't own a P&L."
+        ],
+        "topics_discussed": [
+          "Marketing strategy",
+          "Revenue generation",
+          "Brand positioning"
+        ],
+        "key_insights": [
+          "Emphasizes 'jobs to be done' framework as a core strategic approach."
+        ],
+        "sales_insights": [
+          "Retail media network focuses on ensuring vendor partners' brands align with Lowe's priorities."
+        ],
+        "relevance_reason": "Strong strategic insights on marketing and innovation.",
+        "relevance_score": 8
+      },
+      {
+        "title": "How Lowe's Builds for the Future of Marketing, Branding, and Loyalty",
+        "source": "Retail Brew",
+        "url": "https://www.retailbrew.com/stories/2024/06/18/lowe-s-new-cmo-on-shifting-customer-loyalties-and-big-challenges",
+        "published_date": "2024-01-01",
+        "date": "2024-01-01",
+        "executive_name": "Jennifer Wilson",
+        "executive_title": "Chief Marketing Officer",
+        "format": "Video",
+        "summary": "Jennifer Wilson discusses strategic focus on marketing and brand loyalty.",
+        "key_quotes": [
+          "Emphasizes that marketers should view themselves as revenue drivers for the company."
+        ],
+        "topics_discussed": [
+          "Marketing strategy",
+          "Brand loyalty",
+          "Revenue generation"
+        ],
+        "key_insights": [
+          "Pushing against category convention and bringing strategic focus to 'jobs to be done' framework."
+        ],
+        "sales_insights": [
+          "Integrated approach to brand strategy informed by merchandising and marketing experience."
+        ],
+        "relevance_reason": "Strong strategic insights on marketing and brand strategy.",
+        "relevance_score": 8
+      },
+      {
+        "title": "Lowe's CIO Explains Current Cybersecurity Concerns",
+        "source": "YouTube",
+        "url": "https://www.youtube.com/watch?v=tf2LEL8DDIU",
+        "published_date": "2024-01-01",
+        "date": "2024-01-01",
+        "executive_name": "Seemantini Godbole",
+        "executive_title": "Chief Digital and Information Officer",
+        "format": "Video",
+        "summary": "Seemantini Godbole addresses cybersecurity challenges and AI threats.",
+        "key_quotes": [
+          "Addresses cybersecurity challenges, anti-theft measures, and AI threats like ChatGPT as top concerns."
+        ],
+        "topics_discussed": [
+          "Cybersecurity",
+          "AI threats",
+          "Technology investments"
+        ],
+        "key_insights": [
+          "Lowe's invests in over 50 AI products and micro data centers for efficient operations."
+        ],
+        "sales_insights": [
+          "Emphasizes tech's role in business transformation and new opportunities."
+        ],
+        "relevance_reason": "Deep insights on technology adoption and cybersecurity.",
+        "relevance_score": 9
+      },
+      {
+        "title": "How Lowe’s is trying to spruce up shopping with AI, mixed-reality headsets, and other new technologies",
+        "source": "Fortune",
+        "url": "https://fortune.com/2024/12/18/lowes-cio-ai-tech/",
+        "published_date": "2024-12-18",
+        "date": "2024-12-18",
+        "executive_name": "Seemantini Godbole",
+        "executive_title": "Chief Information Officer and Chief Digital Officer",
+        "format": "Article",
+        "summary": "Seemantini Godbole discusses AI and mixed-reality innovations to modernize shopping.",
+        "key_quotes": [
+          "Focuses on AI, mixed-reality headsets, and other innovations to modernize shopping."
+        ],
+        "topics_discussed": [
+          "AI integration",
+          "Mixed-reality",
+          "Technology modernization"
+        ],
+        "key_insights": [
+          "Notes IT outages now demand CEO-level attention on communications and risk protocols."
+        ],
+        "sales_insights": [
+          "Emphasizes business tech savvy and leadership in tech infrastructure revamp."
+        ],
+        "relevance_reason": "Deep insights on technology adoption and innovation.",
+        "relevance_score": 9
+      },
+      {
+        "title": "How Lowe's Has Prioritized its Tech and Innovation Strategy",
+        "source": "MyTotalRetail",
+        "url": "https://www.mytotalretail.com/video/total-retail-tech/how-lowes-has-prioritized-its-tech-and-innovation-strategy/",
+        "published_date": "2024-01-01",
+        "date": "2024-01-01",
+        "executive_name": "Josh Shabtai",
+        "executive_title": "Senior Director of Ecosystem at Lowe's Innovation Labs",
+        "format": "Video",
+        "summary": "Josh Shabtai discusses the four pillars guiding Lowe's Innovation Labs.",
+        "key_quotes": [
+          "Details four pillars guiding Lowe's Innovation Labs to focus emerging tech on home improvement."
+        ],
+        "topics_discussed": [
+          "Innovation strategy",
+          "Emerging technology",
+          "Home improvement"
+        ],
+        "key_insights": [
+          "Aims to imagine, explore, and accelerate innovations ensuring alignment with broader Lowe's priorities."
+        ],
+        "sales_insights": [
+          "Aligning innovation strategy with Lowe's broader priorities."
+        ],
+        "relevance_reason": "Deep insights on innovation strategy and technology adoption.",
+        "relevance_score": 9
+      },
+      {
+        "title": "Lowe's CEO Used to Make $4.35 an Hour Working at Target",
+        "source": "Fortune",
+        "url": "https://fortune.com/2025/11/27/lowes-ceo-marvin-ellison-success-story-from-hourly-target-worker-to-fortune-500-ceo/",
+        "published_date": "2025-11-27",
+        "date": "2025-11-27",
+        "executive_name": "Marvin Ellison",
+        "executive_title": "CEO",
+        "format": "Article",
+        "summary": "Marvin Ellison shares his journey from hourly worker to CEO and discusses AI integration.",
+        "key_quotes": [
+          "We're preparing to be at our best when the cycle turns up, and we know that's going to happen."
+        ],
+        "topics_discussed": [
+          "Leadership journey",
+          "AI integration",
+          "Diversity and inclusion"
+        ],
+        "key_insights": [
+          "Emphasizes 'talk less and do more' by prioritizing diverse hires."
+        ],
+        "sales_insights": [
+          "Over 50 AI models for sourcing, inventory, pricing, and retail environment."
+        ],
+        "relevance_reason": "Deep insights on leadership and AI integration.",
+        "relevance_score": 9
+      },
+      {
+        "title": "Marvin Ellison's Journey To Leading Lowe's As The Top Black CEO",
+        "source": "AFROTECH",
+        "url": "https://afrotech.com/marvin-ellison-leading-lowes-few-black-fortune-500-ceos",
+        "published_date": "2025-01-01",
+        "date": "2025-01-01",
+        "executive_name": "Marvin Ellison",
+        "executive_title": "President, CEO, and Chairman",
+        "format": "Article",
+        "summary": "Marvin Ellison discusses representation and supplier opportunities for minority entrepreneurs.",
+        "key_quotes": [
+          "Mixed emotions as top Black Fortune 500 CEO by revenue; aims to role model and create pathways."
+        ],
+        "topics_discussed": [
+          "Leadership",
+          "Diversity",
+          "Supplier opportunities"
+        ],
+        "key_insights": [
+          "Creates access for minority entrepreneurs to sell products in Lowe's $100B retail channels."
+        ],
+        "sales_insights": [
+          "High performance benefits shareholders and future diverse leaders."
+        ],
+        "relevance_reason": "Deep insights on leadership and diversity.",
+        "relevance_score": 9
+      },
+      {
+        "title": "Lowe's CEO's Advice for Young Workers As AI Replaces Jobs",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/lowes-ceo-advice-stay-close-to-customer-ai-job-disruption-2025-6",
+        "published_date": "2025-06-01",
+        "date": "2025-06-01",
+        "executive_name": "Marvin Ellison",
+        "executive_title": "CEO",
+        "format": "Article",
+        "summary": "Marvin Ellison offers career advice in the context of AI job disruption.",
+        "key_quotes": [
+          "AI isn't going to fix a hole in your roof or handle electrical/water issues."
+        ],
+        "topics_discussed": [
+          "AI job disruption",
+          "Career advice",
+          "Education support"
+        ],
+        "key_insights": [
+          "Stay as close to the cash register as you can and close to customers for enduring opportunities."
+        ],
+        "sales_insights": [
+          "Tuition-free programs for employees, who may then work for Lowe's customers like contractors."
+        ],
+        "relevance_reason": "Deep insights on leadership and AI job disruption.",
+        "relevance_score": 9
+      }
+    ],
+    "search_date": "2026-01-07T14:48:57.973894",
+    "scrape_metadata": {
+      "timestamp": "2026-01-07T14:48:57.973914",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "interviews_found": 12,
+      "themes_searched": [
+        "digital_leaders",
+        "marketing_leaders",
+        "tech_leaders",
+        "ceo_strategic"
+      ]
+    },
+    "_cache_bust": "1767793756934"
+  },
+  "La-Z-Boy": {
+    "company_name": "La-Z-Boy",
+    "search_date": "2026-01-07",
+    "management_items": [
+      {
+        "title": "La‑Z‑Boy Announces Next‑Gen 3D Product Configuration with WebAR OnDemand™, Powered by 3D Cloud by Marxent",
+        "source": "PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/la-z-boy-announces-next-gen-3d-product-configuration-with-webar-ondemand-powered-by-3d-cloud-by-marxent-301941736.html",
+        "published_date": "September 28, 2023",
+        "format": "press release / article",
+        "executive_name": "Jill Brown Thomas",
+        "executive_title": "Senior Director of Digital Commerce",
+        "summary": "La‑Z‑Boy launched WebAR OnDemand and next‑gen 3D product configuration to enable shoppers to preview millions of product combinations in AR without an app, boosting digital personalization and bridging online and in‑store experiences.",
+        "key_quotes": [
+          "AR is table stakes for today’s furniture shopper. La‑Z‑Boy customers love it, so we set out to provide AR for every buyable option in our highly configurable catalog.",
+          "Our data show that when customers conduct online research they arrive at the store better informed, resulting in a more satisfying buying experience and ultimate product satisfaction."
+        ],
+        "topics_discussed": [
+          "AR at scale",
+          "3D product configuration",
+          "digital personalization",
+          "omnichannel experience"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Demonstrates La‑Z‑Boy’s investment in scalable visual content and digital commerce—directly relevant to Presti’s AI‑generated lifestyle imagery value.",
+        "sales_insights": [
+          "Position Presti as a partner to extend AR/3D configurator content with AI‑generated lifestyle scenes.",
+          "Highlight how Presti can accelerate content creation at scale, complementing their WebAR strategy.",
+          "Emphasize seamless integration into omnichannel workflows to enhance informed shopping."
+        ]
+      },
+      {
+        "title": "See what La‑Z‑Boy is doing with the latest AR technology",
+        "source": "Furniture Today",
+        "url": "https://www.furnituretoday.com/e-commerce/see-what-la-z-boy-is-doing-with-the-latest-ar-technology/",
+        "published_date": "September 28, 2023",
+        "format": "article",
+        "executive_name": "Jill Brown Thomas",
+        "executive_title": "Senior Director of Digital Commerce",
+        "summary": "Furniture Today covers La‑Z‑Boy’s launch of WebAR OnDemand and 3D configurators, highlighting digital innovation under the Century Vision strategy and how AR improves shopper readiness and satisfaction.",
+        "key_quotes": [
+          "AR is table stakes for today’s furniture shopper. La‑Z‑Boy customers love it, so we set out to provide AR for every buyable option in our highly configurable catalog.",
+          "This program exemplifies the Century Vision strategic plan in action."
+        ],
+        "topics_discussed": [
+          "digital innovation",
+          "AR technology",
+          "Century Vision strategy",
+          "customer experience"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Reinforces digital commerce and AR strategy with executive commentary, validating Presti’s relevance in visual content scale.",
+        "sales_insights": [
+          "Reiterate Presti’s ability to support digital innovation initiatives.",
+          "Frame Presti as a way to scale visual content across millions of configurations.",
+          "Tie into Century Vision messaging around immersive brand experiences."
+        ]
+      },
+      {
+        "title": "La‑Z‑Boy rolls out AI‑powered ‘decliner’ as part of brand refresh",
+        "source": "Marketing Dive",
+        "url": "https://www.marketingdive.com/news/la-z-boy-brand-refresh-ai-decliner-campaign/690248/",
+        "published_date": "August 9, 2023",
+        "format": "article",
+        "executive_name": "Christy Hoskins",
+        "executive_title": "Vice President and CMO",
+        "summary": "La‑Z‑Boy launched the “Long Live The Lazy” marketing platform and AI‑powered Decliner prototype to modernize its brand and reach new consumer segments via creative, AI‑driven campaigns.",
+        "key_quotes": [
+          "Our ‘Long Live the Lazy’ platform reflects the reality that everyone occasionally needs the time and space to power down, kick up their feet and make comfort their top priority."
+        ],
+        "topics_discussed": [
+          "brand refresh",
+          "AI marketing",
+          "consumer engagement",
+          "modernized identity"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Shows CMO’s focus on AI and creative brand storytelling—aligns with Presti’s ability to generate lifestyle visuals for marketing campaigns.",
+        "sales_insights": [
+          "Pitch Presti as a tool to support AI‑driven marketing creativity.",
+          "Emphasize speed and novelty in generating campaign visuals.",
+          "Align with brand refresh messaging around comfort and modern identity."
+        ]
+      },
+      {
+        "title": "La‑Z‑Boy Sets Out to Reach New Customers with ‘Long Live the Lazy’ Marketing Push",
+        "source": "Retail TouchPoints",
+        "url": "https://www.retailtouchpoints.com/topics/digital-marketing/la-z-boy-sets-out-to-reach-new-customers-with-long-live-the-lazy-marketing-push",
+        "published_date": "August 8, 2023",
+        "format": "article",
+        "executive_name": "Christy Hoskins",
+        "executive_title": "VP and Chief Marketing Officer",
+        "summary": "Retail TouchPoints details La‑Z‑Boy’s integrated “Long Live the Lazy” campaign, including AI Decliner activation and expanded media channels to reach broader audiences.",
+        "key_quotes": [
+          "As La‑Z‑Boy continues to evolve, we are doubling down on designing the most comfortable furniture available so people can make the most of the lazy moments they rightfully deserve.",
+          "La‑Z‑Boy is focused on reaching a broader set of customers by showing we understand the role our transformational comfort plays in their day‑to‑day lives."
+        ],
+        "topics_discussed": [
+          "marketing strategy",
+          "brand evolution",
+          "consumer targeting",
+          "AI activation"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Further insight into CMO’s strategic direction and creative marketing—useful for positioning Presti’s visual storytelling capabilities.",
+        "sales_insights": [
+          "Offer Presti as a creative asset engine for multi‑channel campaigns.",
+          "Highlight ability to tailor visuals to diverse consumer segments.",
+          "Support brand evolution with fresh, AI‑generated imagery."
+        ]
+      },
+      {
+        "title": "La‑Z‑Boy Incorporated Releases FY2024 Impact Report Highlighting Sustainability and Community Action",
+        "source": "GlobeNewswire",
+        "url": "https://lazboy.gcs-web.com/news-releases/news-release-details/la-z-boy-incorporated-releases-fy2024-impact-report-highlighting",
+        "published_date": "January 10, 2025",
+        "format": "press release / article",
+        "executive_name": "Melinda Whittington",
+        "executive_title": "Board Chair, President and Chief Executive Officer",
+        "summary": "CEO Melinda Whittington emphasizes sustainability and community in the FY2024 Impact Report, detailing emissions reduction targets, recycling achievements, and Century Vision’s integration of purpose and growth.",
+        "key_quotes": [
+          "Our 2024 Impact Report is more than a reflection of our progress — it’s a testament to what we can achieve when we stay true to our values.",
+          "We are intentional about our impact and what it means for the future."
+        ],
+        "topics_discussed": [
+          "sustainability",
+          "corporate purpose",
+          "Century Vision",
+          "community impact"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Highlights CEO’s strategic emphasis on sustainability and values—Presti can align with eco‑friendly visual production messaging.",
+        "sales_insights": [
+          "Position Presti’s AI imagery as sustainable alternative to photo shoots.",
+          "Emphasize reduced environmental impact in content creation.",
+          "Align with Century Vision’s purpose‑driven strategy."
+        ]
+      },
+      {
+        "title": "La‑Z‑Boy’s Strategic Resilience: Navigating Challenges with a Focus on Margin Growth",
+        "source": "Ainvest (analysis)",
+        "url": "https://www.ainvest.com/news/la-boy-strategic-resilience-navigating-challenges-focus-margin-growth-2506/",
+        "published_date": "June 2025",
+        "format": "analysis article",
+        "executive_name": "Steve Stagner",
+        "executive_title": "Chief Financial Officer",
+        "summary": "CFO Steve Stagner underscores vertical integration and supply chain control as key to agility and margin growth, citing rapid recovery from a storm and distribution redesign to improve efficiency.",
+        "key_quotes": [
+          "This vertical integration isn't just about cost control—it’s about owning the quality and speed of delivery."
+        ],
+        "topics_discussed": [
+          "supply chain resilience",
+          "vertical integration",
+          "margin improvement",
+          "operational efficiency"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Shows operational priorities—Presti can help reduce content production costs and speed, aligning with efficiency goals.",
+        "sales_insights": [
+          "Frame Presti as a cost‑effective, fast content production tool.",
+          "Tie into supply chain agility messaging—visual content as part of operational efficiency.",
+          "Highlight scalability to support rapid digital initiatives."
+        ]
+      },
+      {
+        "title": "La‑Z‑Boy’s Century Vision: Building Resilience and Growth in a Choppy Market",
+        "source": "BeyondSPX",
+        "url": "https://beyondspx.com/article/la-z-boy-s-century-vision-building-resilience-and-growth-in-a-choppy-market-nyse-lzb",
+        "published_date": "August 2025",
+        "format": "analysis article",
+        "executive_name": "David Fogarty",
+        "executive_title": "Chief Executive Officer",
+        "summary": "CEO David Fogarty (quoted) emphasizes digital platform investment, retail expansion, and brand modernization under Century Vision, aiming to capture integrated margins and broaden consumer appeal.",
+        "key_quotes": [
+          "Owning the customer relationship lets us control the experience and capture more margin."
+        ],
+        "topics_discussed": [
+          "digital platforms",
+          "retail expansion",
+          "brand modernization",
+          "omnichannel strategy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "CEO’s focus on digital and retail control aligns with Presti’s ability to enhance digital content and customer experience.",
+        "sales_insights": [
+          "Position Presti as enabling digital platform enhancement with rich visuals.",
+          "Support retail expansion with scalable imagery for new stores.",
+          "Align with brand modernization via fresh visual storytelling."
+        ]
+      },
+      {
+        "title": "La‑Z‑Boy Says Real Estate Play Will Future‑Proof Sales",
+        "source": "MarketWatch (Market Talk)",
+        "url": "https://www.marketwatch.com/story/la-z-boy-says-real-estate-play-will-future-proof-sales-market-talk-4d438ae7",
+        "published_date": "June 18, 2024",
+        "format": "news article",
+        "executive_name": null,
+        "executive_title": null,
+        "summary": "La‑Z‑Boy attributes its outperformance to aggressive real estate expansion—opening and acquiring stores to control brand experience, gather customer data, and improve margins.",
+        "key_quotes": [],
+        "topics_discussed": [
+          "retail expansion",
+          "brand experience",
+          "customer data",
+          "margin improvement"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Highlights retail expansion strategy—Presti can support visual merchandising and store marketing content.",
+        "sales_insights": [
+          "Offer Presti to generate localized store visuals and merchandising content.",
+          "Emphasize ability to support rapid rollout of new store marketing assets.",
+          "Tie into customer data strategy by enabling personalized visual content."
+        ]
+      }
+    ],
+    "key_executives_identified": [
+      {
+        "name": "Jill Brown Thomas",
+        "title": "Senior Director of Digital Commerce",
+        "relevance": "Leading digital innovation and AR/3D configurator strategy—primary target for visual content scale.",
+        "content_count": 2
+      },
+      {
+        "name": "Christy Hoskins",
+        "title": "VP and Chief Marketing Officer",
+        "relevance": "Driving brand refresh and AI‑powered marketing campaigns—key for creative visual storytelling.",
+        "content_count": 2
+      },
+      {
+        "name": "Melinda Whittington",
+        "title": "Board Chair, President and Chief Executive Officer",
+        "relevance": "Sets overarching strategic vision including sustainability and Century Vision—important for aligning Presti’s value proposition.",
+        "content_count": 1
+      },
+      {
+        "name": "David Fogarty",
+        "title": "Chief Executive Officer",
+        "relevance": "Emphasizes digital platforms, retail expansion, and brand modernization—key decision‑maker for digital content strategy.",
+        "content_count": 1
+      },
+      {
+        "name": "Steve Stagner",
+        "title": "Chief Financial Officer",
+        "relevance": "Focus on operational efficiency and margin growth—relevant for cost‑effective content production arguments.",
+        "content_count": 1
+      }
+    ],
+    "overall_assessment": {
+      "decision_maker_visibility": "medium",
+      "strategic_priorities": [
+        "Digital innovation and immersive shopping experiences (AR, 3D configurators)",
+        "Brand modernization and creative marketing (AI‑powered campaigns)",
+        "Retail expansion and omnichannel control"
+      ],
+      "presti_entry_points": [
+        "Scale AR/3D configurator visuals with AI‑generated lifestyle content",
+        "Support AI‑driven marketing campaigns with fresh imagery",
+        "Enable rapid visual content rollout for new stores and digital platforms"
+      ],
+      "recommended_contact": "Start with Jill Brown Thomas (Senior Director of Digital Commerce) due to her leadership in digital personalization and AR innovation—Presti’s visual content capabilities align directly with her strategic initiatives."
+    },
+    "scrape_metadata": {
+      "timestamp": "2026-01-07T11:09:11.497591",
+      "model": "gpt-4o",
+      "success": true,
+      "web_search_used": true
+    }
+  },
+  "Pottery Barn": {
+    "company_name": "Pottery Barn",
+    "search_date": "2026-01-07",
+    "management_items": [
+      {
+        "title": "Pottery Barn launches mobile app featuring a new shopping and design experience",
+        "source": "Business Wire",
+        "url": "https://www.businesswire.com/news/home/20231114385878/en/POTTERY-BARN-LAUNCHES-MOBILE-APP-FEATURING-A-NEW-SHOPPING-AND-DESIGN-EXPERIENCE",
+        "published_date": "November 14, 2023",
+        "format": "article",
+        "executive_name": "Marta Benson",
+        "executive_title": "CEO of Pottery Barn Brands",
+        "summary": "Pottery Barn launched a new iOS mobile app with features like virtual preview, design expert chat, registry management, and shoppable room experiences.",
+        "key_quotes": [
+          "“As a digital-first brand, we’re thrilled to offer our customers an enhanced design and shopping experience on the new Pottery Barn app.”"
+        ],
+        "topics_discussed": [
+          "mobile app",
+          "digital-first strategy",
+          "customer experience",
+          "virtual preview"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Highlights digital transformation and visual shopping tools—key for Presti’s image generation value.",
+        "sales_insights": [
+          "Emphasize Presti’s ability to integrate with mobile visual tools",
+          "Position Presti as enhancing virtual preview capabilities",
+          "Leverage design expert support as a synergy point"
+        ]
+      },
+      {
+        "title": "Pottery Barn launches new mobile app",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/pottery-barn-launches-new-mobile-app/699838/",
+        "published_date": "November 15, 2023",
+        "format": "article",
+        "executive_name": "—",
+        "executive_title": "—",
+        "summary": "Coverage of the new mobile app’s features: virtual product preview, registry management, design expert chat.",
+        "key_quotes": [],
+        "topics_discussed": [
+          "mobile app",
+          "virtual preview",
+          "design support"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Reinforces digital-first and visual engagement strategy.",
+        "sales_insights": [
+          "Support mobile visual engagement with Presti’s scalable imagery",
+          "Highlight Presti’s fit for registry and design workflows"
+        ]
+      },
+      {
+        "title": "Pottery Barn Marketing Strategy: Heritage Catalog Roots Meet Modern Omnichannel Engagement",
+        "source": "Latterly.org",
+        "url": "https://www.latterly.org/pottery-barn-marketing-strategy/",
+        "published_date": "2024",
+        "format": "article",
+        "executive_name": "—",
+        "executive_title": "—",
+        "summary": "Pottery Barn leverages catalog heritage, AR tools, design appointments, loyalty integration, and omnichannel fulfillment to drive growth.",
+        "key_quotes": [],
+        "topics_discussed": [
+          "omnichannel",
+          "AR visualization",
+          "design services",
+          "loyalty",
+          "digital marketing"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Demonstrates strategic emphasis on visual tools and design-led commerce—aligns with Presti’s capabilities.",
+        "sales_insights": [
+          "Pitch Presti as enhancing AR and visual content pipelines",
+          "Position Presti to support design appointment imagery",
+          "Tie into loyalty-driven content personalization"
+        ]
+      },
+      {
+        "title": "Pottery Barn announces accessible home furnishings collection in collaboration with Michael Graves Design",
+        "source": "Business Wire",
+        "url": "https://ir.williams-sonomainc.com/investor-information/news-releases/news-release-details/2024/POTTERY-BARN-ANNOUNCES-ACCESSIBLE-HOME-FURNISHINGS-COLLECTION-IN-COLLABORATION-WITH-MICHAEL-GRAVES-DESIGN/default.aspx",
+        "published_date": "April 12, 2024",
+        "format": "article",
+        "executive_name": "Monica Bhargava",
+        "executive_title": "President, Pottery Barn",
+        "summary": "Pottery Barn partnered with Michael Graves Design to launch an accessible furniture collection, blending safety and style for aging-in-place and disability markets.",
+        "key_quotes": [
+          "“Bringing together Pottery Barn’s design leadership ... has enabled us to create a collection that harmoniously blends aesthetic appeal and functionality.”"
+        ],
+        "topics_discussed": [
+          "accessible design",
+          "collaboration",
+          "inclusive product strategy"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Shows design innovation and inclusivity—Presti can support imagery for accessibility-focused products.",
+        "sales_insights": [
+          "Offer Presti to visualize accessible product variants",
+          "Highlight ability to scale inclusive design imagery",
+          "Support marketing of accessibility features"
+        ]
+      },
+      {
+        "title": "Pottery Barn’s New Collection Is ‘Timeless, Classic, and All‑American’ — and Ideal for a Summer Refresh",
+        "source": "People",
+        "url": "https://people.com/pottery-barn-mark-d-sikes-collection-launch-may-2025-11727006",
+        "published_date": "May 3, 2025",
+        "format": "article",
+        "executive_name": "Mark D. Sikes",
+        "executive_title": "Interior Designer (collaborator)",
+        "summary": "Mark D. Sikes launched a summer collection with Pottery Barn, emphasizing optimistic, versatile design that integrates with existing decor.",
+        "key_quotes": [
+          "“These are things that just are optimistic and add beauty to any space, and I think they kind of work in any type of home…”"
+        ],
+        "topics_discussed": [
+          "designer collaboration",
+          "collection launch",
+          "styling versatility"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Highlights creative collaboration and styling flexibility—Presti can support rapid visual mockups of such collections.",
+        "sales_insights": [
+          "Show Presti’s ability to generate styled visuals for collaborations",
+          "Enable rapid iteration of collection imagery",
+          "Support marketing of versatile design themes"
+        ]
+      },
+      {
+        "title": "Cynthia Rowley’s Whimsical Pottery Barn Collection Is Here — and It’s Like ‘Stepping Into a Storybook’",
+        "source": "People",
+        "url": "https://people.com/pottery-barn-cynthia-rowley-collection-launch-june-2025-11754397",
+        "published_date": "June 13, 2025",
+        "format": "article",
+        "executive_name": "Cynthia Rowley",
+        "executive_title": "Fashion Designer (collaborator)",
+        "summary": "Cynthia Rowley’s whimsical tableware and décor collection for Pottery Barn evokes a storybook dinner party, blending charm with functionality.",
+        "key_quotes": [
+          "“I wanted everything to feel magical – like you’re stepping into a storybook dinner party.”"
+        ],
+        "topics_discussed": [
+          "designer collaboration",
+          "whimsical design",
+          "functional aesthetics"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Creative, narrative-driven design—Presti can help visualize whimsical, themed collections at scale.",
+        "sales_insights": [
+          "Pitch Presti for themed collection imagery",
+          "Support storytelling through visual content",
+          "Enable scalable creative execution"
+        ]
+      },
+      {
+        "title": "Pottery Barn’s Mark D. Sikes Collaboration: A Strategic Play for Premium Market Share",
+        "source": "Ainvest.com",
+        "url": "https://www.ainvest.com/news/pottery-barn-mark-sikes-collaboration-strategic-play-premium-market-share-2505/",
+        "published_date": "May 2, 2025",
+        "format": "article",
+        "executive_name": "—",
+        "executive_title": "—",
+        "summary": "Analysis of the Mark D. Sikes collaboration as a move toward premiumization and digital-first sales, with a broad price range to capture diverse customers.",
+        "key_quotes": [],
+        "topics_discussed": [
+          "premiumization",
+          "digital-first",
+          "designer collaboration",
+          "market strategy"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Signals strategic direction toward premium, digital-first offerings—Presti aligns with scalable visual content for premium segments.",
+        "sales_insights": [
+          "Position Presti as enabling premium digital merchandising",
+          "Support high-end visual storytelling",
+          "Enable scalable imagery across price tiers"
+        ]
+      },
+      {
+        "title": "Williams‑Sonoma, Inc.: Leveraging Global Expansion, Digital Transformation, and Brand Synergy for Sustained Retail Growth",
+        "source": "Ainvest.com",
+        "url": "https://www.ainvest.com/news/williams-sonoma-leveraging-global-expansion-digital-transformation-brand-synergy-sustained-retail-growth-2508/",
+        "published_date": "2025",
+        "format": "article",
+        "executive_name": "—",
+        "executive_title": "—",
+        "summary": "Williams‑Sonoma is expanding Pottery Barn into the UK and Mexico, using AI personalization to boost e‑commerce, and modernizing infrastructure to support scale.",
+        "key_quotes": [],
+        "topics_discussed": [
+          "global expansion",
+          "AI personalization",
+          "digital transformation",
+          "e‑commerce growth"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Highlights AI-driven personalization and global scale—Presti can support localized visual content and AI workflows.",
+        "sales_insights": [
+          "Offer Presti as AI-compatible visual generation for personalization",
+          "Support localized imagery for new markets",
+          "Enable scalable global content creation"
+        ]
+      }
+    ],
+    "key_executives_identified": [
+      {
+        "name": "Marta Benson",
+        "title": "CEO of Pottery Barn Brands",
+        "relevance": "Leads digital-first strategy and mobile innovation—key decision-maker for visual tech integration.",
+        "content_count": 1
+      },
+      {
+        "name": "Monica Bhargava",
+        "title": "President, Pottery Barn",
+        "relevance": "Drives design-led, inclusive product strategy—relevant for accessible visual content needs.",
+        "content_count": 1
+      }
+    ],
+    "overall_assessment": {
+      "decision_maker_visibility": "low",
+      "strategic_priorities": [
+        "Digital-first customer experience via mobile app and AR visualization",
+        "Omnichannel integration with design services and loyalty",
+        "Design innovation including accessibility and premium collaborations",
+        "Global expansion and AI personalization infrastructure"
+      ],
+      "presti_entry_points": [
+        "Enhance mobile visual preview and design tools with scalable imagery",
+        "Support AR and design appointment content generation",
+        "Visualize accessible and premium collections rapidly",
+        "Enable localized, AI-driven visual personalization at scale"
+      ],
+      "recommended_contact": "Target Marta Benson first, as CEO of Pottery Barn Brands, given her leadership in digital-first and mobile innovation—Presti’s visual generation capabilities align directly with her strategic focus on enhancing customer experience."
+    },
+    "scrape_metadata": {
+      "timestamp": "2026-01-07T11:10:01.628756",
+      "model": "gpt-4o",
+      "success": true,
+      "web_search_used": true
+    }
+  },
+  "Williams Sonoma": {
+    "company_name": "Williams Sonoma",
+    "search_date": "2026-01-07",
+    "management_items": [
+      {
+        "title": "Williams‑Sonoma CEO explains pricing strategy after earnings beat",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2024/11/20/williams-sonoma-ceo-explains-pricing-strategy-after-earnings-beat.html",
+        "published_date": "November 20, 2024",
+        "format": "interview (video/article)",
+        "executive_name": "Laura Alber",
+        "executive_title": "President and CEO, Williams‑Sonoma, Inc.",
+        "summary": "Laura Alber emphasizes upfront, consistent pricing to avoid training customers to wait for promotions, reinforcing pricing integrity and brand trust.",
+        "key_quotes": [
+          "“When we price the goods the first time, we want you to say, 'wow, that's a great price, and how gorgeous is that product?'”",
+          "She critiqued up/down promotional pricing, saying it trains customers to wait for promotions."
+        ],
+        "topics_discussed": [
+          "pricing strategy",
+          "customer trust",
+          "promotional avoidance"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Highlights brand’s focus on visual appeal and pricing integrity—Presti can align with their need for compelling imagery that supports perceived value.",
+        "sales_insights": [
+          "Emphasize how Presti’s imagery enhances perceived value without discounting.",
+          "Position AI-generated visuals as a tool to maintain premium brand image.",
+          "Highlight speed and consistency to support upfront pricing strategy."
+        ]
+      },
+      {
+        "title": "CEO explains how Williams‑Sonoma deals with a difficult housing market",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2024/05/22/ceo-explains-how-williams-sonoma-deals-with-a-difficult-housing-market.html",
+        "published_date": "May 22, 2024",
+        "format": "interview (video/article)",
+        "executive_name": "Laura Alber",
+        "executive_title": "President and CEO, Williams‑Sonoma, Inc.",
+        "summary": "Alber says the company leans into “easy updates” for homes amid a housing slump, leveraging diverse offerings beyond furniture to maintain resilience.",
+        "key_quotes": [
+          "“The customer isn't shopping for as much furniture as they were because of the housing slump, but they are… still updating their homes.”",
+          "“We’re not just a furniture brand… we have seasonal holidays, we have collaborations, we celebrate life‑stage events.”"
+        ],
+        "topics_discussed": [
+          "housing market impact",
+          "product diversification",
+          "customer behavior"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Shows opportunity for Presti to support visual content for 'easy update' products—quick, aspirational imagery can drive incremental purchases.",
+        "sales_insights": [
+          "Pitch Presti for rapid creation of lifestyle images for small décor/updating items.",
+          "Highlight ability to scale visuals for seasonal and collaboration-driven campaigns.",
+          "Emphasize agility in content creation to support diverse product mix."
+        ]
+      },
+      {
+        "title": "Why You Shouldn't Expect Promotional Prices at Williams‑Sonoma",
+        "source": "Investopedia",
+        "url": "https://www.investopedia.com/why-you-shouldnt-expect-promotional-prices-williams-sonoma-west-elm-pottery-bar-8748965",
+        "published_date": "November 20, 2024",
+        "format": "article",
+        "executive_name": "Laura Alber",
+        "executive_title": "President and CEO, Williams‑Sonoma, Inc.",
+        "summary": "Alber confirms commitment to consistent, non‑discounted pricing across brands, appealing to customers who prefer not to wait for sales.",
+        "key_quotes": [
+          "“We’re absolutely committed to the stance of running the business without promotional pricing.”",
+          "“Once you're in that loop, you can't stop it.”"
+        ],
+        "topics_discussed": [
+          "pricing consistency",
+          "customer behavior",
+          "retail strategy"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Reinforces brand positioning around value and consistency—Presti visuals can support this by showcasing product quality and design.",
+        "sales_insights": [
+          "Position Presti as enhancing visual storytelling to justify consistent pricing.",
+          "Offer high‑quality imagery to reinforce brand value perception.",
+          "Suggest using AI visuals to reduce reliance on promotions by driving desire through design."
+        ]
+      },
+      {
+        "title": "Williams‑Sonoma (WSM) Q4 2024 Earnings Call Transcript",
+        "source": "Nasdaq",
+        "url": "https://www.nasdaq.com/articles/williams-sonoma-wsm-q4-2024-earnings-call-transcript",
+        "published_date": "2025‑Q4 earnings (transcript date unspecified but within 2025)",
+        "format": "earnings call transcript",
+        "executive_name": "Sameer Hassan",
+        "executive_title": "Chief Technology and Digital Officer, Williams‑Sonoma, Inc.",
+        "summary": "Hassan discusses AI integration: Shop by Style, personalized emails, customized homepages, omnichannel enhancements, and AI‑driven supply chain improvements.",
+        "key_quotes": [
+          "“We launched our proprietary Shop by Style functionality… incorporating AI into our digital capabilities like personalized emails and customized home pages.”",
+          "“AI… allows us to optimize sales, cost, and delivery speed.”"
+        ],
+        "topics_discussed": [
+          "AI in digital personalization",
+          "omnichannel strategy",
+          "supply chain efficiency"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Direct alignment with Presti’s AI capabilities—Williams‑Sonoma is already investing in AI for personalization and operations.",
+        "sales_insights": [
+          "Propose Presti as complementary AI for visual personalization (Shop by Style).",
+          "Highlight ability to integrate with digital channels and personalization engines.",
+          "Emphasize speed and scalability to support omnichannel content needs."
+        ]
+      },
+      {
+        "title": "Williams‑Sonoma scales AI customer service assistant across portfolio",
+        "source": "Customer Experience Dive",
+        "url": "https://www.customerexperiencedive.com/news/williams-sonoma-ai-customer-service-product-discovery/759050/",
+        "published_date": "September 2, 2025",
+        "format": "article",
+        "executive_name": "Sameer Hassan",
+        "executive_title": "Chief Technology and Digital Officer, Williams‑Sonoma, Inc.",
+        "summary": "Hassan explains scaling of AI customer service assistant across brands and launch of AI “culinary companion” for product discovery, powered by data and CRM.",
+        "key_quotes": [
+          "“When you think about our multichannel model… AI allows us to amplify this experience in really exciting ways.”",
+          "“Data is the fuel that makes it work, and our CRM and business data is making that engine run.”"
+        ],
+        "topics_discussed": [
+          "AI customer service",
+          "product discovery",
+          "data-driven personalization"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Shows Williams‑Sonoma’s strategic investment in AI across customer touchpoints—Presti can extend this to visual discovery.",
+        "sales_insights": [
+          "Position Presti as enhancing AI‑driven discovery with lifestyle visuals.",
+          "Emphasize integration with CRM and data to personalize imagery.",
+          "Suggest use in culinary or décor companion tools to visualize products in context."
+        ]
+      },
+      {
+        "title": "The longest‑tenured woman CEO in the Fortune 500 makes the case for sticking around for 10+ years at a brand you love",
+        "source": "Fortune",
+        "url": "https://fortune.com/2023/10/11/longest-tenured-woman-ceo-fortune-500-laura-alber/",
+        "published_date": "October 11, 2023",
+        "format": "article/profile",
+        "executive_name": "Laura Alber",
+        "executive_title": "President and CEO, Williams‑Sonoma, Inc.",
+        "summary": "Alber reflects on her long tenure, loyalty, and her role in expanding the brand portfolio and digital‑first, multichannel growth including B2B and marketplace.",
+        "key_quotes": [
+          "“I am, to a fault, loyal… If you give it your all, people notice.”"
+        ],
+        "topics_discussed": [
+          "leadership longevity",
+          "brand expansion",
+          "multichannel growth"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Provides context on CEO’s strategic mindset and multichannel expansion—useful for understanding leadership priorities.",
+        "sales_insights": [
+          "Frame Presti as a long‑term partner aligned with their loyalty values.",
+          "Highlight support for multichannel expansion with scalable visual content.",
+          "Position as enabling B2B/marketplace imagery needs."
+        ]
+      },
+      {
+        "title": "Williams‑Sonoma’s CEO on inflation, housing slowdown, B2B sales & AI",
+        "source": "Fortune",
+        "url": "https://fortune.com/2023/11/30/williams-sonomas-ceo-laura-alber-interview-retail-inflation-housing-slowdown-b2b-sales-ai/",
+        "published_date": "November 30, 2023",
+        "format": "interview/article",
+        "executive_name": "Laura Alber",
+        "executive_title": "President and CEO, Williams‑Sonoma, Inc.",
+        "summary": "Alber discusses macro pressures, exploring B2B sales, global expansion, and AI as a tool to help customers visualize design and spatial relativity.",
+        "key_quotes": [
+          "“You can’t wait for a macro trend to improve your business. You have to make it happen and look for other opportunities to grow.”",
+          "“What if we can take all the best designers and all the best rooms ever built and dump them together?”"
+        ],
+        "topics_discussed": [
+          "AI in design visualization",
+          "B2B growth",
+          "macro resilience"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Directly aligns with Presti’s value proposition—AI‑powered visual design support for customers and B2B expansion.",
+        "sales_insights": [
+          "Pitch Presti as enabling design visualization at scale.",
+          "Support B2B and global expansion with customizable imagery.",
+          "Emphasize proactive innovation amid macro challenges."
+        ]
+      },
+      {
+        "title": "Williams‑Sonoma, Inc. Named by Forbes as One of America’s Top Ten Employers for Diversity",
+        "source": "Business Wire",
+        "url": "https://www.businesswire.com/news/home/20230428005301/en/WILLIAMS-SONOMA-INC.-NAMED-BY-FORBES-AS-ONE-OF-AMERICAS-TOP-TEN-EMPLOYERS-FOR-DIVERSITY",
+        "published_date": "April 28, 2023",
+        "format": "press release/article",
+        "executive_name": "Laura Alber",
+        "executive_title": "President and CEO, Williams‑Sonoma, Inc.",
+        "summary": "Alber celebrates recognition by Forbes for diversity, equity and inclusion, and commits to fostering inclusive culture and diverse teams.",
+        "key_quotes": [
+          "“We will continue our efforts to create diverse teams, foster an inclusive culture, and work toward an equitable community, both inside and outside our company.”"
+        ],
+        "topics_discussed": [
+          "DEI",
+          "corporate culture",
+          "leadership values"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Reflects leadership values and culture—useful for aligning Presti’s diversity‑friendly imagery and inclusive representation.",
+        "sales_insights": [
+          "Offer imagery that reflects diversity and inclusivity.",
+          "Position Presti as supporting inclusive brand storytelling.",
+          "Highlight ability to generate diverse lifestyle visuals at scale."
+        ]
+      },
+      {
+        "title": "Williams‑Sonoma, Inc. Named Top Retailer on TIME’s 2024 List of America’s Best Mid‑Sized Companies",
+        "source": "Business Wire",
+        "url": "https://www.businesswire.com/news/home/20240805270800/en/WILLIAMS-SONOMA-INC.-NAMED-TOP-RETAILER-ON-TIMES-2024-LIST-OF-AMERICAS-BEST-MID-SIZED-COMPANIES",
+        "published_date": "August 5, 2024",
+        "format": "press release/article",
+        "executive_name": "Laura Alber",
+        "executive_title": "President and CEO, Williams‑Sonoma, Inc.",
+        "summary": "Alber expresses honor at being named top retailer on TIME’s list, highlighting people‑first culture, growth, and sustainability transparency.",
+        "key_quotes": [
+          "“We are honored to be named by TIME as one of America’s Best Mid‑Sized Companies.”"
+        ],
+        "topics_discussed": [
+          "growth",
+          "culture",
+          "sustainability"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "Signals brand positioning around sustainability and culture—Presti can align with sustainable visual content practices.",
+        "sales_insights": [
+          "Emphasize eco‑friendly visual generation (digital vs. physical shoots).",
+          "Highlight alignment with sustainability and people‑first values.",
+          "Offer scalable imagery reducing environmental footprint."
+        ]
+      }
+    ],
+    "key_executives_identified": [
+      {
+        "name": "Laura Alber",
+        "title": "President and CEO, Williams‑Sonoma, Inc.",
+        "relevance": "Primary strategic leader driving digital, AI, pricing, brand expansion, and culture—key decision‑maker for Presti.",
+        "content_count": 8
+      },
+      {
+        "name": "Sameer Hassan",
+        "title": "Chief Technology and Digital Officer, Williams‑Sonoma, Inc.",
+        "relevance": "Leads AI, digital personalization, omnichannel and customer service innovation—direct alignment with Presti’s offering.",
+        "content_count": 2
+      }
+    ],
+    "overall_assessment": {
+      "decision_maker_visibility": "high",
+      "strategic_priorities": [
+        "AI‑driven personalization and omnichannel digital transformation",
+        "Maintaining pricing integrity and brand value through visual appeal",
+        "Expanding into B2B, global, and multichannel growth"
+      ],
+      "presti_entry_points": [
+        "AI‑powered lifestyle imagery to support personalization (Shop by Style)",
+        "Scalable visual content for 'easy updates' and seasonal campaigns",
+        "Design visualization tools for B2B and global expansion"
+      ],
+      "recommended_contact": "Target Sameer Hassan first—he leads AI and digital innovation and is most directly aligned with Presti’s technology. Then engage Laura Alber to align on strategic brand value, pricing integrity, and multichannel growth."
+    },
+    "scrape_metadata": {
+      "timestamp": "2026-01-07T11:10:42.550246",
+      "model": "gpt-4o",
+      "success": true,
+      "web_search_used": true
+    }
+  },
+  "West Elm": {
+    "company_name": "West Elm",
+    "search_date": "2026-01-07",
+    "management_items": [
+      {
+        "title": "Williams‑Sonoma, Inc. Announces New West Elm President",
+        "source": "Business Wire",
+        "url": "https://ir.williams-sonomainc.com/investor-information/news-releases/news-release-details/2023/WILLIAMS-SONOMA-INC.-ANNOUNCES-NEW-WEST-ELM-PRESIDENT/default.aspx",
+        "published_date": "January 25, 2023",
+        "format": "article",
+        "executive_name": "Day Kornbluth",
+        "executive_title": "President of West Elm",
+        "summary": "Announcement of Day Kornbluth joining as President, emphasizing her expertise in product and digital innovation to drive brand growth.",
+        "key_quotes": [
+          "“The strength of the West Elm brand represents an incredible opportunity. I am thrilled to be joining this talented team and build on the strong foundations of this business to drive growth.”"
+        ],
+        "topics_discussed": [
+          "leadership transition",
+          "digital innovation",
+          "brand growth"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Signals strategic leadership change with emphasis on digital and product innovation, relevant for positioning Presti.",
+        "sales_insights": [
+          "Highlight Presti’s alignment with digital innovation priorities",
+          "Position Presti as a tool to support brand growth under new leadership"
+        ]
+      },
+      {
+        "title": "West Elm Launches New Mobile App",
+        "source": "Business Wire / Marketing Dive",
+        "url": "https://ir.williams-sonomainc.com/investor-information/news-releases/news-release-details/2024/WEST-ELM-LAUNCHES-NEW-MOBILE-APP/default.aspx",
+        "published_date": "March 28, 2024",
+        "format": "article",
+        "executive_name": "Day Kornbluth",
+        "executive_title": "President of West Elm",
+        "summary": "Launch of a mobile‑first shopping app with customizable features, on‑demand design support, wish‑lists, registry, and Apple Pay integration to enhance customer experience.",
+        "key_quotes": [
+          "“Delivering a fun and frictionless shopping experience is always our top priority.”",
+          "“We are proud to introduce a mobile‑first, customizable platform…”"
+        ],
+        "topics_discussed": [
+          "mobile commerce",
+          "customer experience",
+          "digital transformation"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Demonstrates West Elm’s digital and e‑commerce priorities, directly relevant to Presti’s value proposition in scalable visual content.",
+        "sales_insights": [
+          "Emphasize Presti’s ability to enhance mobile visuals at scale",
+          "Position Presti as a tool to enrich digital customer experience"
+        ]
+      },
+      {
+        "title": "West Elm Launches New Collaboration with Fashion Tastemaker and Best‑Selling Children’s Book Author, Eva Chen",
+        "source": "Business Wire",
+        "url": "https://ir.williams-sonomainc.com/investor-information/news-releases/news-release-details/2024/WEST-ELM-LAUNCHES-NEW-COLLABORATION-WITH-FASHION-TASTEMAKER-AND-BEST-SELLING-CHILDRENS-BOOK-AUTHOR-EVA-CHEN/default.aspx",
+        "published_date": "September 5, 2024",
+        "format": "article",
+        "executive_name": "Day Kornbluth",
+        "executive_title": "President of West Elm",
+        "summary": "Announces a children’s collection collaboration with Eva Chen, focusing on functional yet stylish products that encourage reading and creativity.",
+        "key_quotes": [
+          "“Eva has fantastic taste and is acutely aware of what parents want for a kid’s room…”"
+        ],
+        "topics_discussed": [
+          "product collaboration",
+          "children’s market",
+          "design innovation"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Highlights West Elm’s focus on creative partnerships and expanding product categories, relevant for Presti’s visual content capabilities.",
+        "sales_insights": [
+          "Offer Presti as a way to visualize collaborative collections quickly",
+          "Position Presti to support creative storytelling for new product lines"
+        ]
+      }
+    ],
+    "key_executives_identified": [
+      {
+        "name": "Day Kornbluth",
+        "title": "President of West Elm",
+        "relevance": "Primary decision‑maker driving digital innovation, product strategy, and brand collaborations—key for Presti’s value proposition.",
+        "content_count": 3
+      }
+    ],
+    "overall_assessment": {
+      "decision_maker_visibility": "low",
+      "strategic_priorities": [
+        "Digital transformation and mobile commerce",
+        "Product and design collaborations",
+        "Brand growth under new leadership"
+      ],
+      "presti_entry_points": [
+        "Enhance mobile visual content at scale",
+        "Support creative storytelling for collaborations",
+        "Align with digital innovation agenda"
+      ],
+      "recommended_contact": "Target Day Kornbluth, President of West Elm—she is clearly leading digital and product innovation and would be most receptive to Presti’s visual content solution."
+    },
+    "scrape_metadata": {
+      "timestamp": "2026-01-07T11:11:04.814676",
       "model": "gpt-4o",
       "success": true,
       "web_search_used": true

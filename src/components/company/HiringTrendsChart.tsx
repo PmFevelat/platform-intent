@@ -64,10 +64,12 @@ export function HiringTrendsChart({ jobs, onCategoryClick }: HiringTrendsChartPr
     const totals = { sales: 0, marketing: 0, ecommerce: 0, retail: 0, creative: 0 };
     
     jobs.forEach(job => {
-      if (!job.date) return;
+      // Use date or date_creation field
+      const dateStr = job.date || job.date_creation;
+      if (!dateStr) return;
       
       // Parse date and get month
-      const date = new Date(job.date);
+      const date = new Date(dateStr);
       if (isNaN(date.getTime())) return;
       
       const monthKey = date.toLocaleDateString('en-US', { month: 'short', year: 'numeric' });

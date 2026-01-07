@@ -84,9 +84,21 @@ export function NewsCard({ news, onClick }: NewsCardProps) {
         {news.title}
       </h3>
 
-      {/* Source & Date */}
+      {/* Source, Category Badge & Date */}
       <div className="flex items-center gap-2 mb-2">
         <span className="text-[10px] font-medium text-neutral-600">{news.source}</span>
+        
+        {/* Category Badge - right after source */}
+        <Badge 
+          variant="outline" 
+          className={cn(
+            "text-[9px] font-medium border h-4 px-1.5",
+            categoryColors[news.category]
+          )}
+        >
+          {categoryLabels[news.category]}
+        </Badge>
+        
         {news.published_date && (
           <>
             <span className="text-neutral-300">•</span>
@@ -100,19 +112,6 @@ export function NewsCard({ news, onClick }: NewsCardProps) {
             </div>
           </>
         )}
-      </div>
-
-      {/* Category Badge */}
-      <div className="mb-2">
-        <Badge 
-          variant="outline" 
-          className={cn(
-            "text-[9px] font-medium border h-4 px-1.5",
-            categoryColors[news.category]
-          )}
-        >
-          {categoryLabels[news.category]}
-        </Badge>
       </div>
 
       {/* Summary */}
