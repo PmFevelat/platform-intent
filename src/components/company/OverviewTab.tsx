@@ -208,7 +208,7 @@ export function OverviewTab({ company }: OverviewTabProps) {
   const dateFilterCounts: Record<string, number> = {};
   dateFilterOptions.forEach(option => {
     dateFilterCounts[option.label] = sortedJobs.filter(job => 
-      getJobAge(job.date) <= option.days
+      getJobAge(job.date_creation || job.date || '') <= option.days
     ).length;
   });
 
@@ -221,7 +221,7 @@ export function OverviewTab({ company }: OverviewTabProps) {
     
     // If multiple filters selected, combine them (union - OR logic)
     dateFilteredJobs = sortedJobs.filter(job => {
-      const jobAge = getJobAge(job.date);
+      const jobAge = getJobAge(job.date_creation || job.date || '');
       // Job passes if it matches ANY of the selected date filters
       return selectedOptions.some(opt => jobAge <= opt.days);
     });
@@ -532,7 +532,7 @@ export function OverviewTab({ company }: OverviewTabProps) {
                     </TableCell>
                     <TableCell className="text-neutral-600 text-xs py-2">{job.location || "N/A"}</TableCell>
                     <TableCell className="text-neutral-600 text-xs py-2">
-                      {job.date ? new Date(job.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) : "N/A"}
+                      {(job.date_creation || job.date) ? new Date(job.date_creation || job.date || '').toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) : "N/A"}
                     </TableCell>
                     <TableCell className="py-2">
                       <Badge variant="outline" className="font-normal capitalize text-[10px] h-5">
@@ -592,7 +592,7 @@ export function OverviewTab({ company }: OverviewTabProps) {
                     {job.job_board}
                   </Badge>
                   <span className="text-[10px] text-neutral-400">
-                    {job.date ? new Date(job.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' }) : "N/A"}
+                    {(job.date_creation || job.date) ? new Date(job.date_creation || job.date || '').toLocaleDateString('en-US', { month: 'short', day: 'numeric' }) : "N/A"}
                   </span>
                 </div>
                 {getJobNotes(job).length > 0 && (
