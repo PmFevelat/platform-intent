@@ -204,7 +204,7 @@ export function JobDetailModal({ job, jobNotes, onClose }: JobDetailModalProps) 
               </div>
             </div>
             <div className="flex items-center gap-1.5">
-              <a href={job.job_board_url} target="_blank" rel="noopener noreferrer">
+              <a href={job.job_url} target="_blank" rel="noopener noreferrer">
                 <Button size="sm" className="gap-1.5 h-7 text-xs">
                   <ExternalLink className="w-3 h-3" />
                   Original
