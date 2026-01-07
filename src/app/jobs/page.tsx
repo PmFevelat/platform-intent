@@ -28,18 +28,33 @@ export default function JobsPage() {
   const [data, setData] = useState<DataStore | null>(null);
   const [viewMode, setViewMode] = useState<"table" | "grid">("table");
   const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    getData().then((d) => {
-      setData(d);
-      setLoading(false);
-    });
+    getData()
+      .then((d) => {
+        setData(d);
+        setLoading(false);
+      })
+      .catch((error) => {
+        console.error("Error loading data:", error);
+        setError(error.message || "Failed to load data");
+        setLoading(false);
+      });
   }, []);
 
   if (loading) {
     return (
       <div className="flex items-center justify-center min-h-screen">
         <div className="animate-pulse text-neutral-400">Loading...</div>
+      </div>
+    );
+  }
+
+  if (error) {
+    return (
+      <div className="flex items-center justify-center min-h-screen">
+        <div className="text-red-500">Error: {error}</div>
       </div>
     );
   }
