@@ -186,9 +186,10 @@ export function OverviewTab({ company }: OverviewTabProps) {
   );
 
   // Calculate job age in days
-  const getJobAge = (dateString: string): number => {
-    if (!dateString) return Infinity;
+  const getJobAge = (dateString: string | undefined): number => {
+    if (!dateString || dateString.trim() === '') return Infinity;
     const jobDate = new Date(dateString);
+    if (isNaN(jobDate.getTime())) return Infinity;
     const now = new Date();
     const diffTime = Math.abs(now.getTime() - jobDate.getTime());
     const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
@@ -208,7 +209,7 @@ export function OverviewTab({ company }: OverviewTabProps) {
   const dateFilterCounts: Record<string, number> = {};
   dateFilterOptions.forEach(option => {
     dateFilterCounts[option.label] = sortedJobs.filter(job => 
-      getJobAge(job.date_creation || job.date || '') <= option.days
+      getJobAge(job.date_creation || job.date) <= option.days
     ).length;
   });
 
@@ -221,7 +222,7 @@ export function OverviewTab({ company }: OverviewTabProps) {
     
     // If multiple filters selected, combine them (union - OR logic)
     dateFilteredJobs = sortedJobs.filter(job => {
-      const jobAge = getJobAge(job.date_creation || job.date || '');
+      const jobAge = getJobAge(job.date_creation || job.date);
       // Job passes if it matches ANY of the selected date filters
       return selectedOptions.some(opt => jobAge <= opt.days);
     });
