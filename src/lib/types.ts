@@ -84,10 +84,12 @@ export interface JobAnalysis {
 
 export interface Job {
   job_title: string;
-  job_url: string;
+  job_url?: string;
+  job_board_url?: string;
   job_board: string;
   location: string;
-  date: string;
+  date?: string;
+  date_creation?: string;
   description: string;
   analysis: JobAnalysis | null;
   success: boolean;
