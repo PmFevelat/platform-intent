@@ -27,11 +27,11 @@ interface ManagementInterviewsTabProps {
   onRefreshComplete?: () => void;
 }
 
-export function ManagementInterviewsTab({ items: rawItems, companyName, executives, searchDate, onRefreshComplete }: ManagementInterviewsTabProps) {
+export function ManagementInterviewsTab({ items: rawItems, companyName, executives: providedExecutives, searchDate, onRefreshComplete }: ManagementInterviewsTabProps) {
   console.log('[ManagementInterviewsTab] Rendering with:', {
     rawItemsCount: rawItems.length,
     companyName,
-    executivesCount: executives?.length,
+    executivesCount: providedExecutives?.length,
     searchDate
   });
 
@@ -50,6 +50,34 @@ export function ManagementInterviewsTab({ items: rawItems, companyName, executiv
     });
 
   console.log('[ManagementInterviewsTab] After 2020 filter:', items.length, 'items');
+
+  // Generate executives list from items if not provided
+  const executives = useMemo(() => {
+    if (providedExecutives && providedExecutives.length > 0) {
+      return providedExecutives;
+    }
+    
+    // Generate from items
+    const executiveMap = new Map<string, { name: string; title: string; content_count: number }>();
+    
+    items.forEach(item => {
+      if (item.executive_name) {
+        const existing = executiveMap.get(item.executive_name);
+        if (existing) {
+          existing.content_count += 1;
+        } else {
+          executiveMap.set(item.executive_name, {
+            name: item.executive_name,
+            title: item.executive_title || '',
+            content_count: 1,
+          });
+        }
+      }
+    });
+    
+    // Sort by content_count (descending)
+    return Array.from(executiveMap.values()).sort((a, b) => b.content_count - a.content_count);
+  }, [providedExecutives, items]);
 
   const [selectedFormats, setSelectedFormats] = useState<Set<string>>(new Set(["All"]));
   const [selectedDateFilters, setSelectedDateFilters] = useState<Set<string>>(new Set(["All time"]));

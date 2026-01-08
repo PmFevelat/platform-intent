@@ -114,10 +114,6 @@ export function NewsCard({ news, onClick }: NewsCardProps) {
         )}
       </div>
 
-      {/* Summary */}
-      <p className="text-[10px] text-neutral-600 line-clamp-3 leading-relaxed">
-        {news.summary}
-      </p>
     </Card>
   );
 }

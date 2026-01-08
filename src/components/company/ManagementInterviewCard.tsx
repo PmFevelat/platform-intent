@@ -38,18 +38,8 @@ export function ManagementInterviewCard({ item, onClick }: ManagementInterviewCa
         {item.title}
       </h3>
 
-      {/* Executive Info */}
-      <div className="flex items-center gap-2 mb-2">
-        <div className="flex items-center gap-1">
-          <User className="w-2.5 h-2.5 text-neutral-400" />
-          <span className="text-[10px] font-medium text-neutral-900">{item.executive_name}</span>
-        </div>
-        <span className="text-neutral-300">•</span>
-        <span className="text-[10px] text-neutral-600">{item.executive_title}</span>
-      </div>
-
-      {/* Source & Date */}
-      <div className="flex items-center gap-2 mb-2">
+      {/* Source, Date & Executive Info on one line */}
+      <div className="flex items-center gap-2">
         <span className="text-[10px] font-medium text-neutral-600">{item.source}</span>
         {item.published_date && (
           <>
@@ -60,12 +50,15 @@ export function ManagementInterviewCard({ item, onClick }: ManagementInterviewCa
             </div>
           </>
         )}
+        <span className="text-neutral-300">•</span>
+        <div className="flex items-center gap-1">
+          <User className="w-2.5 h-2.5 text-neutral-400" />
+          <span className="text-[10px] font-medium text-neutral-900">{item.executive_name}</span>
+        </div>
+        <span className="text-neutral-300">•</span>
+        <span className="text-[10px] text-neutral-600">{item.executive_title}</span>
       </div>
 
-      {/* Summary */}
-      <p className="text-[10px] text-neutral-600 line-clamp-3 leading-relaxed">
-        {item.summary}
-      </p>
     </Card>
   );
 }

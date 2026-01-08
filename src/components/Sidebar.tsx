@@ -9,7 +9,8 @@ import {
   ChevronLeft, 
   ChevronRight,
   PanelLeftClose,
-  PanelLeft
+  PanelLeft,
+  Newspaper
 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
@@ -21,6 +22,11 @@ import {
 } from "@/components/ui/tooltip";
 
 const navigation = [
+  {
+    name: "News",
+    href: "/news",
+    icon: Newspaper,
+  },
   {
     name: "Companies",
     href: "/jobs",

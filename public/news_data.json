@@ -9736,22 +9736,6 @@
     "company_name": "Costco",
     "news_items": [
       {
-        "title": "Costco Expands IT Capabilities to Meet Rising Digital Demand",
-        "source": "National CIO Review",
-        "url": "https://nationalcioreview.com/articles-insights/cio-field-notes/costco-expands-it-capabilities-to-meet-rising-digital-demand/",
-        "published_date": "2025-11-24",
-        "date": "2025-11-24",
-        "summary": "The article discusses Costco's efforts to enhance its digital strategy by upgrading its mobile app and e-commerce platform, resulting in over $27 billion in digitally enabled sales for FY2025. The company is investing in data platforms and logistics to support omnichannel growth. These advancements are crucial for improving search capabilities and site stability, which are key to enhancing the customer experience. This matters for visual content and e-commerce as it highlights the importance of robust digital infrastructure in supporting online sales and customer engagement.",
-        "presti_score": 9,
-        "relevance_reason": "Focus on digital transformation and e-commerce enhancements relevant to Presti's interest in visual content and technology.",
-        "key_insights": [
-          "Costco's digital sales exceeded $27 billion in FY2025.",
-          "Investments in data platforms and logistics are supporting omnichannel growth.",
-          "Mobile app and e-commerce platform upgrades are central to Costco's strategy."
-        ],
-        "category": "digital_transformation"
-      },
-      {
         "title": "Costco's Digital Ecosystem Emerges as a Powerful Growth Engine",
         "source": "Zacks",
         "url": "https://www.zacks.com/stock/news/2811794/costcos-digital-ecosystem-emerges-as-a-powerful-growth-engine",
@@ -9832,36 +9816,36 @@
         "category": "ecommerce_growth"
       },
       {
-        "title": "How Costco is using AI",
-        "source": "Digital Commerce 360",
-        "url": "https://www.digitalcommerce360.com/2025/08/28/how-costco-is-using-ai/",
-        "published_date": "2025-08-28",
-        "date": "2025-08-28",
-        "summary": "The article explores Costco's use of AI for inventory and demand forecasting, including a machine learning model for bakery stocking that has saved nearly $100 million. The company is also partnering for AI applications in travel benefits. These AI initiatives are part of Costco's broader strategy to enhance operational efficiency and customer experience. This is relevant for visual content and e-commerce as it highlights the role of AI in optimizing inventory management and improving service offerings.",
-        "presti_score": 9,
-        "relevance_reason": "AI applications in inventory and demand forecasting align with Presti's focus on technology and e-commerce.",
+        "title": "Costco reveals a new approach that could reshape the chain",
+        "source": "The Street",
+        "url": "https://www.thestreet.com/retail/costco-reveals-plan-to-expand-faster-heres-what-it-means",
+        "published_date": "December 2025",
+        "date": "2025-12-01",
+        "summary": "Costco plans to open 28 new warehouses in FY 2026, revised from 30+ due to delays in Spain. This follows 29 openings in FY 2025, with 26 net-new and 10 international locations. The expansion includes specific U.S. openings in California, Texas, Michigan, and Massachusetts. This is relevant for visual content and e-commerce as it highlights the role of physical store expansion in supporting Costco's growth strategy.",
+        "presti_score": 7,
+        "relevance_reason": "Store expansion and new openings support omnichannel strategies, relevant to Presti's focus on visual merchandising and e-commerce.",
         "key_insights": [
-          "AI is used for inventory and demand forecasting.",
-          "Machine learning model saved nearly $100 million in bakery stocking.",
-          "AI partnerships are enhancing travel benefits."
+          "28 new warehouses planned for FY 2026.",
+          "Expansion includes U.S. and international locations.",
+          "Delays in Spain affected the original expansion plan."
         ],
-        "category": "ai_adoption"
+        "category": "store_design"
       },
       {
-        "title": "Costco's AI, tech use helps offset healthcare costs, CFO says",
-        "source": "CFO Dive",
-        "url": "https://www.cfodive.com/news/costcos-ai-tech-use-partly-offsets-healthcare-costs-cfo/807837/",
-        "published_date": "2025",
-        "date": "2025-01-01",
-        "summary": "Costco's CFO reports that AI-driven technologies are helping to offset healthcare costs by improving operational efficiencies. The company is using AI for pre-scan technology to boost checkout speeds by 20%, and for prescription drug pricing and inventory reordering. These technologies are part of Costco's strategy to enhance efficiency and reduce costs. This is important for visual content and e-commerce as it demonstrates the impact of AI on operational improvements and customer service.",
-        "presti_score": 8,
-        "relevance_reason": "AI-driven operational efficiencies are relevant to Presti's focus on technology and e-commerce.",
+        "title": "Costco Expands IT Capabilities to Meet Rising Digital Demand",
+        "source": "National CIO Review",
+        "url": "https://nationalcioreview.com/articles-insights/cio-field-notes/costco-expands-it-capabilities-to-meet-rising-digital-demand/",
+        "published_date": "2025-11-24",
+        "date": "2025-11-24",
+        "summary": "The article discusses Costco's efforts to enhance its digital strategy by upgrading its mobile app and e-commerce platform, resulting in over $27 billion in digitally enabled sales for FY2025. The company is investing in data platforms and logistics to support omnichannel growth. These advancements are crucial for improving search capabilities and site stability, which are key to enhancing the customer experience. This matters for visual content and e-commerce as it highlights the importance of robust digital infrastructure in supporting online sales and customer engagement.",
+        "presti_score": 9,
+        "relevance_reason": "Focus on digital transformation and e-commerce enhancements relevant to Presti's interest in visual content and technology.",
         "key_insights": [
-          "AI-driven pre-scan technology boosts checkout speeds by 20%.",
-          "AI is used for prescription drug pricing and inventory reordering.",
-          "Technologies help offset healthcare costs."
+          "Costco's digital sales exceeded $27 billion in FY2025.",
+          "Investments in data platforms and logistics are supporting omnichannel growth.",
+          "Mobile app and e-commerce platform upgrades are central to Costco's strategy."
         ],
-        "category": "ai_adoption"
+        "category": "digital_transformation"
       },
       {
         "title": "Riding 8% Annual Sales Increase, Costco Plans to Open 35 New Warehouse Stores by August 2026",
@@ -9880,36 +9864,233 @@
         "category": "store_design"
       },
       {
-        "title": "Costco reveals a new approach that could reshape the chain",
-        "source": "The Street",
-        "url": "https://www.thestreet.com/retail/costco-reveals-plan-to-expand-faster-heres-what-it-means",
-        "published_date": "December 2025",
-        "date": "2025-12-01",
-        "summary": "Costco plans to open 28 new warehouses in FY 2026, revised from 30+ due to delays in Spain. This follows 29 openings in FY 2025, with 26 net-new and 10 international locations. The expansion includes specific U.S. openings in California, Texas, Michigan, and Massachusetts. This is relevant for visual content and e-commerce as it highlights the role of physical store expansion in supporting Costco's growth strategy.",
-        "presti_score": 7,
-        "relevance_reason": "Store expansion and new openings support omnichannel strategies, relevant to Presti's focus on visual merchandising and e-commerce.",
+        "title": "How Costco is using AI",
+        "source": "Digital Commerce 360",
+        "url": "https://www.digitalcommerce360.com/2025/08/28/how-costco-is-using-ai/",
+        "published_date": "2025-08-28",
+        "date": "2025-08-28",
+        "summary": "The article explores Costco's use of AI for inventory and demand forecasting, including a machine learning model for bakery stocking that has saved nearly $100 million. The company is also partnering for AI applications in travel benefits. These AI initiatives are part of Costco's broader strategy to enhance operational efficiency and customer experience. This is relevant for visual content and e-commerce as it highlights the role of AI in optimizing inventory management and improving service offerings.",
+        "presti_score": 9,
+        "relevance_reason": "AI applications in inventory and demand forecasting align with Presti's focus on technology and e-commerce.",
         "key_insights": [
-          "28 new warehouses planned for FY 2026.",
-          "Expansion includes U.S. and international locations.",
-          "Delays in Spain affected the original expansion plan."
+          "AI is used for inventory and demand forecasting.",
+          "Machine learning model saved nearly $100 million in bakery stocking.",
+          "AI partnerships are enhancing travel benefits."
         ],
-        "category": "store_design"
+        "category": "ai_adoption"
+      },
+      {
+        "title": "Costco's E‑Commerce Sales Surge: A Dark Horse Growth Engine?",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/news/costcos-e-commerce-sales-surge-145700935.html",
+        "published_date": "June 23, 2025",
+        "summary": "In Q3 fiscal 2025, Costco’s ecommerce comparable sales surged 15.7%, outpacing overall growth of 8%. Site traffic rose 20%, AOV up 3%. New initiatives include BNPL via Affirm and a 31% rise in logistics deliveries, especially for bulky items.",
+        "relevance_score": 8,
+        "relevance_reason": "Ecommerce acceleration, BNPL for big-ticket items, and bulky‑item logistics highlight need for high-quality visuals pre‑launch.",
+        "key_insights": [
+          "BNPL for appliances/electronics—visuals drive conversion",
+          "Bulky‑item delivery ramping—product imagery critical",
+          "Traffic and AOV rising—better visuals boost engagement"
+        ],
+        "category": "ecommerce_growth"
+      },
+      {
+        "title": "Costco's E‑Commerce Sales Surge: A Dark Horse Growth Engine? (Zacks)",
+        "source": "Zacks",
+        "url": "https://www.zacks.com/stock/news/2535775/costcos-e-commerce-sales-surge-a-dark-horse-growth-engine",
+        "published_date": "June 2025",
+        "summary": "Echoing Yahoo Finance, Q3 fiscal 2025 ecommerce comparable sales surged 15.7%, site traffic +20%, AOV +3%. BNPL via Affirm and 31% logistics delivery growth for bulky items are key drivers.",
+        "relevance_score": 6,
+        "relevance_reason": "Reinforces digital growth trends and logistics expansion—visuals support conversion on bulky categories.",
+        "key_insights": [
+          "Bulky‑item logistics up 31%—visuals critical for big items",
+          "BNPL integration—visuals aid purchase confidence",
+          "Traffic and AOV rising—better visuals improve metrics"
+        ],
+        "category": "ecommerce_growth"
+      },
+      {
+        "title": "Costco Reports April 2025 Sales of $21.18 Billion, Marking 7% Year‑Over‑Year Increase",
+        "source": "Nasdaq (Quiver Quantitative)",
+        "url": "https://www.nasdaq.com/articles/costco-reports-april-2025-sales-2118-billion-marking-7-year-over-year-increase",
+        "published_date": "May 07, 2025",
+        "summary": "April 2025 net sales were $21.18B (+7% YoY), with e‑commerce sales up 12.6% for the month and 16.3% year‑to‑date. Costco operates 905 warehouses globally and emphasizes risk factors in forward‑looking statements.",
+        "relevance_score": 6,
+        "relevance_reason": "Reinforces strong e‑commerce trajectory and global scale—visual content needs across regions.",
+        "key_insights": [
+          "E‑commerce up 12.6%—ongoing digital demand",
+          "Global footprint—visual consistency across markets",
+          "Year‑to‑date growth—sustained content requirement"
+        ],
+        "category": "ecommerce_growth"
+      },
+      {
+        "title": "Costco's  Revenue Per Store: What the Numbers Show",
+        "source": "Investopedia",
+        "url": "https://www.investopedia.com/costco-sales-per-store-8750031",
+        "published_date": "March 2025",
+        "summary": "In fiscal 2024, average net sales per warehouse rose to $260M (+3%). Total net sales were $250B (+5%). Online sales contributed 7% of revenue. Membership fees reached $4.8B from 76.2M members. Costco added 29 new warehouses.",
+        "relevance_score": 5,
+        "relevance_reason": "Warehouse expansion and modest online share suggest opportunity to boost digital presence via visuals.",
+        "key_insights": [
+          "New warehouses—need localized digital content",
+          "Online still 7%—room to grow with visuals",
+          "Membership scale—visuals support member engagement"
+        ],
+        "category": "international_expansion"
+      },
+      {
+        "title": "Costco Reports January 2025 Net Sales of $19.51 Billion, Marking 9.2% Year‑Over‑Year Growth",
+        "source": "Nasdaq (Quiver Quantitative)",
+        "url": "https://www.nasdaq.com/articles/costco-reports-january-2025-net-sales-1951-billion-marking-92-year-over-year-growth",
+        "published_date": "February 05, 2025",
+        "summary": "In January 2025, Costco net sales reached $19.51B (+9.2% YoY), with e‑commerce sales increasing 13.6% for the four‑week period. U.S. comparable sales were up 9.2%, and total net sales for first 22 weeks rose 8.2%.",
+        "relevance_score": 6,
+        "relevance_reason": "Continued e‑commerce growth underscores ongoing need for scalable product visuals.",
+        "key_insights": [
+          "E‑commerce up 13.6%—consistent digital growth",
+          "Strong comparable sales—visuals support conversion",
+          "Sustained momentum—ongoing content demand"
+        ],
+        "category": "ecommerce_growth"
+      },
+      {
+        "title": "Costco's holiday‑season sales jump was not just about food, analyst says",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/costcos-online-sales-in-december-get-a-boost-from-this-years-late-thanksgiving-6369c8b6",
+        "published_date": "January 8, 2025",
+        "summary": "For the five weeks ending Jan 5, 2025, Costco sales rose 9.9% YoY to $27.52B, with e‑commerce up 34.4%, boosted by later Thanksgiving and holiday timing. Same‑store sales rose 7.4%. Analysts say e‑commerce investments are paying off.",
+        "relevance_score": 8,
+        "relevance_reason": "Massive holiday e‑commerce spike highlights need for pre‑launch visuals and seasonal content scalability.",
+        "key_insights": [
+          "Holiday ecommerce up 34.4%—seasonal visual demand",
+          "Timing shifts drive online traffic—need fast content",
+          "Nonfood discretionary spending—visual merchandising key"
+        ],
+        "category": "ecommerce_growth"
+      },
+      {
+        "title": "Costco's AI, tech use helps offset healthcare costs, CFO says",
+        "source": "CFO Dive",
+        "url": "https://www.cfodive.com/news/costcos-ai-tech-use-partly-offsets-healthcare-costs-cfo/807837/",
+        "published_date": "2025",
+        "date": "2025-01-01",
+        "summary": "Costco's CFO reports that AI-driven technologies are helping to offset healthcare costs by improving operational efficiencies. The company is using AI for pre-scan technology to boost checkout speeds by 20%, and for prescription drug pricing and inventory reordering. These technologies are part of Costco's strategy to enhance efficiency and reduce costs. This is important for visual content and e-commerce as it demonstrates the impact of AI on operational improvements and customer service.",
+        "presti_score": 8,
+        "relevance_reason": "AI-driven operational efficiencies are relevant to Presti's focus on technology and e-commerce.",
+        "key_insights": [
+          "AI-driven pre-scan technology boosts checkout speeds by 20%.",
+          "AI is used for prescription drug pricing and inventory reordering.",
+          "Technologies help offset healthcare costs."
+        ],
+        "category": "ai_adoption"
+      },
+      {
+        "title": "Costco braced for 'Netflix moment' after major membership card shake‑up that 'makes it quicker for shoppers to checkout'",
+        "source": "The Sun",
+        "url": "https://www.the-sun.com/money/12751795/costco-netflix-moment-membership-card-scanners/",
+        "published_date": "December 2024",
+        "summary": "Costco introduced digital scanners at store entrances to verify membership cards, replacing manual checks. This improved shopping experience, boosted signups (analysts estimate +4M members), and provided real‑time traffic data for staffing.",
+        "relevance_score": 4,
+        "relevance_reason": "Digital membership infrastructure improvements suggest broader digital transformation that could include visual content modernization.",
+        "key_insights": [
+          "Digital scanners improve omnichannel experience",
+          "Membership growth—more digital shoppers needing visuals",
+          "Real‑time data—potential for personalized visual content"
+        ],
+        "category": "digital_transformation"
+      },
+      {
+        "title": "Costco ecommerce sales rise 18.9% in fiscal Q4",
+        "source": "Digital Commerce 360",
+        "url": "https://www.digitalcommerce360.com/2024/09/27/costco-ecommerce-sales-q4-fiscal-2024/",
+        "published_date": "September 27, 2024",
+        "summary": "Costco’s ecommerce sales grew 18.9% year‑over‑year in fiscal Q4 2024, outpacing total comparable sales. Appliances and furniture led ecommerce growth, and the Costco Next marketplace grew nearly 40%. The company also rolled out buy‑online, pick‑up‑in‑warehouse for TVs and improved mobile app search.",
+        "relevance_score": 9,
+        "relevance_reason": "Strong ecommerce growth, especially in furniture and appliances, signals high demand for scalable product visuals.",
+        "key_insights": [
+          "Ecommerce furniture/appliances booming—visuals needed",
+          "Costco Next marketplace expanding—more SKUs",
+          "Buy‑online, pick‑up program for TVs—requires rich imagery"
+        ],
+        "category": "ecommerce_growth"
+      },
+      {
+        "title": "Costco Wholesale Corporation Reports Fourth Quarter and Fiscal Year 2024 Operating Results",
+        "source": "GlobeNewswire via investor.costco.com",
+        "url": "https://investor.costco.com/news/news-details/2024/Costco-Wholesale-Corporation-Reports-Fourth-Quarter-and-Fiscal-Year-2024-Operating-Results/default.aspx",
+        "published_date": "September 26, 2024",
+        "summary": "In Q4 fiscal 2024, Costco’s ecommerce grew 18.9% (adjusted 19.5%) and full‑year ecommerce grew 16.1% (adjusted 16.2%). Total net sales rose 5.0% to $249.6B. Comparable sales across regions also increased.",
+        "relevance_score": 8,
+        "relevance_reason": "Confirms sustained ecommerce momentum, reinforcing need for scalable visual content across growing digital channels.",
+        "key_insights": [
+          "Sustained double‑digit ecommerce growth",
+          "Global comparable sales rising—visual consistency needed",
+          "Digital channel expansion across regions"
+        ],
+        "category": "ecommerce_growth"
+      },
+      {
+        "title": "Costco Raises Membership Fee for First Time in 7 Years. What It Means for the Stock.",
+        "source": "Barron’s",
+        "url": "https://www.barrons.com/articles/costco-membership-fee-increase-stock-price-07ce2b19",
+        "published_date": "July 10, 2024",
+        "summary": "Effective September 1, 2024, Costco raised membership fees from $60 to $65 (individual) and $120 to $130 (executive), impacting ~52M members. Analysts expect ~$350M incremental operating profit over two years, likely reinvested into prices and benefits.",
+        "relevance_score": 5,
+        "relevance_reason": "Membership fee increase may fund digital enhancements, including improved visual content and marketing.",
+        "key_insights": [
+          "New revenue could fund digital/catalog investments",
+          "Membership benefits expansion—visuals support promotion",
+          "Reinvestment into value proposition—visual storytelling"
+        ],
+        "category": "business_performance"
+      },
+      {
+        "title": "Wagyu beef, $1,200 swing sets, and fake trees are helping drive up Costco sales",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/costco-third-quarter-wagyu-beef-fake-trees-boost-sales-2024-5",
+        "published_date": "May 31, 2024",
+        "summary": "In Q3 fiscal 2024, Costco sales rose 9.1% to $57.39B, driven by trending large and novelty items like artificial trees, wagyu beef, swing sets, and gold bullion. Gold bars generate ~$200M monthly online. App downloads grew 32%.",
+        "relevance_score": 7,
+        "relevance_reason": "High‑value, large‑format products and novelty items require compelling visuals to attract online buyers.",
+        "key_insights": [
+          "Large novelty items—swing sets, trees—need lifestyle imagery",
+          "Gold bullion strong online seller—premium visuals matter",
+          "App engagement rising—visual content supports mobile UX"
+        ],
+        "category": "product_innovation"
+      },
+      {
+        "title": "Costco Reports Second Quarter and Year‑to‑Date Operating Results for Fiscal 2024 and February Sales Results",
+        "source": "GlobeNewswire via investor.costco.com",
+        "url": "https://investor.costco.com/news/news-details/2024/Costco-Wholesale-Corporation-Reports-Second-Quarter-and-Year-to-Date-Operating-Results-for-Fiscal-2024-and-February-Sales-Results/default.aspx",
+        "published_date": "March 07, 2024",
+        "summary": "In Q2 fiscal 2024, net sales rose 5.7% to $57.33B; ecommerce grew 18.4% (adjusted 18.2%). For 24 weeks, ecommerce grew 12.2% (adjusted 12.0%). Comparable sales rose across regions.",
+        "relevance_score": 7,
+        "relevance_reason": "Early strong ecommerce growth trend reinforces sustained need for scalable visual content.",
+        "key_insights": [
+          "Ecommerce up ~18%—consistent digital demand",
+          "Regional comparable sales rising—visual standardization needed",
+          "Early 2024 momentum—ongoing content opportunity"
+        ],
+        "category": "ecommerce_growth"
       }
     ],
-    "search_date": "2026-01-07T15:27:45.826385",
+    "search_date": "2026-01-08",
     "scrape_metadata": {
-      "timestamp": "2026-01-07T15:27:45.826398",
-      "search_engine": "perplexity-sonar",
-      "structuring_model": "gpt-4o",
+      "timestamp": "2026-01-08T13:26:28.912395",
+      "model": "gpt-4o",
       "success": true,
-      "articles_found": 10,
-      "themes_searched": [
-        "digital",
-        "tech",
-        "expansion",
-        "catalog",
-        "marketing"
-      ]
+      "web_search_used": true
+    },
+    "overall_assessment": {
+      "presti_fit_score": 8,
+      "key_opportunities": [
+        "Rapid ecommerce growth in furniture and appliances",
+        "Holiday and seasonal spikes needing fast visuals",
+        "Bulky‑item and novelty product expansion online"
+      ],
+      "recommended_approach": "Emphasize Presti’s ability to generate high‑quality lifestyle visuals for large, bulky, and seasonal items—especially furniture, appliances, and novelty products—at scale and ahead of physical availability, aligning with Costco’s booming ecommerce and catalog expansion."
     }
   },
   "Target": {
