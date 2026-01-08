@@ -307,3 +307,4 @@ with open('public/news_data.json', 'r') as f:
 - `README_NEWS.md` - Documentation système actualités
 - `CHANGEMENTS_EFFECTUES.md` - Historique des modifications
 
+

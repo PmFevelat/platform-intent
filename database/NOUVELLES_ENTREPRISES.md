@@ -195,3 +195,4 @@ OPENAI_API_KEY=your_key ./scrape_new_companies.sh
 3. **Priorisation**: Focus sur Pottery Barn, La-Z-Boy, et West Elm (scores les plus élevés)
 4. **Personnalisation**: Adapter le pitch commercial par entreprise selon opportunités identifiées
 
+

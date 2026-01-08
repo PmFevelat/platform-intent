@@ -164,7 +164,7 @@ export default function CompanyPage() {
         </div>
 
         {/* Tabs - footer of header, custom bar */}
-        <div className="max-w-7xl mx-auto px-6 pb-1 pt-2">
+        <div className="max-w-7xl mx-auto px-6 pb-1">
           <div className="flex items-center gap-5 text-xs border-b border-neutral-200">
             {tabs.map((tab) => {
               const isActive = activeTab === tab.id;

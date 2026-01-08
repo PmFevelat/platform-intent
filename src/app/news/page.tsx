@@ -188,7 +188,7 @@ export default function NewsPage() {
   return (
     <div className="flex flex-col h-screen">
       {/* Header */}
-      <div className="bg-white">
+      <div className="bg-white border-b border-neutral-200">
         <div className="max-w-7xl mx-auto px-6 py-2.5">
           <div className="flex items-center justify-between min-h-[52px]">
             <div>
@@ -202,7 +202,7 @@ export default function NewsPage() {
       </div>
 
       {/* Filters Header - Fixed */}
-      <div className="bg-white">
+      <div style={{ backgroundColor: '#FBFAF9' }}>
         <div className="max-w-3xl mx-auto py-3">
           <div className="flex items-center justify-between">
           {/* Left: Stats */}
@@ -223,7 +223,7 @@ export default function NewsPage() {
                 placeholder="Search companies..."
                 value={searchQuery}
                 onChange={(e) => handleSearchChange(e.target.value)}
-                className="h-[26px] pl-7 pr-7 text-[10px] md:text-[10px] font-medium w-40 border-neutral-200 text-neutral-600 placeholder:text-neutral-400 placeholder:font-medium"
+                className="h-[26px] pl-7 pr-7 text-[10px] md:text-[10px] font-medium w-40 border-neutral-200 text-neutral-600 placeholder:text-neutral-400 placeholder:font-medium bg-white"
               />
               {searchQuery && (
                 <button

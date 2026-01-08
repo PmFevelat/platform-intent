@@ -249,3 +249,4 @@ grep -E '\[.*article.*\]|\[.*link.*\]|\[.*source.*\]' management_interviews.json
 **Impact** : Critique - Élimine les hallucinations d'URLs
 
 
+

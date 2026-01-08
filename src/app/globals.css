@@ -5,7 +5,7 @@
 @layer base {
   :root {
     /* The Org inspired colors */
-    --background: 0 0% 98%;          /* Gris très clair #FAFAFA */
+    --background: 30 20% 98%;        /* #FBFAF9 - The Org background */
     --foreground: 0 0% 9%;           /* Noir pour texte principal */
     --card: 0 0% 100%;               /* Blanc pur pour les cards */
     --card-foreground: 0 0% 9%;
@@ -46,6 +46,7 @@ body {
   font-size: 14px;
   line-height: 1.5;
   color: #171717;
+  background-color: #FBFAF9 !important;
 }
 
 /* Prevent bounce/overscroll effect */

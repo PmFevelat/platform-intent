@@ -100,7 +100,7 @@ export default function JobsPage() {
   return (
     <div className="min-h-screen">
       {/* Header */}
-      <div className="bg-white sticky top-0 z-10">
+      <div className="bg-white sticky top-0 z-10 border-b border-neutral-200">
         <div className="max-w-7xl mx-auto px-6 py-2.5">
           <div className="flex items-center justify-between min-h-[52px]">
             <div>
@@ -108,32 +108,6 @@ export default function JobsPage() {
               <p className="text-xs text-neutral-500 mt-0.5">
                 {companies.length} companies · {companies.reduce((acc, c) => acc + c.jobs.length, 0)} jobs analyzed
               </p>
-            </div>
-            <div className="flex items-center gap-2">
-              <div className="flex items-center border border-neutral-200 rounded-md p-0.5">
-                <Button
-                  variant="ghost"
-                  size="sm"
-                  className={cn(
-                    "h-6 w-6 p-0",
-                    viewMode === "table" && "bg-neutral-100"
-                  )}
-                  onClick={() => setViewMode("table")}
-                >
-                  <List className="w-3.5 h-3.5" />
-                </Button>
-                <Button
-                  variant="ghost"
-                  size="sm"
-                  className={cn(
-                    "h-6 w-6 p-0",
-                    viewMode === "grid" && "bg-neutral-100"
-                  )}
-                  onClick={() => setViewMode("grid")}
-                >
-                  <LayoutGrid className="w-3.5 h-3.5" />
-                </Button>
-              </div>
             </div>
           </div>
         </div>

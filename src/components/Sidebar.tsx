@@ -52,9 +52,11 @@ export function Sidebar() {
           collapsed ? "justify-center px-2" : "justify-between"
         )}>
           <Link href="/" className="flex items-center gap-2.5">
-            <div className="w-7 h-7 rounded-md bg-gradient-to-br from-violet-500 to-purple-600 flex items-center justify-center flex-shrink-0">
-              <Target className="w-3.5 h-3.5 text-white" />
-            </div>
+            <img 
+              src="/logo.jpeg" 
+              alt="Presti" 
+              className="w-7 h-7 rounded-md object-cover flex-shrink-0"
+            />
             {!collapsed && (
               <div className="overflow-hidden">
                 <span className="font-semibold text-neutral-900 text-xs">presti.ai</span>

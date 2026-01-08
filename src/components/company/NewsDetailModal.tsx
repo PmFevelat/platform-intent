@@ -165,7 +165,7 @@ export function NewsDetailModal({ news, isOpen, onClose }: NewsDetailModalProps)
               rel="noopener noreferrer"
               className="w-full"
             >
-              <Button className="w-full bg-violet-600 hover:bg-violet-700 text-white text-xs h-8">
+              <Button className="w-full bg-black hover:bg-neutral-800 text-white text-xs h-8">
                 <ExternalLink className="w-3.5 h-3.5 mr-1.5" />
                 Read full article on {news.source}
               </Button>
