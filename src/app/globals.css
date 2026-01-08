@@ -4,25 +4,26 @@
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 0 0% 3.9%;
-    --card: 0 0% 100%;
-    --card-foreground: 0 0% 3.9%;
+    /* The Org inspired colors */
+    --background: 0 0% 98%;          /* Gris très clair #FAFAFA */
+    --foreground: 0 0% 9%;           /* Noir pour texte principal */
+    --card: 0 0% 100%;               /* Blanc pur pour les cards */
+    --card-foreground: 0 0% 9%;
     --popover: 0 0% 100%;
-    --popover-foreground: 0 0% 3.9%;
-    --primary: 0 0% 9%;
-    --primary-foreground: 0 0% 98%;
-    --secondary: 0 0% 96.1%;
+    --popover-foreground: 0 0% 9%;
+    --primary: 0 0% 9%;              /* Noir pour boutons primaires */
+    --primary-foreground: 0 0% 98%;  /* Texte blanc sur boutons noirs */
+    --secondary: 0 0% 96%;
     --secondary-foreground: 0 0% 9%;
-    --muted: 0 0% 96.1%;
-    --muted-foreground: 0 0% 45.1%;
-    --accent: 0 0% 96.1%;
+    --muted: 0 0% 96%;
+    --muted-foreground: 0 0% 45%;
+    --accent: 0 0% 96%;
     --accent-foreground: 0 0% 9%;
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 0 0% 98%;
-    --border: 0 0% 89.8%;
-    --input: 0 0% 89.8%;
-    --ring: 0 0% 3.9%;
+    --border: 0 0% 92%;              /* Bordures plus subtiles */
+    --input: 0 0% 96%;
+    --ring: 0 0% 9%;
     --radius: 0.5rem;
   }
 }
@@ -37,12 +38,14 @@
   }
 }
 
-/* Notion-like styling */
+/* The Org-inspired styling */
 body {
-  font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
-  font-size: 13px;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 14px;
   line-height: 1.5;
+  color: #171717;
 }
 
 /* Prevent bounce/overscroll effect */
