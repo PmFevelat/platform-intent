@@ -20,7 +20,9 @@ import {
   Building2, 
   ExternalLink,
   Users,
-  Briefcase
+  Briefcase,
+  ChevronLeft,
+  ChevronRight
 } from "lucide-react";
 import { cn } from "@/lib/utils";
 
@@ -29,6 +31,9 @@ export default function JobsPage() {
   const [viewMode, setViewMode] = useState<"table" | "grid">("table");
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [currentPage, setCurrentPage] = useState(1);
+
+  const COMPANIES_PER_PAGE = 20;
 
   useEffect(() => {
     getData()
@@ -59,11 +64,15 @@ export default function JobsPage() {
     );
   }
 
-  const companies = data?.companies ? Object.values(data.companies) : [];
+  // Only show these 9 Tier 0 companies in the interface
+  const tier0CompaniesNames = ['Costco', 'Target', 'Home Depot', "Lowe's", 'La-Z-Boy', 'Pottery Barn', 'Williams Sonoma', 'West Elm', 'California Closets'];
   
-  // Priority companies: 8 new ones + California Closets
-  const newCompanies = ['Costco', 'Target', 'Home Depot', "Lowe's", 'La-Z-Boy', 'Pottery Barn', 'Williams Sonoma', 'West Elm'];
-  const priorityCompanies = [...newCompanies, 'California Closets'];
+  const allCompanies = data?.companies ? Object.values(data.companies) : [];
+  
+  // Filter to only show Tier 0 companies
+  const companies = allCompanies.filter(company => tier0CompaniesNames.includes(company.name));
+  
+  const priorityCompanies = tier0CompaniesNames;
   
   // Custom sort: priority companies first, then rest by job count
   const sortedCompanies = [...companies].sort((a, b) => {
@@ -81,6 +90,12 @@ export default function JobsPage() {
     // Both not priority: sort by job count
     return b.jobs.length - a.jobs.length;
   });
+
+  // Pagination
+  const totalPages = Math.ceil(sortedCompanies.length / COMPANIES_PER_PAGE);
+  const startIndex = (currentPage - 1) * COMPANIES_PER_PAGE;
+  const endIndex = startIndex + COMPANIES_PER_PAGE;
+  const paginatedCompanies = sortedCompanies.slice(startIndex, endIndex);
 
   return (
     <div className="min-h-screen">
@@ -137,7 +152,7 @@ export default function JobsPage() {
                 </TableRow>
               </TableHeader>
               <TableBody>
-                {sortedCompanies.map((company) => {
+                {paginatedCompanies.map((company) => {
                   const stats = getCompanyStats(company);
                   return (
                     <TableRow 
@@ -153,11 +168,9 @@ export default function JobsPage() {
                             <div>
                               <div className="flex items-center gap-1.5">
                                 <div className="font-medium text-neutral-900 text-xs">{company.name}</div>
-                                {newCompanies.includes(company.name) && (
-                                  <Badge variant="secondary" className="font-normal text-[9px] h-4 bg-green-100 text-green-700 hover:bg-green-100">
-                                    Tier 0
-                                  </Badge>
-                                )}
+                                <Badge variant="secondary" className="font-normal text-[9px] h-4 bg-green-100 text-green-700 hover:bg-green-100">
+                                  Tier 0
+                                </Badge>
                               </div>
                               <div className="text-[9px] text-neutral-400">{company.employees} emp.</div>
                             </div>
@@ -183,7 +196,7 @@ export default function JobsPage() {
           </div>
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3">
-            {sortedCompanies.map((company) => {
+            {paginatedCompanies.map((company) => {
               const stats = getCompanyStats(company);
               return (
                 <Link 
@@ -234,6 +247,68 @@ export default function JobsPage() {
                 </Link>
               );
             })}
+          </div>
+        )}
+
+        {/* Pagination */}
+        {totalPages > 1 && (
+          <div className="flex items-center justify-between mt-4 pt-3 border-t border-neutral-200">
+            <div className="text-xs text-neutral-500">
+              Showing {startIndex + 1}-{Math.min(endIndex, sortedCompanies.length)} of {sortedCompanies.length} companies
+            </div>
+            
+            <div className="flex items-center gap-1">
+              <Button
+                variant="ghost"
+                size="sm"
+                onClick={() => setCurrentPage(p => Math.max(1, p - 1))}
+                disabled={currentPage === 1}
+                className="h-7 w-7 p-0"
+              >
+                <ChevronLeft className="w-3.5 h-3.5" />
+              </Button>
+              <div className="flex items-center gap-0.5">
+                {Array.from({ length: totalPages }, (_, i) => i + 1).map((page) => {
+                  // Show first page, last page, current page, and pages around current
+                  if (
+                    page === 1 ||
+                    page === totalPages ||
+                    (page >= currentPage - 1 && page <= currentPage + 1)
+                  ) {
+                    return (
+                      <button
+                        key={page}
+                        onClick={() => setCurrentPage(page)}
+                        className={cn(
+                          "h-7 w-7 rounded-md text-xs font-medium transition-colors",
+                          currentPage === page
+                            ? "bg-violet-100 text-violet-700"
+                            : "text-neutral-600 hover:bg-neutral-100"
+                        )}
+                      >
+                        {page}
+                      </button>
+                    );
+                  } else if (page === currentPage - 2 || page === currentPage + 2) {
+                    return (
+                      <span key={page} className="text-neutral-400 text-xs px-1">
+                        ...
+                      </span>
+                    );
+                  }
+                  return null;
+                })}
+              </div>
+              <Button
+                variant="ghost"
+                size="sm"
+                onClick={() => setCurrentPage(p => Math.min(totalPages, p + 1))}
+                disabled={currentPage === totalPages}
+                className="h-7 w-7 p-0"
+              >
+                <ChevronRight className="w-3.5 h-3.5" />
+              </Button>
+            </div>
           </div>
         )}
       </div>
