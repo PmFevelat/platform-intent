@@ -2018,5 +2018,947 @@
       "success": true,
       "web_search_used": true
     }
+  },
+  "Saks Global": {
+    "company_name": "Saks Global",
+    "search_date": "2026-01-09",
+    "management_items": [
+      {
+        "title": "Saks Global Advances Industry‑Leading Innovation in Personalization",
+        "source": "PR Newswire / Saks Global",
+        "url": "https://www.saksglobal.com/2025-08-14-Saks-Global-Advances-Industry-Leading-Innovation-in-Personalization",
+        "published_date": "August 14, 2025",
+        "format": "article",
+        "executive_name": "Emily Essner",
+        "executive_title": "President & Chief Commercial Officer, Saks Global",
+        "summary": "Emily Essner outlines the launch of a hyper‑personalized homepage using AI and machine learning to tailor the Saks.com experience, driving a 7% increase in revenue per visitor and nearly 10% lift in conversion.",
+        "key_quotes": [
+          "At Saks Global, we are reinventing luxury shopping by delivering luxury artfully curated to each customer.",
+          "By bringing the one‑to‑one relationship our customers experience with their stylist in stores to the onsite experience, we have reached an important milestone.",
+          "We look forward to building upon this innovation across Saks Global's luxury retail brands."
+        ],
+        "topics_discussed": [
+          "personalization",
+          "AI-driven customer experience",
+          "digital transformation"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Demonstrates strong strategic focus on AI‑powered visual and content personalization—directly aligns with Presti’s value proposition in scalable lifestyle imagery.",
+        "sales_insights": [
+          "Position Presti as a partner to extend AI personalization into product imagery.",
+          "Highlight ability to integrate with headless frameworks for rapid visual innovation.",
+          "Emphasize lift in conversion and revenue via tailored visual content."
+        ]
+      },
+      {
+        "title": "Saks Global Luxury Pulse Finds Increasing Interest in Personalization and AI",
+        "source": "Business Wire / Saks Global",
+        "url": "https://www.businesswire.com/news/home/20250224522352/en/Saks-Global-Luxury-Pulse-Finds-Increasing-Interest-in-Personalization-and-AI",
+        "published_date": "February 24, 2025",
+        "format": "article",
+        "executive_name": "Emily Essner",
+        "executive_title": "President & Chief Commercial Officer, Saks Global",
+        "summary": "Emily Essner shares findings from the Luxury Pulse survey showing 94% of luxury consumers are likely to engage with personalization and AI features, and 66% already use AI tools like size recommendations or visualization.",
+        "key_quotes": [
+          "At Saks Global, we’re working to reinvent luxury shopping by delivering luxury fashion and experiences perfectly curated for each customer.",
+          "A key insight from the Saks Global Luxury Pulse is the luxury consumer’s increasing willingness to embrace personalization and AI."
+        ],
+        "topics_discussed": [
+          "consumer sentiment",
+          "personalization",
+          "AI adoption"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Reveals consumer openness to AI and personalization—supports Presti’s positioning around AI‑generated lifestyle visuals.",
+        "sales_insights": [
+          "Use consumer data to argue for visual personalization adoption.",
+          "Frame Presti as meeting rising consumer expectations for AI‑driven imagery.",
+          "Leverage stats (94% engagement) to justify investment in visual AI."
+        ]
+      },
+      {
+        "title": "Saks Global And Authentic Seek To Take Control Of Luxury Market",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/markfaithfull/2025/05/22/saks-global-and-authentic-seek-to-take-control-of-luxury-market/",
+        "published_date": "May 22, 2025",
+        "format": "article",
+        "executive_name": "Richard Baker",
+        "executive_title": "Executive Chairman, Saks Global",
+        "summary": "Richard Baker discusses the joint venture with Authentic Brands Group to expand into retail, hospitality, and branded residences, leveraging data and distribution to shift power from vendors to retailer.",
+        "key_quotes": [
+          "When we sit here in five years luxury is going to be natural on Amazon.",
+          "We also had to right size our vendor matrix, because we had 2,660 vendors and we had to reset vendor relationships."
+        ],
+        "topics_discussed": [
+          "strategic partnerships",
+          "vendor optimization",
+          "global expansion"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Highlights strategic shift toward controlled brands and global expansion—Presti can support scalable visual content across new channels and markets.",
+        "sales_insights": [
+          "Pitch Presti as enabling consistent brand imagery across new hospitality/residence channels.",
+          "Emphasize ability to support controlled-brand strategy with scalable visuals.",
+          "Offer global deployment of lifestyle imagery aligned with expansion."
+        ]
+      },
+      {
+        "title": "The Saks‑Neiman merger is on",
+        "source": "Vogue Business",
+        "url": "https://www.vogue.com/article/the-saks-neiman-merger-is-on",
+        "published_date": "December 23, 2024",
+        "format": "article",
+        "executive_name": "Marc Metrick",
+        "executive_title": "CEO, Saks Global Operating Group",
+        "summary": "Marc Metrick outlines the merger of Saks and Neiman Marcus into Saks Global, with ambitions for international expansion and a new leadership structure including Emily Essner as President & CCO.",
+        "key_quotes": [
+          "This is just the beginning, hinting at Saks Global’s future international ambitions."
+        ],
+        "topics_discussed": [
+          "merger strategy",
+          "organizational structure",
+          "international growth"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Merger creates scale and complexity—Presti can offer unified visual content across merged brands and geographies.",
+        "sales_insights": [
+          "Position Presti as a unifying visual solution across merged brand portfolio.",
+          "Highlight ability to support international rollout with scalable imagery.",
+          "Emphasize efficiency in content generation post‑merger."
+        ]
+      },
+      {
+        "title": "Saks Launches Media Network Connecting Brand Partners with Luxury Shoppers, Enhancing Product Discovery",
+        "source": "PR Newswire / Saks",
+        "url": "https://pressroom.saks.com/news-releases/news-release-details/saks-launches-media-network-connecting-brand-partners-luxury/",
+        "published_date": "April 23, 2024",
+        "format": "article",
+        "executive_name": "Kristin Maa",
+        "executive_title": "Senior Vice President, Growth, Saks",
+        "summary": "Kristin Maa introduces the Saks Media Network, a retail media platform leveraging first‑party data to enable brands to advertise via sponsored ads and display banners across Saks.com.",
+        "key_quotes": [
+          "With the launch of our Saks Media Network, we are expanding our offerings for brand partners by helping their products reach the right luxury customers when and where they are actively looking to purchase."
+        ],
+        "topics_discussed": [
+          "retail media",
+          "first‑party data",
+          "brand partnerships"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Shows investment in digital advertising and brand partner tools—Presti can integrate with media network to supply visual assets for sponsored placements.",
+        "sales_insights": [
+          "Propose Presti as a visual content provider for sponsored product ads.",
+          "Highlight synergy between AI imagery and retail media performance.",
+          "Offer fast turnaround for campaign visuals."
+        ]
+      },
+      {
+        "title": "Saks Global Unveils Strategy for the Future of Luxury Menswear",
+        "source": "PR Newswire / Saks Global",
+        "url": "https://www.prnewswire.com/news-releases/saks-global-unveils-strategy-for-the-future-of-luxury-menswear-302485299.html",
+        "published_date": "June 18, 2025",
+        "format": "article",
+        "executive_name": "Emily Essner",
+        "executive_title": "President & Chief Commercial Officer, Saks Global",
+        "summary": "Emily Essner describes a data‑driven strategy for luxury menswear, targeting Gen Z and Millennials with curated assortments and stylists to build modern wardrobes, aligned with 'The Art of You' vision.",
+        "key_quotes": [
+          "With the scale of our multi‑brand platform, deep customer insights, refined product assortment and personalized service, we are uniquely positioned to lead the luxury menswear category."
+        ],
+        "topics_discussed": [
+          "menswear strategy",
+          "data-driven curation",
+          "targeting younger consumers"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Focus on curated visual storytelling for menswear—Presti can supply lifestyle imagery tailored to Gen Z/Millennial aesthetics.",
+        "sales_insights": [
+          "Offer Presti’s ability to generate modern menswear visuals for digital campaigns.",
+          "Highlight customization for younger consumer segments.",
+          "Support stylists with scalable visual assets."
+        ]
+      },
+      {
+        "title": "Saks Global | Strategy – The Art of You",
+        "source": "Saks Global (official strategy page)",
+        "url": "https://www.saksglobal.com/strategy",
+        "published_date": "2025",
+        "format": "article",
+        "executive_name": "—",
+        "executive_title": "—",
+        "summary": "Saks Global’s strategic pillars: portfolio, people, platform, partnerships—emphasizing data, AI, personalization, and leveraging iconic brands to deliver unique luxury experiences.",
+        "key_quotes": [],
+        "topics_discussed": [
+          "strategy pillars",
+          "personalization",
+          "AI platform",
+          "partnerships"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Clarifies strategic framework—Presti aligns with platform and personalization pillars by offering AI‑driven visual capabilities.",
+        "sales_insights": [
+          "Frame Presti as enabling the 'platform' pillar with AI imagery.",
+          "Position as a partnership enhancing personalization.",
+          "Tie into portfolio scale across brands."
+        ]
+      },
+      {
+        "title": "Generative AI hits a fashion acceleration point",
+        "source": "Vogue Business",
+        "url": "https://www.voguebusiness.com/story/technology/generative-ai-hits-a-fashion-acceleration-point",
+        "published_date": "March 2025",
+        "format": "article",
+        "executive_name": "—",
+        "executive_title": "—",
+        "summary": "Vogue Business reports that retailers including Saks Fifth Avenue are adopting generative AI for personalized marketing, product search, and customer service, boosting engagement and conversion.",
+        "key_quotes": [],
+        "topics_discussed": [
+          "generative AI",
+          "retail adoption",
+          "personalization"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Confirms Saks’ broader adoption of generative AI—supports Presti’s relevance in AI‑driven visual content.",
+        "sales_insights": [
+          "Use industry trend to validate Presti’s AI imagery solution.",
+          "Position Presti as part of generative AI wave in luxury retail.",
+          "Highlight competitive advantage through visual AI."
+        ]
+      }
+    ],
+    "key_executives_identified": [
+      {
+        "name": "Emily Essner",
+        "title": "President & Chief Commercial Officer, Saks Global",
+        "relevance": "Key driver of personalization, AI, menswear strategy and customer experience—primary champion for visual innovation.",
+        "content_count": 4
+      },
+      {
+        "name": "Richard Baker",
+        "title": "Executive Chairman, Saks Global",
+        "relevance": "Leads strategic partnerships, vendor optimization, and global expansion—important for scaling Presti across channels.",
+        "content_count": 1
+      },
+      {
+        "name": "Marc Metrick",
+        "title": "CEO, Saks Global Operating Group (at merger time)",
+        "relevance": "Led merger and international ambitions—relevant for unified brand and content strategy post‑merger.",
+        "content_count": 1
+      },
+      {
+        "name": "Kristin Maa",
+        "title": "Senior Vice President, Growth, Saks",
+        "relevance": "Leads retail media network—potential partner for visual content in advertising.",
+        "content_count": 1
+      }
+    ],
+    "overall_assessment": {
+      "decision_maker_visibility": "medium",
+      "strategic_priorities": [
+        "AI‑driven personalization across digital channels",
+        "Data‑driven curation and customer experience (‘The Art of You’)",
+        "Strategic partnerships and controlled brand expansion"
+      ],
+      "presti_entry_points": [
+        "AI‑powered lifestyle imagery to enhance personalization",
+        "Scalable visual content for retail media and advertising",
+        "Unified imagery across merged brands and new channels"
+      ],
+      "recommended_contact": "Target Emily Essner first—she is the CCO driving personalization, AI, and customer experience strategies, making her the most receptive executive to Presti’s visual AI solution."
+    },
+    "scrape_metadata": {
+      "timestamp": "2026-01-09T13:48:44.425942",
+      "model": "gpt-4o",
+      "success": true,
+      "web_search_used": true
+    }
+  },
+  "Millerknoll": {
+    "company_name": "Millerknoll",
+    "search_date": "2026-01-09",
+    "management_items": [
+      {
+        "title": "MillerKnoll Unveils New Sustainability Strategy and Issues 2024 Better World Report",
+        "source": "PR Newswire / Design Insider",
+        "url": "https://news.millerknoll.com/2025-02-04-MillerKnoll-Unveils-New-Sustainability-Strategy-and-Issues-2024-Better-World-Report",
+        "published_date": "February 04, 2025",
+        "format": "article",
+        "executive_name": "Andi Owen",
+        "executive_title": "CEO of MillerKnoll",
+        "summary": "CEO Andi Owen outlines a bold sustainability strategy focused on carbon reduction, sustainable materials, and circularity, with net-zero by 2050 and short-term targets like PFAS elimination and renewable electricity.",
+        "key_quotes": [
+          "Climate change is an urgent, global challenge, and at MillerKnoll, we are taking bold steps to drive change.",
+          "Our associates are working with our partners, suppliers, and customers to further improve the sustainability of our processes, products, and the spaces we design."
+        ],
+        "topics_discussed": [
+          "sustainability",
+          "carbon reduction",
+          "circularity",
+          "PFAS elimination",
+          "renewable energy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Sustainability is a strategic priority; Presti’s AI imagery can support showcasing eco-friendly products and circular design initiatives.",
+        "sales_insights": [
+          "Position Presti as a tool to visually communicate sustainability credentials (e.g., recycled materials, low-carbon products).",
+          "Offer scalable lifestyle imagery that highlights circularity and longevity of products.",
+          "Emphasize ability to generate visuals for PFAS-free and renewable-energy-aligned product lines."
+        ]
+      },
+      {
+        "title": "MillerKnoll Issues 2023 Better World Report, Detailing Strides to Design a Better World",
+        "source": "PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/millerknoll-issues-2023-better-world-report-detailing-strides-to-design-a-better-world-301962139.html",
+        "published_date": "October 19, 2023",
+        "format": "article",
+        "executive_name": "Andi Owen",
+        "executive_title": "CEO of MillerKnoll",
+        "summary": "CEO Andi Owen emphasizes MillerKnoll’s commitment to sustainability, DEIB, and community impact, including packaging waste reduction, diverse supplier spend, and volunteering.",
+        "key_quotes": [
+          "As a collective of brands, we have a real opportunity to create a more equitable, diverse, and inclusive environment and to protect the planet we share; an opportunity that we're seizing."
+        ],
+        "topics_discussed": [
+          "sustainability",
+          "DEIB",
+          "community impact",
+          "packaging waste",
+          "diverse suppliers"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Highlights brand values and sustainability—Presti can support inclusive and eco-conscious visual storytelling.",
+        "sales_insights": [
+          "Offer imagery that reflects diversity and inclusion in lifestyle contexts.",
+          "Highlight sustainable packaging and materials visually.",
+          "Align Presti’s visuals with MillerKnoll’s DEIB and community values."
+        ]
+      },
+      {
+        "title": "Building a customer‑centric and digitally enabled business model",
+        "source": "SEC Filing (10‑Q)",
+        "url": "https://www.sec.gov/Archives/edgar/data/66382/000006638223000058/mlkn-20230603.htm",
+        "published_date": "June 03, 2023",
+        "format": "article",
+        "executive_name": null,
+        "executive_title": null,
+        "summary": "MillerKnoll is integrating systems, simplifying architecture, expanding global eCommerce, harnessing data, and accelerating automation and Manufacturing 4.0 to build a digitally enabled, customer‑centric model.",
+        "key_quotes": [
+          "Building a customer‑centric and digitally enabled business model is foundational to bringing MillerKnoll to life.",
+          "Our goals include integrating our systems and processes, shifting to a simpler systems architecture, serving our customers around the world through global eCommerce capabilities, harnessing data to enable our teams to make effective and timely decisions."
+        ],
+        "topics_discussed": [
+          "digital transformation",
+          "eCommerce",
+          "data-driven decisions",
+          "automation",
+          "systems integration"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Digital enablement and eCommerce are strategic priorities—Presti’s scalable imagery can support digital catalogs and online merchandising.",
+        "sales_insights": [
+          "Pitch Presti as a way to accelerate eCommerce content creation globally.",
+          "Emphasize integration with digital systems and data-driven content workflows.",
+          "Support automation of visual content for product launches and dealer networks."
+        ]
+      },
+      {
+        "title": "MillerKnoll, Inc. Reports Third Quarter Fiscal 2023 Results",
+        "source": "PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/millerknoll-inc-reports-third-quarter-fiscal-2023-results-301779014.html",
+        "published_date": "May 2023",
+        "format": "article",
+        "executive_name": null,
+        "executive_title": null,
+        "summary": "MillerKnoll highlights digital capabilities and dealer tools to help dealers sell the collective of brands, capturing integration synergies and improving productivity.",
+        "key_quotes": [
+          "Positioning for the future, we are further enhancing our selling and digital tools to make it easier for our dealers to sell the entire MillerKnoll collective of brands."
+        ],
+        "topics_discussed": [
+          "digital tools",
+          "dealer enablement",
+          "integration synergies",
+          "productivity"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Dealer enablement and digital tools are key—Presti can offer imagery solutions for dealer portals and brand consistency.",
+        "sales_insights": [
+          "Offer Presti as a tool for dealers to access consistent, high-quality lifestyle visuals.",
+          "Support cross-brand imagery for integrated brand selling.",
+          "Enable faster content updates across dealer networks."
+        ]
+      },
+      {
+        "title": "MillerKnoll Trailblazes Toward Chemical‑Free Furniture",
+        "source": "Architectural Digest (AD PRO)",
+        "url": "https://www.architecturaldigest.com/story/millerknoll-trailblazes-toward-chemical-free-furniture-sothebys-taps-ken-fulk-for-visions-of-america-and-more-news",
+        "published_date": "January 06, 2025",
+        "format": "article",
+        "executive_name": null,
+        "executive_title": null,
+        "summary": "MillerKnoll will eliminate PFAS from all North American products starting May, becoming the first office furniture manufacturer to do so, reinforcing its commitment to safe, sustainable design.",
+        "key_quotes": [
+          "Beginning in May, all its North American products ... will be made without the addition of per‑ and poly‑fluoroalkyl substances (PFAS)."
+        ],
+        "topics_discussed": [
+          "PFAS elimination",
+          "chemical‑free design",
+          "sustainability"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "PFAS‑free products are a sustainability differentiator—Presti can help visually communicate this safety and eco‑friendly positioning.",
+        "sales_insights": [
+          "Provide imagery that highlights chemical‑free product features.",
+          "Support marketing around health and safety credentials.",
+          "Visualize product materials and eco‑friendly attributes."
+        ]
+      },
+      {
+        "title": "MillerKnoll Announces 2030 Sustainability Goals: Doing More for Our Planet",
+        "source": "Knoll Press Release",
+        "url": "https://www.knoll.com/knollnewsdetail/millerknoll-announces-2030-sustainability-goals",
+        "published_date": "April 21, 2022",
+        "format": "article",
+        "executive_name": null,
+        "executive_title": null,
+        "summary": "MillerKnoll sets 2030 sustainability targets: reduce carbon footprint by 50%, eliminate single‑use plastics, and use 50%+ recycled content globally, building on legacy brands.",
+        "key_quotes": [
+          "Reduce the carbon footprint from its products and operations by 50% and aim to reduce the carbon footprint of its suppliers."
+        ],
+        "topics_discussed": [
+          "sustainability goals",
+          "carbon footprint",
+          "recycled content",
+          "plastic elimination"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Long‑term sustainability goals reinforce visual storytelling needs—Presti can support imagery aligned with eco‑materials and recycled content.",
+        "sales_insights": [
+          "Create visuals emphasizing recycled and sustainable materials.",
+          "Support storytelling around plastic reduction and eco‑design.",
+          "Align imagery with long‑term sustainability messaging."
+        ]
+      },
+      {
+        "title": "Mission Statement, Vision, & Core Values (2025) of MillerKnoll, Inc. (MLKN)",
+        "source": "DCFmodeling.com",
+        "url": "https://dcfmodeling.com/blogs/vision/mlkn-mission-vision",
+        "published_date": "2025",
+        "format": "article",
+        "executive_name": null,
+        "executive_title": null,
+        "summary": "MillerKnoll emphasizes environmental stewardship, circular economy, innovation, renewable energy, and R&D investment (~$50M) as part of its vision and values.",
+        "key_quotes": [
+          "Driving Innovation is a cornerstone of MillerKnoll's vision.",
+          "These efforts are reflected in their environmental stewardship, such as reducing carbon footprint and promoting circular economy principles."
+        ],
+        "topics_discussed": [
+          "innovation",
+          "R&D",
+          "environmental stewardship",
+          "circular economy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Innovation and R&D are strategic pillars—Presti can position itself as an innovative visual technology partner.",
+        "sales_insights": [
+          "Pitch Presti as an innovation partner aligned with MillerKnoll’s R&D focus.",
+          "Highlight AI‑driven imagery as cutting‑edge design support.",
+          "Emphasize alignment with circular economy and environmental values."
+        ]
+      },
+      {
+        "title": "What is Sales and Marketing Strategy of MillerKnoll Company?",
+        "source": "PortersFiveForce.com",
+        "url": "https://portersfiveforce.com/blogs/marketing-strategy/millerknoll",
+        "published_date": "2025",
+        "format": "article",
+        "executive_name": null,
+        "executive_title": null,
+        "summary": "MillerKnoll’s marketing strategy includes a direct‑to‑client sales force, expanded e‑commerce (120% traffic growth), flagship showrooms, content authority via 'Why' publication, and sustainability as USP.",
+        "key_quotes": [
+          "The e‑commerce platform saw a 120% growth in traffic following a 2024 site redesign.",
+          "The digital publication 'Why' is the cornerstone, attracting over 5 million annual unique visitors."
+        ],
+        "topics_discussed": [
+          "e‑commerce growth",
+          "digital content",
+          "brand authority",
+          "showrooms",
+          "sustainability marketing"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "E‑commerce and content leadership are priorities—Presti can support digital content scale and storytelling via imagery.",
+        "sales_insights": [
+          "Offer Presti to fuel 'Why' and other digital content with scalable visuals.",
+          "Support e‑commerce growth with high‑volume lifestyle imagery.",
+          "Enable showroom and online consistency through visual assets."
+        ]
+      }
+    ],
+    "key_executives_identified": [
+      {
+        "name": "Andi Owen",
+        "title": "CEO of MillerKnoll",
+        "relevance": "Primary decision‑maker driving sustainability, DEIB, and brand vision—key for positioning Presti’s imagery as aligned with corporate values.",
+        "content_count": 2
+      }
+    ],
+    "overall_assessment": {
+      "decision_maker_visibility": "medium",
+      "strategic_priorities": [
+        "Sustainability (carbon reduction, PFAS elimination, circularity)",
+        "Digital transformation and e‑commerce enablement",
+        "Innovation and environmental stewardship"
+      ],
+      "presti_entry_points": [
+        "Visual storytelling for sustainable, PFAS‑free products",
+        "Scalable imagery for e‑commerce and dealer digital tools",
+        "Innovative AI imagery aligned with R&D and brand content"
+      ],
+      "recommended_contact": "Target the CEO (Andi Owen) first, as she is the visible champion of sustainability and brand vision; align Presti’s offering with her priorities around eco‑design and digital storytelling to gain executive buy‑in."
+    },
+    "scrape_metadata": {
+      "timestamp": "2026-01-09T14:20:46.223950",
+      "model": "gpt-4o",
+      "success": true,
+      "web_search_used": true
+    }
+  },
+  "Jonathan Louis": {
+    "company_name": "Jonathan Louis",
+    "search_date": "2026-01-09",
+    "management_items": [
+      {
+        "title": "Jonathan Louis CEO: Latest furniture launch is ‘turning point’",
+        "source": "Furniture Today",
+        "url": "https://www.furnituretoday.com/manufacturers/jonathan-louis-ceo-latest-furniture-launch-is-turning-point/",
+        "published_date": "April 21, 2025",
+        "format": "article / interview",
+        "executive_name": "Javier Sanchez",
+        "executive_title": "Chief Executive Officer",
+        "summary": "Javier Sanchez frames the launch of the new luxury upholstery brand Casae as both a celebration of heritage and a strategic pivot toward design‑forward, collaborative offerings targeting e‑commerce platforms, retailers, and interior designers.",
+        "key_quotes": [
+          "“This launch is both a celebration and a turning point.”",
+          "“Casae speaks to the next generation of design leaders; those who seek identity and intention in the pieces they specify.”"
+        ],
+        "topics_discussed": [
+          "brand innovation",
+          "luxury custom upholstery",
+          "targeting e‑commerce and design leaders"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "CEO emphasizes design‑forward, customizable offerings and e‑commerce platforms—key areas where Presti’s AI‑generated lifestyle imagery can support scale and storytelling.",
+        "sales_insights": [
+          "Position Presti as enabling visual storytelling for Casae’s artisanal collections.",
+          "Highlight ability to generate high‑quality lifestyle images for e‑commerce launch campaigns.",
+          "Emphasize speed and flexibility to support next‑generation design‑driven brand identity."
+        ]
+      },
+      {
+        "title": "Jonathan Louis launches luxury upholstery brand to celebrate 40th anniversary",
+        "source": "Home News Now",
+        "url": "https://homenewsnow.com/blog/2025/04/18/jonathan-louis-launches-luxury-upholstery-brand-to-celebrate-40th-anniversary/",
+        "published_date": "April 18, 2025",
+        "format": "article",
+        "executive_name": "Heidi Gonzalez",
+        "executive_title": "Vice President, Product Development",
+        "summary": "Heidi Gonzalez describes Casae as a collaborative, artisanal design studio aimed at co‑creating with partners and serving style‑driven retailers, e‑commerce platforms, and interior designers.",
+        "key_quotes": [
+          "“Casae was born from our enduring passion for design and deep respect for the craft.”",
+          "“It’s a collaborative space where timeless craftsmanship meets forward‑thinking design. We’re here to co‑create with our partners.”"
+        ],
+        "topics_discussed": [
+          "collaborative design",
+          "product development",
+          "e‑commerce partnerships"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Product development leader emphasizes collaboration and co‑creation with partners—Presti can support by offering scalable visual content to co‑create digital experiences.",
+        "sales_insights": [
+          "Offer Presti as a tool for co‑creation of visual assets with retail and design partners.",
+          "Propose pilot for Casae collections to generate lifestyle imagery for e‑commerce and B2B presentations.",
+          "Highlight ability to reflect artisanal craftsmanship digitally at scale."
+        ]
+      },
+      {
+        "title": "Innovation is colorful over at Jonathan Louis, and success is carefully crafted by design",
+        "source": "Manufacturing‑Today",
+        "url": "https://manufacturing-today.com/news/innovation-is-colorful-over-at-jonathan-louis-and-success-is-carefully-crafted-by-design/",
+        "published_date": "July 5, 2023",
+        "format": "article / profile",
+        "executive_name": "Javier Sanchez",
+        "executive_title": "Chief Executive Officer",
+        "summary": "Javier Sanchez highlights Jonathan Louis’s emphasis on bold use of color, design‑led product innovation, and manufacturing flexibility to exceed expectations and support creative, custom offerings.",
+        "key_quotes": [
+          "“One of the biggest things I tell my team when they are creating the product, is do not worry about costs or whether they can be bulk manufactured. What we care about is putting the best product forward.”",
+          "“Our manufacturing set up … at its heart, this is still a hand‑built product.”"
+        ],
+        "topics_discussed": [
+          "design innovation",
+          "manufacturing flexibility",
+          "creative product development"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "CEO’s focus on design innovation and flexibility aligns with Presti’s ability to create diverse, expressive visual content that matches their creative product ethos.",
+        "sales_insights": [
+          "Pitch Presti as a visual extension of their design innovation—capturing bold colors and custom configurations.",
+          "Emphasize ability to reflect handcrafted feel digitally.",
+          "Support marketing of unique, statement pieces with high‑impact imagery."
+        ]
+      },
+      {
+        "title": "Heidi Gonzalez, Jonathan Lewis | FT’s 40 Under 40",
+        "source": "Furniture Today",
+        "url": "https://www.furnituretoday.com/furniture-people/heidi-gonzalez-jonathan-lewis-fts-40-under-40/",
+        "published_date": "September 2, 2024",
+        "format": "profile article",
+        "executive_name": "Heidi Gonzalez",
+        "executive_title": "Vice President, Product Development",
+        "summary": "Heidi Gonzalez oversees strategic and creative direction of product assortment, leading design, development, and prototypes to align with market and drive sales and profitability.",
+        "key_quotes": [],
+        "topics_discussed": [
+          "product strategy",
+          "creative leadership",
+          "market alignment"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "As VP of Product Development, she shapes product direction—Presti can support her by offering imagery that aligns with market trends and accelerates product launches.",
+        "sales_insights": [
+          "Target her with visuals that reflect market‑aligned prototypes.",
+          "Offer imagery to accelerate go‑to‑market for new assortments.",
+          "Position Presti as a creative partner for product storytelling."
+        ]
+      },
+      {
+        "title": "Darvin grows gallery lineup with Jonathan Louis showcase",
+        "source": "Furniture Today",
+        "url": "https://www.furnituretoday.com/furniture-retailer/darvin-grows-gallery-lineup-with-jonathan-louis-showcase/",
+        "published_date": "October 9, 2024",
+        "format": "article",
+        "executive_name": "Camelle Smith",
+        "executive_title": "Vice President of Sales",
+        "summary": "Camelle Smith joined CEO Javier Sanchez at the ribbon‑cutting of a new Jonathan Louis Gallery at Darvin Furniture, highlighting the brand’s fashion‑forward, customizable offerings and excitement in retail expansion.",
+        "key_quotes": [
+          "“The energy we are seeing here today with the reveal of the Jonathan Louis Gallery, reflects the excitement we have at Darvin for this fashion‑forward brand.”"
+        ],
+        "topics_discussed": [
+          "retail expansion",
+          "brand excitement",
+          "customizable offerings"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "VP of Sales is driving retail gallery expansion—Presti can support with lifestyle imagery to energize in‑store and digital merchandising.",
+        "sales_insights": [
+          "Propose imagery for gallery launch promotions.",
+          "Offer digital visuals to complement physical showroom experiences.",
+          "Support sales team with scalable visual assets for retail partners."
+        ]
+      },
+      {
+        "title": "Custom Collections by Jonathan Louis: Jordan's Furniture",
+        "source": "Jonathan Louis website",
+        "url": "https://www.jonathanlouis.com/jordans-custom-collections",
+        "published_date": "June 2023",
+        "format": "company article",
+        "executive_name": null,
+        "executive_title": null,
+        "summary": "Jonathan Louis collaborated with Jordan’s Furniture to create a Custom Collections gallery in‑store, showcasing their customizable lines and enhancing customer experience through engaging merchandising and QR‑enabled information.",
+        "key_quotes": [],
+        "topics_discussed": [
+          "retail collaboration",
+          "custom collections",
+          "customer experience"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Demonstrates focus on customizable experiences and digital integration—Presti can enhance customer experience with visual storytelling and QR‑linked imagery.",
+        "sales_insights": [
+          "Offer lifestyle imagery accessible via QR codes in‑store.",
+          "Support custom collection storytelling digitally.",
+          "Enhance customer engagement through visual content."
+        ]
+      },
+      {
+        "title": "Design Lab (Fraser Communications case study)",
+        "source": "Fraser Communications",
+        "url": "https://www.frasercommunications.com/work/jl-design-lab",
+        "published_date": "2020 (initial launch summer 2020, case study recent)",
+        "format": "case study / article",
+        "executive_name": "Selene Valle Willis",
+        "executive_title": "Vice President, Marketing",
+        "summary": "Selene Valle Willis praises the Design Lab launch, a customizable furniture brand with in‑store app and influencer program, noting strong retailer and consumer demand since summer 2020.",
+        "key_quotes": [
+          "“The video your team created is amazing, we LOVE it!! In 60 seconds the video captures the essence of JL Design Lab perfectly.”"
+        ],
+        "topics_discussed": [
+          "customization",
+          "digital tools",
+          "influencer marketing"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "VP Marketing values digital tools and influencer content—Presti can offer scalable visual content to support influencer campaigns and digital customization experiences.",
+        "sales_insights": [
+          "Pitch Presti for influencer‑ready lifestyle imagery.",
+          "Support digital customization tools with generated visuals.",
+          "Enhance marketing campaigns with scalable visual assets."
+        ]
+      },
+      {
+        "title": "Get Inspired blog – A Day in the Life Of...Director of IT - Abel Herrera",
+        "source": "Jonathan Louis website",
+        "url": "https://www.jonathanlouis.com/get-inspired",
+        "published_date": "2025 (ongoing series)",
+        "format": "company blog",
+        "executive_name": "Abel Herrera",
+        "executive_title": "Director of IT",
+        "summary": "A blog series includes a 'Day in the Life' feature of Abel Herrera, Director of IT, offering behind‑the‑scenes insight into IT operations and digital infrastructure at Jonathan Louis.",
+        "key_quotes": [],
+        "topics_discussed": [
+          "digital operations",
+          "IT infrastructure",
+          "company culture"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "Provides visibility into digital infrastructure leadership—Presti may align with IT for integration of visual workflows.",
+        "sales_insights": [
+          "Engage IT to discuss integration of Presti into digital asset workflows.",
+          "Highlight ease of integration with existing IT systems.",
+          "Position Presti as supportive of digital infrastructure."
+        ]
+      }
+    ],
+    "key_executives_identified": [
+      {
+        "name": "Javier Sanchez",
+        "title": "Chief Executive Officer",
+        "relevance": "Sets strategic vision around design innovation, brand evolution, and e‑commerce targeting.",
+        "content_count": 2
+      },
+      {
+        "name": "Heidi Gonzalez",
+        "title": "Vice President, Product Development",
+        "relevance": "Drives collaborative, design‑forward product strategy and new brand initiatives like Casae.",
+        "content_count": 2
+      },
+      {
+        "name": "Camelle Smith",
+        "title": "Vice President of Sales",
+        "relevance": "Leads retail expansion and gallery experiences—key for visual merchandising support.",
+        "content_count": 1
+      },
+      {
+        "name": "Selene Valle Willis",
+        "title": "Vice President, Marketing",
+        "relevance": "Champions digital tools, influencer programs, and customization marketing.",
+        "content_count": 1
+      },
+      {
+        "name": "Abel Herrera",
+        "title": "Director of IT",
+        "relevance": "Oversees digital infrastructure—potential integration partner for visual solutions.",
+        "content_count": 1
+      }
+    ],
+    "overall_assessment": {
+      "decision_maker_visibility": "medium",
+      "strategic_priorities": [
+        "Design‑forward, customizable luxury offerings (Casae)",
+        "Collaborative co‑creation with partners and e‑commerce platforms",
+        "Retail expansion with immersive gallery experiences"
+      ],
+      "presti_entry_points": [
+        "Support Casae launch with scalable lifestyle imagery",
+        "Enable co‑creation visuals for product development and retail partners",
+        "Enhance gallery and e‑commerce experiences with high‑impact visuals"
+      ],
+      "recommended_contact": "Begin with Heidi Gonzalez (VP, Product Development) because she is directly leading the Casae initiative and values collaborative, design‑forward product storytelling—Presti can align closely with her goals by offering scalable visual co‑creation."
+    },
+    "scrape_metadata": {
+      "timestamp": "2026-01-09T14:23:45.032950",
+      "model": "gpt-4o",
+      "success": true,
+      "web_search_used": true
+    }
+  },
+  "Kimball International": {
+    "company_name": "Kimball International",
+    "search_date": "2026-01-09",
+    "management_items": [
+      {
+        "title": "Kimball International Named One of America’s Most Responsible Companies",
+        "source": "Kimball International Press Release",
+        "url": "https://www.kimballinternational.com/press/kimball-international-named-one-of-americas-most-responsible-companies.html",
+        "published_date": "January 17, 2023",
+        "format": "article",
+        "executive_name": "Kristie Juster",
+        "executive_title": "Chief Executive Officer",
+        "summary": "CEO Kristie Juster emphasizes the company’s long-standing values and commitment to sustainability and corporate responsibility, highlighting that these principles guide how they do business.",
+        "key_quotes": [
+          "For more than 70 years, Kimball International’s strong values have guided our belief in doing what’s right, not only for the communities we serve, but to make a positive impact on the world.",
+          "We’re honored to be named one of America’s Most Responsible Companies because corporate responsibility has always been embedded in our purpose and how we do business."
+        ],
+        "topics_discussed": [
+          "sustainability",
+          "corporate responsibility",
+          "values-driven leadership"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Highlights CEO’s emphasis on values and sustainability, which may align with Presti’s value proposition around responsible, scalable content creation.",
+        "sales_insights": [
+          "Position Presti as a partner that supports sustainability through digital content, reducing physical sample waste.",
+          "Emphasize alignment with Kimball’s values-driven culture in messaging.",
+          "Leverage Presti’s scalable digital imagery to reinforce Kimball’s responsible brand image."
+        ]
+      },
+      {
+        "title": "Kimball International Launches New Web Experience",
+        "source": "Kimball International Press Release",
+        "url": "https://www.kimballinternational.com/press/kimball-international-launches-new-web-experience.html",
+        "published_date": "2026-01-09",
+        "format": "article",
+        "executive_name": "Kourtney Smith",
+        "executive_title": "Chief Operating Officer",
+        "summary": "COO Kourtney Smith discusses the launch of a modern, accessible website and dealer portal, emphasizing improved customer experience, ADA compliance, and digital tools like a product configurator.",
+        "key_quotes": [
+          "We are incredibly proud of this investment in technology and the enhanced experience we are bringing our customers.",
+          "The new website and customer tools bring our Workplace and Health brands together in perfect harmony across our key vertical markets."
+        ],
+        "topics_discussed": [
+          "digital experience",
+          "customer tools",
+          "accessibility",
+          "product configurator"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Demonstrates strategic focus on digital customer experience and configurator tools—areas where Presti’s AI-driven imagery could integrate.",
+        "sales_insights": [
+          "Pitch Presti as a way to enrich the product configurator with lifestyle imagery.",
+          "Highlight how Presti can enhance digital experience and accessibility through scalable visuals.",
+          "Position Presti as a partner in their digital transformation journey."
+        ]
+      },
+      {
+        "title": "Kimball International Wins Two Innovation by Design-Awards",
+        "source": "Kimball International Press Release",
+        "url": "https://www.kimballinternational.com/press/kimball-international-wins-two-innovation-by-design-awards.html",
+        "published_date": "November 9, 2022",
+        "format": "article",
+        "executive_name": "Jessica Gubbins",
+        "executive_title": "Senior Director of Marketing",
+        "summary": "Jessica Gubbins highlights recognition for innovative product designs (EverySpace and Ezzeri), emphasizing adaptability, user-centric design, and transforming environments.",
+        "key_quotes": [
+          "We are very excited to be recognized by Fast Company for two of our products.",
+          "These innovative products help transform workspaces and healthcare environments to fit the ever-changing needs of those that use them, ultimately creating personal connections within those spaces."
+        ],
+        "topics_discussed": [
+          "innovation",
+          "product design",
+          "user-centric solutions"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Shows marketing leadership’s focus on innovation and user experience—Presti’s imagery could support showcasing these design innovations.",
+        "sales_insights": [
+          "Offer Presti’s imagery to visually communicate product innovation and adaptability.",
+          "Align Presti’s visuals with their user-centric design narrative.",
+          "Support marketing storytelling around product transformation."
+        ]
+      },
+      {
+        "title": "HNI Corporation to Acquire Kimball International",
+        "source": "Business Wire",
+        "url": "https://www.businesswire.com/news/home/20230307006052/en/HNI-Corporation-to-Acquire-Kimball-International",
+        "published_date": "March 8, 2023",
+        "format": "article",
+        "executive_name": "Kristie Juster",
+        "executive_title": "Chief Executive Officer",
+        "summary": "CEO Kristie Juster frames the acquisition by HNI as a strategic next step, emphasizing shared values, expanded opportunities for employees, and enhanced value for stakeholders.",
+        "key_quotes": [
+          "I’m incredibly proud of what we have built at Kimball International, and this agreement is a testament to our team’s commitment and dedication.",
+          "Joining HNI is an important next step in our company’s history and will provide our employees with more opportunities for career growth and development as part of a larger, more diversified industry leader that also shares our deeply rooted values."
+        ],
+        "topics_discussed": [
+          "merger & acquisition",
+          "culture alignment",
+          "growth opportunity"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Provides insight into leadership’s strategic vision around growth and integration—useful for positioning Presti in a post-acquisition context.",
+        "sales_insights": [
+          "Frame Presti as a scalable solution that supports integration and unified brand experience post-acquisition.",
+          "Emphasize Presti’s ability to serve a broader product portfolio efficiently.",
+          "Position Presti as a partner in their growth and consolidation strategy."
+        ]
+      },
+      {
+        "title": "HNI Corporation Completes Acquisition of Kimball International",
+        "source": "HNI Corporation Press Release",
+        "url": "https://investors.hnicorp.com/news/news-details/2023/HNI-Corporation-Completes-Acquisition-of-Kimball-International/default.aspx",
+        "published_date": "June 1, 2023",
+        "format": "article",
+        "executive_name": "Jeff Lorenger",
+        "executive_title": "Chairman, President, and Chief Executive Officer, HNI Corporation",
+        "summary": "HNI CEO Jeff Lorenger emphasizes the cultural fit and complementary strengths of the combined companies, noting the enhanced product offering and benefits for stakeholders.",
+        "key_quotes": [
+          "The completion of the Kimball International acquisition represents a new chapter as we bring together two strong, successful companies with similar cultures and well-established families of brands.",
+          "The combined companies will have an unmatched comprehensive product offering positioned to benefit from post‑pandemic trends."
+        ],
+        "topics_discussed": [
+          "post-acquisition strategy",
+          "product offering",
+          "growth synergy"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Offers perspective from the acquiring company’s leadership on strategic direction—contextual for Presti’s positioning.",
+        "sales_insights": [
+          "Highlight Presti’s ability to serve an expanded brand portfolio efficiently.",
+          "Position Presti as a tool to leverage post-pandemic growth trends.",
+          "Use synergy narrative to align Presti’s scalable imagery with combined offerings."
+        ]
+      }
+    ],
+    "key_executives_identified": [
+      {
+        "name": "Kristie Juster",
+        "title": "Chief Executive Officer",
+        "relevance": "Primary decision-maker with strategic vision on sustainability, digital transformation, and M&A.",
+        "content_count": 3
+      },
+      {
+        "name": "Kourtney Smith",
+        "title": "Chief Operating Officer",
+        "relevance": "Key leader in digital customer experience and technology investment.",
+        "content_count": 1
+      },
+      {
+        "name": "Jessica Gubbins",
+        "title": "Senior Director of Marketing",
+        "relevance": "Marketing leadership focused on innovation and product storytelling.",
+        "content_count": 1
+      },
+      {
+        "name": "Jeff Lorenger",
+        "title": "Chairman, President, and CEO, HNI Corporation",
+        "relevance": "Leader of the parent company post-acquisition, shaping strategic integration.",
+        "content_count": 1
+      }
+    ],
+    "overall_assessment": {
+      "decision_maker_visibility": "medium",
+      "strategic_priorities": [
+        "Sustainability and corporate responsibility",
+        "Digital customer experience and accessibility",
+        "Product innovation and design recognition",
+        "Growth through acquisition and integration"
+      ],
+      "presti_entry_points": [
+        "Enhance digital configurator with scalable lifestyle imagery",
+        "Support sustainability messaging via digital content",
+        "Visual storytelling for innovative product lines",
+        "Enable unified brand imagery across merged portfolios"
+      ],
+      "recommended_contact": "Target Kourtney Smith (COO) first—she is directly leading digital experience initiatives and would likely be most receptive to Presti’s AI-powered visual tools to enhance configurator and customer-facing platforms."
+    },
+    "scrape_metadata": {
+      "timestamp": "2026-01-09T14:24:28.833886",
+      "model": "gpt-4o",
+      "success": true,
+      "web_search_used": true
+    }
   }
 }

@@ -22,8 +22,15 @@ import {
   Users,
   Briefcase,
   ChevronLeft,
-  ChevronRight
+  ChevronRight,
+  ChevronDown,
+  ChevronUp
 } from "lucide-react";
+import {
+  Collapsible,
+  CollapsibleContent,
+  CollapsibleTrigger,
+} from "@/components/ui/collapsible";
 import { cn } from "@/lib/utils";
 
 export default function JobsPage() {
@@ -31,9 +38,8 @@ export default function JobsPage() {
   const [viewMode, setViewMode] = useState<"table" | "grid">("table");
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  const [currentPage, setCurrentPage] = useState(1);
-
-  const COMPANIES_PER_PAGE = 20;
+  const [isKeyAccountsOpen, setIsKeyAccountsOpen] = useState(true);
+  const [isOtherAccountsOpen, setIsOtherAccountsOpen] = useState(true);
 
   useEffect(() => {
     getData()
@@ -64,38 +70,74 @@ export default function JobsPage() {
     );
   }
 
-  // Only show these 9 Tier 0 companies in the interface
-  const tier0CompaniesNames = ['Costco', 'Target', 'Home Depot', "Lowe's", 'La-Z-Boy', 'Pottery Barn', 'Williams Sonoma', 'West Elm', 'California Closets'];
-  
+  // Get all companies
   const allCompanies = data?.companies ? Object.values(data.companies) : [];
   
-  // Filter to only show Tier 0 companies
-  const companies = allCompanies.filter(company => tier0CompaniesNames.includes(company.name));
+  // Normalize company names for comparison (lowercase, remove special chars, suffixes)
+  const normalizeCompanyName = (name: string): string => {
+    return name
+      .toLowerCase()
+      .replace(/[,\.\-]/g, '') // Remove commas, dots, and hyphens
+      .replace(/\s+(inc|llc|ltd|incorporated|industries|corp|corporation)\.?\s*$/gi, '') // Remove common suffixes
+      .replace(/\s+/g, ' ') // Normalize spaces
+      .replace(/&/g, 'and') // Normalize ampersand
+      .trim();
+  };
   
-  const priorityCompanies = tier0CompaniesNames;
+  // Jerrica's key accounts - exact names as they appear in data.json
+  const jerricaAccountNames = [
+    "La-Z-Boy",
+    "Williams Sonoma",
+    "Millerknoll",
+    "Palliser Furniture Ltd.",
+    "Rooms to Go",
+    "Article",
+    "American Leather",
+    "Serena & Lily",
+    "Anthropologie Home",
+    "Rowe Furniture",
+    "Room & Board",
+    "Bassett Furniture",
+    "Living Spaces",
+    "Jonathan Louis",
+    "Theodore Alexander",
+    "Kimball International",
+    "Ballard Designs",
+    "Design Within Reach",
+    "Saks Global",
+    "Costco"
+  ];
   
-  // Custom sort: priority companies first, then rest by job count
-  const sortedCompanies = [...companies].sort((a, b) => {
-    const aIsPriority = priorityCompanies.includes(a.name);
-    const bIsPriority = priorityCompanies.includes(b.name);
-    
-    if (aIsPriority && !bIsPriority) return -1;
-    if (!aIsPriority && bIsPriority) return 1;
-    
-    // Both priority: sort by priority order
-    if (aIsPriority && bIsPriority) {
-      return priorityCompanies.indexOf(a.name) - priorityCompanies.indexOf(b.name);
-    }
-    
-    // Both not priority: sort by job count
-    return b.jobs.length - a.jobs.length;
-  });
+  // Other top companies (not in Jerrica's list)
+  const otherAccountNames = [
+    "Target",
+    "Home Depot",
+    "California Closets",
+    "Balsam Brands",
+    "Ashley Furniture Industries",
+    "Arhaus"
+  ];
+  
+  // Create normalized lookup sets for faster matching
+  const normalizedJerricaAccounts = new Set(jerricaAccountNames.map(normalizeCompanyName));
+  const normalizedOtherAccounts = new Set(otherAccountNames.map(normalizeCompanyName));
+  
+  // Filter companies into Jerrica's accounts and Other accounts
+  const keyAccounts = allCompanies.filter(company => 
+    normalizedJerricaAccounts.has(normalizeCompanyName(company.name))
+  );
+  
+  const otherAccounts = allCompanies.filter(company => 
+    normalizedOtherAccounts.has(normalizeCompanyName(company.name))
+  );
+  
+  // Sort by job count
+  const sortedKeyAccounts = [...keyAccounts].sort((a, b) => b.jobs.length - a.jobs.length);
+  const sortedOtherAccounts = [...otherAccounts].sort((a, b) => b.jobs.length - a.jobs.length);
 
-  // Pagination
-  const totalPages = Math.ceil(sortedCompanies.length / COMPANIES_PER_PAGE);
-  const startIndex = (currentPage - 1) * COMPANIES_PER_PAGE;
-  const endIndex = startIndex + COMPANIES_PER_PAGE;
-  const paginatedCompanies = sortedCompanies.slice(startIndex, endIndex);
+  const totalCompanies = keyAccounts.length + otherAccounts.length;
+  const totalJobs = keyAccounts.reduce((acc, c) => acc + c.jobs.length, 0) + 
+                    otherAccounts.reduce((acc, c) => acc + c.jobs.length, 0);
 
   return (
     <div className="min-h-screen">
@@ -106,7 +148,7 @@ export default function JobsPage() {
             <div>
               <h1 className="text-base font-semibold text-neutral-900">Companies</h1>
               <p className="text-xs text-neutral-500 mt-0.5">
-                {companies.length} companies · {companies.reduce((acc, c) => acc + c.jobs.length, 0)} jobs analyzed
+                {totalCompanies} companies · {totalJobs} jobs analyzed
               </p>
             </div>
           </div>
@@ -114,63 +156,148 @@ export default function JobsPage() {
       </div>
 
       {/* Content */}
-      <div className="max-w-7xl mx-auto px-6 py-4">
+      <div className="max-w-7xl mx-auto px-6 py-4 space-y-4">
         {viewMode === "table" ? (
-          <div className="border border-neutral-200 rounded-lg overflow-hidden bg-white">
-            <Table>
-              <TableHeader>
-                <TableRow className="bg-neutral-50/50 hover:bg-neutral-50/50">
-                  <TableHead className="font-medium text-[10px] h-7">Company</TableHead>
-                  <TableHead className="font-medium text-[10px] h-7">Industry</TableHead>
-                  <TableHead className="font-medium text-[10px] h-7 text-center">Jobs</TableHead>
-                </TableRow>
-              </TableHeader>
-              <TableBody>
-                {paginatedCompanies.map((company) => {
-                  const stats = getCompanyStats(company);
-                  return (
-                    <TableRow 
-                      key={company.name}
-                      className="cursor-pointer hover:bg-neutral-50/50"
-                    >
-                      <TableCell className="py-1.5">
-                        <Link href={`/jobs/${encodeURIComponent(company.name)}`} className="block">
-                          <div className="flex items-center gap-2">
-                            <div className="w-5 h-5 rounded bg-neutral-100 flex items-center justify-center">
-                              <Building2 className="w-3 h-3 text-neutral-500" />
-                            </div>
-                            <div>
-                              <div className="flex items-center gap-1.5">
-                                <div className="font-medium text-neutral-900 text-xs">{company.name}</div>
-                                <Badge variant="secondary" className="font-normal text-[9px] h-4 bg-green-100 text-green-700 hover:bg-green-100">
-                                  Tier 0
-                                </Badge>
+          <>
+            {/* Jerrica's Key Accounts */}
+            <Collapsible open={isKeyAccountsOpen} onOpenChange={setIsKeyAccountsOpen}>
+              <div className="border border-neutral-200 rounded-lg overflow-hidden bg-white">
+                <CollapsibleTrigger className="w-full">
+                  <div className="flex items-center justify-between px-4 py-3 bg-violet-50/50 hover:bg-violet-50 transition-colors">
+                    <div className="flex items-center gap-2">
+                      <h2 className="text-sm font-semibold text-neutral-900">Jerrica&apos;s key accounts</h2>
+                      <Badge variant="secondary" className="font-normal text-[9px] h-4">
+                        {sortedKeyAccounts.length} companies
+                      </Badge>
+                    </div>
+                    {isKeyAccountsOpen ? (
+                      <ChevronUp className="w-4 h-4 text-neutral-500" />
+                    ) : (
+                      <ChevronDown className="w-4 h-4 text-neutral-500" />
+                    )}
+                  </div>
+                </CollapsibleTrigger>
+                <CollapsibleContent>
+                  <Table>
+                    <TableHeader>
+                      <TableRow className="bg-neutral-50/50 hover:bg-neutral-50/50">
+                        <TableHead className="font-medium text-[10px] h-7">Company</TableHead>
+                        <TableHead className="font-medium text-[10px] h-7">Industry</TableHead>
+                        <TableHead className="font-medium text-[10px] h-7 text-center">Jobs</TableHead>
+                      </TableRow>
+                    </TableHeader>
+                    <TableBody>
+                      {sortedKeyAccounts.map((company) => {
+                        const stats = getCompanyStats(company);
+                        return (
+                          <TableRow 
+                            key={company.name}
+                            className="cursor-pointer hover:bg-neutral-50/50"
+                          >
+                            <TableCell className="py-1.5">
+                              <Link href={`/jobs/${encodeURIComponent(company.name)}`} className="block">
+                                <div className="flex items-center gap-2">
+                                  <div className="w-5 h-5 rounded bg-neutral-100 flex items-center justify-center">
+                                    <Building2 className="w-3 h-3 text-neutral-500" />
+                                  </div>
+                                  <div>
+                                    <div className="font-medium text-neutral-900 text-xs">{company.name}</div>
+                                    <div className="text-[9px] text-neutral-400">{company.employees} emp.</div>
+                                  </div>
+                                </div>
+                              </Link>
+                            </TableCell>
+                            <TableCell className="py-1.5">
+                              <Badge variant="secondary" className="font-normal text-[9px] h-4">
+                                {company.industry}
+                              </Badge>
+                            </TableCell>
+                            <TableCell className="text-center py-1.5">
+                              <div className="flex items-center justify-center gap-1">
+                                <Briefcase className="w-2.5 h-2.5 text-neutral-400" />
+                                <span className="font-medium text-xs">{stats.totalJobs}</span>
                               </div>
-                              <div className="text-[9px] text-neutral-400">{company.employees} emp.</div>
-                            </div>
-                          </div>
-                        </Link>
-                      </TableCell>
-                      <TableCell className="py-1.5">
-                        <Badge variant="secondary" className="font-normal text-[9px] h-4">
-                          {company.industry}
-                        </Badge>
-                      </TableCell>
-                      <TableCell className="text-center py-1.5">
-                        <div className="flex items-center justify-center gap-1">
-                          <Briefcase className="w-2.5 h-2.5 text-neutral-400" />
-                          <span className="font-medium text-xs">{stats.totalJobs}</span>
-                        </div>
-                      </TableCell>
-                    </TableRow>
-                  );
-                })}
-              </TableBody>
-            </Table>
-          </div>
+                            </TableCell>
+                          </TableRow>
+                        );
+                      })}
+                    </TableBody>
+                  </Table>
+                </CollapsibleContent>
+              </div>
+            </Collapsible>
+
+            {/* Other Accounts */}
+            <Collapsible open={isOtherAccountsOpen} onOpenChange={setIsOtherAccountsOpen}>
+              <div className="border border-neutral-200 rounded-lg overflow-hidden bg-white">
+                <CollapsibleTrigger className="w-full">
+                  <div className="flex items-center justify-between px-4 py-3 bg-neutral-50/50 hover:bg-neutral-50 transition-colors">
+                    <div className="flex items-center gap-2">
+                      <h2 className="text-sm font-semibold text-neutral-900">Other accounts</h2>
+                      <Badge variant="secondary" className="font-normal text-[9px] h-4">
+                        {sortedOtherAccounts.length} companies
+                      </Badge>
+                    </div>
+                    {isOtherAccountsOpen ? (
+                      <ChevronUp className="w-4 h-4 text-neutral-500" />
+                    ) : (
+                      <ChevronDown className="w-4 h-4 text-neutral-500" />
+                    )}
+                  </div>
+                </CollapsibleTrigger>
+                <CollapsibleContent>
+                  <Table>
+                    <TableHeader>
+                      <TableRow className="bg-neutral-50/50 hover:bg-neutral-50/50">
+                        <TableHead className="font-medium text-[10px] h-7">Company</TableHead>
+                        <TableHead className="font-medium text-[10px] h-7">Industry</TableHead>
+                        <TableHead className="font-medium text-[10px] h-7 text-center">Jobs</TableHead>
+                      </TableRow>
+                    </TableHeader>
+                    <TableBody>
+                      {sortedOtherAccounts.map((company) => {
+                        const stats = getCompanyStats(company);
+                        return (
+                          <TableRow 
+                            key={company.name}
+                            className="cursor-pointer hover:bg-neutral-50/50"
+                          >
+                            <TableCell className="py-1.5">
+                              <Link href={`/jobs/${encodeURIComponent(company.name)}`} className="block">
+                                <div className="flex items-center gap-2">
+                                  <div className="w-5 h-5 rounded bg-neutral-100 flex items-center justify-center">
+                                    <Building2 className="w-3 h-3 text-neutral-500" />
+                                  </div>
+                                  <div>
+                                    <div className="font-medium text-neutral-900 text-xs">{company.name}</div>
+                                    <div className="text-[9px] text-neutral-400">{company.employees} emp.</div>
+                                  </div>
+                                </div>
+                              </Link>
+                            </TableCell>
+                            <TableCell className="py-1.5">
+                              <Badge variant="secondary" className="font-normal text-[9px] h-4">
+                                {company.industry}
+                              </Badge>
+                            </TableCell>
+                            <TableCell className="text-center py-1.5">
+                              <div className="flex items-center justify-center gap-1">
+                                <Briefcase className="w-2.5 h-2.5 text-neutral-400" />
+                                <span className="font-medium text-xs">{stats.totalJobs}</span>
+                              </div>
+                            </TableCell>
+                          </TableRow>
+                        );
+                      })}
+                    </TableBody>
+                  </Table>
+                </CollapsibleContent>
+              </div>
+            </Collapsible>
+          </>
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3">
-            {paginatedCompanies.map((company) => {
+            {[...sortedKeyAccounts, ...sortedOtherAccounts].map((company) => {
               const stats = getCompanyStats(company);
               return (
                 <Link 
@@ -221,68 +348,6 @@ export default function JobsPage() {
                 </Link>
               );
             })}
-          </div>
-        )}
-
-        {/* Pagination */}
-        {totalPages > 1 && (
-          <div className="flex items-center justify-between mt-4 pt-3 border-t border-neutral-200">
-            <div className="text-xs text-neutral-500">
-              Showing {startIndex + 1}-{Math.min(endIndex, sortedCompanies.length)} of {sortedCompanies.length} companies
-            </div>
-            
-            <div className="flex items-center gap-1">
-              <Button
-                variant="ghost"
-                size="sm"
-                onClick={() => setCurrentPage(p => Math.max(1, p - 1))}
-                disabled={currentPage === 1}
-                className="h-7 w-7 p-0"
-              >
-                <ChevronLeft className="w-3.5 h-3.5" />
-              </Button>
-              <div className="flex items-center gap-0.5">
-                {Array.from({ length: totalPages }, (_, i) => i + 1).map((page) => {
-                  // Show first page, last page, current page, and pages around current
-                  if (
-                    page === 1 ||
-                    page === totalPages ||
-                    (page >= currentPage - 1 && page <= currentPage + 1)
-                  ) {
-                    return (
-                      <button
-                        key={page}
-                        onClick={() => setCurrentPage(page)}
-                        className={cn(
-                          "h-7 w-7 rounded-md text-xs font-medium transition-colors",
-                          currentPage === page
-                            ? "bg-violet-100 text-violet-700"
-                            : "text-neutral-600 hover:bg-neutral-100"
-                        )}
-                      >
-                        {page}
-                      </button>
-                    );
-                  } else if (page === currentPage - 2 || page === currentPage + 2) {
-                    return (
-                      <span key={page} className="text-neutral-400 text-xs px-1">
-                        ...
-                      </span>
-                    );
-                  }
-                  return null;
-                })}
-              </div>
-              <Button
-                variant="ghost"
-                size="sm"
-                onClick={() => setCurrentPage(p => Math.min(totalPages, p + 1))}
-                disabled={currentPage === totalPages}
-                className="h-7 w-7 p-0"
-              >
-                <ChevronRight className="w-3.5 h-3.5" />
-              </Button>
-            </div>
           </div>
         )}
       </div>

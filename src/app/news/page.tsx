@@ -33,7 +33,6 @@ export default function NewsPage() {
   const [selectedItem, setSelectedItem] = useState<FeedItemType | null>(null);
   const [selectedCategories, setSelectedCategories] = useState<Set<string>>(new Set(["all"]));
   const [currentPage, setCurrentPage] = useState(1);
-  const [showOnlyTier0, setShowOnlyTier0] = useState(false);
   const [searchQuery, setSearchQuery] = useState("");
 
   const ITEMS_PER_PAGE = 20;
@@ -64,16 +63,69 @@ export default function NewsPage() {
     );
   }
 
-  // Define Tier 0 companies list first
-  const tier0Companies = ["Costco", "Target", "Home Depot", "Lowe's", "La-Z-Boy", "Pottery Barn", "Williams Sonoma", "West Elm", "California Closets"];
+  // Normalize company names for comparison (lowercase, remove special chars, suffixes)
+  const normalizeCompanyName = (name: string): string => {
+    return name
+      .toLowerCase()
+      .replace(/[,\.\-]/g, '') // Remove commas, dots, and hyphens
+      .replace(/\s+(inc|llc|ltd|incorporated|industries|corp|corporation)\.?\s*$/gi, '') // Remove common suffixes
+      .replace(/\s+/g, ' ') // Normalize spaces
+      .replace(/&/g, 'and') // Normalize ampersand
+      .trim();
+  };
 
-  // Combine news and interviews into a single feed - Only from Tier 0 companies
+  // Jerrica's key accounts - exact names as they appear in data.json
+  const jerricaAccountNames = [
+    "La-Z-Boy",
+    "Williams Sonoma",
+    "Millerknoll",
+    "Palliser Furniture Ltd.",
+    "Rooms to Go",
+    "Article",
+    "American Leather",
+    "Serena & Lily",
+    "Anthropologie Home",
+    "Rowe Furniture",
+    "Room & Board",
+    "Bassett Furniture",
+    "Living Spaces",
+    "Jonathan Louis",
+    "Theodore Alexander",
+    "Kimball International",
+    "Ballard Designs",
+    "Design Within Reach",
+    "Saks Global",
+    "Costco"
+  ];
+  
+  // Other top companies (not in Jerrica's list)
+  const otherAccountNames = [
+    "Target",
+    "Home Depot",
+    "California Closets",
+    "Balsam Brands",
+    "Ashley Furniture Industries",
+    "Arhaus"
+  ];
+
+  // Create normalized lookup sets for faster matching
+  const allAllowedCompanies = new Set([
+    ...jerricaAccountNames.map(normalizeCompanyName),
+    ...otherAccountNames.map(normalizeCompanyName)
+  ]);
+
+  // Filter function to check if company should be included
+  const isAllowedCompany = (companyName: string): boolean => {
+    return allAllowedCompanies.has(normalizeCompanyName(companyName));
+  };
+
+  // Combine news and interviews into a single feed - FILTERED companies only
   const feedItems: FeedItemType[] = [];
 
   if (newsData) {
     Object.entries(newsData).forEach(([companyName, companyNews]) => {
-      // Only include Tier 0 companies
-      if (tier0Companies.includes(companyName) && companyNews.news_items && companyNews.news_items.length > 0) {
+      // Only include allowed companies (Jerrica's 20 + 6 others)
+      if (isAllowedCompany(companyName) && companyNews.news_items && companyNews.news_items.length > 0) {
         companyNews.news_items.forEach((newsItem) => {
           feedItems.push({
             type: "news",
@@ -87,8 +139,8 @@ export default function NewsPage() {
 
   if (interviewsData) {
     Object.entries(interviewsData).forEach(([companyName, companyInterviews]) => {
-      // Only include Tier 0 companies
-      if (tier0Companies.includes(companyName) && companyInterviews.management_items && companyInterviews.management_items.length > 0) {
+      // Only include allowed companies (Jerrica's 20 + 6 others)
+      if (isAllowedCompany(companyName) && companyInterviews.management_items && companyInterviews.management_items.length > 0) {
         companyInterviews.management_items.forEach((interview) => {
           feedItems.push({
             type: "interview",
@@ -100,17 +152,11 @@ export default function NewsPage() {
     });
   }
 
-  // Apply Tier 0 filter first
-  let tier0FilteredItems = feedItems;
-  if (showOnlyTier0) {
-    tier0FilteredItems = feedItems.filter((item) => tier0Companies.includes(item.companyName));
-  }
-
   // Apply search filter
-  let searchFilteredItems = tier0FilteredItems;
+  let searchFilteredItems = feedItems;
   if (searchQuery.trim()) {
     const query = searchQuery.toLowerCase().trim();
-    searchFilteredItems = tier0FilteredItems.filter((item) =>
+    searchFilteredItems = feedItems.filter((item) =>
       item.companyName.toLowerCase().includes(query)
     );
   }
@@ -145,8 +191,19 @@ export default function NewsPage() {
   const endIndex = startIndex + ITEMS_PER_PAGE;
   const paginatedItems = filteredItems.slice(startIndex, endIndex);
 
-  // Calculate stats
-  const totalCompanies = tier0Companies.length;
+  // Calculate stats - count only allowed companies with data
+  const companiesWithNews = newsData 
+    ? Object.keys(newsData).filter(name => isAllowedCompany(name)).length 
+    : 0;
+  const companiesWithInterviews = interviewsData 
+    ? Object.keys(interviewsData).filter(name => isAllowedCompany(name)).length 
+    : 0;
+  // Count unique companies (some may have both news and interviews)
+  const uniqueCompanies = new Set([
+    ...(newsData ? Object.keys(newsData).filter(name => isAllowedCompany(name)) : []),
+    ...(interviewsData ? Object.keys(interviewsData).filter(name => isAllowedCompany(name)) : [])
+  ]);
+  const totalCompanies = uniqueCompanies.size;
 
   // Handle category change
   const handleCategoryChange = (category: string) => {
@@ -171,12 +228,6 @@ export default function NewsPage() {
       return newSet;
     });
     setCurrentPage(1); // Reset to page 1 when filter changes
-  };
-
-  // Handle Tier 0 filter change
-  const handleTier0FilterChange = () => {
-    setShowOnlyTier0(prev => !prev);
-    setCurrentPage(1);
   };
 
   // Handle search change
@@ -234,22 +285,6 @@ export default function NewsPage() {
                 </button>
               )}
             </div>
-
-            {/* Tier 0 Filter */}
-            <button
-              onClick={handleTier0FilterChange}
-              className={cn(
-                "px-2.5 py-1 rounded-md text-[10px] font-medium transition-colors border inline-flex items-center gap-1.5",
-                showOnlyTier0
-                  ? "bg-green-100 text-green-700 border-green-300"
-                  : "bg-white text-neutral-600 border-neutral-200 hover:bg-neutral-50"
-              )}
-            >
-              Tier 0 Only
-              {showOnlyTier0 && (
-                <span className="text-green-600 font-semibold">✓</span>
-              )}
-            </button>
 
             {/* Category Filter */}
             <DropdownMenu>
@@ -337,11 +372,6 @@ export default function NewsPage() {
                   <Building2 className="w-2.5 h-2.5 text-neutral-500" />
                 </div>
                 <span className="text-[11px] font-medium text-neutral-700">{item.companyName}</span>
-                {tier0Companies.includes(item.companyName) && (
-                  <Badge variant="secondary" className="font-normal text-[9px] h-4 bg-green-100 text-green-700 hover:bg-green-100">
-                    Tier 0
-                  </Badge>
-                )}
               </Link>
 
               {/* Card */}
