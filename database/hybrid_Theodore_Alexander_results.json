@@ -1,0 +1,111 @@
+{
+  "news": {
+    "company_name": "Theodore Alexander",
+    "news_items": [
+      {
+        "title": "Theodore Alexander introducing new whole home offerings at market",
+        "source": "Furniture Today",
+        "url": "https://www.furnituretoday.com/furniture/theodore-alexander-introducing-new-whole-home-offerings-at-market/",
+        "published_date": "October 24, 2024",
+        "date": "2024-10-24",
+        "summary": "Theodore Alexander has launched five new case goods collections and expanded its offerings in upholstery, lighting, rugs, and accessories at the High Point Market. The company is positioning itself as a whole-home supplier and is incorporating technology to allow customers to visualize furniture in their space.",
+        "presti_score": 9,
+        "relevance_reason": "The use of visualization technology is highly relevant for AI visual content companies focusing on product lifestyle images.",
+        "key_insights": [
+          "Introduction of five new case goods collections.",
+          "Expansion into upholstery, lighting, rugs, and accessories.",
+          "Incorporation of technology for customer visualization of furniture."
+        ],
+        "category": "catalog_expansion"
+      },
+      {
+        "title": "Theodore Alexander predicts 2024 will be ‘record year’ for product introductions",
+        "source": "Furniture Today",
+        "url": "https://www.furnituretoday.com/manufacturers/theodore-alexander-predicts-2024-will-be-record-year-for-product-introductions/",
+        "published_date": "January 3, 2024",
+        "date": "2024-01-03",
+        "summary": "Theodore Alexander anticipates a record year for product introductions in 2024, with plans to expand its 'total home' offerings. The company is also launching a new website to support designers and consumers with online resources.",
+        "presti_score": 8,
+        "relevance_reason": "The expansion of product offerings and digital resources aligns with AI visual content needs for diverse and accessible product imagery.",
+        "key_insights": [
+          "2024 expected to be a record year for product introductions.",
+          "Plans to expand 'total home' offerings.",
+          "Launch of a new website for better online support."
+        ],
+        "category": "catalog_expansion"
+      },
+      {
+        "title": "New furniture store strengthens brand for entire retail network",
+        "source": "Furniture Today",
+        "url": "https://www.furnituretoday.com/manufacturers/theodore-alexander-new-furniture-store-strengthens-brand-for-entire-retail-network/",
+        "published_date": "October 21, 2024",
+        "date": "2024-10-21",
+        "summary": "Theodore Alexander has opened a new retail store on Long Island, enhancing its brand presence among luxury brands. The store serves as a brand-building hub and showroom extension, with plans to launch a sister brand, World Casa, focused on e-commerce.",
+        "presti_score": 7,
+        "relevance_reason": "The focus on e-commerce and digital channel growth is relevant for AI visual content companies targeting online retail environments.",
+        "key_insights": [
+          "Opening of a new retail store on Long Island.",
+          "Positioning among luxury brands for brand-building.",
+          "Plans to launch World Casa, an e-commerce-focused sister brand."
+        ],
+        "category": "ecommerce_growth"
+      },
+      {
+        "title": "Theodore Alexander’s new showroom",
+        "source": "Business of Home",
+        "url": "https://businessofhome.com/scenes/theodore-alexander-s-new-showroom",
+        "published_date": "2024",
+        "date": "2024-01-01",
+        "summary": "Theodore Alexander's newly redesigned showroom at the New York Design Center was showcased during the What's New What's Next event. The updated visual merchandising supports the company's modernization and whole-home positioning.",
+        "presti_score": 6,
+        "relevance_reason": "The emphasis on visual merchandising and brand presentation is relevant for AI visual content companies focusing on showroom and product display strategies.",
+        "key_insights": [
+          "Redesign of the New York Design Center showroom.",
+          "Showcased during the What's New What's Next event.",
+          "Supports modernization and whole-home positioning."
+        ],
+        "category": "visual_content"
+      },
+      {
+        "title": "Theodore Alexander’s new home and the fashion of furniture",
+        "source": "Furniture Today",
+        "url": "https://www.youtube.com/watch?v=DyAgJ4BOtiQ",
+        "published_date": "2024",
+        "date": "2024-01-01",
+        "summary": "A video segment from Furniture Today highlights Theodore Alexander's new High Point showroom and the fashion-forward direction of its furniture line. The company is undergoing a brand refresh with a focus on contemporary, lifestyle-driven displays.",
+        "presti_score": 7,
+        "relevance_reason": "The focus on fashion-forward and lifestyle-driven displays is relevant for AI visual content companies creating contemporary product imagery.",
+        "key_insights": [
+          "Showcase of the new High Point showroom.",
+          "Emphasis on fashion-forward furniture design.",
+          "Part of a broader brand refresh strategy."
+        ],
+        "category": "visual_content"
+      },
+      {
+        "title": "High-end furniture maker to open its first U.S. store on Long Island",
+        "source": "Long Island Business News",
+        "url": "https://libn.com/2024/10/31/high-end-furniture-maker-to-open-its-first-u-s-store-on-long-island/theodore-alexander-store-side/",
+        "published_date": "October 31, 2024",
+        "date": "2024-10-31",
+        "summary": "Theodore Alexander is opening its first standalone U.S. store on Long Island's North Shore. The store is part of a strategy to elevate the brand directly to consumers while supporting retail partners.",
+        "presti_score": 6,
+        "relevance_reason": "The direct-to-consumer strategy and brand elevation efforts are relevant for AI visual content companies focusing on retail and consumer engagement.",
+        "key_insights": [
+          "Opening of the first standalone U.S. store.",
+          "Located on Long Island's North Shore.",
+          "Strategy to elevate the brand directly to consumers."
+        ],
+        "category": "business_performance"
+      }
+    ],
+    "search_date": "2026-01-09T13:42:08.518792",
+    "scrape_metadata": {
+      "timestamp": "2026-01-09T13:42:08.518810",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "articles_found": 6
+    }
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "Millerknoll": {
+    "company_name": "Millerknoll",
+    "financial_items": [
+      {
+        "title": "MillerKnoll, Inc., Q1 2026 Earnings Call (Revised 09/23/25)",
+        "source": "BamSEC",
+        "url": "https://www.bamsec.com/companies/66382/millerknoll-inc/transcripts",
+        "published_date": "2025-09-23",
+        "date": "2025-09-23",
+        "period": "Q1 2026",
+        "document_type": "earnings_call",
+        "summary": "MillerKnoll's Q1 2026 earnings call highlighted a strong start to the fiscal year with significant revenue growth and improved operational efficiencies. The company reported a revenue increase of 5% year-over-year, driven by robust demand in the North American market. Management provided optimistic guidance for the upcoming quarters, focusing on expanding their product lines and enhancing digital sales channels.",
+        "key_metrics": [
+          "Revenue: $X billion (+5% YoY)",
+          "Net income: $X million",
+          "Gross margin: X%",
+          "Guidance: Positive outlook for upcoming quarters"
+        ],
+        "strategic_highlights": [
+          "Expansion of product lines",
+          "Enhancement of digital sales channels",
+          "Focus on operational efficiencies"
+        ],
+        "relevance_score": 9,
+        "category": "earnings"
+      },
+      {
+        "title": "MillerKnoll, Inc., Q2 2025 Earnings Call (Revised 12/18/24)",
+        "source": "BamSEC",
+        "url": "https://www.bamsec.com/companies/66382/millerknoll-inc/transcripts",
+        "published_date": "2024-12-18",
+        "date": "2024-12-18",
+        "period": "Q2 2025",
+        "document_type": "earnings_call",
+        "summary": "During the Q2 2025 earnings call, MillerKnoll discussed segment performance and cost control measures amid market challenges. The company achieved a revenue increase of 2.2% year-over-year, with a focus on maintaining profitability through strategic cost management. Executives highlighted ongoing challenges in the supply chain but remained confident in their ability to navigate these issues.",
+        "key_metrics": [
+          "Revenue: $246.3 million (+2.2% YoY)",
+          "Gross margin: 43.4%",
+          "Operating margin: 4.0%",
+          "Guidance: Adjusted EPS guidance updated"
+        ],
+        "strategic_highlights": [
+          "Focus on cost control measures",
+          "Addressing supply chain challenges",
+          "Maintaining profitability"
+        ],
+        "relevance_score": 9,
+        "category": "earnings"
+      },
+      {
+        "title": "MillerKnoll (MLKN) Q1 2025 Earnings Call Transcript",
+        "source": "MLQ.ai",
+        "url": "https://mlq.ai/stocks/MLKN/earnings-call-transcripts/",
+        "published_date": "2024-09-19",
+        "date": "2024-09-19",
+        "period": "Q1 2025",
+        "document_type": "earnings_call",
+        "summary": "In the Q1 2025 earnings call, MillerKnoll reported a solid quarter with sales growth and strategic alignments. The company emphasized its commitment to sustainability and innovation, which contributed to a 3% increase in sales. Management outlined plans to further integrate sustainable practices across operations and expand their market presence.",
+        "key_metrics": [
+          "Sales growth: +3% YoY",
+          "Net income: $X million",
+          "Gross margin: X%",
+          "Guidance: Continued focus on sustainability"
+        ],
+        "strategic_highlights": [
+          "Commitment to sustainability",
+          "Innovation in product offerings",
+          "Market expansion plans"
+        ],
+        "relevance_score": 9,
+        "category": "earnings"
+      },
+      {
+        "title": "MillerKnoll (MLKN) Q4 2024 Earnings Call Transcript",
+        "source": "MLQ.ai",
+        "url": "https://mlq.ai/stocks/MLKN/earnings-call-transcripts/",
+        "published_date": "2024-06-26",
+        "date": "2024-06-26",
+        "period": "Q4 2024",
+        "document_type": "earnings_call",
+        "summary": "The Q4 2024 earnings call for MillerKnoll highlighted a successful quarter with profitability improvements and strategic business re-segmentation. The company reported a 4% increase in order growth, driven by strong demand in international markets. Management addressed tariff impacts and outlined plans to mitigate these through strategic sourcing.",
+        "key_metrics": [
+          "Order growth: +4% YoY",
+          "Profitability improvements",
+          "Gross margin: X%",
+          "Guidance: Strategic sourcing to mitigate tariffs"
+        ],
+        "strategic_highlights": [
+          "Business re-segmentation",
+          "Focus on international market demand",
+          "Mitigation of tariff impacts"
+        ],
+        "relevance_score": 9,
+        "category": "earnings"
+      },
+      {
+        "title": "mlkn-20250830 (Form 10-Q)",
+        "source": "SEC Edgar",
+        "url": "https://www.sec.gov/Archives/edgar/data/66382/000006638225000112/mlkn-20250830.htm",
+        "published_date": "2025-08-30",
+        "date": "2025-08-30",
+        "period": "Q3 2025",
+        "document_type": "sec_filing",
+        "summary": "MillerKnoll's Q3 2025 10-Q filing detailed financial statements, including a balance sheet with 68.5 million shares outstanding. The report highlighted restructuring charges and cash flow improvements. The company focused on reducing long-term debt and optimizing operational efficiencies.",
+        "key_metrics": [
+          "Shares outstanding: 68.5 million",
+          "Restructuring charges: $X million",
+          "Cash flow improvements",
+          "Long-term debt reduction"
+        ],
+        "strategic_highlights": [
+          "Operational efficiency optimization",
+          "Focus on debt reduction",
+          "Restructuring initiatives"
+        ],
+        "relevance_score": 8,
+        "category": "sec_filing"
+      },
+      {
+        "title": "mlkn-20250531 (Form 10-K)",
+        "source": "SEC Edgar",
+        "url": "https://www.sec.gov/Archives/edgar/data/66382/000006638225000069/mlkn-20250531.htm",
+        "published_date": "2025-05-31",
+        "date": "2025-05-31",
+        "period": "FY 2025",
+        "document_type": "sec_filing",
+        "summary": "The FY 2025 10-K filing for MillerKnoll provided comprehensive financials, including $1.31 billion in long-term debt and details on the Knoll integration. The company reported a focus on enhancing shareholder value through strategic investments and operational improvements.",
+        "key_metrics": [
+          "Long-term debt: $1.31 billion",
+          "Knoll integration costs",
+          "Comprehensive income: $X million",
+          "Shareholder value enhancement"
+        ],
+        "strategic_highlights": [
+          "Knoll integration",
+          "Strategic investments",
+          "Operational improvements"
+        ],
+        "relevance_score": 9,
+        "category": "sec_filing"
+      },
+      {
+        "title": "MillerKnoll, Inc. Reports Fourth Quarter and Fiscal 2025 Results",
+        "source": "MillerKnoll News",
+        "url": "https://news.millerknoll.com/2025-06-25-MillerKnoll,-Inc-Reports-Fourth-Quarter-and-Fiscal-2025-Results",
+        "published_date": "2025-06-25",
+        "date": "2025-06-25",
+        "period": "Q4 2025",
+        "document_type": "quarterly_results",
+        "summary": "MillerKnoll's Q4 and full fiscal 2025 results showed net sales of $961.8 million for Q4, up 8.2% year-over-year, and $3.7 billion for the full year. The company reported a decrease in operating margin to 1.4% from 4.6% the previous year, highlighting challenges in maintaining profitability.",
+        "key_metrics": [
+          "Q4 net sales: $961.8 million (+8.2% YoY)",
+          "Full year net sales: $3.7 billion",
+          "Operating margin: 1.4% (down from 4.6%)"
+        ],
+        "strategic_highlights": [
+          "Focus on growth-oriented strategies",
+          "Challenges in profitability maintenance",
+          "Positioning as a small-cap value firm"
+        ],
+        "relevance_score": 8,
+        "category": "financial_performance"
+      },
+      {
+        "title": "MillerKnoll, Inc. Reports Second Quarter Fiscal 2026 Results",
+        "source": "MillerKnoll Investor Relations",
+        "url": "https://news.millerknoll.com/2025-12-17-MillerKnoll,-Inc-Reports-Second-Quarter-Fiscal-2026-Results",
+        "published_date": "2025-12-17",
+        "date": "2025-12-17",
+        "period": "Q2 2026",
+        "document_type": "quarterly_results",
+        "summary": "In Q2 2026, MillerKnoll reported operating earnings of $48.5 million with a margin of 5.1%, and earnings before income taxes of $32.5 million. The company emphasized its strategic focus on enhancing operational efficiencies and expanding its market reach.",
+        "key_metrics": [
+          "Operating earnings: $48.5 million (5.1% margin)",
+          "Earnings before income taxes: $32.5 million (3.4% margin)"
+        ],
+        "strategic_highlights": [
+          "Enhancing operational efficiencies",
+          "Expanding market reach",
+          "Focus on strategic growth"
+        ],
+        "relevance_score": 8,
+        "category": "financial_performance"
+      },
+      {
+        "title": "MillerKnoll, Inc. Reports Third Quarter Fiscal 2025 Results",
+        "source": "PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/millerknoll-inc-reports-third-quarter-fiscal-2025-results-302412400.html",
+        "published_date": "2025-03-26",
+        "date": "2025-03-26",
+        "period": "Q3 2025",
+        "document_type": "quarterly_results",
+        "summary": "MillerKnoll's Q3 2025 results showed consolidated net sales of $876.2 million, a slight increase of 0.4% year-over-year. The company provided forward guidance for Q4 and the full year, focusing on strategic initiatives to drive organic growth.",
+        "key_metrics": [
+          "Net sales: $876.2 million (+0.4% YoY)",
+          "Orders: $853.1 million (+2.7% YoY)"
+        ],
+        "strategic_highlights": [
+          "Forward guidance for Q4 and FY2025",
+          "Strategic initiatives for organic growth",
+          "Focus on order growth"
+        ],
+        "relevance_score": 8,
+        "category": "financial_performance"
+      },
+      {
+        "title": "MillerKnoll, Inc. Reports Second Quarter Fiscal 2025 Results",
+        "source": "MillerKnoll News",
+        "url": "https://news.millerknoll.com/2024-12-18-MillerKnoll,-Inc-Reports-Second-Quarter-Fiscal-2025-Results",
+        "published_date": "2024-12-18",
+        "date": "2024-12-18",
+        "period": "Q2 2025",
+        "document_type": "quarterly_results",
+        "summary": "For Q2 2025, MillerKnoll reported net sales of $246.3 million, up 2.2% year-over-year, with a gross margin of 43.4%. The company updated its full-year adjusted EPS guidance, highlighting cash flow generation and shareholder returns.",
+        "key_metrics": [
+          "Net sales: $246.3 million (+2.2% YoY)",
+          "Gross margin: 43.4%",
+          "Operating margin: 4.0%"
+        ],
+        "strategic_highlights": [
+          "Updated full-year EPS guidance",
+          "Focus on cash flow generation",
+          "Shareholder returns"
+        ],
+        "relevance_score": 8,
+        "category": "financial_performance"
+      },
+      {
+        "title": "MillerKnoll Schedules Fourth Quarter and Full Fiscal Year 2025 Conference Call and Webcast",
+        "source": "MillerKnoll News",
+        "url": "https://news.millerknoll.com/2025-05-28-MillerKnoll-Schedules-Fourth-Quarter-and-Full-Fiscal-Year-2025-Conference-Call-and-Webcast",
+        "published_date": "2025-05-28",
+        "date": "2025-05-28",
+        "period": "Q4 2025",
+        "document_type": "press_release",
+        "summary": "MillerKnoll announced the scheduling of its Q4 and full fiscal year 2025 earnings call and webcast. The company aims to review its financial results and address investor questions, providing insights into its strategic direction and market positioning.",
+        "key_metrics": [
+          "FY2024 net sales: $3.6 billion"
+        ],
+        "strategic_highlights": [
+          "Review of financial results",
+          "Addressing investor questions",
+          "Insights into strategic direction"
+        ],
+        "relevance_score": 7,
+        "category": "guidance"
+      },
+      {
+        "title": "MillerKnoll (NasdaqGS:MLKN) Stock Forecast & Analyst Predictions",
+        "source": "Simply Wall St",
+        "url": "https://simplywall.st/stocks/us/commercial-services/nasdaq-mlkn/millerknoll/future",
+        "published_date": "2025-12-16",
+        "date": "2025-12-16",
+        "period": "FY 2026",
+        "document_type": "analyst_report",
+        "summary": "Analysts forecast significant earnings growth for MillerKnoll, with an expected annual increase of 109.3% and revenue growth of 4.4%. The report notes that while revenue growth is slower than the US market average, the company's EPS is projected to grow substantially.",
+        "key_metrics": [
+          "Earnings growth: 109.3% per annum",
+          "Revenue growth: 4.4% per annum",
+          "EPS growth: 109.3% per annum"
+        ],
+        "strategic_highlights": [
+          "Focus on earnings growth",
+          "Revenue growth slower than market",
+          "Substantial EPS growth projection"
+        ],
+        "relevance_score": 6,
+        "category": "analyst_coverage"
+      }
+    ],
+    "search_date": "2026-01-13T09:42:36.339962",
+    "scrape_metadata": {
+      "timestamp": "2026-01-13T09:42:36.339984",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "items_found": 12,
+      "themes_searched": [
+        "earnings_calls",
+        "financial_reports",
+        "quarterly_results",
+        "financial_press",
+        "analyst_coverage"
+      ]
+    }
+  }
+}

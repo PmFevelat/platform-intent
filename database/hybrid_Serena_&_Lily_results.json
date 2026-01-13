@@ -1,0 +1,47 @@
+{
+  "news": {
+    "company_name": "Serena & Lily",
+    "news_items": [
+      {
+        "title": "Serena & Lily Expands Partnership with Bamboo Rose to Enhance Retail Planning with TotalPLM™",
+        "source": "The Interline",
+        "url": "https://www.theinterline.com/2025/08/14/serena-lily-expands-partnership-with-bamboo-rose-to-enhance-retail-planning-with-totalplm/",
+        "published_date": "August 14, 2025",
+        "date": "2025-08-14",
+        "summary": "Serena & Lily has expanded its partnership with Bamboo Rose to integrate AI-powered planning with the TotalPLM platform, aiming to modernize retail planning and streamline operations.",
+        "presti_score": 9,
+        "relevance_reason": "The integration of AI-powered planning tools is highly relevant for an AI visual content company, as it enhances digital transformation and operational efficiency.",
+        "key_insights": [
+          "Integration of AI-powered planning with TotalPLM platform.",
+          "Expected business impact of $3–8M over three years.",
+          "Improved forecasting and inventory visibility."
+        ],
+        "category": "digital_transformation"
+      },
+      {
+        "title": "Serena & Lily Just Dropped Its Fall 2024 Collection",
+        "source": "House Beautiful",
+        "url": "https://www.housebeautiful.com/shopping/furniture/g61545148/serena-and-lily-fall-2024-collection/",
+        "published_date": "September 2024",
+        "date": "2024-09-01",
+        "summary": "House Beautiful covers Serena & Lily’s Fall 2024 collection, highlighting over 100 new pieces with a focus on the brand’s 'coastal cool' aesthetic and significant discounts.",
+        "presti_score": 7,
+        "relevance_reason": "The launch of a new collection with a strong visual identity is relevant for creating lifestyle imagery and marketing content.",
+        "key_insights": [
+          "Launch of over 100 new pieces in the Fall 2024 collection.",
+          "Emphasis on 'coastal cool' aesthetic.",
+          "Items introduced at more than 20% off."
+        ],
+        "category": "catalog_expansion"
+      }
+    ],
+    "search_date": "2026-01-09T13:38:22.338657",
+    "scrape_metadata": {
+      "timestamp": "2026-01-09T13:38:22.338679",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "articles_found": 2
+    }
+  }
+}

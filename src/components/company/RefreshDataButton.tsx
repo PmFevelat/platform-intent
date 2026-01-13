@@ -14,7 +14,7 @@ import { cn } from "@/lib/utils";
 
 interface RefreshDataButtonProps {
   companyName: string;
-  dataType: "news" | "interviews";
+  dataType: "news" | "interviews" | "financial";
   onRefreshComplete?: (stats: { newItemsCount: number; existingItemsCount: number; totalItemsCount: number }) => void;
 }
 
@@ -118,10 +118,10 @@ export function RefreshDataButton({ companyName, dataType, onRefreshComplete }: 
         <DialogHeader className="pb-2">
           <DialogTitle className="flex items-center gap-2 text-sm font-semibold">
             <Calendar className="h-4 w-4" />
-            Refresh {dataType === "news" ? "Company News" : "Management Interviews"}
+            Refresh {dataType === "news" ? "Company News" : dataType === "interviews" ? "Management Interviews" : "Financial News"}
           </DialogTitle>
           <DialogDescription className="text-xs text-neutral-500">
-            Select a time period to search for new {dataType === "news" ? "articles" : "interviews"} about {companyName}.
+            Select a time period to search for new {dataType === "news" ? "articles" : dataType === "interviews" ? "interviews" : "financial items"} about {companyName}.
             This will scan the web for recent content.
           </DialogDescription>
         </DialogHeader>
@@ -205,7 +205,7 @@ export function RefreshDataButton({ companyName, dataType, onRefreshComplete }: 
             {refreshStats && refreshStats.newItemsCount > 0 ? (
               <>
                 <p className="text-xs text-neutral-600">
-                  Found <span className="font-semibold text-green-600">{refreshStats.newItemsCount} new</span> {dataType === "news" ? "article" : "interview"}{refreshStats.newItemsCount > 1 ? "s" : ""} for <span className="font-semibold">{companyName}</span>
+                  Found <span className="font-semibold text-green-600">{refreshStats.newItemsCount} new</span> {dataType === "news" ? "article" : dataType === "interviews" ? "interview" : "financial item"}{refreshStats.newItemsCount > 1 ? "s" : ""} for <span className="font-semibold">{companyName}</span>
                 </p>
                 <div className="p-2.5 bg-green-50 border border-green-200 rounded-md">
                   <div className="flex items-center justify-between text-[11px]">
@@ -221,7 +221,7 @@ export function RefreshDataButton({ companyName, dataType, onRefreshComplete }: 
             ) : (
               <>
                 <p className="text-xs text-neutral-600">
-                  No new {dataType === "news" ? "articles" : "interviews"} found for <span className="font-semibold">{companyName}</span>
+                  No new {dataType === "news" ? "articles" : dataType === "interviews" ? "interviews" : "financial items"} found for <span className="font-semibold">{companyName}</span>
                 </p>
                 <div className="p-2.5 bg-neutral-50 border border-neutral-200 rounded-md">
                   <p className="text-[11px] text-neutral-500">

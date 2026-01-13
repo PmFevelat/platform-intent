@@ -24,9 +24,9 @@ export async function POST(request: NextRequest) {
     }
 
     // Validate dataType
-    if (dataType !== "news" && dataType !== "interviews") {
+    if (dataType !== "news" && dataType !== "interviews" && dataType !== "financial") {
       return NextResponse.json(
-        { error: "Invalid dataType. Must be 'news' or 'interviews'" },
+        { error: "Invalid dataType. Must be 'news', 'interviews', or 'financial'" },
         { status: 400 }
       );
     }
@@ -38,7 +38,9 @@ export async function POST(request: NextRequest) {
     const scriptName =
       dataType === "news"
         ? "scrape_company_news_async.py"
-        : "scrape_management_interviews.py";
+        : dataType === "interviews"
+        ? "scrape_management_interviews.py"
+        : "scrape_financial_news.py";
     
     const scriptPath = path.join(databaseDir, scriptName);
 
@@ -56,12 +58,16 @@ export async function POST(request: NextRequest) {
     const testFileName =
       dataType === "news"
         ? "company_news_test.json"
-        : "management_interviews_test.json";
+        : dataType === "interviews"
+        ? "management_interviews_test.json"
+        : "financial_news_test.json";
     
     const outputFileName =
       dataType === "news"
         ? "news_data.json"
-        : "management_interviews.json";
+        : dataType === "interviews"
+        ? "management_interviews.json"
+        : "financial_news.json";
     
     const sourceFile = path.join(databaseDir, testFileName);
     const destFile = path.join(process.cwd(), "public", outputFileName);
@@ -111,7 +117,12 @@ export async function POST(request: NextRequest) {
 
       // Get existing items for this company
       const existingCompanyData = existingData[companyName];
-      const itemsKey = dataType === "news" ? "news_items" : "management_items";
+      const itemsKey = 
+        dataType === "news" 
+          ? "news_items" 
+          : dataType === "interviews"
+          ? "management_items"
+          : "financial_items";
       const existingItems = existingCompanyData?.[itemsKey] || [];
       const newItems = companyData[itemsKey] || [];
 

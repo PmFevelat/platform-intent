@@ -1,0 +1,63 @@
+{
+  "news": {
+    "company_name": "Rowe Furniture",
+    "news_items": [
+      {
+        "title": "Upholstery Execs Outline 2026 Strategy",
+        "source": "Furniture Today",
+        "url": "https://www.furnituretoday.com/upholstered-furniture/upholstery-execs-outline-how-they-will-deliver-must-have/",
+        "published_date": "2025",
+        "date": "2025",
+        "summary": "Rowe Furniture is expanding into new categories such as bedroom and home office, and investing in 3D Immersive technology to enhance its product offerings. The company is also focusing on data-driven inventory alignment and digital retail partnerships.",
+        "presti_score": 8,
+        "relevance_reason": "The investment in 3D Immersive technology and digital retail partnerships is highly relevant for AI visual content companies focusing on product visualization and digital transformation.",
+        "key_insights": [
+          "Rowe Furniture plans to expand beyond its traditional living room focus.",
+          "The company is investing in 3D Immersive technology and new seating segments.",
+          "Data-driven inventory alignment and digital retail partnerships are key strategies."
+        ],
+        "category": "digital_transformation"
+      },
+      {
+        "title": "Rowe Furniture Introducing U.S.-Manufactured Motion Furniture",
+        "source": "Furniture Today",
+        "url": "https://www.furnituretoday.com/upholstered-furniture/rowe-furniture-introducing-u-s-manufactured-motion-furniture/",
+        "published_date": "April 1, 2025",
+        "date": "2025-04-01",
+        "summary": "Rowe Furniture launched a new motion upholstery category with a focus on maintaining its aesthetic while meeting customer demand. The products are available in a wide range of fabrics and leathers, with competitive shipping times.",
+        "presti_score": 6,
+        "relevance_reason": "The introduction of a new product category and focus on aesthetics can influence visual content strategies for marketing and product presentation.",
+        "key_insights": [
+          "Rowe launched a new motion upholstery category with quick ship times.",
+          "The products are available in a wide range of fabrics and leathers.",
+          "The focus is on maintaining Rowe's signature aesthetic while meeting demand."
+        ],
+        "category": "catalog_expansion"
+      },
+      {
+        "title": "2024 Summer Market Strategy and Line Expansions",
+        "source": "Furniture Today",
+        "url": "https://www.furnituretoday.com/upholstered-furniture/realistic-expectations-strategy-innovation-line-expansions-define-2024-summer-market/",
+        "published_date": "2024",
+        "date": "2024",
+        "summary": "Rowe Furniture doubled its fabric offerings and positioned itself as a higher-end company. The company showcased new products at the Las Vegas Market, emphasizing style, selection, and quality.",
+        "presti_score": 7,
+        "relevance_reason": "The expansion of fabric offerings and focus on high-end positioning can impact visual content strategies for showcasing product variety and quality.",
+        "key_insights": [
+          "Rowe doubled its fabric offerings to enhance product variety.",
+          "The company is positioning itself as a higher-end brand.",
+          "New products were showcased at the Las Vegas Market, emphasizing style and quality."
+        ],
+        "category": "catalog_expansion"
+      }
+    ],
+    "search_date": "2026-01-09T13:38:46.306630",
+    "scrape_metadata": {
+      "timestamp": "2026-01-09T13:38:46.306653",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "articles_found": 3
+    }
+  }
+}

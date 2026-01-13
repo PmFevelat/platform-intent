@@ -1,0 +1,127 @@
+{
+  "news": {
+    "company_name": "Living Spaces",
+    "news_items": [
+      {
+        "title": "Buford, Georgia Store Opening (Spring 2026)",
+        "source": "Furniture Today",
+        "url": "https://www.furnituretoday.com/furniture-retailer/living-spaces-gearing-up-for-1st-georgia-store/",
+        "published_date": "August 2025",
+        "date": "2025-08-01",
+        "summary": "Living Spaces is expanding into Georgia with a new store in Buford, marking its first location in the state. This expansion is part of the company's strategy to increase its presence in the Eastern U.S.",
+        "presti_score": 6,
+        "relevance_reason": "Physical store expansions can influence digital strategies and visual content needs for marketing.",
+        "key_insights": [
+          "The Buford store is a 1 million square foot facility.",
+          "Leadership recruitment for the new store is underway.",
+          "This expansion follows previous site plans in other Eastern U.S. locations."
+        ],
+        "category": "physical_expansion"
+      },
+      {
+        "title": "Charlotte, North Carolina Expansion",
+        "source": "Furniture Today",
+        "url": "https://www.furnituretoday.com/furniture-retailer/living-spaces-has-eye-on-space-in-north-carolina/",
+        "published_date": "April 2024",
+        "date": "2024-04-01",
+        "summary": "Living Spaces is planning to expand in Charlotte, North Carolina, by converting a 21-acre site into a retail showroom and restaurant. This move represents the company's furthest reach into the eastern U.S.",
+        "presti_score": 7,
+        "relevance_reason": "New store formats may require innovative visual content for both physical and digital marketing.",
+        "key_insights": [
+          "The site was purchased for $3.8 million.",
+          "The expansion includes a retail showroom and accessory restaurant.",
+          "Living Spaces currently operates 40-41 stores across eight states."
+        ],
+        "category": "physical_expansion"
+      },
+      {
+        "title": "Fresno, California Location",
+        "source": "ABC30",
+        "url": "https://abc30.com/post/living-spaces-furniture-store-coming-northeast-fresno/15802249/",
+        "published_date": "February 2026",
+        "date": "2026-02-01",
+        "summary": "Living Spaces is opening a new store in northeast Fresno, California, with a VIP event scheduled for early February 2026. This expansion continues the company's growth in the western U.S.",
+        "presti_score": 5,
+        "relevance_reason": "Store openings can drive demand for visual content to promote new locations.",
+        "key_insights": [
+          "The store is located near Highway 41.",
+          "A grand opening VIP event is planned.",
+          "This expansion is part of the company's growth strategy in California."
+        ],
+        "category": "physical_expansion"
+      },
+      {
+        "title": "Austin, Texas Store",
+        "source": "My San Antonio",
+        "url": "https://www.mysanantonio.com/business/article/living-spaces-austin-20420722.php",
+        "published_date": "2025",
+        "date": "2025-01-01",
+        "summary": "Living Spaces is building a $25 million furniture store in South Austin, marking its first location within the city. This store will be the company's 12th location in Texas.",
+        "presti_score": 6,
+        "relevance_reason": "New store locations can impact digital marketing strategies and visual content needs.",
+        "key_insights": [
+          "The Austin store is a $25 million investment.",
+          "This is Living Spaces' first store within Austin city limits.",
+          "The store is part of the company's expansion in Texas."
+        ],
+        "category": "physical_expansion"
+      },
+      {
+        "title": "2024 Online Revenue",
+        "source": "ECDB",
+        "url": "https://ecdb.com/resources/sample-data/retailer/livingspaces",
+        "published_date": "2024",
+        "date": "2024-01-01",
+        "summary": "Living Spaces reported $512 million in online revenue for 2024, with expectations of continued growth in 2025. The company focuses on first-party sales, with no third-party marketplace presence.",
+        "presti_score": 8,
+        "relevance_reason": "Online revenue growth highlights the importance of digital content and e-commerce strategies.",
+        "key_insights": [
+          "The company generated $512 million in online revenue in 2024.",
+          "A growth rate of 5-10% is projected for 2025.",
+          "Living Spaces operates exclusively through first-party sales."
+        ],
+        "category": "ecommerce_growth"
+      },
+      {
+        "title": "Natural Materials & Curved Furniture",
+        "source": "Living Spaces",
+        "url": "https://www.livingspaces.com/inspiration/ideas-advice/decor-tips/natural-material-trends",
+        "published_date": "2025",
+        "date": "2025-01-01",
+        "summary": "Living Spaces reports a shift in consumer preferences towards curved and sculptural furniture made from natural materials. This trend is reflected in the popularity of modular sectionals and nature-inspired designs.",
+        "presti_score": 9,
+        "relevance_reason": "Trends in furniture design can drive demand for new visual content and product imagery.",
+        "key_insights": [
+          "Consumers prefer curved and sculptural furniture.",
+          "Natural materials like wood and stone are in demand.",
+          "Top-selling items include modular sectionals."
+        ],
+        "category": "design_product_trends"
+      },
+      {
+        "title": "2025 Design Trends",
+        "source": "Living Spaces",
+        "url": "https://www.livingspaces.com/inspiration/ideas-advice/decor-tips/trend-predictions-from-interior-designers",
+        "published_date": "2025",
+        "date": "2025-01-01",
+        "summary": "Living Spaces predicts design trends for 2025, emphasizing the return of wood for warmth and the incorporation of outdoor-inspired elements. Curved lines and nature-inspired materials are also highlighted.",
+        "presti_score": 9,
+        "relevance_reason": "Understanding design trends is crucial for creating relevant visual content and product imagery.",
+        "key_insights": [
+          "Wood is returning as a popular material for warmth.",
+          "Outdoor-inspired design elements are trending.",
+          "Curved lines and nature-inspired materials are emphasized."
+        ],
+        "category": "design_product_trends"
+      }
+    ],
+    "search_date": "2026-01-09T13:40:55.487086",
+    "scrape_metadata": {
+      "timestamp": "2026-01-09T13:40:55.487109",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "articles_found": 7
+    }
+  }
+}

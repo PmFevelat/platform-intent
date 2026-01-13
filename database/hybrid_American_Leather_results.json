@@ -1,0 +1,47 @@
+{
+  "news": {
+    "company_name": "American Leather",
+    "news_items": [
+      {
+        "title": "American Leather optimistic about operations amid demand slowdown",
+        "source": "Dallas Business Journal",
+        "url": "https://www.bizjournals.com/dallas/news/2024/09/03/american-leather-demand-down-operations-optimism.html",
+        "published_date": "September 3, 2024",
+        "date": "2024-09-03",
+        "summary": "American Leather is managing a significant industry demand slowdown while maintaining optimism about its operations and long-term growth. The company leverages its Dallas location for fast shipping and maintains a high raw-material inventory to support quick manufacturing lead times.",
+        "presti_score": 7,
+        "relevance_reason": "The article discusses supply chain efficiency and time-to-market, which are crucial for AI visual content companies focusing on product lifestyle imagery.",
+        "key_insights": [
+          "American Leather is experiencing a 20-30% demand slowdown but remains optimistic.",
+          "The company aims to reach $300M revenue in 3-5 years and expand into new segments.",
+          "Fast shipping and a high raw-material inventory support quick manufacturing lead times."
+        ],
+        "category": "supply_chain_challenges"
+      },
+      {
+        "title": "American Leather president says vertical integration supports continuity in pricing",
+        "source": "Furniture Today",
+        "url": "https://www.furnituretoday.com/upholstered-furniture/american-leather-president-says-vertical-integration-supports-continuity-in-pricing/",
+        "published_date": "April 2024",
+        "date": "2024-04-01",
+        "summary": "American Leather's vertically integrated manufacturing supports pricing stability despite economic challenges. The company focuses on raw material inventory to maintain industry-leading lead times and domestic manufacturing.",
+        "presti_score": 6,
+        "relevance_reason": "Vertical integration and supply chain robustness are important for maintaining consistent product imagery and availability.",
+        "key_insights": [
+          "Vertical integration helps American Leather maintain pricing stability.",
+          "The company focuses on raw material inventory to ensure continuity.",
+          "New collections Dorian and Lumen highlight product catalog expansion."
+        ],
+        "category": "supply_chain_challenges"
+      }
+    ],
+    "search_date": "2026-01-09T13:37:45.469112",
+    "scrape_metadata": {
+      "timestamp": "2026-01-09T13:37:45.469139",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "articles_found": 2
+    }
+  }
+}

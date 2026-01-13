@@ -263,3 +263,37 @@ export interface ManagementInterviews {
 export interface ManagementInterviewsDataStore {
   [companyName: string]: ManagementInterviews;
 }
+
+// Types pour les données financières
+export interface FinancialItem {
+  title: string;
+  source: string;
+  url: string;
+  published_date: string;
+  date: string;
+  period: string; // "Q1 2024", "Q4 2025", "FY 2024"
+  document_type: "earnings_call" | "sec_filing" | "quarterly_results" | "press_release" | "analyst_report";
+  summary: string;
+  key_metrics: string[];
+  strategic_highlights: string[];
+  relevance_score: number;
+  category: "earnings" | "financial_performance" | "guidance" | "sec_filing" | "analyst_coverage";
+}
+
+export interface FinancialNews {
+  company_name: string;
+  search_date: string;
+  financial_items: FinancialItem[];
+  scrape_metadata: {
+    timestamp: string;
+    search_engine: string;
+    structuring_model: string;
+    success: boolean;
+    items_found: number;
+    themes_searched: string[];
+  };
+}
+
+export interface FinancialNewsDataStore {
+  [companyName: string]: FinancialNews;
+}

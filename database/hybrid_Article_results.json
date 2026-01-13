@@ -1,0 +1,63 @@
+{
+  "news": {
+    "company_name": "Article",
+    "news_items": [
+      {
+        "title": "Workforce Restructuring (2024-2025)",
+        "source": "Article Business Update",
+        "url": "https://www.article.com/c/article-business-update",
+        "published_date": "2024",
+        "date": "2024-01-01",
+        "summary": "Article laid off 216 employees, representing 17% of its workforce, due to a normalization in post-pandemic demand. The company had expected the trend towards online purchasing to continue but saw demand return to pre-pandemic levels.",
+        "presti_score": 6,
+        "relevance_reason": "Understanding workforce changes can impact the company's ability to innovate in AI visual content.",
+        "key_insights": [
+          "Article laid off 216 employees, 17% of its workforce.",
+          "The layoffs were due to a return to pre-pandemic demand levels.",
+          "CEO Aamir Baig emphasized the need to resize the business for financial strength."
+        ],
+        "category": "business_performance"
+      },
+      {
+        "title": "Financial Performance",
+        "source": "ECDB",
+        "url": "https://ecdb.com/resources/sample-data/retailer/article",
+        "published_date": "2024",
+        "date": "2024-01-01",
+        "summary": "Article reported US$507 million in revenue for 2024, with a projected growth rate of 5-10% for 2025. The company's sales are entirely from first-party channels, focusing on Furniture & Homeware.",
+        "presti_score": 5,
+        "relevance_reason": "Financial health can influence investment in AI and digital transformation initiatives.",
+        "key_insights": [
+          "Article generated US$507 million in revenue in 2024.",
+          "A growth rate of 5-10% is expected in 2025.",
+          "Sales are focused entirely on Furniture & Homeware through first-party channels."
+        ],
+        "category": "business_performance"
+      },
+      {
+        "title": "Supply Chain Focus",
+        "source": "Article Press",
+        "url": "https://www.article.com/press",
+        "published_date": "2024",
+        "date": "2024-01-01",
+        "summary": "Article has enhanced its supply chain by establishing fulfillment centers across North America and launching an in-house delivery team. This includes a final-mile delivery service in Los Angeles and New York to improve delivery speed and customer experience.",
+        "presti_score": 7,
+        "relevance_reason": "Efficient supply chain and delivery services can enhance customer satisfaction, crucial for visual content marketing.",
+        "key_insights": [
+          "Article invested in fulfillment centers across North America.",
+          "An in-house delivery team was launched to improve delivery speed.",
+          "Final-mile delivery services were introduced in Los Angeles and New York."
+        ],
+        "category": "supply_chain_challenges"
+      }
+    ],
+    "search_date": "2026-01-09T13:37:15.152369",
+    "scrape_metadata": {
+      "timestamp": "2026-01-09T13:37:15.152384",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "articles_found": 3
+    }
+  }
+}

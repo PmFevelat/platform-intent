@@ -1,0 +1,95 @@
+{
+  "news": {
+    "company_name": "Kimball International",
+    "news_items": [
+      {
+        "title": "Kimball Electronics Releases 2024 Annual Sustainability Report",
+        "source": "ESG Today",
+        "url": "https://www.esgtoday.com/kimball-electronics-releases-2024-annual-sustainability-report/",
+        "published_date": "2024",
+        "date": "2024-01-01",
+        "summary": "Kimball Electronics has published its 2024 sustainability report, detailing significant reductions in greenhouse gas emissions and setting ambitious renewable energy and net zero targets.",
+        "presti_score": 7,
+        "relevance_reason": "Highlights sustainability efforts which can influence brand perception and visual content strategies.",
+        "key_insights": [
+          "42% reduction in Scope 1 and 2 GHG emissions since 2019.",
+          "Targets 100% renewable electricity by 2030.",
+          "Commits to net zero emissions by 2050."
+        ],
+        "category": "sustainability"
+      },
+      {
+        "title": "Kimball Electronics Reports Q1 Results; Company Reiterates Guidance for Fiscal 2026",
+        "source": "Business Wire",
+        "url": "https://www.businesswire.com/news/home/20251105783128/en/Kimball-Electronics-Reports-Q1-Results-Company-Reiterates-Guidance-for-Fiscal-2026",
+        "published_date": "November 5, 2025",
+        "date": "2025-11-05",
+        "summary": "Kimball Electronics reports strong Q1 fiscal 2026 results, with notable performance in the medical sector and sustained positive cash flow.",
+        "presti_score": 5,
+        "relevance_reason": "Financial performance can impact investment in digital and visual content initiatives.",
+        "key_insights": [
+          "Strength in the medical vertical.",
+          "Improved margins year-over-year.",
+          "Positive cash flow for seven consecutive quarters."
+        ],
+        "category": "business_performance"
+      },
+      {
+        "title": "New Products and Fresh Enhancements Announced by Kimball International",
+        "source": "WJTS",
+        "url": "https://wjts.tv/2025/01/new-products-and-fresh-enhancements-announced-by-kimball-international/",
+        "published_date": "January 2025",
+        "date": "2025-01-01",
+        "summary": "Kimball International introduces new product lines and enhancements, expanding its portfolio with innovative designs.",
+        "presti_score": 8,
+        "relevance_reason": "New product launches require updated visual content and marketing strategies.",
+        "key_insights": [
+          "Enhancements to WaveWorks and Perks portfolios.",
+          "Introduction of Fringe 2.0 and Connolly 2.0 series.",
+          "Focus on innovative design and functionality."
+        ],
+        "category": "catalog_expansion"
+      },
+      {
+        "title": "Kimball International Announces Grand Opening of New NYC Showroom Location",
+        "source": "Kimball International",
+        "url": "https://www.kimballinternational.com/kimball-international-announces-grand-opening-of-new-nyc-showroom-location.html",
+        "published_date": "June 18, 2024",
+        "date": "2024-06-18",
+        "summary": "Kimball International opens a new showroom in NYC, showcasing a wide range of its brands and solutions in a prime location.",
+        "presti_score": 6,
+        "relevance_reason": "Showroom openings enhance brand visibility and require strategic visual content.",
+        "key_insights": [
+          "9,000-square-foot showroom in NYC's Flatiron District.",
+          "Features solutions from multiple Kimball brands.",
+          "Aims to increase brand presence in a key market."
+        ],
+        "category": "marketing_campaigns"
+      },
+      {
+        "title": "Kimball International Announces New CSR Webpage",
+        "source": "Kimball International",
+        "url": "https://www.kimballinternational.com/kimball-international-announces-new-csr-webpage.html",
+        "published_date": "2024",
+        "date": "2024-01-01",
+        "summary": "Kimball International launches a new CSR webpage, highlighting its long-standing commitment to environmental and social initiatives.",
+        "presti_score": 7,
+        "relevance_reason": "CSR initiatives can influence brand image and visual storytelling.",
+        "key_insights": [
+          "Showcases over 40 years of sustainability commitment.",
+          "Focus on environmental and social initiatives.",
+          "Enhances transparency and stakeholder engagement."
+        ],
+        "category": "sustainability"
+      }
+    ],
+    "search_date": "2026-01-09T13:42:39.616082",
+    "scrape_metadata": {
+      "timestamp": "2026-01-09T13:42:39.616100",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "articles_found": 5
+    }
+  }
+}

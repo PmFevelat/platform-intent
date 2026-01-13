@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import { useParams } from "next/navigation";
 import Link from "next/link";
 import { getData } from "@/lib/data";
-import { Company, CompanyNews, ManagementInterviews } from "@/lib/types";
+import { Company, CompanyNews, ManagementInterviews, FinancialNews } from "@/lib/types";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { 
@@ -18,6 +18,7 @@ import { OverviewTab } from "@/components/company/OverviewTab";
 import { TechStackTab } from "@/components/company/TechStackTab";
 import { NewsTab } from "@/components/company/NewsTab";
 import { ManagementInterviewsTab } from "@/components/company/ManagementInterviewsTab";
+import { FinancialNewsTab } from "@/components/company/FinancialNewsTab";
 
 export default function CompanyPage() {
   const params = useParams();
@@ -26,8 +27,9 @@ export default function CompanyPage() {
   const [company, setCompany] = useState<Company | null>(null);
   const [companyNews, setCompanyNews] = useState<CompanyNews | null>(null);
   const [managementInterviews, setManagementInterviews] = useState<ManagementInterviews | null>(null);
+  const [financialNews, setFinancialNews] = useState<FinancialNews | null>(null);
   const [loading, setLoading] = useState(true);
-  const [activeTab, setActiveTab] = useState<"jobs" | "tech" | "company_news" | "management_interviews">("jobs");
+  const [activeTab, setActiveTab] = useState<"jobs" | "tech" | "company_news" | "management_interviews" | "financial_news">("jobs");
 
   // Function to reload data
   const loadCompanyData = () => {
@@ -79,10 +81,33 @@ export default function CompanyPage() {
       });
   };
 
+  const loadFinancialData = () => {
+    console.log('[loadFinancialData] Loading financial data for:', companyName);
+    fetch('/financial_news.json?' + Date.now()) // Cache bust
+      .then(res => res.json())
+      .then((data) => {
+        console.log('[loadFinancialData] Received data:', data);
+        // Try to find financial data with case-insensitive search
+        let financial = data[companyName];
+        if (!financial) {
+          // Try to find by case-insensitive match
+          const key = Object.keys(data).find(k => k.toLowerCase() === companyName.toLowerCase());
+          financial = key ? data[key] : null;
+        }
+        console.log('[loadFinancialData] Financial data for company:', financial);
+        setFinancialNews(financial || null);
+      })
+      .catch((error) => {
+        console.error('[loadFinancialData] Error:', error);
+        setFinancialNews(null);
+      });
+  };
+
   useEffect(() => {
     loadCompanyData();
     loadNewsData();
     loadInterviewsData();
+    loadFinancialData();
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [companyName]);
 
@@ -110,6 +135,7 @@ export default function CompanyPage() {
     { id: "tech", label: "Tech Stack" },
     { id: "company_news", label: "Company News" },
     { id: "management_interviews", label: "Management Interviews" },
+    { id: "financial_news", label: "Financial News" },
   ] as const;
 
   return (
@@ -206,6 +232,16 @@ export default function CompanyPage() {
                 loadInterviewsData();
               }}
             />
+        )}
+        {activeTab === "financial_news" && (
+          <FinancialNewsTab
+            company={company}
+            financialNews={financialNews}
+            onRefreshComplete={() => {
+              console.log('[Page] Refresh complete callback triggered for financial news');
+              loadFinancialData();
+            }}
+          />
         )}
       </div>
     </div>

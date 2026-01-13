@@ -1,0 +1,63 @@
+{
+  "news": {
+    "company_name": "Jonathan Louis",
+    "news_items": [
+      {
+        "title": "Casae Launch - April 2025",
+        "source": "Furniture Today",
+        "url": "https://www.furnituretoday.com/manufacturers/jonathan-louis-ceo-latest-furniture-launch-is-turning-point/",
+        "published_date": "April 21, 2025",
+        "date": "2025-04-21",
+        "summary": "Jonathan Louis launched Casae, a new luxury upholstery brand, as part of its 40th anniversary. This marks a significant milestone for the company, emphasizing its commitment to design innovation.",
+        "presti_score": 8,
+        "relevance_reason": "The launch of a new design studio and luxury brand is highly relevant for AI visual content companies focusing on product lifestyle imagery.",
+        "key_insights": [
+          "Casae features eight original collections.",
+          "The launch is described as a 'turning point' by CEO Javier Sanchez.",
+          "The initiative is part of the company's 40th anniversary celebration."
+        ],
+        "category": "catalog_expansion"
+      },
+      {
+        "title": "CEO Recognition - November 2025",
+        "source": "Furniture Today",
+        "url": "https://www.furnituretoday.com/business-news/charitable-causes/jonathan-louis-exec-to-be-honored-at-2026-west-coast-benefit-tournie/",
+        "published_date": "November 17, 2025",
+        "date": "2025-11-17",
+        "summary": "Javier Sanchez, CEO of Jonathan Louis, is set to be honored at the 2026 West Coast Golf, Tennis & Pickleball Tournament. This recognition highlights his leadership within the home furnishings industry.",
+        "presti_score": 5,
+        "relevance_reason": "Recognition of leadership can influence company culture and brand perception, indirectly affecting visual content strategies.",
+        "key_insights": [
+          "Javier Sanchez is recognized by the International Home Furnishings Industry group.",
+          "The event is organized by City of Hope.",
+          "The honor reflects his contributions to the industry."
+        ],
+        "category": "business_performance"
+      },
+      {
+        "title": "Spring/Summer 2025 Design Trends",
+        "source": "Jonathan Louis official website",
+        "url": "https://www.jonathanlouis.com/spring-summer-2025-design-trends",
+        "published_date": "2025",
+        "date": "2025",
+        "summary": "Jonathan Louis released its Spring/Summer 2025 design trends, focusing on themes like 'Grounded Textures' and 'Refined Luxury'. These trends showcase the company's innovative approach to design.",
+        "presti_score": 9,
+        "relevance_reason": "Design trends are crucial for AI visual content companies to align their imagery with current market aesthetics.",
+        "key_insights": [
+          "Collections are organized around themes such as 'Grounded Textures' and 'Kindred Creation'.",
+          "The trends emphasize a blend of luxury and comfort.",
+          "These trends reflect the company's forward-thinking design philosophy."
+        ],
+        "category": "visual_content"
+      }
+    ],
+    "search_date": "2026-01-09T13:41:24.681269",
+    "scrape_metadata": {
+      "timestamp": "2026-01-09T13:41:24.681287",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "articles_found": 3
+    }
+  }
+}

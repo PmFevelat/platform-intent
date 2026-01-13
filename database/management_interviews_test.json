@@ -1,106 +1,184 @@
 {
-  "West Elm": {
-    "company_name": "West Elm",
-    "search_date": "2026-01-07",
+  "Kimball International": {
+    "company_name": "Kimball International",
+    "search_date": "2026-01-09",
     "management_items": [
       {
-        "title": "Williams‑Sonoma, Inc. Announces New West Elm President",
-        "source": "Business Wire",
-        "url": "https://ir.williams-sonomainc.com/investor-information/news-releases/news-release-details/2023/WILLIAMS-SONOMA-INC.-ANNOUNCES-NEW-WEST-ELM-PRESIDENT/default.aspx",
-        "published_date": "January 25, 2023",
+        "title": "Kimball International Named One of America’s Most Responsible Companies",
+        "source": "Kimball International Press Release",
+        "url": "https://www.kimballinternational.com/press/kimball-international-named-one-of-americas-most-responsible-companies.html",
+        "published_date": "January 17, 2023",
         "format": "article",
-        "executive_name": "Day Kornbluth",
-        "executive_title": "President of West Elm",
-        "summary": "Announcement of Day Kornbluth joining as President, emphasizing her expertise in product and digital innovation to drive brand growth.",
+        "executive_name": "Kristie Juster",
+        "executive_title": "Chief Executive Officer",
+        "summary": "CEO Kristie Juster emphasizes the company’s long-standing values and commitment to sustainability and corporate responsibility, highlighting that these principles guide how they do business.",
         "key_quotes": [
-          "“The strength of the West Elm brand represents an incredible opportunity. I am thrilled to be joining this talented team and build on the strong foundations of this business to drive growth.”"
+          "For more than 70 years, Kimball International’s strong values have guided our belief in doing what’s right, not only for the communities we serve, but to make a positive impact on the world.",
+          "We’re honored to be named one of America’s Most Responsible Companies because corporate responsibility has always been embedded in our purpose and how we do business."
         ],
         "topics_discussed": [
-          "leadership transition",
-          "digital innovation",
-          "brand growth"
+          "sustainability",
+          "corporate responsibility",
+          "values-driven leadership"
         ],
         "relevance_score": 6,
-        "relevance_reason": "Signals strategic leadership change with emphasis on digital and product innovation, relevant for positioning Presti.",
+        "relevance_reason": "Highlights CEO’s emphasis on values and sustainability, which may align with Presti’s value proposition around responsible, scalable content creation.",
         "sales_insights": [
-          "Highlight Presti’s alignment with digital innovation priorities",
-          "Position Presti as a tool to support brand growth under new leadership"
+          "Position Presti as a partner that supports sustainability through digital content, reducing physical sample waste.",
+          "Emphasize alignment with Kimball’s values-driven culture in messaging.",
+          "Leverage Presti’s scalable digital imagery to reinforce Kimball’s responsible brand image."
         ]
       },
       {
-        "title": "West Elm Launches New Mobile App",
-        "source": "Business Wire / Marketing Dive",
-        "url": "https://ir.williams-sonomainc.com/investor-information/news-releases/news-release-details/2024/WEST-ELM-LAUNCHES-NEW-MOBILE-APP/default.aspx",
-        "published_date": "March 28, 2024",
+        "title": "Kimball International Launches New Web Experience",
+        "source": "Kimball International Press Release",
+        "url": "https://www.kimballinternational.com/press/kimball-international-launches-new-web-experience.html",
+        "published_date": "2026-01-09",
         "format": "article",
-        "executive_name": "Day Kornbluth",
-        "executive_title": "President of West Elm",
-        "summary": "Launch of a mobile‑first shopping app with customizable features, on‑demand design support, wish‑lists, registry, and Apple Pay integration to enhance customer experience.",
+        "executive_name": "Kourtney Smith",
+        "executive_title": "Chief Operating Officer",
+        "summary": "COO Kourtney Smith discusses the launch of a modern, accessible website and dealer portal, emphasizing improved customer experience, ADA compliance, and digital tools like a product configurator.",
         "key_quotes": [
-          "“Delivering a fun and frictionless shopping experience is always our top priority.”",
-          "“We are proud to introduce a mobile‑first, customizable platform…”"
+          "We are incredibly proud of this investment in technology and the enhanced experience we are bringing our customers.",
+          "The new website and customer tools bring our Workplace and Health brands together in perfect harmony across our key vertical markets."
         ],
         "topics_discussed": [
-          "mobile commerce",
-          "customer experience",
-          "digital transformation"
+          "digital experience",
+          "customer tools",
+          "accessibility",
+          "product configurator"
         ],
         "relevance_score": 8,
-        "relevance_reason": "Demonstrates West Elm’s digital and e‑commerce priorities, directly relevant to Presti’s value proposition in scalable visual content.",
+        "relevance_reason": "Demonstrates strategic focus on digital customer experience and configurator tools—areas where Presti’s AI-driven imagery could integrate.",
         "sales_insights": [
-          "Emphasize Presti’s ability to enhance mobile visuals at scale",
-          "Position Presti as a tool to enrich digital customer experience"
+          "Pitch Presti as a way to enrich the product configurator with lifestyle imagery.",
+          "Highlight how Presti can enhance digital experience and accessibility through scalable visuals.",
+          "Position Presti as a partner in their digital transformation journey."
         ]
       },
       {
-        "title": "West Elm Launches New Collaboration with Fashion Tastemaker and Best‑Selling Children’s Book Author, Eva Chen",
-        "source": "Business Wire",
-        "url": "https://ir.williams-sonomainc.com/investor-information/news-releases/news-release-details/2024/WEST-ELM-LAUNCHES-NEW-COLLABORATION-WITH-FASHION-TASTEMAKER-AND-BEST-SELLING-CHILDRENS-BOOK-AUTHOR-EVA-CHEN/default.aspx",
-        "published_date": "September 5, 2024",
+        "title": "Kimball International Wins Two Innovation by Design-Awards",
+        "source": "Kimball International Press Release",
+        "url": "https://www.kimballinternational.com/press/kimball-international-wins-two-innovation-by-design-awards.html",
+        "published_date": "November 9, 2022",
         "format": "article",
-        "executive_name": "Day Kornbluth",
-        "executive_title": "President of West Elm",
-        "summary": "Announces a children’s collection collaboration with Eva Chen, focusing on functional yet stylish products that encourage reading and creativity.",
+        "executive_name": "Jessica Gubbins",
+        "executive_title": "Senior Director of Marketing",
+        "summary": "Jessica Gubbins highlights recognition for innovative product designs (EverySpace and Ezzeri), emphasizing adaptability, user-centric design, and transforming environments.",
         "key_quotes": [
-          "“Eva has fantastic taste and is acutely aware of what parents want for a kid’s room…”"
+          "We are very excited to be recognized by Fast Company for two of our products.",
+          "These innovative products help transform workspaces and healthcare environments to fit the ever-changing needs of those that use them, ultimately creating personal connections within those spaces."
         ],
         "topics_discussed": [
-          "product collaboration",
-          "children’s market",
-          "design innovation"
+          "innovation",
+          "product design",
+          "user-centric solutions"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Shows marketing leadership’s focus on innovation and user experience—Presti’s imagery could support showcasing these design innovations.",
+        "sales_insights": [
+          "Offer Presti’s imagery to visually communicate product innovation and adaptability.",
+          "Align Presti’s visuals with their user-centric design narrative.",
+          "Support marketing storytelling around product transformation."
+        ]
+      },
+      {
+        "title": "HNI Corporation to Acquire Kimball International",
+        "source": "Business Wire",
+        "url": "https://www.businesswire.com/news/home/20230307006052/en/HNI-Corporation-to-Acquire-Kimball-International",
+        "published_date": "March 8, 2023",
+        "format": "article",
+        "executive_name": "Kristie Juster",
+        "executive_title": "Chief Executive Officer",
+        "summary": "CEO Kristie Juster frames the acquisition by HNI as a strategic next step, emphasizing shared values, expanded opportunities for employees, and enhanced value for stakeholders.",
+        "key_quotes": [
+          "I’m incredibly proud of what we have built at Kimball International, and this agreement is a testament to our team’s commitment and dedication.",
+          "Joining HNI is an important next step in our company’s history and will provide our employees with more opportunities for career growth and development as part of a larger, more diversified industry leader that also shares our deeply rooted values."
+        ],
+        "topics_discussed": [
+          "merger & acquisition",
+          "culture alignment",
+          "growth opportunity"
         ],
         "relevance_score": 6,
-        "relevance_reason": "Highlights West Elm’s focus on creative partnerships and expanding product categories, relevant for Presti’s visual content capabilities.",
+        "relevance_reason": "Provides insight into leadership’s strategic vision around growth and integration—useful for positioning Presti in a post-acquisition context.",
         "sales_insights": [
-          "Offer Presti as a way to visualize collaborative collections quickly",
-          "Position Presti to support creative storytelling for new product lines"
+          "Frame Presti as a scalable solution that supports integration and unified brand experience post-acquisition.",
+          "Emphasize Presti’s ability to serve a broader product portfolio efficiently.",
+          "Position Presti as a partner in their growth and consolidation strategy."
+        ]
+      },
+      {
+        "title": "HNI Corporation Completes Acquisition of Kimball International",
+        "source": "HNI Corporation Press Release",
+        "url": "https://investors.hnicorp.com/news/news-details/2023/HNI-Corporation-Completes-Acquisition-of-Kimball-International/default.aspx",
+        "published_date": "June 1, 2023",
+        "format": "article",
+        "executive_name": "Jeff Lorenger",
+        "executive_title": "Chairman, President, and Chief Executive Officer, HNI Corporation",
+        "summary": "HNI CEO Jeff Lorenger emphasizes the cultural fit and complementary strengths of the combined companies, noting the enhanced product offering and benefits for stakeholders.",
+        "key_quotes": [
+          "The completion of the Kimball International acquisition represents a new chapter as we bring together two strong, successful companies with similar cultures and well-established families of brands.",
+          "The combined companies will have an unmatched comprehensive product offering positioned to benefit from post‑pandemic trends."
+        ],
+        "topics_discussed": [
+          "post-acquisition strategy",
+          "product offering",
+          "growth synergy"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Offers perspective from the acquiring company’s leadership on strategic direction—contextual for Presti’s positioning.",
+        "sales_insights": [
+          "Highlight Presti’s ability to serve an expanded brand portfolio efficiently.",
+          "Position Presti as a tool to leverage post-pandemic growth trends.",
+          "Use synergy narrative to align Presti’s scalable imagery with combined offerings."
         ]
       }
     ],
     "key_executives_identified": [
       {
-        "name": "Day Kornbluth",
-        "title": "President of West Elm",
-        "relevance": "Primary decision‑maker driving digital innovation, product strategy, and brand collaborations—key for Presti’s value proposition.",
+        "name": "Kristie Juster",
+        "title": "Chief Executive Officer",
+        "relevance": "Primary decision-maker with strategic vision on sustainability, digital transformation, and M&A.",
         "content_count": 3
+      },
+      {
+        "name": "Kourtney Smith",
+        "title": "Chief Operating Officer",
+        "relevance": "Key leader in digital customer experience and technology investment.",
+        "content_count": 1
+      },
+      {
+        "name": "Jessica Gubbins",
+        "title": "Senior Director of Marketing",
+        "relevance": "Marketing leadership focused on innovation and product storytelling.",
+        "content_count": 1
+      },
+      {
+        "name": "Jeff Lorenger",
+        "title": "Chairman, President, and CEO, HNI Corporation",
+        "relevance": "Leader of the parent company post-acquisition, shaping strategic integration.",
+        "content_count": 1
       }
     ],
     "overall_assessment": {
-      "decision_maker_visibility": "low",
+      "decision_maker_visibility": "medium",
       "strategic_priorities": [
-        "Digital transformation and mobile commerce",
-        "Product and design collaborations",
-        "Brand growth under new leadership"
+        "Sustainability and corporate responsibility",
+        "Digital customer experience and accessibility",
+        "Product innovation and design recognition",
+        "Growth through acquisition and integration"
       ],
       "presti_entry_points": [
-        "Enhance mobile visual content at scale",
-        "Support creative storytelling for collaborations",
-        "Align with digital innovation agenda"
+        "Enhance digital configurator with scalable lifestyle imagery",
+        "Support sustainability messaging via digital content",
+        "Visual storytelling for innovative product lines",
+        "Enable unified brand imagery across merged portfolios"
       ],
-      "recommended_contact": "Target Day Kornbluth, President of West Elm—she is clearly leading digital and product innovation and would be most receptive to Presti’s visual content solution."
+      "recommended_contact": "Target Kourtney Smith (COO) first—she is directly leading digital experience initiatives and would likely be most receptive to Presti’s AI-powered visual tools to enhance configurator and customer-facing platforms."
     },
     "scrape_metadata": {
-      "timestamp": "2026-01-07T11:11:04.814676",
+      "timestamp": "2026-01-09T14:24:28.833886",
       "model": "gpt-4o",
       "success": true,
       "web_search_used": true

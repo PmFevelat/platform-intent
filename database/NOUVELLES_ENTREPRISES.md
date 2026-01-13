@@ -196,3 +196,4 @@ OPENAI_API_KEY=your_key ./scrape_new_companies.sh
 4. **Personnalisation**: Adapter le pitch commercial par entreprise selon opportunités identifiées
 
 
+

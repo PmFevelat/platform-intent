@@ -1,0 +1,78 @@
+{
+  "company_name": "Palliser Furniture Ltd.",
+  "financial_items": [
+    {
+      "title": "Palliser Furniture Ltd. - 2025",
+      "source": "Woodworking Network",
+      "url": "https://www.woodworkingnetwork.com/fdmc-300/2025/palliser-furniture-ltd",
+      "published_date": "2025",
+      "date": "2025-01-01",
+      "period": "FY 2025",
+      "document_type": "quarterly_results",
+      "summary": "Palliser Furniture Ltd. reported annual sales of $422.2 million for 2025, maintaining its position as a leading manufacturer in North America. The company operates five manufacturing plants and employs 3,000 people, focusing on upholstered furniture products. Despite industry challenges, Palliser continues to leverage its extensive manufacturing capabilities.",
+      "key_metrics": [
+        "Revenue: $422.2 million"
+      ],
+      "strategic_highlights": [
+        "Maintained position in FDMC 300 ranking",
+        "Focus on upholstered furniture products",
+        "Operates five manufacturing plants"
+      ],
+      "relevance_score": 7,
+      "category": "financial_performance"
+    },
+    {
+      "title": "Current business environment offers opportunities in 2024, says Palliser",
+      "source": "Furniture Today",
+      "url": "https://www.furnituretoday.com/manufacturers/current-business-environment-offers-opportunities-in-2024-says-palliser/",
+      "published_date": "2024",
+      "date": "2024-01-01",
+      "period": "FY 2024",
+      "document_type": "press_release",
+      "summary": "Palliser Furniture Ltd. sees significant market opportunities in 2024, driven by a focus on customer needs and vertical integration. The company is emphasizing customization and innovation in styles and textiles to capture market share. Strategic initiatives include enhancing the in-store experience and expanding multi-channel strategies.",
+      "key_metrics": [],
+      "strategic_highlights": [
+        "Focus on customer needs and vertical integration",
+        "Emphasis on customization and innovation",
+        "Expansion of multi-channel strategies"
+      ],
+      "relevance_score": 6,
+      "category": "guidance"
+    },
+    {
+      "title": "Furniture industry faces headwinds despite some gains",
+      "source": "Woodworking Network",
+      "url": "https://www.woodworkingnetwork.com/management/fdmc-300/furniture-industry-faces-headwinds-despite-some-gains",
+      "published_date": "2025",
+      "date": "2025-01-01",
+      "period": "FY 2024",
+      "document_type": "quarterly_results",
+      "summary": "In 2024, Palliser Furniture Ltd. reported sales of $422.2 million, reflecting a slight decline from previous years amid industry headwinds. The company remains a key player in the North American furniture market, ranked #34 in the FDMC 300. Despite challenges, Palliser is exploring market share opportunities.",
+      "key_metrics": [
+        "Revenue: $422.2 million"
+      ],
+      "strategic_highlights": [
+        "Ranked #34 in FDMC 300",
+        "Exploring market share opportunities",
+        "Facing industry headwinds"
+      ],
+      "relevance_score": 7,
+      "category": "financial_performance"
+    }
+  ],
+  "search_date": "2026-01-13T09:46:59.667110",
+  "scrape_metadata": {
+    "timestamp": "2026-01-13T09:46:59.667126",
+    "search_engine": "perplexity-sonar",
+    "structuring_model": "gpt-4o",
+    "success": true,
+    "items_found": 3,
+    "themes_searched": [
+      "earnings_calls",
+      "financial_reports",
+      "quarterly_results",
+      "financial_press",
+      "analyst_coverage"
+    ]
+  }
+}

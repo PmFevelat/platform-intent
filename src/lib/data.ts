@@ -1,4 +1,4 @@
-import { DataStore, Company, TAMCompany, Job, NewsDataStore, ManagementInterviewsDataStore } from "./types";
+import { DataStore, Company, TAMCompany, Job, NewsDataStore, ManagementInterviewsDataStore, FinancialNewsDataStore } from "./types";
 
 let cachedData: DataStore | null = null;
 let cachedTAM: TAMCompany[] | null = null;
@@ -150,4 +150,16 @@ export async function getManagementInterviewsData(): Promise<ManagementInterview
   const res = await fetch("/management_interviews.json", { cache: 'no-store' });
   cachedManagementInterviews = await res.json();
   return cachedManagementInterviews;
+}
+
+// Financial news data functions
+let cachedFinancialNews: any = null;
+
+export async function getFinancialNewsData(): Promise<FinancialNewsDataStore> {
+  const isDev = process.env.NODE_ENV === 'development';
+  if (cachedFinancialNews && !isDev) return cachedFinancialNews;
+  
+  const res = await fetch("/financial_news.json", { cache: 'no-store' });
+  cachedFinancialNews = await res.json();
+  return cachedFinancialNews;
 }
