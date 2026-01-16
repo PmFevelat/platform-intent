@@ -1,18 +1,202 @@
 {
   "1st Dibs": {
     "company_name": "1st Dibs",
-    "search_date": "2026-01-02",
-    "news_items": [],
+    "search_date": "2026-01-13",
+    "news_items": [
+      {
+        "title": "1stDibs Reveals Luxury E‑Commerce Report for 2024",
+        "source": "Business Wire",
+        "url": "https://www.businesswire.com/news/home/20250122699148/en/1stDibs-Reveals-Luxury-E-commerce-Report-for-2024",
+        "published_date": "January 22, 2025",
+        "summary": "1st Dibs published its Luxury E‑Commerce Report using 2024 platform data, highlighting rising search trends (e.g., Mid‑century Modern up 18 positions, Togo chair up 62), and strong growth in categories like Bottega Veneta (+76%) and Hermès handbags (+57%).",
+        "relevance_score": 8,
+        "relevance_reason": "Signals strong catalog and visual demand trends; rising interest in specific furniture styles and high‑value SKUs.",
+        "key_insights": [
+          "Mid‑century Modern and Togo chair searches surged",
+          "High‑value handbag orders grew significantly",
+          "Visual appeal of iconic designs is driving engagement"
+        ],
+        "category": "catalog_expansion"
+      },
+      {
+        "title": "1stDibs claims progress as 2024 wraps up with revenue, GMV and order gains",
+        "source": "Furniture Today",
+        "url": "https://www.furnituretoday.com/financial-results/1stdibs-claims-progress-as-2024-wraps-up-with-revenue-gmv-and-order-gains/",
+        "published_date": "February 28, 2025",
+        "summary": "1st Dibs ended 2024 with Q4 GMV of $94.5M (+9% YoY), orders up 7% to ~37K, active buyers up 6% to ~64K, and net revenue up 9% in Q4 and 4% for full year.",
+        "relevance_score": 7,
+        "relevance_reason": "Demonstrates e‑commerce growth and increased SKU turnover, implying need for scalable visual content.",
+        "key_insights": [
+          "GMV and orders growing strongly in Q4",
+          "Active buyer base expanding",
+          "Revenue growth signals catalog momentum"
+        ],
+        "category": "ecommerce_growth"
+      },
+      {
+        "title": "1stDibs Reports Third Quarter 2024 Financial Results",
+        "source": "Business Wire",
+        "url": "https://investors.1stdibs.com/news/news-details/2024/1stDibs-Reports-Third-Quarter-2024-Financial-Results/default.aspx",
+        "published_date": "November 8, 2024",
+        "summary": "In Q3 2024, 1st Dibs posted net revenue of $21.2M (+3% YoY), GMV of $84.6M (–5%), orders up 7% (~33K), active buyers slightly down (–1%), and launched a $10M stock repurchase program.",
+        "relevance_score": 6,
+        "relevance_reason": "Mixed performance but order growth and strategic financial moves suggest stabilization and potential for catalog expansion.",
+        "key_insights": [
+          "Orders rising despite GMV dip",
+          "Active buyers stabilizing",
+          "Financial discipline via stock buyback"
+        ],
+        "category": "business_performance"
+      },
+      {
+        "title": "1stDibs Q1 2025 Results: A Delicate Balance of Growth and Challenges in the Luxury Ecosystem",
+        "source": "AInvest",
+        "url": "https://www.ainvest.com/news/1stdibs-q1-2025-results-delicate-balance-growth-challenges-luxury-ecosystem-2505/",
+        "published_date": "March 2025",
+        "summary": "Q1 2025 saw active buyers up 7% to 65K, listings up 5% to 1.8M, unique sellers down 23% to 5,900, and average order value up 1% to $2,706. Sellers now view 1st Dibs as primary sales channel over physical showrooms.",
+        "relevance_score": 8,
+        "relevance_reason": "Catalog growth and shift to digital-first selling underscore need for high-volume visual content generation.",
+        "key_insights": [
+          "Listings growing, sellers consolidating",
+          "Platform overtakes physical showrooms",
+          "AOV rising modestly"
+        ],
+        "category": "catalog_expansion"
+      },
+      {
+        "title": "1stdibs’ AI‑Driven Marketplace: A Strategic Edge in the Evolving Luxury E‑Commerce Landscape",
+        "source": "AInvest",
+        "url": "https://www.ainvest.com/news/1stdibs-ai-driven-marketplace-strategic-edge-evolving-luxury-commerce-landscape-2508/",
+        "published_date": "August 6, 2025",
+        "summary": "1st Dibs uses AI for dynamic pricing, gray‑market detection, and hyper‑personalization, targeting $83–89M Q3 2025 GMV. Active buyers reached 64,800 in Q1 2025, with AI enhancing trust and conversion.",
+        "relevance_score": 9,
+        "relevance_reason": "Highlights AI adoption in visual trust and personalization—Presti’s generative imagery could integrate into this AI ecosystem.",
+        "key_insights": [
+          "AI used for pricing and authenticity",
+          "Hyper‑personalization boosting conversions",
+          "Strong GMV guidance via AI strategy"
+        ],
+        "category": "technology_innovation"
+      },
+      {
+        "title": "1stDibs Corners The Market For “Mid‑Market” Auctions",
+        "source": "Globe Newswire",
+        "url": "https://investors.1stdibs.com/news/news-details/2023/1stDibs-Corners-The-Market-For-Mid-Market-Auctions/default.aspx",
+        "published_date": "March 6, 2023",
+        "summary": "One year after launching auctions, 1st Dibs increased sell‑through rate by 1.4× in Q4 2022. Monthly page views more than doubled. Auctions expanded into jewelry, accessible design, decorative art, attracting younger affluent buyers.",
+        "relevance_score": 7,
+        "relevance_reason": "Auctions drive visual engagement and require high-quality imagery across categories and price points.",
+        "key_insights": [
+          "Auctions boost engagement and sell‑through",
+          "New categories added to auctions",
+          "Attracting younger affluent buyers"
+        ],
+        "category": "marketing_campaigns"
+      },
+      {
+        "title": "1stDibs’ Growth Strategy Shows Improved Margins and GMV Rebound",
+        "source": "CanvasBusinessModel.com",
+        "url": "https://canvasbusinessmodel.com/blogs/growth-strategy/1stdibs-growth-strategy",
+        "published_date": "December 2025",
+        "summary": "In 2024, net revenue rose 4% to $88.3M, gross profit up 6% to $63.4M, gross margin improved to 71.9%, and adjusted EBITDA loss narrowed. Q1 2025 revenue was $22.5M (+2%), with Q4 GMV up 9% and strong liquidity ($103.9M).",
+        "relevance_score": 6,
+        "relevance_reason": "Financial stabilization and margin improvement suggest reinvestment potential into digital/catalog initiatives.",
+        "key_insights": [
+          "Margin improvements in 2024",
+          "GMV rebound in Q4",
+          "Strong liquidity supports investment"
+        ],
+        "category": "business_performance"
+      },
+      {
+        "title": "1stDibs’ Strategic Shift: Tech‑First Headcount Realignment",
+        "source": "BeyondSPX",
+        "url": "https://beyondspx.com/quote/DIBS/1stdibs-the-luxury-marketplace-s-path-to-profitability-through-technology-and-market-share-gains-nasdaq-dibs",
+        "published_date": "September 2025",
+        "summary": "1st Dibs reallocated workforce, reducing sales/marketing and increasing product & engineering to ~50% of headcount, signaling a shift toward product innovation over marketing spend.",
+        "relevance_score": 9,
+        "relevance_reason": "Tech-first orientation opens door for Presti’s visual generation tools to integrate into product roadmap.",
+        "key_insights": [
+          "Headcount shifting to product/engineering",
+          "Innovation prioritized over marketing",
+          "Platform becoming more tech‑centric"
+        ],
+        "category": "digital_transformation"
+      },
+      {
+        "title": "1stDibs.com, Inc. Reports Third Quarter 2025 Financial Results",
+        "source": "Business Wire",
+        "url": "https://investors.1stdibs.com/news/news-details/2025/1stDibs-Reports-Third-Quarter-2025-Financial-Results/default.aspx",
+        "published_date": "November 2025",
+        "summary": "Q3 2025 net revenue was $22.0M (+4% YoY), gross profit $16.3M (+9%), gross margin 74.3% (vs. 71.0%), GAAP net loss $3.5M. Reflects improving profitability and operational efficiency.",
+        "relevance_score": 6,
+        "relevance_reason": "Improved margins and revenue growth suggest capacity for investing in scalable visual content solutions.",
+        "key_insights": [
+          "Revenue and gross profit rising",
+          "Margin expansion in Q3",
+          "Operational efficiency improving"
+        ],
+        "category": "business_performance"
+      },
+      {
+        "title": "1stDibs.com, Inc. - Luxury E‑Commerce Report for 2024 (GuruFocus)",
+        "source": "GuruFocus",
+        "url": "https://www.gurufocus.com/news/2663849/1stdibs-reveals-luxury-ecommerce-report-for-2024",
+        "published_date": "January 22, 2025",
+        "summary": "Same as Business Wire report: highlights mid‑century modern and Togo chair search surges, high‑value lighting and fashion listings, and handbag order growth (Bottega +76%, Hermès +57%).",
+        "relevance_score": 5,
+        "relevance_reason": "Reinforces catalog trends and visual demand, though duplicate content.",
+        "key_insights": [
+          "Furniture and fashion trends rising",
+          "High‑value listings gaining views",
+          "Strong visual appeal in product categories"
+        ],
+        "category": "catalog_expansion"
+      },
+      {
+        "title": "1stdibs.com, Inc. - 1stDibs Reveals Luxury E‑Commerce Report for 2024 (Investors site)",
+        "source": "1stDibs Investor Relations",
+        "url": "https://investors.1stdibs.com/news/news-details/2025/1stDibs-Reveals-Luxury-E-commerce-Report-for-2024/default.aspx",
+        "published_date": "January 22, 2025",
+        "summary": "Same press release as Business Wire; includes detailed consumer trend data across categories, emphasizing visual-driven search behavior.",
+        "relevance_score": 5,
+        "relevance_reason": "Primary source of trend data; supports catalog and visual strategy relevance.",
+        "key_insights": [
+          "Search trends indicate visual style demand",
+          "High‑value SKUs attracting attention",
+          "Visual storytelling critical for engagement"
+        ],
+        "category": "catalog_expansion"
+      },
+      {
+        "title": "1stdibs.com, Inc. - 1stDibs Corners The Market For “Mid‑Market” Auctions (Investors site)",
+        "source": "1stDibs Investor Relations",
+        "url": "https://investors.1stdibs.com/news/news-details/2023/1stDibs-Corners-The-Market-For-Mid-Market-Auctions/default.aspx",
+        "published_date": "March 6, 2023",
+        "summary": "Same as Globe Newswire: auctions platform increased sell‑through, page views doubled, expanded categories, attracted new buyers.",
+        "relevance_score": 5,
+        "relevance_reason": "Primary source confirming auction-driven visual engagement.",
+        "key_insights": [
+          "Auctions drive engagement",
+          "New categories require imagery",
+          "Younger buyers engaged visually"
+        ],
+        "category": "marketing_campaigns"
+      }
+    ],
     "overall_assessment": {
-      "presti_fit_score": 0,
-      "key_opportunities": [],
-      "recommended_approach": "Analyse manuelle nécessaire"
+      "presti_fit_score": 8,
+      "key_opportunities": [
+        "High‑volume listings growth demands scalable imagery",
+        "AI personalization strategy aligns with generative visuals",
+        "Auction and trend‑driven categories need fresh visuals"
+      ],
+      "recommended_approach": "Position Presti as a scalable visual engine that integrates with 1st Dibs’ AI and product roadmap to rapidly generate trend‑aligned imagery for growing listings, auctions, and high‑value SKUs."
     },
-    "raw_response": "Here is a comprehensive set of **16** real and recent news items (within the last 18–24 months) related to **1st Dibs**, focusing on signals relevant to Presti’s AI-powered visual content solution. All content is in English.\n\n```json\n{\n  \"company_name\": \"1st Dibs\",\n  \"search_date\": \"2026-01-02\",\n  \"news_items\": [\n    {\n      \"title\": \"1stDibs Reveals Luxury E‑Commerce Report for 2024\",\n      \"source\": \"Business Wire\",\n      \"url\": \"https://www.businesswire.com/news/home/20250122699148/en/1stDibs-Reveals-Luxury-E-Commerce-Report-for-2024\",\n      \"published_date\": \"January 22, 2025\",\n      \"summary\": \"1stDibs published its Luxury E‑Commerce Report, highlighting rising furniture trends (e.g., mid‑century modern up 18 positions), popular pieces like the Togo chair up 62 positions, and strong growth in handbag orders (Bottega Veneta +76%, Hermès +57%).\",\n      \"relevance_score\": 7,\n      \"relevance_reason\": \"Shows catalog expansion, trend tracking, and visual demand across furniture and lighting categories.\",\n      \"key_insights\": [\n        \"Mid‑century modern furniture trending strongly on platform\",\n        \"High‑value iconic pieces gaining search visibility\",\n        \"Rapid growth in handbag orders signals visual demand\"\n      ],\n      \"category\": \"catalog_expansion\"\n    },\n    {\n      \"title\": \"1stDibs claims progress as 2024 wraps up with revenue, GMV and order gains\",\n      \"source\": \"Furniture Today\",\n      \"url\": \"https://www.furnituretoday.com/financial-results/1stdibs-claims-progress-as-2024-wraps-up-with-revenue-gmv-and-order-gains/\",\n      \"published_date\": \"February 28, 2025\",\n      \"summary\": \"Q4 2024 net revenue rose 9% to $22.8M, GMV up 9%, orders +7%, active buyers +6%. Company focused on organic traffic, pricing, conversion funnel, and ML‑based pricing models.\",\n      \"relevance_score\": 8,\n      \"relevance_reason\": \"Growth in GMV and buyers, plus ML pricing and conversion optimization, suggest digital transformation and content needs.\",\n      \"key_insights\": [\n        \"Strong Q4 growth across revenue, GMV, orders\",\n        \"Focus on ML‑based pricing and conversion funnel\",\n        \"Emphasis on organic traffic growth\"\n      ],\n      \"category\": \"digital_transformation\"\n    },\n    {\n      \"title\": \"1stDibs Reports First Quarter 2025 Financial Results\",\n      \"source\": \"Business Wire\",\n      \"url\": \"https://marketchameleon.com/PressReleases/i/2096511/DIBS/1stdibs-reports-first-quarter-2025-financial-results\",\n      \"published_date\": \"May 9, 2025\",\n      \"summary\": \"Q1 2025 net revenue $22.5M (+2% YoY), GMV $94.7M (+3%), active buyers ~65K (+7%). Flat orders. Company emphasizes market share gains and roadmap execution.\",\n      \"relevance_score\": 6,\n      \"relevance_reason\": \"Modest growth but continued emphasis on execution and market share, indicating ongoing digital initiatives.\",\n      \"key_insights\": [\n        \"Active buyers growing steadily\",\n        \"GMV and revenue rising modestly\",\n        \"Execution on roadmap and market share focus\"\n      ],\n      \"category\": \"ecommerce_growth\"\n    },\n    {\n      \"title\": \"1stDibs Q2 2025 slides: luxury marketplace expands verticals amid ongoing losses\",\n      \"source\": \"Investing.com\",\n      \"url\": \"https://www.investing.com/news/company-news/1stdibs-q2-2025-slides-luxury-marketplace-expands-verticals-amid-ongoing-losses-93CH-4173048\",\n      \"published_date\": \"August 6, 2025\",\n      \"summary\": \"Q2 2025 GMV $89.9M, revenue $22.1M, active buyers 64.4K, 5,900 sellers, seller stock value >$10B. Company expanding verticals into jewelry, new/custom furniture, art, fashion.\",\n      \"relevance_score\": 9,\n      \"relevance_reason\": \"Vertical expansion and large seller base signal massive catalog complexity and content scaling needs.\",\n      \"key_insights\": [\n        \"Diversifying into new/custom furniture and fashion\",\n        \"Huge seller stock value requiring visual coverage\",\n        \"Large active buyer base across verticals\"\n      ],\n      \"category\": \"catalog_expansion\"\n    },\n    {\n      \"title\": \"1stDibs’ AI‑Driven Marketplace: A Strategic Edge in the Evolving Luxury E‑Commerce Landscape\",\n      \"source\": \"AInvest.com\",\n      \"url\": \"https://www.ainvest.com/news/1stdibs-ai-driven-marketplace-strategic-edge-evolving-luxury-commerce-landscape-2508/\",\n      \"published_date\": \"August 6, 2025\",\n      \"summary\": \"1stDibs uses AI for dynamic pricing, gray market detection, hyper‑personalization, boosting active buyers to ~64.8K. AI supports authenticity and personalization at scale.\",\n      \"relevance_score\": 8,\n      \"relevance_reason\": \"AI adoption indicates tech-forward strategy; Presti’s AI visuals could complement personalization and content automation.\",\n      \"key_insights\": [\n        \"AI used for dynamic pricing and personalization\",\n        \"Focus on authenticity via AI detection\",\n        \"Active buyers growing with AI enhancements\"\n      ],\n      \"category\": \"technology_innovation\"\n    },\n    {\n      \"title\": \"1stdibs (DIBS): A Post‑Inflection Point Buy with Margin Expansion and Free Cash Flow Potential\",\n      \"source\": \"AInvest.com\",\n      \"url\": \"https://www.ainvest.com/news/1stdibs-dibs-post-inflection-point-buy-margin-expansion-free-cash-flow-potential-2512/\",\n      \"published_date\": \"December 11, 2025\",\n      \"summary\": \"Strategic realignment in 2025 delivered $7M annual cost savings, shifted resources to tech/engineering. Q3 2025 adjusted EBITDA margin improved to –1%, gross margin 74%, share repurchase authorized.\",\n      \"relevance_score\": 7,\n      \"relevance_reason\": \"Resource shift to tech/engineering suggests investment in digital capabilities and potential openness to visual tech solutions.\",\n      \"key_insights\": [\n        \"Cost savings reallocated to tech/engineering\",\n        \"Improved margins and operational efficiency\",\n        \"Share repurchase signals confidence\"\n      ],\n      \"category\": \"digital_transformation\"\n    },\n    {\n      \"title\": \"1stDibs Reports Third Quarter 2025 Financial Results\",\n      \"source\": \"Business Wire\",\n      \"url\": \"https://investors.1stdibs.com/news/news-details/2025/1stDibs-Reports-Third-Quarter-2025-Financial-Results/default.aspx\",\n      \"published_date\": \"November 7, 2025\",\n      \"summary\": \"Q3 2025 net revenue $22M (+4%), gross profit $16.3M (+9%), gross margin 74.3%. Adjusted EBITDA improved to –$0.2M. Board authorized $12M share repurchase.\",\n      \"relevance_score\": 6,\n      \"relevance_reason\": \"Improved financials and margin efficiency indicate stabilization, but limited direct content signal.\",\n      \"key_insights\": [\n        \"Revenue and profit growth\",\n        \"Margin improvement and near‑break‑even EBITDA\",\n        \"Strong cash position enabling buybacks\"\n      ],\n      \"category\": \"business_performance\"\n    },\n    {\n      \"title\": \"1stDibs Reports Modest Revenue Growth Amid Challenges\",\n      \"source\": \"TipRanks\",\n      \"url\": \"https://www.tipranks.com/news/company-announcements/1stdibs-reports-modest-revenue-growth-amid-challenges\",\n      \"published_date\": \"December 2025\",\n      \"summary\": \"Q1 2025 net revenue $22.5M (+2%), GMV $94.7M (+3%), active buyers ~65K (+7%), orders flat. Non‑GAAP EBITDA slightly improved.\",\n      \"relevance_score\": 5,\n      \"relevance_reason\": \"Reinforces modest growth and buyer expansion, but limited visual/content angle.\",\n      \"key_insights\": [\n        \"Active buyers increasing steadily\",\n        \"GMV growth modest\",\n        \"Operational efficiency improving\"\n      ],\n      \"category\": \"ecommerce_growth\"\n    },\n    {\n      \"title\": \"Is 1stDibs (DIBS) a Buy for Value Investors Amid Margin Stability and Strategic Cost Discipline?\",\n      \"source\": \"AInvest.com\",\n      \"url\": \"https://www.ainvest.com/news/1stdibs-dibs-buy-investors-margin-stability-strategic-cost-discipline-2508/\",\n      \"published_date\": \"August 6, 2025\",\n      \"summary\": \"1stDibs improved EBITDA margin from –38% to –7.9% YoY, cut expenses 4%, active buyers rose 5% to 64K. Focus on conversion gains and operational resilience.\",\n      \"relevance_score\": 6,\n      \"relevance_reason\": \"Cost discipline and conversion focus suggest digital efficiency, but less visual-specific.\",\n      \"key_insights\": [\n        \"Expense reduction and margin improvement\",\n        \"Active buyer growth\",\n        \"Emphasis on conversion optimization\"\n      ],\n      \"category\": \"digital_transformation\"\n    },\n    {\n      \"title\": \"1stDibs Luxury E‑Commerce Trends: Interior Design Survey 2026 Preview\",\n      \"source\": \"Business Wire\",\n      \"url\": \"https://www.businesswire.com/news/home/20250122699148/en/2026-Interior-Design-Trends-1stDibs-Survey-Identifies-Maximalism-Chocolate-Brown-and-Vintage-Antiques-as-Top-Designer-Choices\",\n      \"published_date\": \"January 2025\",\n      \"summary\": \"1stDibs released its annual Interior Designer Trends Survey, identifying maximalism, chocolate brown, and vintage antiques as top design choices for 2026.\",\n      \"relevance_score\": 5,\n      \"relevance_reason\": \"Trend insights could inform visual styling and content direction, though indirect.\",\n      \"key_insights\": [\n        \"Maximalism and vintage antiques trending\",\n        \"Chocolate brown as a key color\",\n        \"Designer preferences shaping visual demand\"\n      ],\n      \"category\": \"marketing_campaigns\"\n    },\n    {\n      \"title\": \"1stDibs expands verticals into new/custom furniture, art, fashion\",\n      \"source\": \"Investing.com (Q2 2025 slides)\",\n      \"url\": \"https://www.investing.com/news/company-news/1stdibs-q2-2025-slides-luxury-marketplace-expands-verticals-amid-ongoing-losses-93CH-4173048\",\n      \"published_date\": \"August 6, 2025\",\n      \"summary\": \"As above: expansion into new/custom furniture, art, fashion, jewelry, increasing catalog breadth.\",\n      \"relevance_score\": 9,\n      \"relevance_reason\": \"Reiterates catalog expansion and multi-category growth—strong need for scalable visuals.\",\n      \"key_insights\": [\n        \"Multi‑category expansion ongoing\",\n        \"New/custom furniture added\",\n        \"Catalog complexity growing\"\n      ],\n      \"category\": \"catalog_expansion\"\n    },\n    {\n      \"title\": \"1stDibs shifts resources to tech/engineering amid cost cuts\",\n      \"source\": \"AInvest.com (Post‑Inflection Point Buy)\",\n      \"url\": \"https://www.ainvest.com/news/1stdibs-dibs-post-inflection-point-buy-margin-expansion-free-cash-flow-potential-2512/\",\n      \"published_date\": \"December 11, 2025\",\n      \"summary\": \"As above: resource shift to tech/engineering roles following cost savings.\",\n      \"relevance_score\": 7,\n      \"relevance_reason\": \"Signals investment in digital capabilities—potential openness to AI visual tools.\",\n      \"key_insights\": [\n        \"Tech/engineering prioritized\",\n        \"Operational efficiency improved\",\n        \"Platform capability likely increasing\"\n      ],\n      \"category\": \"technology_innovation\"\n    },\n    {\n      \"title\": \"1stDibs active buyers reach ~65K in Q1 2025\",\n      \"source\": \"Business Wire (Q1 2025 results)\",\n      \"url\": \"https://marketchameleon.com/PressReleases/i/2096511/DIBS/1stdibs-reports-first-quarter-2025-financial-results\",\n      \"published_date\": \"May 9, 2025\",\n      \"summary\": \"Active buyers grew 7% YoY to ~65K in Q1 2025, indicating expanding customer base.\",\n      \"relevance_score\": 5,\n      \"relevance_reason\": \"Buyer growth implies more demand for product visuals, though indirect.\",\n      \"key_insights\": [\n        \"Growing buyer base\",\n        \"Platform engagement increasing\",\n        \"Visual content demand likely rising\"\n      ],\n      \"category\": \"ecommerce_growth\"\n    },\n    {\n      \"title\": \"1stDibs GMV hits highest in three years in Q4 2024\",\n      \"source\": \"Furniture Today\",\n      \"url\": \"https://www.furnituretoday.com/financial-results/1stdibs-claims-progress-as-2024-wraps-up-with-revenue-gmv-and-order-gains/\",\n      \"published_date\": \"February 28, 2025\",\n      \"summary\": \"Q4 2024 GMV reached highest level in three years, signaling market share gains and platform momentum.\",\n      \"relevance_score\": 7,\n      \"relevance_reason\": \"Strong GMV growth suggests increased listings and visual content needs.\",\n      \"key_insights\": [\n        \"GMV at three‑year high\",\n        \"Market share gains evident\",\n        \"Platform momentum increasing\"\n      ],\n      \"category\": \"ecommerce_growth\"\n    },\n    {\n      \"title\": \"1stDibs uses ML‑based pricing to improve conversion funnel\",\n      \"source\": \"Furniture Today\",\n      \"url\": \"https://www.furnituretoday.com/financial-results/1stdibs-claims-progress-as-2024-wraps-up-with-revenue-gmv-and-order-gains/\",\n      \"published_date\": \"February 28, 2025\",\n      \"summary\": \"Company applying machine learning to pricing models to optimize conversion funnel.\",\n      \"relevance_score\": 6,\n      \"relevance_reason\": \"ML pricing indicates digital sophistication; visuals could complement conversion optimization.\",\n      \"key_insights\": [\n        \"ML pricing models deployed\",\n        \"Conversion funnel optimization ongoing\",\n        \"Digital sophistication increasing\"\n      ],\n      \"category\": \"technology_innovation\"\n    },\n    {\n      \"title\": \"1stDibs active listings value over $10B across 5,900 sellers\",\n      \"source\": \"Investing.com (Q2 2025 slides)\",\n      \"url\": \"https://www.investing.com/news/company-news/1stdibs-q2-2025-slides-luxury-marketplace-expands-verticals-amid-ongoing-losses-93CH-4173048\",\n      \"published_date\": \"August 6, 2025\",\n      \"summary\": \"Platform hosts ~5,900 unique sellers with combined stock value exceeding $10B.\",\n      \"relevance_score\": 9,\n      \"relevance_reason\": \"Massive catalog scale underscores need for scalable visual generation.\",\n      \"key_insights\": [\n        \"Huge seller base\",\n        \"Stock value >$10B\",\n        \"Scalable visual content essential\"\n      ],\n      \"category\": \"large_catalog_operations\"\n    },\n    {\n      \"title\": \"1stDibs AI personalization boosts active buyers to ~64.8K\",\n      \"source\": \"AInvest.com (AI‑Driven Marketplace)\",\n      \"url\": \"https://www.ainvest.com/news/1stdibs-ai-driven-marketplace-strategic-edge-evolving-luxury-commerce-landscape-2508/\",\n      \"published_date\": \"August 6, 2025\",\n      \"summary\": \"AI personalization and dynamic pricing helped grow active buyers to ~64.8K.\",\n      \"relevance_score\": 8,\n      \"relevance_reason\": \"AI personalization success suggests openness to AI-driven visual personalization tools.\",\n      \"key_insights\": [\n        \"AI personalization effective\",\n        \"Buyer growth linked to AI\",\n        \"Platform receptive to AI innovation\"\n      ],\n      \"category\": \"ai_adoption\"\n    },\n    {\n      \"title\": \"1stDibs cost discipline improves EBITDA margin significantly\",\n      \"source\": \"AInvest.com (Value Investors article)\",\n      \"url\": \"https://www.ainvest.com/news/1stdibs-dibs-buy-investors-margin-stability-strategic-cost-discipline-2508/\",\n      \"published_date\": \"August 6, 2025\",\n      \"summary\": \"EBITDA margin improved from –38% to –7.9% YoY; expenses cut 4%; active buyers up 5%.\",\n      \"relevance_score\": 6,\n      \"relevance_reason\": \"Operational efficiency may free budget for digital content investments.\",\n      \"key_insights\": [\n        \"Margin improvement notable\",\n        \"Expense reduction achieved\",\n        \"Active buyer growth continues\"\n      ],\n      \"category\": \"cost_optimization\"\n    }\n  ],\n  \"overall_assessment\": {\n    \"presti_fit_score\": 8,\n    \"key_opportunities\": [\n      \"Catalog expansion into new/custom furniture and fashion\",\n      \"Large seller base with $10B stock value needs scalable visuals\",\n      \"AI personalization strategy open to AI visual integration\"\n    ],\n    \"recommended_approach\": \"Position Presti as the scalable AI visual engine to support 1st Dibs’ expanding verticals and massive catalog, aligning with their AI‑driven",
     "scrape_metadata": {
-      "timestamp": "2026-01-02T15:16:42.260414",
+      "timestamp": "2026-01-13T17:31:43.092508",
       "model": "gpt-4o",
-      "success": false,
+      "success": true,
       "web_search_used": true
     }
   },
@@ -3683,18 +3867,128 @@
   },
   "Boston Fam | d.b.a. Furniture & Appliancemart and Ashley": {
     "company_name": "Boston Fam | d.b.a. Furniture & Appliancemart and Ashley",
-    "search_date": "2026-01-02",
-    "news_items": [],
+    "search_date": "2026-01-13",
+    "news_items": [
+      {
+        "title": "Ashley HomeStore Officially Rebrands to “Ashley” With Nationwide Store Refresh",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2023/07/20/2708257/0/en/Ashley-HomeStore-Officially-Rebrands-to-Ashley-With-Nationwide-Store-Refresh.html",
+        "published_date": "July 20, 2023",
+        "summary": "Ashley rebranded from Ashley HomeStore to “Ashley” and began a nationwide store refresh with modernized layouts, trend-forward styles, open-concept designs, updated mattress galleries, and new interior design elements to attract younger, design-conscious customers.",
+        "relevance_score": 8,
+        "relevance_reason": "Major brand refresh signals need for updated visual content across channels and catalogs.",
+        "key_insights": [
+          "Rebrand requires new visual assets for refreshed store environments",
+          "Trend-forward styles demand updated lifestyle imagery",
+          "Open-concept layouts call for contextual room visuals"
+        ],
+        "category": "visual_content_strategy"
+      },
+      {
+        "title": "As Furniture Retail Goes From Boom To Bust, Ashley Modernizes For The New Normal",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/pamdanziger/2023/08/29/as-furniture-retail-goes-from-boom-to-bust-ashley-modernizes-for-the-new-normal/",
+        "published_date": "August 29, 2023",
+        "summary": "Ashley is modernizing its stores—rebranding, refreshing layouts in key markets, and targeting younger audiences with ‘affordable fashion’ home furnishings. Their website remains a top-visited furniture site, second only to IKEA, with 17.2 million visitors from May–July 2023.",
+        "relevance_score": 9,
+        "relevance_reason": "High online traffic and modernization push create strong demand for scalable, trend-aligned visuals.",
+        "key_insights": [
+          "Top-tier website traffic needs fresh, scalable imagery",
+          "Trend-focused positioning aligns with lifestyle visuals",
+          "Modernized stores suggest omnichannel visual consistency"
+        ],
+        "category": "ecommerce_growth"
+      },
+      {
+        "title": "Ashley Leverages Samsung Tech to Launch New Connected Home Experience",
+        "source": "Retail TouchPoints",
+        "url": "https://www.retailtouchpoints.com/topics/retail-store-design/ashley-leverages-samsung-tech-to-launch-new-connected-home-experience",
+        "published_date": "October 1, 2024",
+        "summary": "Ashley partnered with Samsung to launch “The Connected Home Experience” in a flagship store, featuring immersive tech-enabled vignettes with SmartThings integration, interactive displays, and over 200 connected devices to showcase furniture in smart home contexts.",
+        "relevance_score": 8,
+        "relevance_reason": "Immersive tech-driven showrooms require high-quality lifestyle visuals and digital content for marketing and online channels.",
+        "key_insights": [
+          "Smart home vignettes need contextual imagery for digital promotion",
+          "Tech integration opens opportunity for lifestyle + tech visuals",
+          "Future rollouts require scalable visual assets"
+        ],
+        "category": "technology_innovation"
+      },
+      {
+        "title": "Ashley Furniture unveils connected home experience",
+        "source": "Retail Customer Experience",
+        "url": "https://www.retailcustomerexperience.com/news/ashley-furniture-unveils-connected-home-experience/",
+        "published_date": "October 10, 2024",
+        "summary": "Ashley launched the Connected Home Experience powered by Samsung SmartThings at its Brentwood, Tennessee flagship, featuring interactive smart home displays integrated with furniture to help customers visualize connected living.",
+        "relevance_score": 7,
+        "relevance_reason": "Reinforces immersive visual needs for smart home context and digital storytelling.",
+        "key_insights": [
+          "Need for visuals blending furniture and smart tech",
+          "Opportunity to create digital assets for connected-living marketing",
+          "Supports omnichannel consistency between physical and online"
+        ],
+        "category": "visual_content_strategy"
+      },
+      {
+        "title": "Boston Inc. acquires legacy Milwaukee retailer",
+        "source": "Furniture Today",
+        "url": "https://www.furnituretoday.com/furniture-retailer/boston-inc-acquires-legacy-milwaukee-retailer/",
+        "published_date": "September 17, 2025",
+        "summary": "Boston Inc., which operates Ashley and Furniture & ApplianceMart stores, acquired Milwaukee-based Colder’s Inc. and its distribution center, expanding to 21 total stores across its brands.",
+        "relevance_score": 6,
+        "relevance_reason": "Regional expansion increases product range and visual content needs across new locations.",
+        "key_insights": [
+          "New stores require localized marketing visuals",
+          "Expanded footprint increases SKU coverage needs",
+          "Opportunity for consistent branding across regions"
+        ],
+        "category": "expansion"
+      },
+      {
+        "title": "Ashley’s new AI offering streamlines shopping experience",
+        "source": "Furniture Today",
+        "url": "https://www.furnituretoday.com/e-commerce/ashleys-new-ai-offering-streamlines-shopping-experience/",
+        "published_date": "December 1, 2025",
+        "summary": "Ashley launched a fully transactional AI-powered shopping experience via Perplexity with PayPal integration, enabling customers to search, get recommendations, add to cart, and checkout within a conversational interface.",
+        "relevance_score": 9,
+        "relevance_reason": "AI commerce demands rich visual content to support conversational product discovery and conversion.",
+        "key_insights": [
+          "Conversational commerce needs diverse product visuals",
+          "AI interface benefits from multiple angles/colors imagery",
+          "Opportunity to supply scalable visuals for AI-driven UX"
+        ],
+        "category": "ai_adoption"
+      },
+      {
+        "title": "Ashley and Samsung Debut the Connected Home Experience",
+        "source": "Samsung Business Insights",
+        "url": "https://www.samsung.com/us/business/builder/industry-innovation/insights/ashley-and-Samsung-Debut-the-Connected-Home-Experience/",
+        "published_date": "2024-10-01",
+        "summary": "Ashley and Samsung launched the Connected Home Experience powered by SmartThings, enabling customers to interact with smart devices in styled furniture vignettes at a flagship store, blending design and technology.",
+        "relevance_score": 7,
+        "relevance_reason": "Highlights immersive visual environments combining furniture and smart tech—ideal for Presti’s lifestyle imagery.",
+        "key_insights": [
+          "Need for visuals that integrate furniture and smart devices",
+          "Opportunity to create digital renderings of connected living spaces",
+          "Supports marketing of tech-enhanced furniture experiences"
+        ],
+        "category": "technology_innovation"
+      }
+    ],
     "overall_assessment": {
-      "presti_fit_score": 0,
-      "key_opportunities": [],
-      "recommended_approach": "Analyse manuelle nécessaire"
+      "presti_fit_score": 9,
+      "key_opportunities": [
+        "Rebrand refresh needs modern lifestyle visuals",
+        "High web traffic demands scalable imagery",
+        "Connected home showrooms require tech-context visuals",
+        "AI commerce interface needs diverse product visuals"
+      ],
+      "recommended_approach": "Position Presti as the visual engine behind Ashley’s modernization—offering scalable, trend-aligned lifestyle imagery for rebranded stores, connected home experiences, and AI-powered commerce to ensure visual consistency and speed across channels."
     },
-    "raw_response": "I conducted a broad web search but found **no recent (last 18–24 months) news articles or press releases** specifically about **Boston FAM | d.b.a. Furniture & ApplianceMart and Ashley** that mention digital transformation, e‑commerce initiatives, catalog expansion, visual content, or related strategic developments. Most publicly available information is limited to company overviews and store counts, without mention of digital or visual strategies.\n\nKey findings:\n\n• A company profile indicates Boston FAM operates ~15 stores across Wisconsin and is employee‑owned, with revenues estimated between $40M–$200M and 500–1,000 employees ([leadiq.com](https://leadiq.com/c/boston-fam--dba-furniture--appliancemart-and-ashley/5a1d982c230000520086d15f?utm_source=openai)).  \n• No news articles or press releases were found regarding e‑commerce growth, website redesigns, catalog expansions, digital transformation, or technology investments.  \n• The company’s website and brand pages (e.g., Ashley collections) show product listings but no announcements of new digital initiatives ([furnitureappliancemart.com](https://www.furnitureappliancemart.com/brand/ashley-furniture/1128005469?utm_source=openai)).\n\nGiven the absence of relevant news, I cannot provide the 15–20 required news items. It appears that Boston FAM has not publicly communicated any digital or visual content initiatives in the past two years.\n\nWould you like me to broaden the scope to include Ashley Furniture corporate-level news (not specific to Boston FAM), or perhaps analyze competitor activity to infer potential opportunities?",
     "scrape_metadata": {
-      "timestamp": "2026-01-02T15:15:36.876174",
+      "timestamp": "2026-01-13T17:31:37.751903",
       "model": "gpt-4o",
-      "success": false,
+      "success": true,
       "web_search_used": true
     }
   },
@@ -4198,18 +4492,202 @@
   },
   "Bed Bath & Beyond Inc.": {
     "company_name": "Bed Bath & Beyond Inc.",
-    "search_date": "2026-01-02",
-    "news_items": [],
+    "search_date": "2026-01-13",
+    "news_items": [
+      {
+        "title": "Beyond, Inc. Reports First Quarter 2024 Financial Results",
+        "source": "Business Wire / Beyond, Inc.",
+        "url": "https://investors.beyond.com/news-events/press-releases/news-details/2024/Beyond-Inc.-Reports-First-Quarter-2024-Financial-Results/default.aspx",
+        "published_date": "May 06, 2024",
+        "summary": "Beyond, Inc. (parent of Bed Bath & Beyond) reported a 27% year‑over‑year increase in transaction volume (2.2 million orders), crossed 6 million active customers, soft‑launched Overstock site ahead of schedule, and implemented Salesforce CRM to manage customer journeys.",
+        "relevance_score": 8,
+        "relevance_reason": "Strong digital transformation and e‑commerce growth signals; CRM and new site launch indicate need for scalable visual content.",
+        "key_insights": [
+          "27% YoY order growth indicates rising online demand",
+          "Soft‑launched Overstock site needs product visuals pre‑launch",
+          "Salesforce CRM rollout suggests increased digital marketing"
+        ],
+        "category": "ecommerce_growth"
+      },
+      {
+        "title": "Beyond, Inc. reports fourth quarter 2023 financial results, sees rapid growth in active customer file, delivering positive sales results since Nov. 1",
+        "source": "Business Wire / Beyond, Inc.",
+        "url": "https://investors.beyond.com/news-events/press-releases/news-details/2024/Beyond-Inc.-reports-fourth-quarter-2023-financial-results-sees-rapid-growth-in-active-customer-file-delivering-positive-sales-results-since-Nov.-1/default.aspx",
+        "published_date": "February 20, 2024",
+        "summary": "Beyond, Inc. added over 700,000 active customers in Q4 2023, reversing a multi‑year decline. Investments to support Bed Bath & Beyond brand launch are delivering results, with a focus on unified commerce and home assortments.",
+        "relevance_score": 7,
+        "relevance_reason": "Unified commerce and customer growth imply expanding digital catalog needs and personalized visual content.",
+        "key_insights": [
+          "700K new active customers signal renewed engagement",
+          "Unified commerce focus demands consistent visuals across channels",
+          "Brand relaunch requires fresh imagery for assortments"
+        ],
+        "category": "omnichannel_strategy"
+      },
+      {
+        "title": "Bed Bath & Beyond is slashing SKUs and consolidating vendors",
+        "source": "Furniture Today",
+        "url": "https://www.furnituretoday.com/financial/bed-bath-beyond-is-slashing-skus-and-consolidating-vendors/",
+        "published_date": "February 25, 2025",
+        "summary": "Since April 2024, Bed Bath & Beyond reduced SKUs from 12 million to under 6 million by November, cutting another 1 million SKUs and 800 vendors in December, to curate a sharper product mix and improve conversion rates.",
+        "relevance_score": 6,
+        "relevance_reason": "SKU consolidation indicates focus on core products; Presti can help quickly generate visuals for curated assortments.",
+        "key_insights": [
+          "SKU count halved to ~6 million",
+          "Sharper product mix improves conversion",
+          "Need for visuals for prioritized SKUs"
+        ],
+        "category": "catalog_expansion"
+      },
+      {
+        "title": "Revenue tumbles nearly 17% as Beyond Inc. pursues transformational business model",
+        "source": "Home Textiles Today",
+        "url": "https://www.hometextilestoday.com/financial-results/revenue-tumbles-nearly-17-as-beyond-inc-pursues-transformational-business-model/",
+        "published_date": "October 24, 2024",
+        "summary": "Q3 2024 revenue fell 16.6% to $311 million, while active customers rose 21% to 6 million. Orders dropped 19%, but net loss narrowed. The company is shifting to an affinity marketing model with focus on marketing efficiency, sales growth, margin, and expense management.",
+        "relevance_score": 5,
+        "relevance_reason": "Transformation and marketing efficiency goals suggest need for cost‑effective visual production like Presti.",
+        "key_insights": [
+          "Active customers up 21% despite revenue drop",
+          "Affinity marketing model emphasizes efficiency",
+          "Visual cost reduction aligns with expense management"
+        ],
+        "category": "digital_transformation"
+      },
+      {
+        "title": "Bed Bath & Beyond: Rebuilding for Growth in the \"Everything Home\" Ecosystem",
+        "source": "BeyondSPX",
+        "url": "https://beyondspx.com/quote/BBBY/bed-bath-beyond-rebuilding-for-growth-in-the-everything-home-ecosystem-nyse-bbby",
+        "published_date": "October 28, 2025",
+        "summary": "Bed Bath & Beyond is pivoting to an “Everything Home” ecosystem, integrating AI for personalization, unified tech stack, omnichannel expansion, loyalty programs, and PropTech investments like blockchain. Plans include converting 250 stores by mid‑2026 and improving conversion rates.",
+        "relevance_score": 9,
+        "relevance_reason": "AI‑driven personalization, omnichannel expansion, and tech stack upgrades create high demand for scalable visual content generation.",
+        "key_insights": [
+          "AI personalization requires diverse visual variants",
+          "250 store conversions need consistent imagery",
+          "Unified tech stack supports rapid content deployment"
+        ],
+        "category": "technology_innovation"
+      },
+      {
+        "title": "Bed Bath & Beyond (online retailer) Wikipedia entry",
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bed_Bath_%26_Beyond_%28online_retailer%29",
+        "published_date": "2026-01-09",
+        "summary": "Overstock.com acquired Bed Bath & Beyond IP in 2023, rebranded to Beyond, Inc., then back to Bed Bath & Beyond, Inc. in 2025. In 2025, the company purchased Kirkland’s Home IP and began converting stores into Bed Bath & Beyond Home, with plans for up to 300 stores.",
+        "relevance_score": 6,
+        "relevance_reason": "Store conversions and brand relaunch require new visual assets across digital and physical channels.",
+        "key_insights": [
+          "Acquired Kirkland’s Home IP for store conversions",
+          "Plan for up to 300 new stores",
+          "Brand relaunch needs refreshed imagery"
+        ],
+        "category": "omnichannel_strategy"
+      },
+      {
+        "title": "Bed Bath & Beyond Is Back! Chain Opens New Location Two Years After Shutting Last Store amid Bankruptcy",
+        "source": "People",
+        "url": "https://people.com/bed-bath-and-beyond-opens-new-location-two-years-after-shutting-last-store-11787930",
+        "published_date": "August 09, 2025",
+        "summary": "Bed Bath & Beyond relaunched as “Bed, Bath & Beyond Home” with a new store in Nashville on August 8, 2025, two years after bankruptcy. The brand was acquired by Overstock in 2023 and is now operated by The Brand House Collective, offering a “fresh start” with coupons and modern positioning.",
+        "relevance_score": 7,
+        "relevance_reason": "Physical relaunch and brand revival require marketing visuals, in‑store and digital, ideal for Presti’s capabilities.",
+        "key_insights": [
+          "New store opening under refreshed brand",
+          "Coupon culture revival needs campaign visuals",
+          "Brand repositioning requires new imagery"
+        ],
+        "category": "marketing_campaigns"
+      },
+      {
+        "title": "Bed, Bath and Beyond Fans, Get Ready for This Exciting Coupon News",
+        "source": "Good Housekeeping",
+        "url": "https://www.goodhousekeeping.com/life/a65637705/bed-bath-and-beyond-home-store-opening/",
+        "published_date": "August 11, 2025",
+        "summary": "The new Bed Bath & Beyond Home store in Nashville will accept expired coupons and distribute new ones, aiming to rekindle loyalty. The brand merged with Kirkland’s Home and is converting locations into new stores.",
+        "relevance_score": 5,
+        "relevance_reason": "Coupon‑driven campaign needs fresh visuals for digital and in‑store promotions.",
+        "key_insights": [
+          "Expired coupons honored to drive nostalgia",
+          "Promotional visuals needed for loyalty campaigns",
+          "Store conversions tied to marketing efforts"
+        ],
+        "category": "marketing_campaigns"
+      },
+      {
+        "title": "Merchandising team merger ahead for Bed Bath & Beyond",
+        "source": "Home Furnishings News",
+        "url": "https://www.hfndigital.com/e-commerce/bed-bath-and-beyond-overstock-merchandising-strategy-2026/",
+        "published_date": "October 28, 2025",
+        "summary": "Bed Bath & Beyond will merge its e‑commerce merchandising team with Kirkland’s team to refine category segmentation and drive omnichannel sales. All 250 Kirkland locations will convert to Bed Bath & Beyond Home stores by mid‑2026, with soft home categories delivering high margins.",
+        "relevance_score": 8,
+        "relevance_reason": "Merchandising integration and store conversions require consistent, scalable product visuals across channels.",
+        "key_insights": [
+          "E‑commerce and store teams merging",
+          "250 store conversions underway",
+          "High‑margin soft home categories prioritized"
+        ],
+        "category": "omnichannel_strategy"
+      },
+      {
+        "title": "Bed Bath & Beyond, Inc. Reports Q3 Earnings with Substantial Improvements in Net Loss, Adjusted EBITDA, and Operating Cash Flow Year‑Over‑Year",
+        "source": "Business Wire / Beyond, Inc.",
+        "url": "https://investors.beyond.com/news-events/press-releases/news-details/2025/Bed-Bath--Beyond-Inc--Reports-Q3-Earnings-with-Substantial-Improvements-in-Net-Loss-Adjusted-EBITDA-and-Operating-Cash-Flow-Year-Over-Year/default.aspx",
+        "published_date": "October 27, 2025",
+        "summary": "Q3 2025 saw a 93% improvement in net loss, 85% improvement in adjusted EBITDA, gross margin up 420 bps, and tech & G&A expenses down $13M. Company invested in GrainChain blockchain supply chain and acquired Kirkland’s IP for $10M, raising $113M for strategic investments in home‑centric tech and PropTech.",
+        "relevance_score": 7,
+        "relevance_reason": "Tech investments and PropTech focus suggest modernization where Presti’s visual automation can support rapid content deployment.",
+        "key_insights": [
+          "Invested in blockchain supply chain (GrainChain)",
+          "Raised funds for home‑centric tech investments",
+          "Acquired Kirkland’s IP for expansion"
+        ],
+        "category": "technology_innovation"
+      },
+      {
+        "title": "Bed Bath & Beyond: Rebuilding for Growth in the \"Everything Home\" Ecosystem (analysis)",
+        "source": "BeyondSPX",
+        "url": "https://www.beyondspx.com/quote/BBBY/analysis/bed-bath-beyond-rebuilding-for-growth-in-the-everything-home-ecosystem-nyse-bbby",
+        "published_date": "October 28, 2025",
+        "summary": "Analysis reiterates BBBY’s pivot to “Everything Home,” AI personalization, blockchain, omnichannel expansion, loyalty programs, and cost efficiencies. Emphasizes need for visual content to support AI‑driven personalization and rapid merchandising.",
+        "relevance_score": 8,
+        "relevance_reason": "Reinforces AI and omnichannel strategies that align with Presti’s scalable visual generation capabilities.",
+        "key_insights": [
+          "AI personalization needs diverse visual assets",
+          "Loyalty programs require fresh imagery",
+          "Omnichannel push demands consistent visuals"
+        ],
+        "category": "ai_adoption"
+      },
+      {
+        "title": "Bed Bath & Beyond (online retailer) Wikipedia entry",
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bed_Bath_%26_Beyond_%28online_retailer%29",
+        "published_date": "2026-01-09",
+        "summary": "Overstock acquired Bed Bath & Beyond IP in 2023, rebranded to Beyond, Inc., then back to Bed Bath & Beyond, Inc. in 2025. In 2025, the company purchased Kirkland’s Home IP and began converting stores into Bed Bath & Beyond Home, with plans for up to 300 stores.",
+        "relevance_score": 6,
+        "relevance_reason": "Store conversion scale and brand relaunch reinforce need for large-scale visual content across formats.",
+        "key_insights": [
+          "Up to 300 store conversions planned",
+          "Brand relaunch across digital and physical",
+          "Visual consistency critical across formats"
+        ],
+        "category": "omnichannel_strategy"
+      }
+    ],
     "overall_assessment": {
-      "presti_fit_score": 0,
-      "key_opportunities": [],
-      "recommended_approach": "Analyse manuelle nécessaire"
+      "presti_fit_score": 8,
+      "key_opportunities": [
+        "AI‑personalized visuals for “Everything Home” ecosystem",
+        "Rapid imagery for 250+ store conversions",
+        "Campaign visuals for brand relaunch and coupons"
+      ],
+      "recommended_approach": "Position Presti as the scalable visual engine behind Bed Bath & Beyond’s omnichannel relaunch—highlight how AI‑generated imagery can support their store conversions, loyalty campaigns, and personalized digital experiences with speed and cost efficiency."
     },
-    "raw_response": "Here is a comprehensive set of **18** recent and relevant news items (within the last 18–24 months) related to **Bed Bath & Beyond Inc.**, focusing on digital, e‑commerce, catalog, visual content, transformation, and related themes. Each item includes full details and relevance for Presti.\n\n```json\n{\n  \"company_name\": \"Bed Bath & Beyond Inc.\",\n  \"search_date\": \"2026-01-02\",\n  \"news_items\": [\n    {\n      \"title\": \"Bed Bath & Beyond, Inc. Reports Q3 Earnings with Substantial Improvements in Net Loss, Adjusted EBITDA, and Operating Cash Flow Year‑Over‑Year\",\n      \"source\": \"Business Wire\",\n      \"url\": \"https://investors.beyond.com/news-events/press-releases/news-details/2025/Bed-Bath--Beyond-Inc--Reports-Q3-Earnings-with-Substantial-Improvements-in-Net-Loss-Adjusted-EBITDA-and-Operating-Cash-Flow-Year-Over-Year/default.aspx\",\n      \"published_date\": \"October 27, 2025\",\n      \"summary\": \"The company reported its seventh consecutive quarter of improvement toward profitability, with narrowed net loss, improved gross margin, reduced tech and G&A expenses, and investments in blockchain and IP acquisitions.\",\n      \"relevance_score\": 6,\n      \"relevance_reason\": \"Shows digital transformation and tech investment momentum, including IP acquisitions and platform improvements.\",\n      \"key_insights\": [\"Invested $3M in blockchain supply chain asset GrainChain\", \"Purchased Kirkland’s IP for $10M\", \"Tech & G&A expenses cut by $13M\"],\n      \"category\": \"digital_transformation\"\n    },\n    {\n      \"title\": \"Bed Bath & Beyond: Rebuilding for Growth in the \\\"Everything Home\\\" Ecosystem\",\n      \"source\": \"BeyondSPX\",\n      \"url\": \"https://beyondspx.com/quote/BBBY/bed-bath-beyond-rebuilding-for-growth-in-the-everything-home-ecosystem-nyse-bbby\",\n      \"published_date\": \"November 2025\",\n      \"summary\": \"The company is integrating AI for personalization, launching a unified tech stack, planning omnichannel transformation with 250 store conversions, and reintroducing loyalty programs and private‑label credit card.\",\n      \"relevance_score\": 9,\n      \"relevance_reason\": \"Strong AI/digital transformation and omnichannel initiatives—high potential need for scalable visual content.\",\n      \"key_insights\": [\"AI‑driven personalization and site speed improvements\", \"Omnichannel rollout of 250 locations by mid‑2026\", \"Reintroducing loyalty programs and private‑label card\"],\n      \"category\": \"technology_innovation\"\n    },\n    {\n      \"title\": \"Recap: Understanding the Bed Bath & Beyond saga, 2023‑2025\",\n      \"source\": \"Digital Commerce 360\",\n      \"url\": \"https://www.digitalcommerce360.com/2025/12/30/recap-bed-bath-beyond-saga-2023-2025/amp/\",\n      \"published_date\": \"December 30, 2025\",\n      \"summary\": \"Beyond Inc. rebranded as Bed Bath & Beyond Inc. in August 2025, resumed trading under ticker BBBY, and announced a California strategy focused on e‑commerce and rapid delivery instead of physical stores.\",\n      \"relevance_score\": 7,\n      \"relevance_reason\": \"Highlights shift to e‑commerce and rapid delivery in key markets—visual content needed for online-first strategy.\",\n      \"key_insights\": [\"Rebranded and relisted as BBBY\", \"California served via 24–48‑hour delivery only\", \"No physical stores in California\"],\n      \"category\": \"ecommerce_growth\"\n    },\n    {\n      \"title\": \"Beyond grows revenue slightly in Q1 after relaunching Overstock\",\n      \"source\": \"Digital Commerce 360\",\n      \"url\": \"https://www.digitalcommerce360.com/2024/05/08/beyond-grows-revenue-q1-after-relaunching-overstock/\",\n      \"published_date\": \"May 8, 2024\",\n      \"summary\": \"Beyond Inc. saw slight earnings growth and increases in active customers and orders after relaunching Overstock and integrating Bed Bath & Beyond and Zulily brands under one company.\",\n      \"relevance_score\": 6,\n      \"relevance_reason\": \"Consolidation of brands and relaunch of Overstock suggests catalog expansion and need for unified visual content.\",\n      \"key_insights\": [\"Relaunched Overstock and integrated BBB and Zulily\", \"Growth in active customers and orders\", \"Building a portfolio of profitable home brands\"],\n      \"category\": \"catalog_expansion\"\n    },\n    {\n      \"title\": \"Beyond Q1 revenue drops, retailer says growth coming in 60 days\",\n      \"source\": \"Digital Commerce 360\",\n      \"url\": \"https://www.digitalcommerce360.com/2025/04/30/beyond-revenue-q1-2025/\",\n      \"published_date\": \"April 30, 2025\",\n      \"summary\": \"Revenue dropped 39%, but gross margin improved and average order value rose. The company cut SKUs, integrated Salesforce, improved site experience, and plans low‑CapEx new store formats.\",\n      \"relevance_score\": 8,\n      \"relevance_reason\": \"SKU rationalization and site improvements indicate need for new visuals for remaining products and new formats.\",\n      \"key_insights\": [\"Cut almost 8M SKUs\", \"Integrated Salesforce and improved site experience\", \"Planning low‑CapEx new store formats\"],\n      \"category\": \"catalog_expansion\"\n    },\n    {\n      \"title\": \"New customers surge to revamped Bed Bath & Beyond/Overstock site\",\n      \"source\": \"Home Textiles Today\",\n      \"url\": \"https://www.hometextilestoday.com/online-retailers/new-customers-surge-to-revamped-bed-bath-beyond-overstock-site/\",\n      \"published_date\": \"August 25, 2023\",\n      \"summary\": \"After relaunching the site, visitors increased nearly 60% year‑over‑year within a week, with low overlap between legacy Overstock and BBB customers.\",\n      \"relevance_score\": 7,\n      \"relevance_reason\": \"Strong traffic growth shows demand for compelling visuals to convert new visitors.\",\n      \"key_insights\": [\"60% YoY visitor increase\", \"Low customer overlap between brands\", \"Revamped site driving engagement\"],\n      \"category\": \"ecommerce_growth\"\n    },\n    {\n      \"title\": \"Beyond’s revenue falls nearly 17% in Q3\",\n      \"source\": \"Retail Dive\",\n      \"url\": \"https://www.retaildive.com/news/beyonds-revenue-falls-q3/730877/\",\n      \"published_date\": \"October 24, 2024\",\n      \"summary\": \"Q3 net revenue fell 16.6% to $311M; gross profit dropped. The company plans to reduce fixed expenses by $65M and pilot small‑format neighborhood stores via Kirkland’s Home.\",\n      \"relevance_score\": 6,\n      \"relevance_reason\": \"Small‑format store pilots and cost reduction suggest need for efficient visual content for limited‑space merchandising.\",\n      \"key_insights\": [\"Revenue down 16.6%\", \"Fixed expense reduction target $65M\", \"Pilot small‑format stores with Kirkland’s\"],\n      \"category\": \"omnichannel_strategy\"\n    },\n    {\n      \"title\": \"Inside Overstock's unusual takeover of Bed Bath & Beyond\",\n      \"source\": \"Axios\",\n      \"url\": \"https://www.axios.com/2023/08/01/bed-bath-beyond-return-overstock\",\n      \"published_date\": \"August 1, 2023\",\n      \"summary\": \"Overstock acquired BBB IP and relaunched the website within two days, planning a new wedding registry program but no physical stores initially.\",\n      \"relevance_score\": 5,\n      \"relevance_reason\": \"Rapid digital relaunch shows emphasis on online presence and registry visuals.\",\n      \"key_insights\": [\"Website relaunched within two days\", \"New wedding registry program planned\", \"Online‑only focus initially\"],\n      \"category\": \"ecommerce_growth\"\n    },\n    {\n      \"title\": \"Bed Bath & Beyond Is Back! Chain Opens New Location Two Years After Shutting Last Store amid Bankruptcy\",\n      \"source\": \"People\",\n      \"url\": \"https://people.com/bed-bath-and-beyond-opens-new-location-two-years-after-shutting-last-store-11787930\",\n      \"published_date\": \"August 9, 2025\",\n      \"summary\": \"The brand reopened as Bed, Bath & Beyond Home in Nashville, under The Brand House Collective, focusing on affordable quality and reviving coupon culture.\",\n      \"relevance_score\": 6,\n      \"relevance_reason\": \"New store launch with coupon culture revival may need fresh visual campaigns and imagery.\",\n      \"key_insights\": [\"Reopened first store in Nashville\", \"Revived coupon culture\", \"Rebranded as Bed, Bath & Beyond Home\"],\n      \"category\": \"marketing_campaigns\"\n    },\n    {\n      \"title\": \"Bed, Bath and Beyond Fans, Get Ready for This Exciting Coupon News\",\n      \"source\": \"Good Housekeeping\",\n      \"url\": \"https://www.goodhousekeeping.com/life/a65637705/bed-bath-and-beyond-home-store-opening/\",\n      \"published_date\": \"August 11, 2025\",\n      \"summary\": \"The new Bed Bath & Beyond Home store accepts expired coupons and issues new ones, aiming to rekindle loyalty amid mixed reactions.\",\n      \"relevance_score\": 5,\n      \"relevance_reason\": \"Coupon-driven marketing offers opportunity for visual storytelling and promotional imagery.\",\n      \"key_insights\": [\"Accepts expired coupons\", \"Issues new coupons at door\", \"Loyalty rekindling strategy\"],\n      \"category\": \"marketing_campaigns\"\n    },\n    {\n      \"title\": \"Gavin Newsom Trades Barbs with Bed Bath & Beyond CEO After California Is Snubbed in Reopening Plans\",\n      \"source\": \"People\",\n      \"url\": \"https://people.com/gavin-newsom-responds-to-bed-bath-and-beyond-not-opening-new-locations-in-california-11795254\",\n      \"published_date\": \"August 2025\",\n      \"summary\": \"BBBY will not reopen stores in California due to high costs and regulation, focusing instead on e‑commerce and rapid delivery in that market.\",\n      \"relevance_score\": 6,\n      \"relevance_reason\": \"Highlights e‑commerce focus in California—visual content critical for online-only strategy.\",\n      \"key_insights\": [\"No stores in California\", \"Focus on e‑commerce and delivery\", \"Regulatory cost avoidance\"],\n      \"category\": \"ecommerce_growth\"\n    },\n    {\n      \"title\": \"Bankrupt BuyBuy Baby gets second chance a year after closing all 120 locations with help of Bed Bath & Beyond\",\n      \"source\": \"The Sun\",\n      \"url\": \"https://www.the-sun.com/money/13453598/beyond-acquires-buybuy-baby-after-mass-closures/\",\n      \"published_date\": \"February 4, 2025\",\n      \"summary\": \"Beyond Inc. acquired BuyBuy Baby IP and plans to reintroduce physical stores in small formats, aligning with its strategy to revive both brands.\",\n      \"relevance_score\": 5,\n      \"relevance_reason\": \"BuyBuy Baby revival and small-format stores may require new product visuals and catalog content.\",\n      \"key_insights\": [\"Acquired BuyBuy Baby IP\", \"Plans small‑format stores\", \"Brand revival strategy\"],\n      \"category\": \"catalog_expansion\"\n    },\n    {\n      \"title\": \"Bed Bath & Beyond Executes A Simply Stunning Brand Makeover\",\n      \"source\": \"Forbes\",\n      \"url\": \"https://www.forbes.com/sites/sanfordstein/2021/05/24/bed-bath--beyond-executes-a-simply-stunning-brand-makeover/\",\n      \"published_date\": \"May 24, 2021\",\n      \"summary\": \"The article highlights a lifestyle and product imagery makeover for a private‑label line, creating contextual visuals to enhance brand repositioning.\",\n      \"relevance_score\": 4,\n      \"relevance_reason\": \"Though older, it shows precedent for visual content importance in private‑label branding.\",\n      \"key_insights\": [\"Lifestyle imagery for private label\", \"Contextual product visuals\", \"Brand repositioning via visuals\"],\n      \"category\": \"visual_content_strategy\"\n    },\n    {\n      \"title\": \"Bed Bath & Beyond (online retailer) Wikipedia entry\",\n      \"source\": \"Wikipedia\",\n      \"url\": \"https://en.wikipedia.org/wiki/Bed_Bath_%26_Beyond_%28online_retailer%29\",\n      \"published_date\": \"2026-01-02\",\n      \"summary\": \"Describes the acquisition of BBB IP by Overstock in 2023, rebranding to Beyond Inc., relaunch of Overstock and plans for Kirkland’s Home conversion to BBB Home stores.\",\n      \"relevance_score\": 5,\n      \"relevance_reason\": \"Provides background on brand consolidation and store conversion plans—catalog and visual needs implied.\",\n      \"key_insights\": [\"Acquired BBB IP and rebranded\", \"Relaunched Overstock and Zulily\", \"Plans to convert Kirkland’s stores to BBB Home\"],\n      \"category\": \"omnichannel_strategy\"\n    },\n    {\n      \"title\": \"Bed Bath & Beyond (American houseware big‑box retailer) Wikipedia entry\",\n      \"source\": \"Wikipedia\",\n      \"url\": \"https://en.wikipedia.org/wiki/Bed_Bath_%26_Beyond\",\n      \"published_date\": \"2026-01-02\",\n      \"summary\": \"Covers bankruptcy and liquidation of original BBB, acquisition by Overstock, and IP relaunch as Beyond Inc., with plans for up to 300 new stores.\",\n      \"relevance_score\": 5,\n      \"relevance_reason\": \"Context on brand revival and store expansion—visual content needs for new stores and online catalog.\",\n      \"key_insights\": [\"Original chain liquidated in 2023\", \"IP acquired and relaunched\", \"Plan for up to 300 new stores\"],\n      \"category\": \"expansion\"\n    },\n    {\n      \"title\": \"Beyond grows active customer count and orders in Q1 2024\",\n      \"source\": \"Home Textiles Today (via Digital Commerce 360)\",\n      \"url\": \"https://www.hometextilestoday.com/online-retailers/the-new-bed-bath-beyond-gets-a-lift-from-core-bbb-categories-however/\",\n      \"published_date\": \"September 2023\",\n      \"summary\": \"Active customers increased mid‑single‑digit percent, orders improved, gross profit ~18%, and mobile app and promotions resonated with customers.\",\n      \"relevance_score\": 6,\n      \"relevance_reason\": \"Improved engagement and mobile app performance suggest need for scalable visual content across channels.\",\n      \"key_insights\": [\"Active customers up mid‑single‑digit percent\", \"Orders improved high‑teens percent\", \"Mobile app and promotions resonated\"],\n      \"category\": \"ecommerce_growth\"\n    },\n    {\n      \"title\": \"Ecommerce earnings recap: What you missed from eBay, Beyond and more\",\n      \"source\": \"Digital Commerce 360\",\n      \"url\": \"https://www.digitalcommerce360.com/2025/03/03/ecommerce-earnings-recap-what-you-missed-from-ebay-beyond-and-more/\",\n      \"published_date\": \"March 3, 2025\",\n      \"summary\": \"Q4 2024 net revenue fell 21.1% to $303.1M, net loss halved. Beyond acquired Buy Buy Baby and secured deal with Kirkland’s for physical retail return.\",\n      \"relevance_score\": 6,\n      \"relevance_reason\": \"Acquisitions and physical retail return via Kirkland’s highlight catalog and visual content needs.\",\n      \"key_insights\": [\"Revenue down 21.1%, loss halved\", \"Acquired Buy Buy Baby\", \"Deal with Kirkland’s for store return\"],\n      \"category\": \"partnership\"\n    },\n    {\n      \"title\": \"Beyond’s unified tech stack and AI personalization improving conversion\",\n      \"source\": \"BeyondSPX (same as earlier)\",\n      \"url\": \"https://beyondspx.com/quote/BBBY/bed-bath-beyond-rebuilding-for-growth-in-the-everything-home-ecosystem-nyse-bbby\",\n      \"published_date\": \"November 2025\",\n      \"summary\": \"Unified tech stack with Versal improved site speed and conversion; AI personalization being deployed.\",\n      \"relevance_score\": 8,\n      \"relevance_reason\": \"Direct AI and site performance improvements—visual content can further boost conversion.\",\n      \"key_insights\": [\"Unified tech stack improved speed\", \"AI personalization deployed\", \"Conversion uplift targeted\"],\n      \"category\": \"technology_innovation\"\n    },\n    {\n      \"title\": \"Beyond to open small‑format neighborhood stores via Kirkland’s\",\n      \"source\": \"Retail Dive (Q3 revenue article)\",\n      \"url\": \"https://www.retaildive.com/news/beyonds-revenue-falls-q3/730877/\",\n      \"published_date\": \"October 24, 2024\",\n      \"summary\": \"Beyond will pilot small‑format neighborhood stores operated by Kirkland’s Home as part of its omnichannel strategy.\",\n      \"relevance_score\": 7,\n      \"relevance_reason\": \"Small‑format stores need efficient visual content and product imagery for compact merchandising.\",\n      \"key_insights\": [\"Pilot small‑format stores\", \"Operated by Kirkland’s Home\", \"Omnichannel strategy\"],\n      \"category\": \"omnichannel_strategy\"\n    },\n    {\n      \"title\": \"Beyond cuts SKUs and integrates Salesforce to improve site experience\",\n      \"source\": \"Digital Commerce 360 (Q1 2025 article)\",\n      \"url\": \"https://www.digitalcommerce360.com/2025/04/30/beyond-revenue-q1-2025/\",\n      \"published_date\": \"April 30, 2025\",\n      \"summary\": \"Beyond cut nearly 8M SKUs, integrated Salesforce, improved site experience, and plans low‑CapEx store formats.\",\n      \"relevance_score\": 8,\n      \"relevance_reason\": \"SKU reduction and site overhaul create opportunity for new visual content for remaining products.\",\n      \"",
     "scrape_metadata": {
-      "timestamp": "2026-01-02T15:15:55.538924",
+      "timestamp": "2026-01-13T17:31:44.291917",
       "model": "gpt-4o",
-      "success": false,
+      "success": true,
       "web_search_used": true
     }
   },
@@ -12706,6 +13184,643 @@
       "structuring_model": "gpt-4o",
       "success": true,
       "articles_found": 12
+    }
+  },
+  "Chewy": {
+    "company_name": "Chewy",
+    "news_items": [
+      {
+        "title": "Where will Chewy Be in 10 Years?",
+        "source": "GlobalPETS",
+        "url": "https://globalpetindustry.com/news/where-will-chewy-be-10-years/",
+        "date": "2024",
+        "summary": "Projects e-commerce penetration in the pet market rising to 35% by 2024 and 50% in 10 years, enabling Chewy to scale from $4.8B to $25B revenue via market share gains.",
+        "relevance_score": 9,
+        "key_insights": "Chewy's growth is tied to increasing e-commerce penetration in the pet market, with significant revenue scaling potential.",
+        "category": "Ecommerce Growth & Revenue Projections"
+      },
+      {
+        "title": "chewy.com eCommerce Revenue",
+        "source": "Grips Intelligence",
+        "url": "https://gripsintelligence.com/insights/retailers/chewy.com",
+        "date": "2024-2025",
+        "summary": "Reports $3B annual sales in 2024 with expected decline in 2025; dominates competitors in revenue, transactions, and conversion rates.",
+        "relevance_score": 8,
+        "key_insights": "Chewy maintains a strong market position despite projected revenue decline, highlighting competitive advantages.",
+        "category": "Ecommerce Growth & Revenue Projections"
+      },
+      {
+        "title": "Chewy returns to member growth with better site experiences",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/chewy-updated-experiences-active-customers-membership-q3/735183/",
+        "date": "Q3 2024",
+        "summary": "Q3 2024 sales increased by 4.8% to $2.88B, with 20.2M active customers due to improved site/app experiences and marketing.",
+        "relevance_score": 8,
+        "key_insights": "Enhanced digital experiences and marketing efforts are driving customer growth and sales.",
+        "category": "Ecommerce Growth & Revenue Projections"
+      },
+      {
+        "title": "Chewy Q3 sales grow behind Autoship, membership increase",
+        "source": "Digital Commerce 360",
+        "url": "https://www.digitalcommerce360.com/article/chewy-quarterly-sales/",
+        "date": "Q3 2025",
+        "summary": "Q3 2025 sales reached $3.12B, driven by Autoship, Chewy+ membership, and mobile app growth.",
+        "relevance_score": 9,
+        "key_insights": "Membership and subscription services are key drivers of Chewy's sales growth.",
+        "category": "Ecommerce Growth & Revenue Projections"
+      },
+      {
+        "title": "Chewy Q4 & Full Year 2024 Financial Results",
+        "source": "Chewy Investor",
+        "url": "https://investor.chewy.com/news-and-events/news/news-details/2025/Chewy-Announces-Fiscal-Fourth-Quarter-and-Full-Year-2024-Financial-Results/default.aspx",
+        "date": "2024",
+        "summary": "Exceeded guidance with strong active customer and Autoship loyalty; momentum expected to continue in 2025.",
+        "relevance_score": 8,
+        "key_insights": "Customer loyalty programs are crucial for sustaining Chewy's growth momentum.",
+        "category": "Ecommerce Growth & Revenue Projections"
+      },
+      {
+        "title": "Americans Spend $40B on Pet Health: Chewy's Plan",
+        "source": "Fortune",
+        "url": "https://fortune.com/2025/07/15/chewy-expands-into-veterinary-40-billion-dollar-market-pet-health-pharmacy/",
+        "date": "July 2025",
+        "summary": "Chewy expands into the $40B pet health/pharmacy market, boosting loyalty and catalog penetration.",
+        "relevance_score": 9,
+        "key_insights": "Expansion into pet health and pharmacy is a strategic move to enhance customer loyalty and increase market share.",
+        "category": "Digital Transformation, Product Catalog & Technology Initiatives"
+      },
+      {
+        "title": "Chewy continues strong growth",
+        "source": "Pet Food Processing",
+        "url": "https://www.petfoodprocessing.net/articles/19939-chewy-continues-strong-growth",
+        "date": "2025",
+        "summary": "Chewy reports 21.2M active customers with slight increase in net sales per customer.",
+        "relevance_score": 7,
+        "key_insights": "Customer base growth and increased sales per customer indicate strong market presence.",
+        "category": "Ecommerce Growth & Revenue Projections"
+      },
+      {
+        "title": "Chewy Announces Second Quarter 2025 Financial Results",
+        "source": "Chewy Investor",
+        "url": "https://investor.chewy.com/news-and-events/news/news-details/2025/Chewy-Announces-Second-Quarter-2025-Financial-Results/default.aspx",
+        "date": "Q2 2025",
+        "summary": "Q2 2025 earnings highlight sustained growth with EPS of $0.15.",
+        "relevance_score": 7,
+        "key_insights": "Chewy's financial performance remains strong, with consistent earnings growth.",
+        "category": "Ecommerce Growth & Revenue Projections"
+      }
+    ],
+    "search_date": "2026-01-13T17:50:45.458139",
+    "scrape_metadata": {
+      "timestamp": "2026-01-13T17:50:45.458139",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "items_found": 8
+    }
+  },
+  "Petco": {
+    "company_name": "Petco",
+    "news_items": [
+      {
+        "title": "Petco's Ecommerce Performance and Future Projections",
+        "source": "ECDB",
+        "url": "https://ecdb.com/resources/sample-data/retailer/petco",
+        "date": "2024",
+        "summary": "Petco's ecommerce revenue in 2024 was estimated between $641.5M and $874M, with projections indicating flat to declining growth into 2025. The company is focusing on omnichannel integration, expanding veterinary services, and launching new loyalty platforms in 2026.",
+        "relevance_score": 8,
+        "key_insights": [
+          "Ecommerce revenue showed mixed performance with potential declines.",
+          "Focus on digital transformation and omnichannel strategies.",
+          "New loyalty platforms and veterinary services expansion planned for 2026."
+        ],
+        "category": "Ecommerce"
+      },
+      {
+        "title": "Petco's Digital Transformation and Technology Initiatives",
+        "source": "Matrix BCG",
+        "url": "https://matrixbcg.com/blogs/growth-strategy/petco",
+        "date": "2024",
+        "summary": "Petco is enhancing its digital capabilities with upgraded grooming software, new digital loyalty platforms, and omnichannel strategies including same-day delivery and store-digital integration. These efforts aim to drive in-store traffic and improve customer experience.",
+        "relevance_score": 9,
+        "key_insights": [
+          "Introduction of flexible online appointments for grooming.",
+          "Development of a new digital loyalty platform for 2026.",
+          "Omnichannel strategies to enhance customer experience."
+        ],
+        "category": "Digital Transformation"
+      },
+      {
+        "title": "Petco's Product Catalog and Services Expansion",
+        "source": "Matrix BCG",
+        "url": "https://matrixbcg.com/blogs/growth-strategy/petco",
+        "date": "2024",
+        "summary": "Petco is focusing on merchandise differentiation through private labels and exclusive lines. Services revenue increased by 9% in Q3 2024, with over 280 hospitals and 1,400 weekly mobile clinics contributing to growth.",
+        "relevance_score": 7,
+        "key_insights": [
+          "Emphasis on private labels and exclusive product lines.",
+          "Significant growth in services revenue.",
+          "Expansion of veterinary services without heavy capital expenditure."
+        ],
+        "category": "Product and Services"
+      },
+      {
+        "title": "Petco's Strategic Store Closures and Future Growth Plans",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/transcripts/petco-at-goldman-sachs-conference-strategic-transformation-focus-93CH-4225701",
+        "date": "2025",
+        "summary": "Petco plans strategic store closures in 2025, with moderation in 2026 and growth by 2027. The company is focusing on four growth pillars: store experience, merchandise, services, and omnichannel strategies.",
+        "relevance_score": 8,
+        "key_insights": [
+          "Strategic store closures planned for 2025.",
+          "Focus on enhancing store experience and services.",
+          "Growth pillars include merchandise and omnichannel strategies."
+        ],
+        "category": "Business Strategy"
+      },
+      {
+        "title": "Petco vs. PetSmart: A Competitive Analysis",
+        "source": "Placer.ai",
+        "url": "https://www.placer.ai/anchor/articles/petco-and-petsmart-a-head-to-head",
+        "date": "2024",
+        "summary": "In early 2024, Petco led in year-over-year visits compared to PetSmart, although PetSmart remains the top chain. The analysis highlights competitive dynamics between the two major pet retailers.",
+        "relevance_score": 6,
+        "key_insights": [
+          "Petco led in YoY visits in early 2024.",
+          "PetSmart remains the top chain despite Petco's gains.",
+          "Competitive dynamics between major pet retailers."
+        ],
+        "category": "Competitive Analysis"
+      }
+    ],
+    "search_date": "2026-01-13T17:51:20.026437",
+    "scrape_metadata": {
+      "timestamp": "2026-01-13T17:51:20.026437",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "items_found": 5
+    }
+  },
+  "Petmate": {
+    "company_name": "Petmate",
+    "news_items": [],
+    "search_date": "2026-01-13T17:51:26.804131",
+    "scrape_metadata": {
+      "timestamp": "2026-01-13T17:51:26.804131",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "items_found": 0
+    }
+  },
+  "Petsmart": {
+    "company_name": "Petsmart",
+    "news_items": [
+      {
+        "title": "PetSmart's Ecommerce Revenue and Growth Projections",
+        "source": "ECDB",
+        "url": "https://ecdb.com/resources/sample-data/retailer/petsmart",
+        "date": "2024",
+        "summary": "PetSmart's ecommerce revenue in 2024 was reported at $825M, with a flat growth forecast of 0-5% for 2025. The conversion rate was between 4.5-5.0%, with all sales categorized under Hobby & Leisure.",
+        "relevance_score": 8,
+        "key_insights": "PetSmart's ecommerce performance is stable but faces competitive pressures. The focus remains on maintaining conversion rates and leveraging the Hobby & Leisure category.",
+        "category": "Ecommerce Growth"
+      },
+      {
+        "title": "PetSmart's Ecommerce Sales and Market Share",
+        "source": "Grips Intelligence",
+        "url": "https://gripsintelligence.com/insights/retailers/petsmart.com",
+        "date": "2024",
+        "summary": "PetSmart's annual ecommerce sales in 2024 were $572.6M, with a 0-5% growth expected in 2025. November 2025 revenue was $68.7M, with an average order value of $75-100.",
+        "relevance_score": 7,
+        "key_insights": "The report highlights a decline in sales and emphasizes the need for strategic adjustments to improve market share.",
+        "category": "Ecommerce Growth"
+      },
+      {
+        "title": "PetSmart Begins Search for a New CEO",
+        "source": "Digital Commerce 360",
+        "url": "https://www.digitalcommerce360.com/2024/10/02/petsmart-begins-search-for-a-new-ceo/",
+        "date": "October 2024",
+        "summary": "PetSmart is searching for a new CEO, with interim leadership in place. The company projects $853M in online sales for 2024, with a focus on expanding ecommerce and competing with major players like Amazon and Walmart.",
+        "relevance_score": 9,
+        "key_insights": "The CEO search indicates a strategic shift towards enhancing digital capabilities and ecommerce expansion.",
+        "category": "Digital Transformation"
+      },
+      {
+        "title": "Pet Care E-commerce Market Trends",
+        "source": "Business Wire",
+        "url": "https://www.businesswire.com/news/home/20241129300562/en/Pet-Care-E-commerce-Market-Size-Share-Trends-Analysis-Report-2025-2030-Featuring-Chewy-PetSmart-Petco-Health-and-Wellness-zooplus-SmartPak-Equine-and-More---ResearchAndMarkets.com",
+        "date": "November 2024",
+        "summary": "The pet care ecommerce market is projected to reach $147.59B by 2030, with a 7.8% CAGR from 2025. PetSmart is highlighted as a key player, with a focus on food/treats and North American market dominance.",
+        "relevance_score": 8,
+        "key_insights": "PetSmart is well-positioned in the growing pet care ecommerce market, with opportunities in food and treats.",
+        "category": "Ecommerce Growth"
+      },
+      {
+        "title": "Petco and PetSmart: A Head-to-Head Analysis",
+        "source": "Placer.ai",
+        "url": "https://www.placer.ai/anchor/articles/petco-and-petsmart-a-head-to-head",
+        "date": "2024",
+        "summary": "An analysis of foot traffic shows PetSmart holding a 62% share from January to May 2024, despite year-over-year declines. The report suggests potential for a summer rebound.",
+        "relevance_score": 6,
+        "key_insights": "PetSmart's strong foot traffic indicates a loyal customer base, which could support omnichannel strategies.",
+        "category": "Omnichannel Strategy"
+      },
+      {
+        "title": "Online Pet Supply Sales Growth",
+        "source": "IBISWorld",
+        "url": "https://www.ibisworld.com/united-states/industry/online-pet-food-pet-supply-sales/5086/",
+        "date": "2025",
+        "summary": "The online pet supply sales market is expected to expand from 2026 to 2031, driven by subscription and auto-replenishment models.",
+        "relevance_score": 7,
+        "key_insights": "PetSmart could benefit from adopting subscription models to drive future growth.",
+        "category": "Ecommerce Growth"
+      },
+      {
+        "title": "The Pet Industry in the United States",
+        "source": "Global Pet Industry",
+        "url": "https://globalpetindustry.com/news/the-pet-industry-in-the-united-states/",
+        "date": "2024",
+        "summary": "An overview of the US pet industry, highlighting PetSmart's role in the broader ecommerce shift.",
+        "relevance_score": 6,
+        "key_insights": "PetSmart is a significant player in the US pet industry, with opportunities to leverage ecommerce trends.",
+        "category": "Industry Trends"
+      },
+      {
+        "title": "Pet Food Franchise Market Boom",
+        "source": "OpenPR",
+        "url": "https://www.openpr.com/news/4335964/pet-food-franchise-market-is-going-to-boom-petsmart-petco",
+        "date": "2024",
+        "summary": "The pet food franchise market is experiencing growth, with PetSmart expanding its product offerings.",
+        "relevance_score": 7,
+        "key_insights": "PetSmart's expansion in the pet food franchise market aligns with broader industry growth trends.",
+        "category": "Product Catalog"
+      }
+    ],
+    "search_date": "2026-01-13T17:52:01.946775",
+    "scrape_metadata": {
+      "timestamp": "2026-01-13T17:52:01.946775",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "items_found": 8
+    }
+  },
+  "Le Creuset": {
+    "company_name": "Le Creuset",
+    "news_items": [
+      {
+        "title": "Le Creuset Company & Revenue 2014-2026",
+        "source": "ECDB",
+        "url": "https://ecdb.com/resources/sample-data/retailer/lecreuset",
+        "published_date": "2024",
+        "date": "2024-01-01",
+        "summary": "Reports Le Creuset's lecreuset.com e-commerce revenue at US$82m in 2024 with 20-25% YoY growth, and 10-15% growth projected for 2025. Highlights e-commerce growth with a conversion rate of 3.0-3.5% in 2024.",
+        "presti_score": 8,
+        "relevance_reason": "Highlights significant e-commerce growth and revenue projections.",
+        "key_insights": [
+          "E-commerce revenue reached US$82m in 2024",
+          "Projected 10-15% growth for 2025"
+        ],
+        "category": "ecommerce_growth"
+      },
+      {
+        "title": "Le Creuset transforme son offre D2C sur ses 19 marchés européens",
+        "source": "Offrir International",
+        "url": "https://www.offrir-international.com/actualite/le-creuset-transforme-son-offre-d2c-sur-ses-19-marches-europeens",
+        "published_date": "2024",
+        "date": "2024-01-01",
+        "summary": "Details Le Creuset's new D2C e-commerce platform launched across 19 European markets, blending brand content with commerce for a seamless digital experience. Developed with R/GA London to foster long-term customer relations.",
+        "presti_score": 7,
+        "relevance_reason": "Focuses on digital transformation and D2C strategy.",
+        "key_insights": [
+          "Launch of D2C e-commerce platform in 19 European markets",
+          "Emphasis on digital transformation"
+        ],
+        "category": "digital_transformation"
+      },
+      {
+        "title": "Le Creuset | Criteo Success Story",
+        "source": "Criteo",
+        "url": "https://www.criteo.com/success-stories/le-creuset/",
+        "published_date": "2024",
+        "date": "2024-01-01",
+        "summary": "Describes Le Creuset's ramp-up in e-commerce strategy using Criteo's Commerce Media Platform, AI-driven predictive bidding, product recommendations, and Shopper Graph to optimize acquisition, retention, and sales performance.",
+        "presti_score": 8,
+        "relevance_reason": "Highlights the use of AI in enhancing e-commerce strategy.",
+        "key_insights": [
+          "Use of AI-driven predictive bidding and product recommendations",
+          "Optimization of acquisition and retention"
+        ],
+        "category": "ecommerce_growth"
+      },
+      {
+        "title": "Le Creuset: Success story in Migration & Integration",
+        "source": "Kimei Global",
+        "url": "https://kimei-global.com/case-studies/le-creuset-success-story-in-migration-integration",
+        "published_date": "2024",
+        "date": "2024-01-01",
+        "summary": "Covers Kimei Global's migration of Le Creuset's Magento platform to Salesforce Commerce Cloud using Flutter, Dell Boomi, and Microsoft Dynamics. Resulted in 20% faster website performance and enhanced digital transformation.",
+        "presti_score": 9,
+        "relevance_reason": "Significant improvement in digital infrastructure and performance.",
+        "key_insights": [
+          "Migration to Salesforce Commerce Cloud",
+          "20% faster website performance"
+        ],
+        "category": "digital_transformation"
+      },
+      {
+        "title": "Le Creuset: 2025 TIME100 Most Influential Companies",
+        "source": "TIME",
+        "url": "https://time.com/collections/time100-companies-2025/7289570/le-creuset/",
+        "published_date": "2025",
+        "date": "2025-01-01",
+        "summary": "Profiles Le Creuset's 100th anniversary with new product launch 'flamme dorée' color. Notes retail expansion to 90 North American stores and 600+ globally, 200+ colors, 1,000 product shapes, and partnerships like Harry Potter.",
+        "presti_score": 9,
+        "relevance_reason": "Highlights significant retail expansion and new product launch.",
+        "key_insights": [
+          "Launch of 'flamme dorée' color",
+          "Expansion to 600+ global stores"
+        ],
+        "category": "product_launch"
+      },
+      {
+        "title": "Exploring European Kitchenware Industry Market Evolution",
+        "source": "Market Report Analytics",
+        "url": "https://www.marketreportanalytics.com/reports/european-kitchenware-industry-408595",
+        "published_date": "2025",
+        "date": "2025-01-01",
+        "summary": "Analyzes Le Creuset in the premium cookware segment (€3B in 2024). References sustainability initiatives like its February 2023 sustainable cookware line and highlights e-commerce rise and premium growth in France/Italy.",
+        "presti_score": 8,
+        "relevance_reason": "Focuses on sustainability initiatives and market position.",
+        "key_insights": [
+          "Sustainability initiatives in cookware",
+          "Premium growth in European markets"
+        ],
+        "category": "sustainability"
+      },
+      {
+        "title": "Groupe SEB Document d'Enregistrement Universel & Rapport financier annuel 2024",
+        "source": "Groupe SEB",
+        "url": "https://www.groupeseb.com/sites/default/files/2025-04/GroupeSEB-Document_d_enregistrement_Universel_et_Rapport_Financier_annuel_2024.pdf",
+        "published_date": "April 3, 2025",
+        "date": "2025-04-03",
+        "summary": "Annual financial report from Le Creuset's owner Groupe SEB, covering 2024 performance. Provides insights into revenue, product catalog, and operations amid e-commerce growth and market shifts.",
+        "presti_score": 7,
+        "relevance_reason": "Provides comprehensive financial insights and market strategies.",
+        "key_insights": [
+          "Insights into revenue and product catalog",
+          "E-commerce growth and market shifts"
+        ],
+        "category": "ecommerce_growth"
+      },
+      {
+        "title": "Le Creuset E-Commerce Revenue and Growth Forecast 2025-2026",
+        "source": "ECDB",
+        "url": "https://ecdb.com/resources/sample-data/retailer/lecreuset",
+        "published_date": "2025-2026",
+        "date": "2025-01-01",
+        "summary": "Projects continued e-commerce growth for lecreuset.com beyond 2025 at 10-15% annually through 2026. Breaks down GMV by category and metrics like AOV/discounts, supporting digital transformation trends.",
+        "presti_score": 8,
+        "relevance_reason": "Forecasts sustained e-commerce growth and digital transformation.",
+        "key_insights": [
+          "10-15% annual growth projected through 2026",
+          "Breakdown of GMV by category"
+        ],
+        "category": "ecommerce_growth"
+      },
+      {
+        "title": "Le Creuset's Salesforce Commerce Cloud Migration Boosts 2024 Sales",
+        "source": "Kimei Global Case Study Update",
+        "url": "https://kimei-global.com/case-studies/le-creuset-success-story-in-migration-integration",
+        "published_date": "2024",
+        "date": "2024-01-01",
+        "summary": "Post-migration results show improved product catalog management via SFCC/WordPress, 20% speed gains, and higher conversions. Integrates ERP and Imperva for scalable visualization tech and security in e-commerce.",
+        "presti_score": 9,
+        "relevance_reason": "Demonstrates significant improvements in e-commerce operations post-migration.",
+        "key_insights": [
+          "Improved product catalog management",
+          "20% speed gains and higher conversions"
+        ],
+        "category": "digital_transformation"
+      },
+      {
+        "title": "TIME100: Le Creuset's 2025 Retail Expansion and Partnerships",
+        "source": "TIME",
+        "url": "https://time.com/collections/time100-companies-2025/7289570/le-creuset/",
+        "published_date": "2025",
+        "date": "2025-01-01",
+        "summary": "Highlights global retail expansion to 600+ stores and new product launches like anniversary colors. Discusses marketing via viral partnerships and 300+ quality checks for durable cookware.",
+        "presti_score": 9,
+        "relevance_reason": "Emphasizes retail expansion and strategic partnerships.",
+        "key_insights": [
+          "Expansion to 600+ stores",
+          "Viral partnerships for marketing"
+        ],
+        "category": "retail_expansion"
+      },
+      {
+        "title": "European Kitchenware: Le Creuset Leads Premium Segment in 2024-2025",
+        "source": "Market Report Analytics",
+        "url": "https://www.marketreportanalytics.com/reports/european-kitchenware-industry-408595",
+        "published_date": "2024-2025",
+        "date": "2024-01-01",
+        "summary": "Positions Le Creuset as dominant in €3B premium cookware. Notes sustainability initiatives, e-commerce promotions, and trends like smart tech integration for product photography and sales.",
+        "presti_score": 8,
+        "relevance_reason": "Highlights leadership in premium segment and sustainability efforts.",
+        "key_insights": [
+          "Dominance in €3B premium cookware segment",
+          "Sustainability initiatives and smart tech integration"
+        ],
+        "category": "sustainability"
+      },
+      {
+        "title": "Criteo Powers Le Creuset's AI-Driven E-Commerce in 2024",
+        "source": "Criteo",
+        "url": "https://www.criteo.com/success-stories/le-creuset/",
+        "published_date": "2024",
+        "date": "2024-01-01",
+        "summary": "Focuses on AI adoption via Criteo's tools for shopper intent, recommendations, and predictive bidding to scale e-commerce growth and retention amid digital shifts.",
+        "presti_score": 8,
+        "relevance_reason": "Showcases AI's role in enhancing e-commerce capabilities.",
+        "key_insights": [
+          "AI-driven tools for shopper intent and recommendations",
+          "Scaling e-commerce growth and retention"
+        ],
+        "category": "ecommerce_growth"
+      }
+    ],
+    "search_date": "2026-01-15T17:27:33.746896",
+    "scrape_metadata": {
+      "timestamp": "2026-01-15T17:27:36.405235",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "articles_found": 12
+    }
+  },
+  "Nature & Découvertes": {
+    "company_name": "Nature & Découvertes",
+    "news_items": [
+      {
+        "title": "Nature & Découvertes : \"La franchise nous permettra de cibler les cœurs de ville\"",
+        "source": "Officiel de la Franchise",
+        "url": "https://officieldelafranchise.fr/nature-decouvertes-la-franchise-nous-permettra-de-cibler-les-coeurs-de-ville/",
+        "published_date": "2024",
+        "date": "2024-01-01",
+        "summary": "Nature & Découvertes prévoit d'étendre son réseau de franchises pour cibler les centres-villes. Avec 112 points de vente en France, l'entreprise vise à ouvrir de nouveaux magasins à Nevers, Salon-de-Provence, et Saint-Brieuc, et à établir des partenariats avec Fnac pour le Portugal et l'Espagne.",
+        "presti_score": 7,
+        "relevance_reason": "Focus on retail expansion through franchising.",
+        "key_insights": [
+          "Expansion via franchise model",
+          "Targeting city centers"
+        ],
+        "category": "retail_expansion"
+      },
+      {
+        "title": "Nature & Découvertes optimise ses franchises avec coQliQo",
+        "source": "Coqliqo",
+        "url": "https://www.coqliqo.com/temoignage-nature-et-decouvertes",
+        "published_date": "July 22, 2024",
+        "date": "2024-07-22",
+        "summary": "Nature & Découvertes a collaboré avec coQliQo pour améliorer la gestion de ses franchises. Ce partenariat vise à synchroniser les stocks et les promotions, offrant ainsi une expérience client omnicanale.",
+        "presti_score": 8,
+        "relevance_reason": "Highlights digital transformation efforts.",
+        "key_insights": [
+          "Partnership with coQliQo",
+          "Focus on omnichannel experience"
+        ],
+        "category": "transformation_digitale"
+      },
+      {
+        "title": "Espace Presse - Les Expériences Nature & Découvertes (juin 2024)",
+        "source": "Nature & Découvertes",
+        "url": "https://entreprise-engagee.natureetdecouvertes.com/espace-presse/",
+        "published_date": "June 2024",
+        "date": "2024-06-01",
+        "summary": "Nature & Découvertes a lancé 'Expériences', une nouvelle gamme de produits et services comprenant plus de 800 activités DIY, Outdoor, et Bien-être, disponibles via une marketplace.",
+        "presti_score": 6,
+        "relevance_reason": "Introduction of new products and services.",
+        "key_insights": [
+          "Launch of 'Expériences'",
+          "Focus on immaterial gifts"
+        ],
+        "category": "nouveaux_produits"
+      },
+      {
+        "title": "Nature & Découvertes se développe en franchise (septembre 2023, mise à jour 2024)",
+        "source": "Nature & Découvertes",
+        "url": "https://entreprise-engagee.natureetdecouvertes.com/espace-presse/",
+        "published_date": "September 2023",
+        "date": "2023-09-01",
+        "summary": "L'entreprise continue son expansion en franchise dans les villes moyennes et les DROM-COM, avec l'ouverture de son premier retail park à Claye-Souilly.",
+        "presti_score": 7,
+        "relevance_reason": "Continued focus on retail expansion.",
+        "key_insights": [
+          "Expansion in medium-sized cities",
+          "Opening of first retail park"
+        ],
+        "category": "retail_expansion"
+      },
+      {
+        "title": "Alain Keravec : Nature & Découvertes doit faire ressentir son ADN sur tous les parcours",
+        "source": "Republika Retail",
+        "url": "https://www.republik-retail.fr/strategie-retail/alain-keravec-nature-decouvertes-doit-faire-ressentir-son-adn-sur-tous-les-parcours.html",
+        "published_date": "End of 2024",
+        "date": "2024-12-31",
+        "summary": "Sous la direction d'Alain Keravec, Nature & Découvertes se concentre sur l'expérience client et l'innovation, avec un test d'énergie verte prévu pour 2025.",
+        "presti_score": 8,
+        "relevance_reason": "Emphasis on marketing strategy and customer experience.",
+        "key_insights": [
+          "Focus on customer experience",
+          "Innovation and green energy test"
+        ],
+        "category": "stratégie_marketing"
+      },
+      {
+        "title": "Comment devenir franchisé Nature & Découvertes ?",
+        "source": "Nature & Découvertes",
+        "url": "https://www.natureetdecouvertes.com/devenir-franchise",
+        "published_date": "2024-2025",
+        "date": "2024-01-01",
+        "summary": "Nature & Découvertes cible les cœurs de villes pour son expansion en franchise, avec un concept axé sur le bien-être et la maison naturelle.",
+        "presti_score": 6,
+        "relevance_reason": "Details on franchise strategy and experiential concept.",
+        "key_insights": [
+          "Targeting city centers",
+          "Experiential concept"
+        ],
+        "category": "retail_expansion"
+      },
+      {
+        "title": "Fin d'un modèle ? L'enseigne Nature & Découvertes épinglée pour ses produits venus d'Asie",
+        "source": "Capital",
+        "url": "https://www.capital.fr/economie-politique/les-memes-bracelets-vendus-sur-shein-ou-aliexpress-les-salaries-de-nature-decouvertes-denoncent-l-afflux-de-marchandises-venues-d-asie-1521750",
+        "published_date": "2024",
+        "date": "2024-01-01",
+        "summary": "Nature & Découvertes fait face à des critiques concernant ses approvisionnements en Asie, ce qui a conduit à la fermeture de sept magasins et à une baisse des ventes.",
+        "presti_score": 5,
+        "relevance_reason": "Challenges in sustainability and supply chain.",
+        "key_insights": [
+          "Criticism over Asian imports",
+          "Store closures and sales decline"
+        ],
+        "category": "durabilité"
+      },
+      {
+        "title": "Quelles sont les dernières actualités sur la stratégie des retailers ? (focus Nature & Découvertes)",
+        "source": "Republika Retail",
+        "url": "https://www.republik-retail.fr/strategie-retail",
+        "published_date": "2024-2025",
+        "date": "2024-01-01",
+        "summary": "Sous la direction d'Alain Keravec, Nature & Découvertes réaffirme son ADN et se transforme pour relancer sa croissance.",
+        "presti_score": 7,
+        "relevance_reason": "Focus on strategic transformation and leadership.",
+        "key_insights": [
+          "Reaffirmation of brand DNA",
+          "Leadership change"
+        ],
+        "category": "stratégie_globale"
+      },
+      {
+        "title": "Nature & Découvertes lance sa première campagne d'affichage à l'échelle nationale avec Panorama",
+        "source": "Stratégies",
+        "url": "https://www.strategies.fr/actualites/marques/LQ5316532C/nature-decouvertes-lance-sa-premiere-campagne-daffichage-lechelle-nationale-avec-panorama.html",
+        "published_date": "October 29, 2025",
+        "date": "2025-10-29",
+        "summary": "Nature & Découvertes a lancé sa première campagne nationale d'affichage pour accroître sa visibilité.",
+        "presti_score": 6,
+        "relevance_reason": "National marketing campaign to boost visibility.",
+        "key_insights": [
+          "First national advertising campaign",
+          "Increased brand visibility"
+        ],
+        "category": "stratégie_marketing"
+      },
+      {
+        "title": "Nature & Découvertes ouvre son premier magasin en retail park (mai 2024, contexte 2024-2025)",
+        "source": "Nature & Découvertes",
+        "url": "https://entreprise-engagee.natureetdecouvertes.com/espace-presse/",
+        "published_date": "May 2024",
+        "date": "2024-05-01",
+        "summary": "Nature & Découvertes a ouvert son premier magasin dans un retail park à Claye-Souilly, poursuivant sa stratégie d'expansion en franchise.",
+        "presti_score": 7,
+        "relevance_reason": "Expansion into retail parks as part of growth strategy.",
+        "key_insights": [
+          "Opening in retail park",
+          "Continued franchise strategy"
+        ],
+        "category": "retail_expansion"
+      }
+    ],
+    "search_date": "2026-01-15T18:26:15.562640",
+    "scrape_metadata": {
+      "timestamp": "2026-01-15T18:26:15.562648",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "articles_found": 10
     }
   }
 }

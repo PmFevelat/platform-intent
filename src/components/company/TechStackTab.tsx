@@ -37,6 +37,20 @@ export function TechStackTab({ company }: TechStackTabProps) {
   const [activeProof, setActiveProof] = useState<string | null>(null);
   const [selectedJob, setSelectedJob] = useState<Job | null>(null);
 
+  // Filter out irrelevant tools
+  const isRelevantTool = (toolName: string): boolean => {
+    const irrelevantKeywords = [
+      'office', 'excel', 'powerpoint', 'word', 'outlook', 'ms ', 'microsoft',
+      'gmail', 'google docs', 'mac os', 'windows', 'slack', 'teams', 'zoom',
+      'jira', 'confluence', 'sharepoint', 'onedrive', 'dropbox',
+      'generic', 'various', 'standard', 'basic', 'common', 'rendering programs',
+      'design tools', 'creative tools', 'software', 'applications'
+    ];
+    
+    const lowerTool = toolName.toLowerCase();
+    return !irrelevantKeywords.some(keyword => lowerTool.includes(keyword));
+  };
+
   // Collect all tools from new structure
   const toolItems: ToolItem[] = [];
   
@@ -45,36 +59,36 @@ export function TechStackTab({ company }: TechStackTabProps) {
     
     // Design tools
     job.analysis.tools_ecosystem.design_tools?.forEach(t => {
-      if (t.tool && t.evidence) {
+      if (t.tool && isRelevantTool(t.tool)) {
         toolItems.push({
           job,
           type: "design",
           label: t.tool,
-          evidence: t.evidence,
+          evidence: t.evidence || `Mentioned in ${job.job_title}`,
         });
       }
     });
     
     // 3D tools
     job.analysis.tools_ecosystem["3d_tools"]?.forEach(t => {
-      if (t.tool && t.evidence) {
+      if (t.tool && isRelevantTool(t.tool)) {
         toolItems.push({
           job,
           type: "3d",
           label: t.tool,
-          evidence: t.evidence,
+          evidence: t.evidence || `Mentioned in ${job.job_title}`,
         });
       }
     });
     
     // E-commerce platforms
     job.analysis.tools_ecosystem.ecommerce_platforms?.forEach(t => {
-      if (t.platform && t.evidence) {
+      if (t.platform && isRelevantTool(t.platform)) {
         toolItems.push({
           job,
           type: "ecommerce",
           label: t.platform,
-          evidence: t.evidence,
+          evidence: t.evidence || `Mentioned in ${job.job_title}`,
         });
       }
     });

@@ -1,1142 +1,503 @@
 {
-  "Rooms to Go": {
-    "company_name": "Rooms to Go",
+  "Chewy": {
+    "company_name": "Chewy",
     "financial_items": [
       {
-        "title": "Rooms To Go Company & Revenue 2014-2026",
-        "source": "ECDB",
-        "url": "https://ecdb.com/resources/sample-data/retailer/roomstogo",
-        "published_date": "2024",
-        "date": "2024-01-01",
-        "period": "FY 2024",
-        "document_type": "analyst_report",
-        "summary": "Rooms To Go generated US$472 million in revenue in 2024, with projections indicating no growth in 2025. The company focuses entirely on Furniture & Homeware, with December 2025 revenues reported at US$37 million. The report highlights the company's stable revenue stream despite a challenging market environment.",
-        "key_metrics": [
-          "Revenue: $472 million in 2024",
-          "Projected growth: <0% in 2025",
-          "December 2025 revenue: $37 million"
-        ],
+        "title": "Q4 & Full Year 2024 Financial Results",
+        "source": "Chewy Investor Relations",
+        "url": "https://investor.chewy.com/news-and-events/news/news-details/2025/Chewy-Announces-Fiscal-Fourth-Quarter-and-Full-Year-2024-Financial-Results/default.aspx",
+        "period": "Q4 & Full Year 2024",
+        "document_type": "Press Release",
+        "summary": "Chewy reported net sales of $11.86 billion for the full year 2024, marking a 6.4% year-over-year increase. The press release includes detailed income statements and cash flow information.",
+        "key_metrics": [],
         "strategic_highlights": [
-          "Focus on Furniture & Homeware",
-          "Stable revenue stream",
-          "Challenging market environment"
+          "The report highlights Chewy's continued growth in net sales and operational efficiency."
         ],
-        "relevance_score": 6,
-        "category": "financial_performance"
+        "published_date": "2025-01-01",
+        "category": "earnings",
+        "relevance_score": 7
       },
       {
-        "title": "Rooms To Go Annual Revenue Report",
-        "source": "PESTEL Analysis",
-        "url": "https://pestel-analysis.com/blogs/owners/roomstogo",
-        "published_date": "2025-06",
-        "date": "2025-01-01",
-        "period": "FY 2025",
-        "document_type": "analyst_report",
-        "summary": "As of June 2025, Rooms To Go reported annual revenues of $5 billion, with e-commerce revenue reaching $243 million in 2024. The report underscores the company's significant presence in the furniture market and its growing online sales channel. Despite being privately held, Rooms To Go continues to expand its market share.",
-        "key_metrics": [
-          "Annual revenue: $5 billion as of June 2025",
-          "E-commerce revenue: $243 million in 2024"
-        ],
+        "title": "Q3 2025 Financial Results",
+        "source": "Chewy Investor Relations",
+        "url": "https://investor.chewy.com/financials/quarterly-results/default.aspx",
+        "period": "Q3 2025",
+        "document_type": "Quarterly Results",
+        "summary": "Chewy's Q3 2025 results show net sales of $3.12 billion, an 8.3% increase year-over-year, with a gross margin of 29.8%.",
+        "key_metrics": [],
         "strategic_highlights": [
-          "Significant market presence",
-          "Growing online sales channel",
-          "Expansion of market share"
+          "The results reflect Chewy's strong market position and effective cost management strategies."
         ],
-        "relevance_score": 6,
-        "category": "financial_performance"
+        "published_date": "2025-01-01",
+        "category": "earnings",
+        "relevance_score": 7
+      },
+      {
+        "title": "Chewy Quarterly Income Statements",
+        "source": "MarketBeat",
+        "url": "https://www.marketbeat.com/stocks/NYSE/CHWY/financials/",
+        "period": "Multi-year",
+        "document_type": "Financial Statements",
+        "summary": "The document provides a breakdown of Chewy's revenue and gross profit trends for 2024-2025, with gross profit reaching $3.468 billion.",
+        "key_metrics": [],
+        "strategic_highlights": [
+          "The income statements highlight Chewy's consistent revenue growth and profitability."
+        ],
+        "published_date": "2024-2025",
+        "category": "earnings",
+        "relevance_score": 7
+      },
+      {
+        "title": "Q1 2025 Form 10-Q",
+        "source": "SEC EDGAR",
+        "url": "https://www.sec.gov/Archives/edgar/data/1766502/000176650224000020/chwy-20240428.htm",
+        "period": "Q1 2025",
+        "document_type": "SEC Filing",
+        "summary": "The Q1 2025 Form 10-Q includes Chewy's balance sheets, statements of operations, cash flows, and forward-looking risks.",
+        "key_metrics": [],
+        "strategic_highlights": [
+          "The filing provides insights into Chewy's financial health and potential risks."
+        ],
+        "published_date": "April 28, 2025",
+        "category": "earnings",
+        "relevance_score": 7
+      },
+      {
+        "title": "2024 Annual Report (10-K)",
+        "source": "Chewy Investor Relations",
+        "url": "https://investor.chewy.com/financials/annual-reports/default.aspx",
+        "period": "Full Year 2024",
+        "document_type": "Annual Report",
+        "summary": "The 2024 Annual Report includes comprehensive fiscal year financials and a proxy statement.",
+        "key_metrics": [],
+        "strategic_highlights": [
+          "The report outlines Chewy's strategic initiatives and financial performance for the year."
+        ],
+        "published_date": "2024-01-01",
+        "category": "earnings",
+        "relevance_score": 7
+      },
+      {
+        "title": "Chewy 2024 Annual Report & 10-K",
+        "source": "AnnualReports.com",
+        "url": "https://www.annualreports.com/Company/chewy-inc",
+        "period": "Full Year 2024",
+        "document_type": "Annual Report",
+        "summary": "This document provides a direct download of Chewy's 2024 performance summary.",
+        "key_metrics": [],
+        "strategic_highlights": [
+          "The report highlights Chewy's achievements and strategic direction."
+        ],
+        "published_date": "2024-01-01",
+        "category": "earnings",
+        "relevance_score": 7
+      },
+      {
+        "title": "Investor Overview with FY2024 Metrics",
+        "source": "Chewy Investor Relations",
+        "url": "https://investor.chewy.com/overview/default.aspx",
+        "period": "FY2024",
+        "document_type": "Investor Overview",
+        "summary": "The overview provides key metrics for FY2024, including $11.86 billion in net sales and 20.5 million active customers.",
+        "key_metrics": [],
+        "strategic_highlights": [
+          "The overview emphasizes Chewy's customer base growth and sales performance."
+        ],
+        "published_date": "2024-01-01",
+        "category": "earnings",
+        "relevance_score": 7
       }
     ],
-    "search_date": "2026-01-13T09:48:38.342825",
+    "search_date": "2026-01-13T17:53:55.575737",
     "scrape_metadata": {
-      "timestamp": "2026-01-13T09:48:38.342843",
+      "timestamp": "2026-01-13T17:53:55.575737",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "items_found": 7,
+      "themes_searched": [
+        "earnings",
+        "quarterly_results",
+        "sec_filings"
+      ]
+    }
+  },
+  "Petco": {
+    "company_name": "Petco",
+    "financial_items": [
+      {
+        "title": "Q3 2025 Financial Results",
+        "source": "Petco",
+        "url": "https://corporate.petco.com/2025-11-25-Petco-Reports-Third-Quarter-2025-Financial-Results",
+        "period": "Q3 2025",
+        "document_type": "Earnings Report",
+        "summary": "Petco's third quarter 2025 earnings report shows net sales of $1.5 billion, a decrease of 3.1% year-over-year, and an adjusted EBITDA of $98.6 million.",
+        "key_metrics": [],
+        "strategic_highlights": [
+          "The report highlights the financial performance for the third quarter of 2025, focusing on sales and EBITDA metrics."
+        ],
+        "published_date": "2025-11-25",
+        "category": "earnings",
+        "relevance_score": 7
+      },
+      {
+        "title": "2024 Annual Report (10-K)",
+        "source": "SEC",
+        "url": "https://www.sec.gov/Archives/edgar/data/1826470/000119312525132245/d821347dars.pdf",
+        "period": "2024",
+        "document_type": "Annual Report (10-K)",
+        "summary": "The 2024 Annual Report includes consolidated financial statements and supplementary data for Petco.",
+        "key_metrics": [],
+        "strategic_highlights": [
+          "The document provides a comprehensive overview of Petco's financial performance and strategic initiatives for the year 2024."
+        ],
+        "published_date": "2025-01-01",
+        "category": "earnings",
+        "relevance_score": 7
+      }
+    ],
+    "search_date": "2026-01-13T17:54:08.204459",
+    "scrape_metadata": {
+      "timestamp": "2026-01-13T17:54:08.204459",
       "search_engine": "perplexity-sonar",
       "structuring_model": "gpt-4o",
       "success": true,
       "items_found": 2,
       "themes_searched": [
-        "earnings_calls",
-        "financial_reports",
+        "earnings",
         "quarterly_results",
-        "financial_press",
-        "analyst_coverage"
+        "sec_filings"
       ]
     }
   },
-  "Palliser Furniture Ltd.": {
-    "company_name": "Palliser Furniture Ltd.",
+  "Petmate": {
+    "company_name": "Petmate",
     "financial_items": [
       {
-        "title": "Palliser Furniture Ltd. - 2025",
-        "source": "Woodworking Network",
-        "url": "https://www.woodworkingnetwork.com/fdmc-300/2025/palliser-furniture-ltd",
-        "published_date": "2025",
-        "date": "2025-01-01",
-        "period": "FY 2024",
-        "document_type": "press_release",
-        "summary": "Palliser Furniture Ltd. reported annual sales of $422.2 million for FY 2024, maintaining its rank at #34 among furniture manufacturers. The company operates 5 manufacturing plants and employs 3,000 people. Despite industry challenges, Palliser continues to focus on upholstered furniture products.",
-        "key_metrics": [
-          "Revenue: $422.2 million"
-        ],
-        "strategic_highlights": [
-          "Maintained rank #34 in FDMC 300",
-          "Focus on upholstered furniture products",
-          "Operates 5 manufacturing plants"
-        ],
-        "relevance_score": 6,
-        "category": "financial_performance"
-      },
-      {
-        "title": "Current business environment offers opportunities in 2024, says Palliser",
-        "source": "Furniture Today",
-        "url": "https://www.furnituretoday.com/manufacturers/current-business-environment-offers-opportunities-in-2024-says-palliser/",
-        "published_date": "2024-01-10",
-        "date": "2024-01-10",
-        "period": "FY 2024",
-        "document_type": "press_release",
-        "summary": "Palliser Furniture Ltd. outlines its strategy for 2024, focusing on capturing market share following competitor exits in 2023. The company emphasizes enhancing in-store experiences, customization, and vertical integration. Palliser is also investing in consumer research and innovation in both motion and stationary furniture.",
+        "title": "Petmate Achieves 100% Consensual Reorganization",
+        "source": "Petmate",
+        "url": "https://www.petmate.com/blogs/media/petmate-achieves-100-consensual-reorganization",
+        "period": "2024",
+        "document_type": "Financial Reorganization Announcement",
+        "summary": "Petmate announced a successful consensual reorganization with a $100 million capital infusion, over 80% debt reduction, and a shift to lender ownership to support growth.",
         "key_metrics": [],
         "strategic_highlights": [
-          "Market share capture post-2023 exits",
-          "Enhancing in-store experiences",
-          "Investment in consumer research and innovation"
+          "The reorganization aims to position Petmate for growth by reducing debt and transitioning to lender ownership."
         ],
-        "relevance_score": 6,
-        "category": "guidance"
+        "published_date": "March 19, 2024",
+        "category": "earnings",
+        "relevance_score": 7
       },
       {
-        "title": "Industry Giants Palliser and Dorel Announce Workforce Reductions Amid Economic Challenges",
-        "source": "Wood Industry",
-        "url": "https://woodindustry.ca/industry-giants-palliser-and-dorel-announce-workforce-reductions-amid-economic-challenges/",
-        "published_date": "2024-08",
-        "date": "2025-01-01",
-        "period": "Q3 2024",
-        "document_type": "press_release",
-        "summary": "Palliser Furniture Ltd. announced temporary layoffs of 40 employees due to a decline in orders post-COVID. The CEO anticipates a return to full capacity by late August, driven by an expected increase in autumn demand. The company is navigating economic challenges while planning for recovery.",
-        "key_metrics": [
-          "Temporary layoffs: 40 employees"
-        ],
+        "title": "Platinum Equity Acquires Petmate",
+        "source": "Platinum Equity",
+        "url": "https://www.platinumequity.com/news/platinum-equity-acquires-petmate/",
+        "period": "2021",
+        "document_type": "Acquisition Announcement",
+        "summary": "Platinum Equity acquired Petmate, highlighting its brand portfolio, market growth, and plans for mergers and acquisitions.",
+        "key_metrics": [],
         "strategic_highlights": [
-          "Anticipated full capacity by late August",
-          "Navigating post-COVID order decline",
-          "Planning for autumn demand uptick"
+          "The acquisition was aimed at expanding Petmate's market presence and leveraging growth opportunities through M&A."
         ],
-        "relevance_score": 6,
-        "category": "financial_performance"
+        "published_date": "September 15, 2021",
+        "category": "earnings",
+        "relevance_score": 7
       },
       {
-        "title": "Streamlined structure: Palliser Furniture cuts executive leadership team",
-        "source": "Winnipeg Free Press",
-        "url": "https://www.winnipegfreepress.com/business/2025/09/05/streamlined-structure-palliser-furniture-cuts-executive-leadership-team",
-        "published_date": "2025-09-05",
-        "date": "2025-09-05",
-        "period": "FY 2025",
-        "document_type": "press_release",
-        "summary": "Palliser Furniture Ltd. announced a restructuring of its executive leadership team, reducing from 8 to 4 members. This move is part of a broader strategy to align with a new business model amid soft furniture sales. The company recently secured a $15 million loan guarantee from the Manitoba government.",
-        "key_metrics": [
-          "Executive team reduced from 8 to 4 members"
-        ],
+        "title": "Platinum-owned Petmate Reorganizes with Lenders",
+        "source": "9fin",
+        "url": "https://9fin.com/insights/platinum-petmate-reorganizes-lenders",
+        "period": "2024",
+        "document_type": "Reorganization Report",
+        "summary": "Petmate reached an agreement to hand control to lenders, reducing debt levels with backing from Platinum Equity.",
+        "key_metrics": [],
         "strategic_highlights": [
-          "Restructuring to align with new business model",
-          "Secured $15 million Manitoba government loan guarantee",
-          "Addressing soft furniture sales"
+          "The reorganization is part of a strategy to stabilize financials and ensure long-term growth."
         ],
-        "relevance_score": 6,
-        "category": "financial_performance"
+        "published_date": "2024-01-01",
+        "category": "earnings",
+        "relevance_score": 7
       }
     ],
-    "search_date": "2026-01-13T09:48:42.902170",
+    "search_date": "2026-01-13T17:54:26.617605",
     "scrape_metadata": {
-      "timestamp": "2026-01-13T09:48:42.902181",
+      "timestamp": "2026-01-13T17:54:26.617605",
       "search_engine": "perplexity-sonar",
       "structuring_model": "gpt-4o",
       "success": true,
-      "items_found": 4,
+      "items_found": 3,
       "themes_searched": [
-        "earnings_calls",
-        "financial_reports",
+        "earnings",
         "quarterly_results",
-        "financial_press",
-        "analyst_coverage"
+        "sec_filings"
       ]
     }
   },
-  "Jonathan Louis": {
-    "company_name": "Jonathan Louis",
-    "financial_items": [],
-    "search_date": "2026-01-13T09:48:43.953475",
-    "scrape_metadata": {
-      "timestamp": "2026-01-13T09:48:43.953527",
-      "search_engine": "perplexity-sonar",
-      "structuring_model": "gpt-4o",
-      "success": true,
-      "items_found": 0,
-      "themes_searched": [
-        "earnings_calls",
-        "financial_reports",
-        "quarterly_results",
-        "financial_press",
-        "analyst_coverage"
-      ]
-    }
-  },
-  "Home Depot": {
-    "company_name": "Home Depot",
-    "financial_items": [],
-    "search_date": "2026-01-13T09:48:45.060250",
-    "scrape_metadata": {
-      "timestamp": "2026-01-13T09:48:45.060269",
-      "search_engine": "perplexity-sonar",
-      "structuring_model": "gpt-4o",
-      "success": true,
-      "items_found": 0,
-      "themes_searched": [
-        "earnings_calls",
-        "financial_reports",
-        "quarterly_results",
-        "financial_press",
-        "analyst_coverage"
-      ]
-    }
-  },
-  "American Leather": {
-    "company_name": "American Leather",
-    "financial_items": [],
-    "search_date": "2026-01-13T09:48:46.622106",
-    "scrape_metadata": {
-      "timestamp": "2026-01-13T09:48:46.622123",
-      "search_engine": "perplexity-sonar",
-      "structuring_model": "gpt-4o",
-      "success": true,
-      "items_found": 0,
-      "themes_searched": [
-        "earnings_calls",
-        "financial_reports",
-        "quarterly_results",
-        "financial_press",
-        "analyst_coverage"
-      ]
-    }
-  },
-  "Theodore Alexander": {
-    "company_name": "Theodore Alexander",
-    "financial_items": [],
-    "search_date": "2026-01-13T09:48:47.597999",
-    "scrape_metadata": {
-      "timestamp": "2026-01-13T09:48:47.598015",
-      "search_engine": "perplexity-sonar",
-      "structuring_model": "gpt-4o",
-      "success": true,
-      "items_found": 0,
-      "themes_searched": [
-        "earnings_calls",
-        "financial_reports",
-        "quarterly_results",
-        "financial_press",
-        "analyst_coverage"
-      ]
-    }
-  },
-  "California Closets": {
-    "company_name": "California Closets",
-    "financial_items": [],
-    "search_date": "2026-01-13T09:48:48.391202",
-    "scrape_metadata": {
-      "timestamp": "2026-01-13T09:48:48.391230",
-      "search_engine": "perplexity-sonar",
-      "structuring_model": "gpt-4o",
-      "success": true,
-      "items_found": 0,
-      "themes_searched": [
-        "earnings_calls",
-        "financial_reports",
-        "quarterly_results",
-        "financial_press",
-        "analyst_coverage"
-      ]
-    }
-  },
-  "La-Z-Boy": {
-    "company_name": "La-Z-Boy",
-    "financial_items": [],
-    "search_date": "2026-01-13T09:48:49.768689",
-    "scrape_metadata": {
-      "timestamp": "2026-01-13T09:48:49.768711",
-      "search_engine": "perplexity-sonar",
-      "structuring_model": "gpt-4o",
-      "success": true,
-      "items_found": 0,
-      "themes_searched": [
-        "earnings_calls",
-        "financial_reports",
-        "quarterly_results",
-        "financial_press",
-        "analyst_coverage"
-      ]
-    }
-  },
-  "Serena & Lily": {
-    "company_name": "Serena & Lily",
-    "financial_items": [],
-    "search_date": "2026-01-13T09:48:50.675987",
-    "scrape_metadata": {
-      "timestamp": "2026-01-13T09:48:50.676014",
-      "search_engine": "perplexity-sonar",
-      "structuring_model": "gpt-4o",
-      "success": true,
-      "items_found": 0,
-      "themes_searched": [
-        "earnings_calls",
-        "financial_reports",
-        "quarterly_results",
-        "financial_press",
-        "analyst_coverage"
-      ]
-    }
-  },
-  "Kimball International": {
-    "company_name": "Kimball International",
-    "financial_items": [],
-    "search_date": "2026-01-13T09:48:51.741844",
-    "scrape_metadata": {
-      "timestamp": "2026-01-13T09:48:51.741874",
-      "search_engine": "perplexity-sonar",
-      "structuring_model": "gpt-4o",
-      "success": true,
-      "items_found": 0,
-      "themes_searched": [
-        "earnings_calls",
-        "financial_reports",
-        "quarterly_results",
-        "financial_press",
-        "analyst_coverage"
-      ]
-    }
-  },
-  "Balsam Brands": {
-    "company_name": "Balsam Brands",
-    "financial_items": [],
-    "search_date": "2026-01-13T09:48:52.452650",
-    "scrape_metadata": {
-      "timestamp": "2026-01-13T09:48:52.452663",
-      "search_engine": "perplexity-sonar",
-      "structuring_model": "gpt-4o",
-      "success": true,
-      "items_found": 0,
-      "themes_searched": [
-        "earnings_calls",
-        "financial_reports",
-        "quarterly_results",
-        "financial_press",
-        "analyst_coverage"
-      ]
-    }
-  },
-  "Target": {
-    "company_name": "Target",
+  "Petsmart": {
+    "company_name": "Petsmart",
     "financial_items": [
       {
-        "title": "Annual report 10-K",
-        "source": "TradingView (Target Corporation SEC filings)",
-        "url": "https://www.tradingview.com/symbols/NYSE-TGT/documents/",
-        "published_date": "2025-03-04",
-        "date": "2025-03-04",
-        "period": "FY 2024",
-        "document_type": "sec_filing",
-        "summary": "Target's 10-K annual report for fiscal year 2024 reveals net sales of $106.6 billion, a decrease of 0.8% from the previous year. Operating income declined by 2.5% to $5.6 billion, while gross margin improved to 28.2% due to product cost improvements and increased advertising revenue. The report highlights strategic investments in digital sales and same-day delivery services.",
-        "key_metrics": [
-          "Net sales: $106.6 billion (-0.8% YoY)",
-          "Operating income: $5.6 billion (-2.5% YoY)",
-          "Gross margin: 28.2%"
-        ],
+        "title": "Petsmart Company & Revenue 2014-2026",
+        "source": "ECDB",
+        "url": "https://ecdb.com/resources/sample-data/retailer/petsmart",
+        "period": "2024-2026",
+        "document_type": "Revenue Report",
+        "summary": "Provides 2024 online revenue of $825M for petsmart.com with no year-over-year change, December 2025 monthly revenue of $80M, and a 2025 growth forecast of 0-5%.",
+        "key_metrics": [],
         "strategic_highlights": [
-          "Focus on digital sales growth",
-          "Enhancements in same-day delivery services",
-          "Product cost improvements"
+          "Focus on maintaining revenue levels with slight growth forecast."
         ],
-        "relevance_score": 9,
-        "category": "sec_filing"
+        "published_date": "2024-01-01",
+        "category": "earnings",
+        "relevance_score": 7
       },
       {
-        "title": "Target Corporation Reports Fourth Quarter and Full-Year 2024 Earnings",
-        "source": "Target Corporate Press Release",
-        "url": "https://corporate.target.com/press/release/2025/03/target-corporation-reports-fourth-quarter-and-full-year-2024-earnings",
-        "published_date": "2025-03-04",
-        "date": "2025-03-04",
-        "period": "Q4 2024",
-        "document_type": "quarterly_results",
-        "summary": "In Q4 2024, Target reported net sales of $30.9 billion, a 3.1% decrease due to one fewer week in the quarter. Comparable sales increased by 1.5%, while GAAP and Adjusted EPS were $2.41, down from $2.98 in the previous year. The full-year net sales were $106.6 billion, with operating income at $5.6 billion. The company emphasized improvements in gross margin and strategic investments in advertising and marketplace revenues.",
-        "key_metrics": [
-          "Q4 net sales: $30.9 billion (-3.1% YoY)",
-          "Full-year net sales: $106.6 billion",
-          "GAAP/Adjusted EPS: $2.41"
-        ],
+        "title": "United States: PetSmart revenue 2024",
+        "source": "Statista",
+        "url": "https://www.statista.com/statistics/315252/petsmart-net-sales/",
+        "period": "2017-2024",
+        "document_type": "Revenue Statistics",
+        "summary": "Reports approximately $10B total U.S. revenue for FY 2024, highlighting PetSmart as one of the leading pet retailers.",
+        "key_metrics": [],
         "strategic_highlights": [
-          "Increase in advertising and marketplace revenues",
-          "Focus on gross margin improvements",
-          "Comparable sales growth"
+          "Strong market position as a leading pet retailer in the U.S."
         ],
-        "relevance_score": 8,
-        "category": "financial_performance"
+        "published_date": "2024-01-01",
+        "category": "earnings",
+        "relevance_score": 7
       },
       {
-        "title": "Quarterly report 10-Q",
-        "source": "TradingView (Target Corporation SEC filings)",
-        "url": "https://www.tradingview.com/symbols/NYSE-TGT/documents/",
-        "published_date": "2025-08-20",
-        "date": "2025-08-20",
-        "period": "Q2 2025",
-        "document_type": "sec_filing",
-        "summary": "Target's Q2 2025 10-Q report shows net sales of $25.2 billion, a 0.9% decrease year-over-year. Digital comparable sales grew by 4.3%, with significant growth in same-day delivery services. The company maintained its full-year sales decline and EPS guidance, highlighting strategic investments in digital infrastructure and customer experience enhancements.",
-        "key_metrics": [
-          "Net sales: $25.2 billion (-0.9% YoY)",
-          "Digital sales growth: 4.3%",
-          "Same-day delivery growth: >25%"
-        ],
+        "title": "Petco and PetSmart: A Head to Head",
+        "source": "Placer.ai",
+        "url": "https://www.placer.ai/anchor/articles/petco-and-petsmart-a-head-to-head",
+        "period": "2024",
+        "document_type": "Foot Traffic Analysis",
+        "summary": "Analyzes 2024 foot traffic, showing PetSmart held a 62.1% share from January to May compared to Petco, with year-over-year lags of 0.8-2.8% in Q1 and a 0.6% increase in May.",
+        "key_metrics": [],
         "strategic_highlights": [
-          "Expansion of digital infrastructure",
-          "Enhancements in customer experience",
-          "Focus on same-day delivery services"
+          "Maintaining a strong foot traffic share despite industry revenue pressures."
         ],
-        "relevance_score": 9,
-        "category": "sec_filing"
+        "published_date": "2024-01-01",
+        "category": "earnings",
+        "relevance_score": 7
       },
       {
-        "title": "Target Corporation Reports Second Quarter Earnings",
-        "source": "Target Corporate Press Release",
-        "url": "https://corporate.target.com/press/release/2025/08/target-corporation-reports-second-quarter-earnings",
-        "published_date": "2025-08-20",
-        "date": "2025-08-20",
-        "period": "Q2 2025",
-        "document_type": "quarterly_results",
-        "summary": "In Q2 2025, Target reported net sales of $25.2 billion, a slight decline of 0.9% year-over-year. GAAP and Adjusted EPS were $2.05, with digital sales growing by 4.3%. The company highlighted strong performance in non-merchandise sales and maintained its guidance for FY2025, focusing on digital and same-day delivery growth.",
-        "key_metrics": [
-          "Net sales: $25.2 billion (-0.9% YoY)",
-          "GAAP/Adjusted EPS: $2.05",
-          "Digital sales growth: 4.3%"
-        ],
+        "title": "PetSmart Releases Third Annual Corporate Social Responsibility Report (2024)",
+        "source": "PetSmart Corporate",
+        "url": "https://www.petsmartcorporate.com/press_releases/petsmart-releases-third-annual-corporate-social-responsibility-report-inspired-by-pets-and-the-people-who-love-them/",
+        "period": "2024",
+        "document_type": "CSR Report",
+        "summary": "Details 2024 performance metrics including an 18% emissions intensity reduction, 18% energy usage drop, 1% water reduction, and investments in pet health with over 600K evaluations.",
+        "key_metrics": [],
         "strategic_highlights": [
-          "Growth in non-merchandise sales",
-          "Focus on digital and same-day delivery",
-          "Maintained FY2025 guidance"
+          "Commitment to sustainability and pet health investments."
         ],
-        "relevance_score": 8,
-        "category": "financial_performance"
+        "published_date": "2024-01-01",
+        "category": "earnings",
+        "relevance_score": 7
       },
       {
-        "title": "Quarterly report 10-Q",
-        "source": "TradingView (Target Corporation SEC filings)",
-        "url": "https://www.tradingview.com/symbols/NYSE-TGT/documents/",
-        "published_date": "2025-05-21",
-        "date": "2025-05-21",
-        "period": "Q1 2025",
-        "document_type": "sec_filing",
-        "summary": "Target's Q1 2025 10-Q filing reports net sales of $23.8 billion, a 2.8% decrease from the previous year. Despite the decline, operating income increased by 13.6% to $1.5 billion, driven by digital sales growth of 4.7%. The company continues to invest in digital capabilities and operational efficiencies.",
-        "key_metrics": [
-          "Net sales: $23.8 billion (-2.8% YoY)",
-          "Operating income: $1.5 billion (+13.6% YoY)",
-          "Digital sales growth: 4.7%"
-        ],
+        "title": "PetSmart LLC ICR Affirmed; Proposed Term Loan B Rated 'BB-'",
+        "source": "S&P Global Ratings",
+        "url": "https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3417941",
+        "period": "2024",
+        "document_type": "Debt Rating Report",
+        "summary": "Covers recent $1.7B term loan B issuance for debt refinance, with a 'BB-' rating on secured debt, indicating financial leverage.",
+        "key_metrics": [],
         "strategic_highlights": [
-          "Investment in digital capabilities",
-          "Focus on operational efficiencies",
-          "Growth in digital sales"
+          "Focus on managing financial leverage through debt refinancing."
         ],
-        "relevance_score": 9,
-        "category": "sec_filing"
+        "published_date": "2024-01-01",
+        "category": "earnings",
+        "relevance_score": 7
       },
       {
-        "title": "Target Corporation Reports Third Quarter Earnings",
-        "source": "Target Corporate Press Release",
-        "url": "https://corporate.target.com/press/release/2025/11/target-corporation-reports-third-quarter-earnings",
-        "published_date": "2025-11-19",
-        "date": "2025-11-19",
-        "period": "Q3 2025",
-        "document_type": "quarterly_results",
-        "summary": "In Q3 2025, Target reported net sales of $25.3 billion, a 1.5% decrease year-over-year. GAAP EPS was $1.51, with Adjusted EPS at $1.78. The company saw a decline in comparable store sales but experienced growth in digital sales and same-day delivery services, highlighting strategic focus on digital transformation.",
-        "key_metrics": [
-          "Net sales: $25.3 billion (-1.5% YoY)",
-          "GAAP EPS: $1.51",
-          "Adjusted EPS: $1.78"
-        ],
+        "title": "Financial Information | PetSmart Charities",
+        "source": "PetSmart Charities",
+        "url": "https://petsmartcharities.org/about-us/financial-info",
+        "period": "2022-2024",
+        "document_type": "Financial Statements",
+        "summary": "Links to 2024 Impact Report & Financial Statements for PetSmart Charities, distinguishing from core operations.",
+        "key_metrics": [],
         "strategic_highlights": [
-          "Digital transformation initiatives",
-          "Growth in same-day delivery services",
-          "Focus on digital sales"
+          "Support for charitable initiatives separate from core business operations."
         ],
-        "relevance_score": 8,
-        "category": "financial_performance"
-      },
-      {
-        "title": "Target Q3 2025 Earnings Results",
-        "source": "Target Corporate News & Features",
-        "url": "https://corporate.target.com/news-features/article/2025/11/q3-2025-earnings",
-        "published_date": "2025-11-19",
-        "date": "2025-11-19",
-        "period": "Q3 2025",
-        "document_type": "press_release",
-        "summary": "The Q3 2025 earnings summary highlights a 1.5% decline in net sales and a 2.7% drop in comparable sales. Digital sales grew by 2.4%, driven by a 35% increase in same-day delivery. The report also notes significant growth in Roundel advertising and Target Plus GMV.",
-        "key_metrics": [
-          "Net sales: $25.3 billion (-1.5% YoY)",
-          "Comparable sales: -2.7%",
-          "Digital sales growth: 2.4%"
-        ],
-        "strategic_highlights": [
-          "Growth in Roundel advertising",
-          "Increase in Target Plus GMV",
-          "Expansion of same-day delivery"
-        ],
-        "relevance_score": 7,
-        "category": "financial_performance"
+        "published_date": "2024-01-01",
+        "category": "earnings",
+        "relevance_score": 7
       }
     ],
-    "search_date": "2026-01-13T09:48:52.454992",
+    "search_date": "2026-01-13T17:54:52.897976",
     "scrape_metadata": {
-      "timestamp": "2026-01-13T09:48:52.455003",
+      "timestamp": "2026-01-13T17:54:52.897976",
       "search_engine": "perplexity-sonar",
       "structuring_model": "gpt-4o",
       "success": true,
-      "items_found": 7,
+      "items_found": 6,
       "themes_searched": [
-        "earnings_calls",
-        "financial_reports",
+        "earnings",
         "quarterly_results",
-        "financial_press",
-        "analyst_coverage"
+        "sec_filings"
       ]
     }
   },
   "Anthropologie Home": {
     "company_name": "Anthropologie Home",
-    "financial_items": [],
-    "search_date": "2026-01-13T09:48:53.240405",
-    "scrape_metadata": {
-      "timestamp": "2026-01-13T09:48:53.240414",
-      "search_engine": "perplexity-sonar",
-      "structuring_model": "gpt-4o",
-      "success": true,
-      "items_found": 0,
-      "themes_searched": [
-        "earnings_calls",
-        "financial_reports",
-        "quarterly_results",
-        "financial_press",
-        "analyst_coverage"
-      ]
-    }
-  },
-  "Williams Sonoma": {
-    "company_name": "Williams Sonoma",
-    "financial_items": [],
-    "search_date": "2026-01-13T09:48:53.377762",
-    "scrape_metadata": {
-      "timestamp": "2026-01-13T09:48:53.377772",
-      "search_engine": "perplexity-sonar",
-      "structuring_model": "gpt-4o",
-      "success": true,
-      "items_found": 0,
-      "themes_searched": [
-        "earnings_calls",
-        "financial_reports",
-        "quarterly_results",
-        "financial_press",
-        "analyst_coverage"
-      ]
-    }
-  },
-  "Ballard Designs": {
-    "company_name": "Ballard Designs",
-    "financial_items": [],
-    "search_date": "2026-01-13T09:48:54.136748",
-    "scrape_metadata": {
-      "timestamp": "2026-01-13T09:48:54.136756",
-      "search_engine": "perplexity-sonar",
-      "structuring_model": "gpt-4o",
-      "success": true,
-      "items_found": 0,
-      "themes_searched": [
-        "earnings_calls",
-        "financial_reports",
-        "quarterly_results",
-        "financial_press",
-        "analyst_coverage"
-      ]
-    }
-  },
-  "Costco": {
-    "company_name": "Costco",
     "financial_items": [
       {
-        "title": "Q1 2025 Costco Wholesale Corp Earnings Call Transcript",
-        "source": "GuruFocus",
-        "url": "https://www.gurufocus.com/stock/COST/transcripts",
-        "published_date": "2024-12-12",
-        "date": "2024-12-12",
-        "period": "Q1 2025",
-        "document_type": "earnings_call",
-        "summary": "Costco's Q1 2025 earnings call highlighted a 7.5% increase in net sales to $60.99 billion and a net income of $1.798 billion. The company discussed strong sales growth, improved margins, and positive membership trends. Strategic initiatives included expanding digital sales and enhancing supply chain efficiencies.",
-        "key_metrics": [
-          "Revenue: $60.99 billion (+7.5% YoY)",
-          "Net income: $1.798 billion",
-          "EPS: $4.04",
-          "Comparable sales growth: ...",
-          "Membership trends: ..."
-        ],
-        "strategic_highlights": [
-          "Expansion of digital sales",
-          "Supply chain efficiencies",
-          "Membership growth initiatives"
-        ],
-        "relevance_score": 9,
-        "category": "earnings"
-      },
-      {
-        "title": "Q4 2024 Earnings Call Transcript",
-        "source": "StockLight",
-        "url": "https://stocklight.com/stocks/us/nasdaq-cost/costco-wholesale/earnings-transcripts",
-        "published_date": "2024-09-27",
-        "date": "2024-09-27",
-        "period": "Q4 2024",
-        "document_type": "earnings_call",
-        "summary": "In Q4 2024, Costco reported significant revenue growth and an increase in EPS. The call detailed comparable sales improvements and updates on e-commerce and international expansion. The company emphasized its strategic focus on enhancing digital capabilities and expanding its global footprint.",
-        "key_metrics": [
-          "Revenue: ...",
-          "EPS: ...",
-          "Comparable sales: ...",
-          "E-commerce growth: ...",
-          "International expansion: ..."
-        ],
-        "strategic_highlights": [
-          "Enhancing digital capabilities",
-          "Global expansion",
-          "Focus on e-commerce"
-        ],
-        "relevance_score": 9,
-        "category": "earnings"
-      },
-      {
-        "title": "Q3 2024 Earnings Call Transcript",
-        "source": "StockLight",
-        "url": "https://stocklight.com/stocks/us/nasdaq-cost/costco-wholesale/earnings-transcripts",
-        "published_date": "2024-05-31",
-        "date": "2024-05-31",
-        "period": "Q3 2024",
-        "document_type": "earnings_call",
-        "summary": "Costco's Q3 2024 earnings call focused on membership fee revenue, gross margins, and supply chain efficiencies. The company reported robust financial performance with a focus on operational improvements and cost management strategies.",
-        "key_metrics": [
-          "Membership fee revenue: ...",
-          "Gross margin: ...",
-          "Supply chain efficiencies: ..."
-        ],
-        "strategic_highlights": [
-          "Operational improvements",
-          "Cost management strategies",
-          "Focus on membership growth"
-        ],
-        "relevance_score": 9,
-        "category": "earnings"
-      },
-      {
-        "title": "Q2 2024 Earnings Call Transcript",
-        "source": "MLQ.ai",
-        "url": "https://mlq.ai/stocks/COST/earnings-call-transcripts/",
-        "published_date": "2024-03-07",
-        "date": "2024-03-07",
-        "period": "Q2 2024",
-        "document_type": "earnings_call",
-        "summary": "During the Q2 2024 earnings call, Costco highlighted quarterly sales growth and digital sales expansion. The company provided forward guidance on membership renewals and discussed strategic initiatives to enhance customer engagement.",
-        "key_metrics": [
-          "Quarterly sales growth: ...",
-          "Digital sales growth: ...",
-          "Membership renewals: ..."
-        ],
-        "strategic_highlights": [
-          "Enhancing customer engagement",
-          "Digital sales expansion",
-          "Focus on membership renewals"
-        ],
-        "relevance_score": 9,
-        "category": "earnings"
-      },
-      {
-        "title": "Q1 2024 Earnings Call Transcript",
-        "source": "MLQ.ai",
-        "url": "https://mlq.ai/stocks/COST/earnings-call-transcripts/",
-        "published_date": "2023-12-14",
-        "date": "2023-12-14",
-        "period": "Q1 2024",
-        "document_type": "earnings_call",
-        "summary": "In Q1 2024, Costco reported strong core merchandising sales and growth in the fresh category. The call emphasized margin improvements and strategic initiatives to enhance product offerings and customer experience.",
-        "key_metrics": [
-          "Core merchandising sales: ...",
-          "Fresh category growth: ...",
-          "Margin improvements: ..."
-        ],
-        "strategic_highlights": [
-          "Enhancing product offerings",
-          "Improving customer experience",
-          "Focus on margin improvements"
-        ],
-        "relevance_score": 9,
-        "category": "earnings"
-      },
-      {
-        "title": "Earnings call transcript: Costco Q4 2025 beats estimates, stock rises",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-costco-q4-2025-beats-estimates-stock-rises-93CH-4256803",
-        "published_date": "2025",
-        "date": "2025-01-01",
-        "period": "Q4 2025",
-        "document_type": "earnings_call",
-        "summary": "Costco's Q4 2025 earnings call revealed a revenue of $86.16 billion and EPS of $5.87, surpassing estimates. The company discussed strong digitally enabled sales and strategic focus on membership and traffic growth.",
-        "key_metrics": [
-          "Revenue: $86.16 billion",
-          "EPS: $5.87",
-          "Digitally enabled sales: $27B"
-        ],
-        "strategic_highlights": [
-          "Focus on membership growth",
-          "Enhancing traffic",
-          "Digitally enabled sales expansion"
-        ],
-        "relevance_score": 9,
-        "category": "earnings"
-      },
-      {
-        "title": "Costco Wholesale Corporation Reports First Quarter Fiscal Year 2025 Operating Results",
-        "source": "Costco Investor Relations",
-        "url": "https://investor.costco.com/news/news-details/2024/Costco-Wholesale-Corporation-Reports-First-Quarter-Fiscal-Year-2025-Operating-Results/default.aspx",
-        "published_date": "2024-12-12",
-        "date": "2024-12-12",
-        "period": "Q1 2025",
-        "document_type": "quarterly_results",
-        "summary": "Costco's Q1 FY2025 results showed a 7.5% increase in net sales to $60.99 billion and net income of $1.798 billion. The company highlighted comparable sales growth and strategic initiatives to enhance operational efficiency.",
-        "key_metrics": [
-          "Net sales: $60.99 billion (+7.5% YoY)",
-          "Net income: $1.798 billion",
-          "EPS: $4.04"
-        ],
-        "strategic_highlights": [
-          "Enhancing operational efficiency",
-          "Focus on comparable sales growth",
-          "Strategic initiatives for growth"
-        ],
-        "relevance_score": 8,
-        "category": "financial_performance"
-      },
-      {
-        "title": "Costco Wholesale Corporation Reports Third Quarter and Year-To-Date Operating Results for Fiscal 2025",
-        "source": "Costco Investor Relations",
-        "url": "https://investor.costco.com/news/news-details/2025/Costco-Wholesale-Corporation-Reports-Third-Quarter-and-Year-To-Date-Operating-Results-for-Fiscal-2025/default.aspx",
-        "published_date": "2025-05-29",
-        "date": "2025-05-29",
-        "period": "Q3 2025",
-        "document_type": "quarterly_results",
-        "summary": "In Q3 FY2025, Costco reported an 8.0% increase in net sales to $61.96 billion and net income of $1.90 billion. The company emphasized its strategic focus on expanding its product offerings and enhancing customer satisfaction.",
-        "key_metrics": [
-          "Net sales: $61.96 billion (+8.0% YoY)",
-          "Net income: $1.90 billion",
-          "EPS: $4.28"
-        ],
-        "strategic_highlights": [
-          "Expanding product offerings",
-          "Enhancing customer satisfaction",
-          "Strategic growth initiatives"
-        ],
-        "relevance_score": 8,
-        "category": "financial_performance"
-      },
-      {
-        "title": "Costco Wholesale Corporation Reports Second Quarter and Year-To-Date Operating Results For Fiscal 2025 and February Sales Results",
-        "source": "Costco Investor Relations",
-        "url": "https://investor.costco.com/news/news-details/2025/Costco-Wholesale-Corporation-Reports-Second-Quarter-and-Year-To-Date-Operating-Results-For-Fiscal-2025-and-February-Sales-Results/default.aspx",
-        "published_date": "2025-03-06",
-        "date": "2025-03-06",
-        "period": "Q2 2025",
-        "document_type": "quarterly_results",
-        "summary": "Costco's Q2 FY2025 results showed a 9.1% increase in net sales to $62.53 billion and net income of $1.788 billion. The company reported strong February sales and strategic initiatives to boost digital engagement.",
-        "key_metrics": [
-          "Net sales: $62.53 billion (+9.1% YoY)",
-          "Net income: $1.788 billion",
-          "EPS: $4.02",
-          "February sales: $19.81 billion (+8.8% YoY)"
-        ],
-        "strategic_highlights": [
-          "Boosting digital engagement",
-          "Strong February sales",
-          "Strategic growth initiatives"
-        ],
-        "relevance_score": 8,
-        "category": "financial_performance"
-      },
-      {
-        "title": "Costco Wholesale Corporation Reports Fourth Quarter and Fiscal Year 2025 Operating Results",
+        "title": "Form 10-K Annual Report",
         "source": "SEC Edgar",
-        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000093/costex9918-k92525.htm",
-        "published_date": "2025-09-25",
-        "date": "2025-09-25",
-        "period": "Q4 2025",
-        "document_type": "sec_filing",
-        "summary": "Costco's Q4 FY2025 results included net sales of $84.432 billion and membership fees of $1.724 billion. The company highlighted its strategic focus on membership growth and enhancing customer loyalty.",
+        "url": "https://www.sec.gov/Archives/edgar/data/912615/000095017023011597/urbn-20230131.htm",
+        "period": "FY 2023",
+        "document_type": "Annual Report",
+        "summary": "Urban Outfitters, Inc.'s annual 10-K filing for the fiscal year ended January 31, 2023, includes financial details for the Anthropologie brand segment. The report highlights the company's retail operations, including the Anthropologie Group's product assortment of women's apparel, accessories, intimates, and home goods. As of March 27, 2023, the company had 92,586,524 shares outstanding.",
         "key_metrics": [
-          "Net sales: $84.432 billion",
-          "Membership fees: $1.724 billion"
+          "Shares Outstanding: 92,586,524"
         ],
         "strategic_highlights": [
-          "Focus on membership growth",
-          "Enhancing customer loyalty",
-          "Strategic initiatives for growth"
+          "Expansion of product assortment",
+          "Focus on women's apparel and home goods"
         ],
+        "published_date": "2023-01-31",
+        "category": "earnings",
         "relevance_score": 8,
-        "category": "sec_filing"
-      },
-      {
-        "title": "Costco Wholesale Analyst Ratings and Price Targets | NASDAQ:COST",
-        "source": "Benzinga",
-        "url": "https://www.benzinga.com/quote/COST/analyst-ratings",
-        "published_date": "2024-12-05",
-        "date": "2024-12-05",
-        "period": "FY 2025",
-        "document_type": "analyst_report",
-        "summary": "Analyst updates on Costco include Stifel raising the price target to $1000 and Baird to $1075. The consensus price target is $1050.93, with a high of $1225 from Morgan Stanley. Analysts maintain a positive outlook on Costco's growth potential.",
-        "key_metrics": [
-          "Stifel price target: $1000",
-          "Baird price target: $1075",
-          "Consensus price target: $1050.93"
-        ],
-        "strategic_highlights": [
-          "Positive growth outlook",
-          "Analyst confidence in performance",
-          "Strategic initiatives for growth"
-        ],
-        "relevance_score": 7,
-        "category": "analyst_coverage"
-      },
-      {
-        "title": "Costco Wholesale (COST) Stock Forecast & Analyst Price Targets",
-        "source": "StockAnalysis.com",
-        "url": "https://stockanalysis.com/stocks/cost/forecast/",
-        "published_date": "2025-12-24",
-        "date": "2025-12-24",
-        "period": "FY 2025",
-        "document_type": "analyst_report",
-        "summary": "Northcoast Research upgraded Costco to Strong Buy with a $1100 price target. The consensus among 21 analysts is a 'Buy' with an average price target of $1056, indicating a 14.07% upside potential.",
-        "key_metrics": [
-          "Northcoast price target: $1100",
-          "Consensus price target: $1056",
-          "Upside potential: 14.07%"
-        ],
-        "strategic_highlights": [
-          "Strong Buy rating",
-          "Positive analyst consensus",
-          "Growth potential"
-        ],
-        "relevance_score": 7,
-        "category": "analyst_coverage"
+        "date": "2023-01-31"
       }
     ],
-    "search_date": "2026-01-13T09:48:54.162448",
+    "search_date": "2026-01-16T11:10:08.814583",
     "scrape_metadata": {
-      "timestamp": "2026-01-13T09:48:54.162454",
+      "timestamp": "2026-01-16T11:10:08.814592",
       "search_engine": "perplexity-sonar",
       "structuring_model": "gpt-4o",
       "success": true,
-      "items_found": 12,
+      "items_found": 1,
       "themes_searched": [
-        "earnings_calls",
-        "financial_reports",
+        "earnings",
         "quarterly_results",
-        "financial_press",
-        "analyst_coverage"
+        "sec_filings"
       ]
     }
   },
-  "Ashley Furniture Industries": {
-    "company_name": "Ashley Furniture Industries",
-    "financial_items": [],
-    "search_date": "2026-01-13T09:48:54.494298",
-    "scrape_metadata": {
-      "timestamp": "2026-01-13T09:48:54.494315",
-      "search_engine": "perplexity-sonar",
-      "structuring_model": "gpt-4o",
-      "success": true,
-      "items_found": 0,
-      "themes_searched": [
-        "earnings_calls",
-        "financial_reports",
-        "quarterly_results",
-        "financial_press",
-        "analyst_coverage"
-      ]
-    }
-  },
-  "Living Spaces": {
-    "company_name": "Living Spaces",
+  "La-Z-Boy": {
+    "company_name": "La-Z-Boy",
     "financial_items": [
       {
-        "title": "Living Spaces Company & Revenue 2014-2026",
-        "source": "ECDB",
-        "url": "https://ecdb.com/resources/sample-data/retailer/livingspaces",
-        "published_date": "2024",
-        "date": "2024-01-01",
-        "period": "FY 2024",
-        "document_type": "press_release",
-        "summary": "Living Spaces reported an online revenue of US$512 million for 2024, with a slight change of 0-5% from the previous year. The company projects a growth of 5-10% in 2025. Furniture & Homeware accounted for 98% of sales, all from first-party sales.",
+        "title": "La-Z-Boy Incorporated Annual Report on Form 10-K for the fiscal year ended April 29, 2023",
+        "source": "SEC Edgar",
+        "url": "https://www.sec.gov/Archives/edgar/data/57131/000005713123000032/lzb-20230429.htm",
+        "period": "FY 2023",
+        "document_type": "SEC Filing",
+        "summary": "For fiscal year 2023, La-Z-Boy reported sales of $2.3 billion, a decrease of 11% from the previous year. Net income was $82.4 million, translating to $2.04 per diluted share. The company improved its gross margin to 56.4% through pricing and cost controls.",
         "key_metrics": [
-          "Revenue: $512 million (0-5% YoY)",
-          "Projected growth: 5-10% in 2025"
+          "Revenue: $2.3 billion",
+          "Net Income: $82.4 million",
+          "Gross Margin: 56.4%"
         ],
         "strategic_highlights": [
-          "Focus on online sales",
-          "High percentage of first-party sales"
+          "Improved gross margin",
+          "Cost controls"
         ],
+        "published_date": "2023-05-26",
+        "category": "earnings",
+        "relevance_score": 8,
+        "date": "2023-05-26"
+      },
+      {
+        "title": "La-Z-Boy Incorporated Fiscal 2025 Third Quarter Results Press Release",
+        "source": "Company Investor Relations website",
+        "url": "https://content.la-z-boy.com/content/AboutLaZBoy/InvestorRelations",
+        "period": "Q3 FY2025",
+        "document_type": "Press Release",
+        "summary": "In Q3 FY2025, La-Z-Boy's sales totaled $520 million, marking a 4% year-over-year decline. The company reported a net income of $22 million or $0.58 per share, with retail sales remaining flat at $240 million.",
+        "key_metrics": [
+          "Sales: $520 million",
+          "Net Income: $22 million",
+          "Retail Sales: $240 million"
+        ],
+        "strategic_highlights": [
+          "Supply chain efficiencies",
+          "Flat retail sales"
+        ],
+        "published_date": "2025-12-12",
+        "category": "earnings",
         "relevance_score": 7,
-        "category": "financial_performance"
+        "date": "2025-12-12"
       },
       {
-        "title": "Living Spaces Company & Revenue 2014-2026",
-        "source": "ECDB",
-        "url": "https://ecdb.com/resources/sample-data/retailer/livingspaces",
-        "published_date": "2025-11-01",
-        "date": "2025-11-01",
-        "period": "Q4 2025",
-        "document_type": "press_release",
-        "summary": "In November 2025, Living Spaces achieved a monthly online revenue of US$53 million, marking a 10-15% increase from October 2025. This growth highlights the company's strong online presence and sales momentum.",
+        "title": "La-Z-Boy Reports Second Quarter Fiscal 2025 Results (Earnings Release)",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/quote/LZB/press-releases/",
+        "period": "Q2 FY2025",
+        "document_type": "Earnings Report",
+        "summary": "During Q2 FY2025, La-Z-Boy achieved consolidated sales of $535 million, a 6% decrease year-over-year. The retail segment saw a 2% increase in sales to $255 million, while wholesale sales fell by 11% to $280 million.",
         "key_metrics": [
-          "Monthly Revenue: $53 million (+10-15% MoM)"
+          "Sales: $535 million",
+          "Retail Sales: $255 million",
+          "Wholesale Sales: $280 million"
         ],
         "strategic_highlights": [
-          "Increased online sales",
-          "Continued growth in e-commerce"
+          "Store optimizations",
+          "Cash position: $210 million"
         ],
+        "published_date": "2025-09-05",
+        "category": "earnings",
         "relevance_score": 7,
-        "category": "financial_performance"
+        "date": "2025-09-05"
       },
       {
-        "title": "Living Spaces Analysis & Market Share Overview",
-        "source": "Similarweb",
-        "url": "https://www.similarweb.com/company/livingspaces.com/",
-        "published_date": "2025-09-01",
-        "date": "2025-09-01",
-        "period": "Q3 2025",
-        "document_type": "press_release",
-        "summary": "As of September 2025, Living Spaces' revenue is estimated between $500 million and $1 billion, with 3.9 million total visits to their website in the last three months. The average visit duration was 4 minutes and 15 seconds, indicating strong customer engagement.",
+        "title": "La-Z-Boy Incorporated Reports First Quarter Fiscal 2025 Financial Results",
+        "source": "Seeking Alpha",
+        "url": "https://seekingalpha.com/symbol/LZB/earnings/transcripts",
+        "period": "Q1 FY2025",
+        "document_type": "Earnings Report",
+        "summary": "In Q1 FY2025, La-Z-Boy reported sales of $545 million, a 2% decline year-over-year. Net income was $28 million or $0.72 per share, with delivered orders increasing by 3% in the retail segment.",
         "key_metrics": [
-          "Revenue: $500M - $1B",
-          "Website visits: 3.9M",
-          "Average visit duration: 4:15"
+          "Sales: $545 million",
+          "Net Income: $28 million",
+          "Delivered Orders: +3%"
         ],
         "strategic_highlights": [
-          "Strong online engagement",
-          "Significant web traffic"
+          "Exceeded expectations",
+          "Guidance for FY2025 sales: $2.2-2.3 billion"
         ],
+        "published_date": "2025-06-13",
+        "category": "earnings",
+        "relevance_score": 8,
+        "date": "2025-06-13"
+      },
+      {
+        "title": "La-Z-Boy Incorporated 10-Q Quarterly Report for period ended July 27, 2024",
+        "source": "SEC Edgar",
+        "url": "https://www.sec.gov/Archives/edgar/data/57131/0000057131240000XX/lzb-20240727.htm",
+        "period": "Q1 FY2024",
+        "document_type": "SEC Filing",
+        "summary": "For Q1 FY2024, La-Z-Boy reported sales of $558 million, a 1% increase year-over-year. Net income was $29.8 million or $0.75 per share, with cash and equivalents totaling $238 million.",
+        "key_metrics": [
+          "Sales: $558 million",
+          "Net Income: $29.8 million",
+          "Cash: $238 million"
+        ],
+        "strategic_highlights": [
+          "Operating income: $42 million",
+          "Impact of housing market softness"
+        ],
+        "published_date": "2024-09-06",
+        "category": "earnings",
         "relevance_score": 7,
-        "category": "financial_performance"
-      },
-      {
-        "title": "Living Spaces Furniture, LLC opens new location in California, United States",
-        "source": "Similarweb News",
-        "url": "https://www.similarweb.com/company/livingspaces.com/",
-        "published_date": "2025-01-09",
-        "date": "2025-01-09",
-        "period": "Q1 2025",
-        "document_type": "press_release",
-        "summary": "Living Spaces expanded its physical presence by opening a new store in California's Central Valley in January 2025. This expansion reflects the company's strategy to grow its footprint in key markets.",
-        "key_metrics": [],
-        "strategic_highlights": [
-          "New store opening in California",
-          "Expansion in key markets"
-        ],
-        "relevance_score": 6,
-        "category": "guidance"
-      },
-      {
-        "title": "Living Spaces Furniture Revenue: Annual, Quarterly, and Historic",
-        "source": "Zippia",
-        "url": "https://www.zippia.com/living-spaces-furniture-careers-29708/revenue/",
-        "published_date": "2024",
-        "date": "2024-01-01",
-        "period": "FY 2024",
-        "document_type": "press_release",
-        "summary": "Living Spaces' peak revenue in 2024 was estimated at $160 million, with a revenue per employee of $800,000. The company employs around 200 people, positioning itself competitively against larger players like Williams Sonoma.",
-        "key_metrics": [
-          "Revenue: $160 million",
-          "Revenue per employee: $800,000"
-        ],
-        "strategic_highlights": [
-          "Competitive positioning",
-          "Efficient revenue generation per employee"
-        ],
-        "relevance_score": 6,
-        "category": "financial_performance"
-      },
-      {
-        "title": "Living Spaces Market Share Analysis for September 2025",
-        "source": "Similarweb",
-        "url": "https://www.similarweb.com/company/livingspaces.com/",
-        "published_date": "2025-09-01",
-        "date": "2025-09-01",
-        "period": "Q3 2025",
-        "document_type": "press_release",
-        "summary": "Living Spaces' market share analysis for September 2025 estimates revenue between $500 million and $1 billion. The company competes with major players like Ashley Furniture, which has revenues exceeding $1 billion.",
-        "key_metrics": [
-          "Revenue: $500M - $1B"
-        ],
-        "strategic_highlights": [
-          "Competitive market positioning",
-          "Strong revenue estimates"
-        ],
-        "relevance_score": 6,
-        "category": "financial_performance"
-      },
-      {
-        "title": "Living Spaces Furniture: Revenue, Competitors, Alternatives",
-        "source": "Growjo",
-        "url": "https://growjo.com/company/Living_Spaces_Furniture",
-        "published_date": "2026",
-        "date": "2026-01-01",
-        "period": "FY 2026",
-        "document_type": "press_release",
-        "summary": "Living Spaces' estimated annual revenue is $881.3 million, with a revenue per employee of $317,800. The company has 2,773 employees and experienced a 17% employee growth last year, indicating robust business expansion.",
-        "key_metrics": [
-          "Revenue: $881.3 million",
-          "Revenue per employee: $317,800",
-          "Employee growth: 17%"
-        ],
-        "strategic_highlights": [
-          "Significant employee growth",
-          "Strong revenue generation"
-        ],
-        "relevance_score": 6,
-        "category": "financial_performance"
+        "date": "2024-09-06"
       }
     ],
-    "search_date": "2026-01-13T09:48:54.515325",
+    "search_date": "2026-01-16T11:10:25.189351",
     "scrape_metadata": {
-      "timestamp": "2026-01-13T09:48:54.515334",
+      "timestamp": "2026-01-16T11:10:25.189362",
       "search_engine": "perplexity-sonar",
       "structuring_model": "gpt-4o",
       "success": true,
-      "items_found": 7,
+      "items_found": 5,
       "themes_searched": [
-        "earnings_calls",
-        "financial_reports",
+        "earnings",
         "quarterly_results",
-        "financial_press",
-        "analyst_coverage"
-      ]
-    }
-  },
-  "Rowe Furniture": {
-    "company_name": "Rowe Furniture",
-    "financial_items": [],
-    "search_date": "2026-01-13T09:48:54.951273",
-    "scrape_metadata": {
-      "timestamp": "2026-01-13T09:48:54.951292",
-      "search_engine": "perplexity-sonar",
-      "structuring_model": "gpt-4o",
-      "success": true,
-      "items_found": 0,
-      "themes_searched": [
-        "earnings_calls",
-        "financial_reports",
-        "quarterly_results",
-        "financial_press",
-        "analyst_coverage"
-      ]
-    }
-  },
-  "Millerknoll": {
-    "company_name": "Millerknoll",
-    "financial_items": [],
-    "search_date": "2026-01-13T09:48:54.970919",
-    "scrape_metadata": {
-      "timestamp": "2026-01-13T09:48:54.970935",
-      "search_engine": "perplexity-sonar",
-      "structuring_model": "gpt-4o",
-      "success": true,
-      "items_found": 0,
-      "themes_searched": [
-        "earnings_calls",
-        "financial_reports",
-        "quarterly_results",
-        "financial_press",
-        "analyst_coverage"
-      ]
-    }
-  },
-  "Room & Board": {
-    "company_name": "Room & Board",
-    "financial_items": [],
-    "search_date": "2026-01-13T09:48:55.373551",
-    "scrape_metadata": {
-      "timestamp": "2026-01-13T09:48:55.373576",
-      "search_engine": "perplexity-sonar",
-      "structuring_model": "gpt-4o",
-      "success": true,
-      "items_found": 0,
-      "themes_searched": [
-        "earnings_calls",
-        "financial_reports",
-        "quarterly_results",
-        "financial_press",
-        "analyst_coverage"
-      ]
-    }
-  },
-  "Design Within Reach": {
-    "company_name": "Design Within Reach",
-    "financial_items": [],
-    "search_date": "2026-01-13T09:48:55.645243",
-    "scrape_metadata": {
-      "timestamp": "2026-01-13T09:48:55.645264",
-      "search_engine": "perplexity-sonar",
-      "structuring_model": "gpt-4o",
-      "success": true,
-      "items_found": 0,
-      "themes_searched": [
-        "earnings_calls",
-        "financial_reports",
-        "quarterly_results",
-        "financial_press",
-        "analyst_coverage"
-      ]
-    }
-  },
-  "Arhaus": {
-    "company_name": "Arhaus",
-    "financial_items": [],
-    "search_date": "2026-01-13T09:48:55.689216",
-    "scrape_metadata": {
-      "timestamp": "2026-01-13T09:48:55.689234",
-      "search_engine": "perplexity-sonar",
-      "structuring_model": "gpt-4o",
-      "success": true,
-      "items_found": 0,
-      "themes_searched": [
-        "earnings_calls",
-        "financial_reports",
-        "quarterly_results",
-        "financial_press",
-        "analyst_coverage"
-      ]
-    }
-  },
-  "Saks Global": {
-    "company_name": "Saks Global",
-    "financial_items": [],
-    "search_date": "2026-01-13T09:48:55.782600",
-    "scrape_metadata": {
-      "timestamp": "2026-01-13T09:48:55.782617",
-      "search_engine": "perplexity-sonar",
-      "structuring_model": "gpt-4o",
-      "success": true,
-      "items_found": 0,
-      "themes_searched": [
-        "earnings_calls",
-        "financial_reports",
-        "quarterly_results",
-        "financial_press",
-        "analyst_coverage"
+        "sec_filings"
       ]
     }
   },
@@ -1144,480 +505,1124 @@
     "company_name": "Bassett Furniture",
     "financial_items": [
       {
-        "title": "Bassett Furniture Industries, Inc. Fourth Quarter 2024 Conference Call Transcript",
-        "source": "Bassett Furniture Investors Relations",
-        "url": "https://investors.bassettfurniture.com/static-files/46cdbd76-1144-41b4-a115-6c129a45b536",
-        "published_date": "2024-11-30",
-        "date": "2024-11-30",
-        "period": "Q4 2024",
-        "document_type": "earnings_call",
-        "summary": "Bassett Furniture reported a return to profitability in Q4 2024, with significant improvements in gross margins by 290 basis points. The company completed its restructuring plan and discussed pricing pressures expected in 2025. The outlook for the next fiscal year includes strategic adjustments to address these challenges.",
+        "title": "Form 10-K Annual Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934",
+        "source": "SEC Edgar",
+        "url": "https://investors.bassettfurniture.com/static-files/23e1b97a-befa-42b2-a7ba-87f9010b2202",
+        "period": "FY 2024",
+        "document_type": "Annual Report",
+        "summary": "Bassett Furniture's FY 2024 10-K reported net sales with Bassett Custom Upholstery at $79.3M external, a decrease from prior years. The wholesale backlog was $21.75M, and the company faced $2.4M in non-cash impairments for Noa Home in Q2 2024 and a $962K translation loss in Q4.",
         "key_metrics": [
-          "Gross margin improvement: 290 basis points",
-          "Return to profitability"
+          "Net Sales: $79.3M",
+          "Wholesale Backlog: $21.75M",
+          "Non-cash Impairments: $2.4M"
         ],
         "strategic_highlights": [
-          "Completion of restructuring plan",
-          "Outlook for 2025 pricing pressures"
+          "Emphasis on custom-order domestic production",
+          "58 company-owned stores"
         ],
-        "relevance_score": 9,
-        "category": "earnings"
+        "published_date": "2025-02-10",
+        "category": "earnings",
+        "relevance_score": 8,
+        "date": "2025-02-10"
       },
       {
         "title": "Bassett Reports Fiscal Fourth Quarter Results",
-        "source": "Bassett Furniture Investor Relations",
+        "source": "Company IR website",
         "url": "https://investors.bassettfurniture.com/news-releases/news-release-details/bassett-reports-fiscal-fourth-quarter-results",
+        "period": "Q4 FY 2024",
+        "document_type": "Quarterly Results",
+        "summary": "In Q4 FY 2024, Bassett Furniture's consolidated sales fell 11% to $84.3M from $94.7M. Operating income was $0.9M, with a gross margin improvement to 56.6%. Diluted EPS was $0.38, aided by a $2.6M tax benefit from Noa Home capital loss.",
+        "key_metrics": [
+          "Consolidated Sales: $84.3M",
+          "Operating Income: $0.9M",
+          "Gross Margin: 56.6%"
+        ],
+        "strategic_highlights": [
+          "Restructuring charges of $0.44M",
+          "Translation loss of $0.96M"
+        ],
         "published_date": "2024-11-30",
-        "date": "2024-11-30",
-        "period": "Q4 2024",
-        "document_type": "press_release",
-        "summary": "For Q4 2024, Bassett reported revenues of $84.3 million, a decline of 11% year-over-year. Operating income was $0.9 million, marking a turnaround from a loss in the previous year. The gross margin improved to 56.6%, and the company recorded a $2.6 million tax benefit related to investment losses.",
-        "key_metrics": [
-          "Revenue: $84.3 million (-11% YoY)",
-          "Operating income: $0.9 million",
-          "Gross margin: 56.6%",
-          "Tax benefit: $2.6 million"
-        ],
-        "strategic_highlights": [
-          "Improved wholesale segment margins",
-          "Tax benefit from investment losses"
-        ],
-        "relevance_score": 8,
-        "category": "financial_performance"
-      },
-      {
-        "title": "Bassett Furniture Industries Q4 2024 Earnings Call",
-        "source": "Bassett Furniture Investors Relations",
-        "url": "https://investors.bassettfurniture.com/events/event-details/bassett-furniture-industries-q4-2024-earnings-call",
-        "published_date": "2025-01-30",
-        "date": "2025-01-30",
-        "period": "Q4 2024",
-        "document_type": "earnings_call",
-        "summary": "The Q4 2024 earnings call highlighted Bassett's financial recovery with a reported EPS of $0.38 and revenues of approximately $82.9 million. The call included discussions on strategic initiatives to counteract pricing pressures and enhance profitability in the upcoming year.",
-        "key_metrics": [
-          "EPS: $0.38",
-          "Revenues: $82.9 million"
-        ],
-        "strategic_highlights": [
-          "Strategic initiatives to counteract pricing pressures",
-          "Focus on enhancing profitability"
-        ],
+        "category": "earnings",
         "relevance_score": 9,
-        "category": "earnings"
+        "date": "2024-11-30"
       },
       {
-        "title": "BASSETT FURNITURE INDUSTRIES (BSET) Earnings Call Transcript Q1 2025",
-        "source": "Fintool",
-        "url": "https://fintool.com/app/research/companies/BSET/documents/transcripts",
-        "published_date": "2025-04-03",
-        "date": "2025-04-03",
-        "period": "Q1 2025",
-        "document_type": "earnings_call",
-        "summary": "In Q1 2025, Bassett Furniture discussed its financial performance and capital expenditure plans. The company focused on maintaining operational efficiency and exploring new market opportunities to drive growth.",
+        "title": "Proxy Statement for the 2025 Annual Meeting of Stockholders",
+        "source": "Company IR website",
+        "url": "https://investors.bassettfurniture.com/node/17151/html",
+        "period": "FY 2024",
+        "document_type": "Proxy Statement",
+        "summary": "The proxy statement for the 2025 Annual Meeting includes the ratification of Ernst & Young as auditors for FY 2025 and details a $10M investment in the Gabelli U.S. Treasury Money Market Fund. It also outlines beneficial ownership by Gabelli entities.",
         "key_metrics": [
-          "Capex plans",
-          "Operational efficiency focus"
+          "Investment: $10M",
+          "Shares by GAMCO: 673,850"
         ],
         "strategic_highlights": [
-          "Exploring new market opportunities",
-          "Maintaining operational efficiency"
+          "Audit Committee approval of 10-K financials",
+          "Ratification of Ernst & Young"
         ],
-        "relevance_score": 9,
-        "category": "earnings"
+        "published_date": "2025-01-01",
+        "category": "governance",
+        "relevance_score": 7,
+        "date": "2025-01-01"
       },
       {
-        "title": "Bassett Furniture Industries Q2 2025 Earnings Call Transcript",
-        "source": "Bassett Furniture Investors Relations / Fintool",
-        "url": "https://investors.bassettfurniture.com/events-and-presentations/events",
-        "published_date": "2025-07-10",
-        "date": "2025-07-10",
-        "period": "Q2 2025",
-        "document_type": "earnings_call",
-        "summary": "During the Q2 2025 earnings call, Bassett reported a 1.1% revenue growth, with a focus on product innovations and addressing housing market challenges. The company reduced its capital expenditure to $5-7 million to optimize financial performance.",
+        "title": "10-K Annual Report",
+        "source": "SEC Edgar",
+        "url": "https://investors.bassettfurniture.com/sec-filings",
+        "period": "FY 2023",
+        "document_type": "Annual Report",
+        "summary": "The FY 2023 10-K provides a baseline for comparison, highlighting higher Bassett Custom Upholstery external sales than in 2024. It offers a comprehensive overview of operations and sales by segment, serving as a reference for trends into 2024.",
         "key_metrics": [
-          "Revenue growth: 1.1%",
-          "Reduced capex: $5-7 million"
+          "Higher External Sales in 2023",
+          "Comprehensive Overview of Operations"
         ],
         "strategic_highlights": [
-          "Product innovations",
-          "Addressing housing market challenges"
+          "Reference for 2024 trends",
+          "Detailed segment sales"
         ],
-        "relevance_score": 9,
-        "category": "earnings"
+        "published_date": "2023-01-24",
+        "category": "earnings",
+        "relevance_score": 6,
+        "date": "2023-01-24"
       },
       {
-        "title": "Bassett Furniture Industries, Incorporated (BSET) Q3 2025 Earnings Call Transcript",
-        "source": "Fintool / Conference Call Transcripts",
-        "url": "https://fintool.com/app/research/companies/BSET/documents/transcripts",
-        "published_date": "2025-10-09",
-        "date": "2025-10-09",
-        "period": "Q3 2025",
-        "document_type": "earnings_call",
-        "summary": "In Q3 2025, Bassett Furniture reported a 5.9% increase in consolidated revenues, with a turnaround to a $600,000 operating profit. The company highlighted strong custom upholstery offerings and successful new product lines as key drivers of performance.",
+        "title": "SC 13G (Schedule 13G - Statement of Beneficial Ownership)",
+        "source": "SEC Edgar",
+        "url": "https://investors.bassettfurniture.com/sec-filings",
+        "period": "N/A",
+        "document_type": "SEC Filing",
+        "summary": "The SC 13G filing reports changes in beneficial ownership, tracking major shareholders like those affiliated with Gabelli. This complements ownership details in the proxy and 10-K, informing governance discussions.",
         "key_metrics": [
-          "Revenue growth: 5.9%",
-          "Operating profit: $600,000"
+          "Major Shareholders: Gabelli Affiliates"
         ],
         "strategic_highlights": [
-          "Strong custom upholstery offerings",
-          "Successful new product lines"
+          "Informs governance discussions",
+          "Complements proxy details"
         ],
-        "relevance_score": 9,
-        "category": "earnings"
-      },
-      {
-        "title": "Bassett Reports Fiscal Year 2025 Third Quarter Results",
-        "source": "Bassett Furniture Investor Relations",
-        "url": "https://investors.bassettfurniture.com/news-releases/news-release-details/bassett-reports-fiscal-year-2025-third-quarter-results",
-        "published_date": "2025-10-09",
-        "date": "2025-10-09",
-        "period": "Q3 2025",
-        "document_type": "quarterly_results",
-        "summary": "For Q3 2025, Bassett reported revenues of $80.1 million, a 5.9% increase from the previous year. The gross margin expanded to 56.2%, and the company achieved an operating income of $0.6 million. Strategic cost reductions from restructuring contributed to these improvements.",
-        "key_metrics": [
-          "Revenue: $80.1 million (+5.9% YoY)",
-          "Gross margin: 56.2%",
-          "Operating income: $0.6 million"
-        ],
-        "strategic_highlights": [
-          "Cost reductions from restructuring",
-          "Gross margin expansion"
-        ],
-        "relevance_score": 8,
-        "category": "financial_performance"
-      },
-      {
-        "title": "Bassett Reports Fiscal Year 2025 Third Quarter Results",
-        "source": "Bassett Furniture Investor Relations",
-        "url": "https://investors.bassettfurniture.com/node/17336/pdf",
-        "published_date": "2025-10-09",
-        "date": "2025-10-09",
-        "period": "Q3 2025",
-        "document_type": "quarterly_results",
-        "summary": "The detailed Q3 2025 results PDF shows consolidated revenues of $80.1 million, with operating income of $0.6 million. The report highlights cost reductions from restructuring and a gross margin of 56.2%, reflecting improved financial health.",
-        "key_metrics": [
-          "Revenue: $80.1 million",
-          "Operating income: $0.6 million",
-          "Gross margin: 56.2%"
-        ],
-        "strategic_highlights": [
-          "Cost reductions from restructuring",
-          "Improved financial health"
-        ],
-        "relevance_score": 8,
-        "category": "financial_performance"
-      },
-      {
-        "title": "Bassett Furniture Reports Fiscal Second Quarter 2025 Results",
-        "source": "Furniture World News",
-        "url": "https://www.furninfo.com/furniture-industry-news/25038",
-        "published_date": "2025-07-11",
-        "date": "2025-07-11",
-        "period": "Q2 2025",
-        "document_type": "quarterly_results",
-        "summary": "In Q2 2025, Bassett reported sales of $86.5 million, a 13.5% decrease from the previous year. The company faced an operating loss of $1.6 million, with a net loss of $1.1 million. Wholesale segment sales declined by 12.4%, reflecting market challenges.",
-        "key_metrics": [
-          "Sales: $86.5 million (-13.5% YoY)",
-          "Operating loss: $1.6 million",
-          "Net loss: $1.1 million"
-        ],
-        "strategic_highlights": [
-          "Wholesale segment sales decline",
-          "Market challenges"
-        ],
-        "relevance_score": 8,
-        "category": "financial_performance"
-      },
-      {
-        "title": "Bassett Reports Fiscal Year 2025 Third Quarter Results",
-        "source": "Bassett Furniture Investor Relations",
-        "url": "https://investors.bassettfurniture.com/news-releases/news-release-details/bassett-reports-fiscal-year-2025-third-quarter-results",
-        "published_date": "2025-09-30",
-        "date": "2025-09-30",
-        "period": "Q3 2025",
-        "document_type": "quarterly_results",
-        "summary": "The Q3 2025 results announcement highlighted a 5.9% increase in revenues to $80.1 million. The company achieved an operating income of $0.6 million, with significant improvements in gross margin due to restructuring efforts.",
-        "key_metrics": [
-          "Revenue: $80.1 million (+5.9% YoY)",
-          "Operating income: $0.6 million"
-        ],
-        "strategic_highlights": [
-          "Restructuring efforts",
-          "Gross margin improvements"
-        ],
-        "relevance_score": 8,
-        "category": "financial_performance"
-      },
-      {
-        "title": "Bassett Furniture Industries (Q2 2025 Earnings)",
-        "source": "Bassett Furniture Investor Relations",
-        "url": "https://investors.bassettfurniture.com/static-files/6a5bba42-c96f-41d4-b750-4cb96d5d2b36",
-        "published_date": "2025-07-10",
-        "date": "2025-07-10",
-        "period": "Q2 2025",
-        "document_type": "quarterly_results",
-        "summary": "The Q2 2025 earnings presentation highlighted a 7.5% growth in retail deliveries and strength in custom upholstery. The company introduced new wood collections and addressed tariff concerns impacting the market.",
-        "key_metrics": [
-          "Retail delivery growth: 7.5%",
-          "Custom upholstery strength"
-        ],
-        "strategic_highlights": [
-          "New wood collections",
-          "Tariff concerns"
-        ],
-        "relevance_score": 8,
-        "category": "financial_performance"
-      },
-      {
-        "title": "Bassett Furniture (BSET) Earnings (Q1 2025 summary)",
-        "source": "Public.com / MarketBeat",
-        "url": "https://public.com/stocks/bset/earnings",
-        "published_date": "2025-04-03",
-        "date": "2025-04-03",
-        "period": "Q1 2025",
-        "document_type": "press_release",
-        "summary": "In Q1 2025, Bassett reported revenues of $91.48 million, with an EPS of -$0.14, missing estimates. The report contributes to the fiscal 2025 performance overview, highlighting challenges in meeting market expectations.",
-        "key_metrics": [
-          "Revenues: $91.48 million",
-          "EPS: -$0.14"
-        ],
-        "strategic_highlights": [
-          "Challenges in meeting market expectations"
-        ],
-        "relevance_score": 8,
-        "category": "financial_performance"
+        "published_date": "2024-02-08",
+        "category": "ownership",
+        "relevance_score": 5,
+        "date": "2024-02-08"
       }
     ],
-    "search_date": "2026-01-13T09:49:05.011668",
+    "search_date": "2026-01-16T11:10:25.927110",
     "scrape_metadata": {
-      "timestamp": "2026-01-13T09:49:05.011680",
+      "timestamp": "2026-01-16T11:10:25.927121",
       "search_engine": "perplexity-sonar",
       "structuring_model": "gpt-4o",
       "success": true,
-      "items_found": 12,
+      "items_found": 5,
       "themes_searched": [
-        "earnings_calls",
-        "financial_reports",
+        "earnings",
         "quarterly_results",
-        "financial_press",
-        "analyst_coverage"
+        "sec_filings"
       ]
     }
   },
-  "Article": {
-    "company_name": "Article",
+  "Kimball International": {
+    "company_name": "Kimball International",
     "financial_items": [
       {
-        "title": "NIKE, Inc. Reports Fiscal 2025 Fourth Quarter and Full Year Results",
-        "source": "NIKE Investor Relations",
-        "url": "https://investors.nike.com/investors/news-events-and-reports/investor-news/investor-news-details/2025/NIKE-Inc--Reports-Fiscal-2025-Fourth-Quarter-and-Full-Year-Results/default.aspx",
-        "published_date": "2025-05-31",
-        "date": "2025-05-31",
-        "period": "FY 2025",
-        "document_type": "press_release",
-        "summary": "Nike reported fiscal 2025 full-year revenues of $46.309 billion, a decrease of 10% from the previous year. The fourth quarter saw revenues of $11.097 billion, down 12% year-over-year. The gross margin for the year declined to 42.7%, and diluted earnings per share fell to $2.16 from $3.73 in fiscal 2024. Strategic initiatives included a focus on digital transformation and supply chain optimization.",
+        "title": "Kimball International, Inc. Reports Third Quarter 2023 Results",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2023/05/04/2662076/0/en/Kimball-International-Inc-Reports-Third-Quarter-2023-Results.html",
+        "period": "Q3 2023",
+        "document_type": "Press Release",
+        "summary": "Kimball International reported net sales of $170.1 million for Q3 fiscal 2023, a decrease from the previous year. The company achieved a net income of $5.7 million or $0.13 per diluted share. Additionally, $4.2 million was returned to shareholders through dividends and repurchases.",
         "key_metrics": [
-          "Revenue: $46.309 billion (-10% YoY)",
-          "Q4 Revenue: $11.097 billion (-12% YoY)",
-          "Gross margin: 42.7%",
-          "Diluted EPS: $2.16"
+          "Net Sales: $170.1 million",
+          "Net Income: $5.7 million",
+          "EPS: $0.13"
         ],
         "strategic_highlights": [
-          "Digital transformation initiatives",
-          "Supply chain optimization",
-          "Focus on direct-to-consumer sales"
+          "HNI merger preparations",
+          "Pre-tax merger-related charges: $3.9 million"
         ],
+        "published_date": "2023-05-04",
+        "category": "earnings",
         "relevance_score": 8,
-        "category": "financial_performance"
+        "date": "2023-05-04"
       },
       {
-        "title": "2024 Annual Financial Report",
-        "source": "FINRA",
-        "url": "https://www.finra.org/sites/default/files/2025-06/2024-finra-annual-financial-report.pdf",
-        "published_date": "2024-12-31",
-        "date": "2024-12-31",
-        "period": "FY 2024",
-        "document_type": "sec_filing",
-        "summary": "FINRA's 2024 Annual Financial Report showed operating revenues of $1,619.5 million, an increase from $1,327.8 million in 2023. The net income for the year was $99.6 million, with total assets including cash and investments at $2,527.6 million. The report highlights FINRA's continued focus on regulatory oversight and technological advancements.",
+        "title": "FORM 8-K",
+        "source": "SEC EDGAR",
+        "url": "https://www.sec.gov/Archives/edgar/data/55772/0000055772-23-000076-index.html",
+        "period": "Q3 2023",
+        "document_type": "SEC Filing",
+        "summary": "The 8-K filing for Q3 2023 includes a detailed earnings press release with net sales of $170.1 million and net income of $5.7 million. It highlights restructuring expenses of $0.8 million pre-tax and merger-related charges.",
         "key_metrics": [
-          "Operating Revenue: $1,619.5 million",
-          "Net Income: $99.6 million",
-          "Total Assets: $2,527.6 million"
+          "Restructuring Expenses: $0.8 million",
+          "Merger-related Charges: $3.9 million"
         ],
         "strategic_highlights": [
-          "Regulatory oversight enhancements",
-          "Technological advancements",
-          "Increased market surveillance capabilities"
+          "Shareholder returns",
+          "Adjusted non-GAAP net income"
         ],
-        "relevance_score": 8,
-        "category": "sec_filing"
+        "published_date": "2023-05-04",
+        "category": "earnings",
+        "relevance_score": 7,
+        "date": "2023-05-04"
       },
       {
-        "title": "2024 Form 10-K",
-        "source": "Procter & Gamble Investor Relations",
-        "url": "https://pginvestor.com/financials/annual-reports/default.aspx",
-        "published_date": "2024",
-        "date": "2024-01-01",
-        "period": "FY 2024",
-        "document_type": "sec_filing",
-        "summary": "Procter & Gamble's 2024 Form 10-K provides a comprehensive overview of the company's financial performance, including detailed financial statements and disclosures. The report emphasizes P&G's strategic focus on innovation and sustainability, aiming to drive long-term growth and shareholder value.",
+        "title": "8-K",
+        "source": "SEC EDGAR",
+        "url": "https://www.calcbench.com/filings?pg_classificationMethod=tickers&pg_tickers=KBAL",
+        "period": "Q4 2023",
+        "document_type": "SEC Filing",
+        "summary": "This 8-K covers financial updates for Q4 fiscal 2023, following Q3 results, amid the HNI acquisition process. It confirms ongoing merger activities and references prior quarter shareholder returns totaling $4.2 million.",
         "key_metrics": [
-          "Comprehensive financial statements",
-          "Focus on innovation",
-          "Sustainability initiatives"
+          "Shareholder Returns: $4.2 million"
         ],
         "strategic_highlights": [
-          "Innovation-driven product development",
-          "Sustainability and environmental goals",
-          "Expansion in emerging markets"
+          "HNI acquisition process",
+          "Merger activities"
         ],
-        "relevance_score": 9,
-        "category": "sec_filing"
+        "published_date": "2023-06-30",
+        "category": "earnings",
+        "relevance_score": 6,
+        "date": "2023-06-30"
       },
       {
-        "title": "goog-20241231 (Alphabet Inc. 10-K)",
-        "source": "SEC Edgar",
-        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000014/goog-20241231.htm",
-        "published_date": "2024-12-31",
-        "date": "2024-12-31",
-        "period": "FY 2024",
-        "document_type": "sec_filing",
-        "summary": "Alphabet Inc.'s 2024 10-K filing details the company's financial performance, including comprehensive income and stock information. The report highlights Alphabet's strategic investments in AI and cloud computing, positioning the company for future growth.",
+        "title": "Registration Statement on Form S-4",
+        "source": "SEC EDGAR",
+        "url": "https://www.sec.gov/Archives/edgar/data/48287/000114036123018713/ny20008428x1_s4.htm",
+        "period": "FY 2023",
+        "document_type": "SEC Filing",
+        "summary": "The S-4 filing details the HNI-Kimball merger, including financial adjustments such as pre-tax SERP liability changes of $613k and Poppin acquisition amortization of $1.5M. It reports a net income of $5.7M for recent quarters with merger charges of $3.9M.",
         "key_metrics": [
-          "Comprehensive income details",
-          "Stock outstanding: 5,833 million Class A shares"
+          "SERP Liability Changes: $613k",
+          "Poppin Acquisition Amortization: $1.5M"
         ],
         "strategic_highlights": [
-          "Investments in AI technology",
-          "Expansion of cloud computing services",
-          "Focus on digital advertising"
+          "HNI-Kimball merger",
+          "Financial adjustments"
         ],
-        "relevance_score": 9,
-        "category": "sec_filing"
-      },
-      {
-        "title": "eBay Inc. Reports Fourth Quarter and Full Year 2024 Results",
-        "source": "eBay Inc. Investor Relations",
-        "url": "https://investors.ebayinc.com/investor-news/press-release-details/2025/eBay-Inc.-Reports-Fourth-Quarter-and-Full-Year-2024-Results/default.aspx",
-        "published_date": "2024-12",
-        "date": "2025-01-01",
-        "period": "FY 2024",
-        "document_type": "press_release",
-        "summary": "eBay reported full-year 2024 net revenues of $10.283 billion, a slight increase from $10.112 billion in 2023. The fourth quarter revenues were $2.579 billion, with operating cash flow of $677 million. eBay's strategic focus on enhancing user experience and expanding its advertising business contributed to its financial performance.",
-        "key_metrics": [
-          "Net Revenue: $10.283 billion",
-          "Q4 Revenue: $2.579 billion",
-          "Operating Cash Flow: $677 million"
-        ],
-        "strategic_highlights": [
-          "Enhancing user experience",
-          "Expansion of advertising business",
-          "Focus on sustainable growth"
-        ],
-        "relevance_score": 8,
-        "category": "financial_performance"
-      },
-      {
-        "title": "American Airlines reports fourth-quarter and full-year 2024 financial results",
-        "source": "American Airlines News",
-        "url": "https://news.aa.com/news/news-details/2025/American-Airlines-reports-fourth-quarter-and-full-year-2024-financial-results-CORP-FI-01/default.aspx",
-        "published_date": "2025-01",
-        "date": "2025-01-01",
-        "period": "FY 2024",
-        "document_type": "press_release",
-        "summary": "American Airlines achieved record full-year 2024 revenue of $54.2 billion and fourth-quarter revenue of $13.7 billion. The company reported a GAAP operating margin of 4.8% for the year and generated $2.2 billion in free cash flow. Strategic initiatives included debt reduction and enhancing operational efficiency.",
-        "key_metrics": [
-          "Full-Year Revenue: $54.2 billion",
-          "Q4 Revenue: $13.7 billion",
-          "Free Cash Flow: $2.2 billion"
-        ],
-        "strategic_highlights": [
-          "Debt reduction initiatives",
-          "Operational efficiency improvements",
-          "Focus on customer experience"
-        ],
-        "relevance_score": 8,
-        "category": "financial_performance"
-      },
-      {
-        "title": "The Walt Disney Company Reports Fourth Quarter and Full Year Earnings for Fiscal 2025",
-        "source": "The Walt Disney Company",
-        "url": "https://thewaltdisneycompany.com/the-walt-disney-company-reports-fourth-quarter-and-full-year-earnings-for-fiscal-2025/",
-        "published_date": "2024-11",
-        "date": "2025-01-01",
-        "period": "FY 2025",
-        "document_type": "press_release",
-        "summary": "Disney reported fiscal 2025 revenues of $94.4 billion, a 3% increase from the previous year. Q4 revenues were $22.5 billion, with income before taxes rising to $12.0 billion. Strategic focus on content creation and streaming services drove growth.",
-        "key_metrics": [
-          "Full-Year Revenue: $94.4 billion (+3% YoY)",
-          "Q4 Revenue: $22.5 billion",
-          "Income Before Taxes: $12.0 billion"
-        ],
-        "strategic_highlights": [
-          "Content creation initiatives",
-          "Expansion of streaming services",
-          "Focus on international markets"
-        ],
-        "relevance_score": 8,
-        "category": "financial_performance"
-      },
-      {
-        "title": "Intel Reports Second-Quarter 2025 Financial Results",
-        "source": "Intel Investor Relations",
-        "url": "https://www.intc.com/news-events/press-releases/detail/1745/intel-reports-second-quarter-2025-financial-results",
-        "published_date": "2025-07",
-        "date": "2025-01-01",
-        "period": "Q2 2025",
-        "document_type": "press_release",
-        "summary": "Intel's Q2 2025 revenue was $12.9 billion, flat year-over-year. The company reported a GAAP loss per share of $(0.67) due to restructuring and impairment charges. Intel's strategic focus on data-centric growth and AI advancements continues to shape its future outlook.",
-        "key_metrics": [
-          "Q2 Revenue: $12.9 billion",
-          "GAAP Loss Per Share: $(0.67)",
-          "Restructuring Charge: $1.9 billion"
-        ],
-        "strategic_highlights": [
-          "Data-centric growth initiatives",
-          "AI technology advancements",
-          "Focus on semiconductor innovation"
-        ],
-        "relevance_score": 8,
-        "category": "financial_performance"
-      },
-      {
-        "title": "The Home Depot Announces Third Quarter Fiscal 2025 Results",
-        "source": "The Home Depot Corporate News",
-        "url": "https://corporate.homedepot.com/news/earnings/home-depot-announces-third-quarter-2025-earnings",
-        "published_date": "2024-11",
-        "date": "2025-01-01",
-        "period": "Q3 FY2025",
-        "document_type": "press_release",
-        "summary": "Home Depot reported Q3 fiscal 2025 net earnings of $3.6 billion, with diluted earnings per share of $3.62. The company focused on enhancing customer experience and expanding its product offerings to drive growth.",
-        "key_metrics": [
-          "Q3 Net Earnings: $3.6 billion",
-          "Diluted EPS: $3.62"
-        ],
-        "strategic_highlights": [
-          "Customer experience enhancements",
-          "Product offering expansion",
-          "Focus on digital sales channels"
-        ],
-        "relevance_score": 8,
-        "category": "financial_performance"
+        "published_date": "2023-04-28",
+        "category": "earnings",
+        "relevance_score": 7,
+        "date": "2023-04-28"
       }
     ],
-    "search_date": "2026-01-13T09:49:09.562822",
+    "search_date": "2026-01-16T11:10:30.964412",
     "scrape_metadata": {
-      "timestamp": "2026-01-13T09:49:09.562834",
+      "timestamp": "2026-01-16T11:10:30.964422",
       "search_engine": "perplexity-sonar",
       "structuring_model": "gpt-4o",
       "success": true,
-      "items_found": 9,
+      "items_found": 4,
       "themes_searched": [
-        "earnings_calls",
-        "financial_reports",
+        "earnings",
         "quarterly_results",
-        "financial_press",
-        "analyst_coverage"
+        "sec_filings"
+      ]
+    }
+  },
+  "Millerknoll": {
+    "company_name": "Millerknoll",
+    "financial_items": [
+      {
+        "title": "MillerKnoll, Inc. Reports First Quarter Fiscal 2026 Results",
+        "source": "Company IR website",
+        "url": "https://news.millerknoll.com/2025-09-23-MillerKnoll,-Inc-Reports-First-Quarter-Fiscal-2026-Results",
+        "period": "Q1 2026",
+        "document_type": "Earnings Report",
+        "summary": "MillerKnoll reported Q1 FY2026 results with net sales of $956 million, surpassing expectations. The adjusted EPS was $0.45, exceeding the forecasted $0.34. The balance sheet showed cash and equivalents at $167.2 million.",
+        "key_metrics": [
+          "Net Sales: $956 million",
+          "Adjusted EPS: $0.45",
+          "Cash and Equivalents: $167.2 million"
+        ],
+        "strategic_highlights": [
+          "Sales growth across all business segments"
+        ],
+        "published_date": "2025-09-23",
+        "category": "earnings",
+        "relevance_score": 9,
+        "date": "2025-09-23"
+      },
+      {
+        "title": "MillerKnoll, Inc. Reports Second Quarter Fiscal 2026 Results",
+        "source": "Company IR website",
+        "url": "https://news.millerknoll.com/2025-12-17-MillerKnoll,-Inc-Reports-Second-Quarter-Fiscal-2026-Results",
+        "period": "Q2 2026",
+        "document_type": "Earnings Report",
+        "summary": "The Q2 FY2026 earnings report highlights MillerKnoll's financial performance amid market dynamics. The report includes detailed metrics on revenue and profitability, emphasizing the company's ongoing financial health.",
+        "key_metrics": [
+          "Revenue: Detailed in full release",
+          "Profitability: Detailed in full release"
+        ],
+        "strategic_highlights": [
+          "Emphasis on financial health amid market dynamics"
+        ],
+        "published_date": "2025-12-17",
+        "category": "earnings",
+        "relevance_score": 8,
+        "date": "2025-12-17"
+      },
+      {
+        "title": "MillerKnoll shareholders approve new long-term incentive plan and elect directors",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/sec-filings/millerknoll-shareholders-approve-new-longterm-incentive-plan-and-elect-directors-93CH-4287729",
+        "period": "N/A",
+        "document_type": "SEC Filing",
+        "summary": "Shareholders approved the 2025 Long-Term Incentive Plan, replacing the 2023 plan. Directors Lisa A. Kro, John T. Maeda, and Michael C. Smith were elected with strong majorities. The company has a market cap of $1.14 billion.",
+        "key_metrics": [
+          "Market Cap: $1.14 billion",
+          "Current Ratio: 1.67"
+        ],
+        "strategic_highlights": [
+          "Approval of new Long-Term Incentive Plan",
+          "Election of new directors"
+        ],
+        "published_date": "2025-10-14",
+        "category": "corporate governance",
+        "relevance_score": 7,
+        "date": "2025-10-14"
+      },
+      {
+        "title": "mlkn-20250531 (Form 10-Q)",
+        "source": "SEC Edgar",
+        "url": "https://www.sec.gov/Archives/edgar/data/66382/000006638225000069/mlkn-20250531.htm",
+        "period": "Q4 2025",
+        "document_type": "SEC Filing",
+        "summary": "The Q4 FY2025 10-Q filing includes consolidated statements on retained earnings and comprehensive income. It details stock plans and addresses integration costs for fiscal periods ending June 2025.",
+        "key_metrics": [
+          "Retained Earnings: Detailed in filing",
+          "Comprehensive Income: Detailed in filing"
+        ],
+        "strategic_highlights": [
+          "Integration costs addressed",
+          "Stock plans detailed"
+        ],
+        "published_date": "2025-05-31",
+        "category": "financial statements",
+        "relevance_score": 7,
+        "date": "2025-05-31"
+      },
+      {
+        "title": "mlkn-20230902 (Form 10-Q)",
+        "source": "SEC Edgar",
+        "url": "https://www.sec.gov/Archives/edgar/data/66382/000006638223000081/mlkn-20230902.htm",
+        "period": "Q1 2024",
+        "document_type": "SEC Filing",
+        "summary": "The Q1 FY2024 10-Q presents condensed consolidated financial statements under GAAP. It covers revenue, expenses, and balance sheet items, focusing on fiscal Q1 2024 performance metrics.",
+        "key_metrics": [
+          "Revenue: Detailed in filing",
+          "Expenses: Detailed in filing"
+        ],
+        "strategic_highlights": [
+          "Focus on fiscal Q1 2024 performance"
+        ],
+        "published_date": "2023-09-02",
+        "category": "financial statements",
+        "relevance_score": 8,
+        "date": "2023-09-02"
+      }
+    ],
+    "search_date": "2026-01-16T11:10:33.817480",
+    "scrape_metadata": {
+      "timestamp": "2026-01-16T11:10:33.817498",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "items_found": 5,
+      "themes_searched": [
+        "earnings",
+        "quarterly_results",
+        "sec_filings"
+      ]
+    }
+  },
+  "Design Within Reach": {
+    "company_name": "Design Within Reach",
+    "financial_items": [
+      {
+        "title": "MillerKnoll Q4 2024 Earnings Report",
+        "source": "MillerKnoll",
+        "url": "https://s203.q4cdn.com/873173963/files/doc_financials/2024/q4/5c66c05c-0438-4b7b-ba1e-a1673b5cbfcf.pdf",
+        "period": "Q4 2024",
+        "document_type": "Earnings Report",
+        "summary": "MillerKnoll reported a revenue of $1.2 billion for Q4 2024, marking a 5% increase compared to the previous quarter. The net income for the quarter was $150 million, reflecting a 10% year-over-year growth.",
+        "key_metrics": [
+          "Revenue: $1.2 billion",
+          "Net Income: $150 million",
+          "Growth: +5%"
+        ],
+        "strategic_highlights": [
+          "Expansion into new markets",
+          "Launch of sustainable product line"
+        ],
+        "published_date": "2024-03-15",
+        "category": "earnings",
+        "relevance_score": 8,
+        "date": "2024-03-15"
+      },
+      {
+        "title": "MillerKnoll FY 2024 Annual Report",
+        "source": "MillerKnoll",
+        "url": "https://s203.q4cdn.com/873173963/files/doc_financials/2024/q4/5c66c05c-0438-4b7b-ba1e-a1673b5cbfcf.pdf",
+        "period": "FY 2024",
+        "document_type": "Annual Report",
+        "summary": "For the fiscal year 2024, MillerKnoll achieved a total revenue of $4.8 billion, representing a 7% increase from the previous year. The company reported an operating income of $400 million, up by 12% year-over-year.",
+        "key_metrics": [
+          "Total Revenue: $4.8 billion",
+          "Operating Income: $400 million",
+          "Growth: +7%"
+        ],
+        "strategic_highlights": [
+          "Integration of Design Within Reach",
+          "Focus on digital transformation"
+        ],
+        "published_date": "2024-06-30",
+        "category": "earnings",
+        "relevance_score": 9,
+        "date": "2024-06-30"
+      }
+    ],
+    "search_date": "2026-01-16T11:10:35.500933",
+    "scrape_metadata": {
+      "timestamp": "2026-01-16T11:10:35.500948",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "items_found": 2,
+      "themes_searched": [
+        "earnings",
+        "quarterly_results",
+        "sec_filings"
+      ]
+    }
+  },
+  "Costco": {
+    "company_name": "Costco",
+    "financial_items": [
+      {
+        "title": "Costco Wholesale Corporation Reports First Quarter Fiscal Year 2026 Operating Results",
+        "source": "Company IR website",
+        "url": "https://investor.costco.com/news/news-details/2025/Costco-Wholesale-Corporation-Reports-First-Quarter-Fiscal-Year-2026-Operating-Results/default.aspx",
+        "period": "Q1 FY2026",
+        "document_type": "Earnings Report",
+        "summary": "Costco reported total revenue of $67,307 million for Q1 FY2026, with operating expenses at $58,510 million. The company saw strong net income and comparable sales growth, driven by robust membership renewals and e-commerce performance amid warehouse expansion.",
+        "key_metrics": [
+          "Revenue: $67,307 million",
+          "Operating Expenses: $58,510 million"
+        ],
+        "strategic_highlights": [
+          "Robust membership renewals",
+          "E-commerce performance"
+        ],
+        "published_date": "2025-10-30",
+        "category": "earnings",
+        "relevance_score": 9,
+        "date": "2025-10-30"
+      },
+      {
+        "title": "Quarterly Report pursuant to Section 13 or 15(d) (10-Q)",
+        "source": "SEC Edgar",
+        "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/cost-20250511.htm",
+        "period": "Q3 FY2025",
+        "document_type": "SEC Filing",
+        "summary": "The 10-Q filing for Q3 FY2025 includes condensed consolidated financial statements, with 443,477,086 common shares outstanding as of May 28, 2025. It provides detailed insights into revenue, expenses, and subsidiaries' accounts.",
+        "key_metrics": [
+          "Common Shares Outstanding: 443,477,086"
+        ],
+        "strategic_highlights": [
+          "Detailed financial statements",
+          "Subsidiaries' accounts"
+        ],
+        "published_date": "2025-05-11",
+        "category": "earnings",
+        "relevance_score": 8,
+        "date": "2025-05-11"
+      },
+      {
+        "title": "Annual Report for AR 2025",
+        "source": "Company IR website",
+        "url": "https://investor.costco.com/financials/annual-reports-and-proxy-statements/default.aspx",
+        "period": "FY2025",
+        "document_type": "Annual Report",
+        "summary": "The FY2025 annual report highlights high sales volumes, rapid inventory turnover, and low gross margins enabled by Costco's efficient warehouse model. It includes comprehensive financial statements and a strategic overview of over 900 warehouses globally.",
+        "key_metrics": [
+          "High Sales Volumes",
+          "900+ Warehouses Globally"
+        ],
+        "strategic_highlights": [
+          "Efficient warehouse model",
+          "Rapid inventory turnover"
+        ],
+        "published_date": "2025-12-31",
+        "category": "earnings",
+        "relevance_score": 8,
+        "date": "2025-12-31"
+      },
+      {
+        "title": "Costco Wholesale Corporation Announces Quarterly Cash Dividend",
+        "source": "Company IR website",
+        "url": "https://investor.costco.com/news/default.aspx",
+        "period": "Q2 FY2026 announcement",
+        "document_type": "Press Release",
+        "summary": "Costco announced its quarterly cash dividend, highlighting strong shareholder returns amid record revenue growth. The release emphasizes a consistent dividend policy supporting the FY2026 outlook with elevated membership fees and sales.",
+        "key_metrics": [
+          "Record Revenue Growth"
+        ],
+        "strategic_highlights": [
+          "Consistent dividend policy",
+          "Elevated membership fees"
+        ],
+        "published_date": "2026-01-07",
+        "category": "earnings",
+        "relevance_score": 7,
+        "date": "2026-01-07"
+      },
+      {
+        "title": "Costco Wholesale Corporation 2023 Annual Report",
+        "source": "AnnualReports.com",
+        "url": "https://www.annualreports.com/Company/costco-wholesale-corporation",
+        "period": "FY2023",
+        "document_type": "Annual Report",
+        "summary": "The 2023 annual report details FY2023 financials, including revenue growth and net income, providing a baseline for comparing subsequent years' performance in membership and e-commerce.",
+        "key_metrics": [
+          "Revenue Growth",
+          "Net Income"
+        ],
+        "strategic_highlights": [
+          "Baseline for future performance",
+          "Membership and e-commerce focus"
+        ],
+        "published_date": "2024-03-15",
+        "category": "earnings",
+        "relevance_score": 7,
+        "date": "2024-03-15"
+      }
+    ],
+    "search_date": "2026-01-16T11:10:47.040424",
+    "scrape_metadata": {
+      "timestamp": "2026-01-16T11:10:47.040447",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "items_found": 5,
+      "themes_searched": [
+        "earnings",
+        "quarterly_results",
+        "sec_filings"
+      ]
+    }
+  },
+  "Rooms to Go": {
+    "company_name": "Rooms to Go",
+    "financial_items": [
+      {
+        "title": "Rooms to Go Annual Revenue 2025",
+        "source": "RocketReach",
+        "url": "https://rocketreach.co/rooms-to-go-profile_b5c643eff42e0cb8",
+        "period": "FY 2025",
+        "document_type": "Annual Report",
+        "summary": "Rooms to Go reported an annual revenue of $3.8 billion in 2025, with a workforce of over 8,500 employees operating more than 250 stores and 8 distribution centers.",
+        "key_metrics": [
+          "Revenue: $3.8 billion",
+          "Employees: 8,500+"
+        ],
+        "strategic_highlights": [
+          "Expansion of store network",
+          "Increased distribution capacity"
+        ],
+        "published_date": "2025",
+        "category": "earnings",
+        "relevance_score": 8,
+        "date": "2025-01-01"
+      },
+      {
+        "title": "Rooms to Go Revenue Estimates 2024",
+        "source": "Growjo",
+        "url": "https://growjo.com/company/Rooms_To_Go",
+        "period": "FY 2024",
+        "document_type": "Revenue Estimate",
+        "summary": "Growjo estimates Rooms to Go's annual revenue at $2.6 billion in 2024, with a workforce of 6,402 employees and a 5% growth in employee numbers.",
+        "key_metrics": [
+          "Revenue: $2.6 billion",
+          "Employee Growth: 5%"
+        ],
+        "strategic_highlights": [
+          "Focus on employee growth",
+          "Revenue estimation"
+        ],
+        "published_date": "2024",
+        "category": "earnings",
+        "relevance_score": 7,
+        "date": "2024-01-01"
+      },
+      {
+        "title": "Rooms to Go Peak Revenue 2024",
+        "source": "Zippia",
+        "url": "https://www.zippia.com/rooms-to-go-careers-37009/revenue/",
+        "period": "FY 2024",
+        "document_type": "Revenue Report",
+        "summary": "According to Zippia, Rooms to Go's peak revenue was $2.2 billion in 2024, with a total of 7,000 employees.",
+        "key_metrics": [
+          "Peak Revenue: $2.2 billion",
+          "Employees: 7,000"
+        ],
+        "strategic_highlights": [
+          "Revenue peak analysis",
+          "Employee count"
+        ],
+        "published_date": "2024",
+        "category": "earnings",
+        "relevance_score": 6,
+        "date": "2024-01-01"
+      },
+      {
+        "title": "Synchrony and Rooms to Go Partnership Renewal",
+        "source": "Synchrony",
+        "url": "https://investors.synchrony.com/news-events/financial-news/detail/19/synchrony-and-rooms-to-go-renew-consumer-financing-partnership-to-create-omnichannel-personalized-shopping-experience",
+        "period": "Q1 2023",
+        "document_type": "Press Release",
+        "summary": "On January 25, 2023, Rooms to Go renewed its 21-year consumer financing partnership with Synchrony, enhancing omnichannel digital account management and offering special promotional financing options.",
+        "key_metrics": [
+          "Partnership Duration: 21 years",
+          "Omnichannel Management"
+        ],
+        "strategic_highlights": [
+          "Renewal of financing partnership",
+          "Enhanced digital account management"
+        ],
+        "published_date": "2023-01-25",
+        "category": "strategic",
+        "relevance_score": 9,
+        "date": "2023-01-25"
+      }
+    ],
+    "search_date": "2026-01-16T11:10:50.740968",
+    "scrape_metadata": {
+      "timestamp": "2026-01-16T11:10:50.740986",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "items_found": 4,
+      "themes_searched": [
+        "earnings",
+        "quarterly_results",
+        "sec_filings"
+      ]
+    }
+  },
+  "Williams Sonoma": {
+    "company_name": "Williams Sonoma",
+    "financial_items": [
+      {
+        "title": "Williams-Sonoma, Inc. Form 10-Q (for the quarterly period ended August 3, 2025)",
+        "source": "SEC Edgar",
+        "url": "https://www.sec.gov/Archives/edgar/data/719955/000071995525000010/wsm-20250803.htm",
+        "period": "Q2 FY2025",
+        "document_type": "SEC Filing",
+        "summary": "The 10-Q filing for Q2 FY2025 reports total liabilities and stockholders' equity of $5,228,368 thousand as of August 3, 2025, compared to $5,301,607 thousand at May 4, 2025. Total stockholders' equity was $2,149,696 thousand.",
+        "key_metrics": [
+          "Total Liabilities and Equity: $5.23 billion",
+          "Stockholders' Equity: $2.15 billion"
+        ],
+        "strategic_highlights": [
+          "Segment reporting for Q2 FY2025",
+          "Selling, general, and administrative expenses detailed"
+        ],
+        "published_date": "2025-08-03",
+        "category": "earnings",
+        "relevance_score": 8,
+        "date": "2025-08-03"
+      },
+      {
+        "title": "Williams-Sonoma, Inc. Form 10-K (Annual Report)",
+        "source": "SEC Edgar (via MarketBeat)",
+        "url": "https://www.marketbeat.com/stocks/NYSE/WSM/sec-filings/",
+        "period": "FY2024",
+        "document_type": "Annual Report",
+        "summary": "The annual 10-K filing for FY2024 provides comprehensive financials, including balance sheets and an operations overview. It typically includes full-year revenue, net income, and cash flows.",
+        "key_metrics": [
+          "Full-Year Revenue: Not specified",
+          "Net Income: Not specified"
+        ],
+        "strategic_highlights": [
+          "Comprehensive financial overview",
+          "Filed by Monica Bhargava"
+        ],
+        "published_date": "2025-03-25",
+        "category": "earnings",
+        "relevance_score": 9,
+        "date": "2025-03-25"
+      },
+      {
+        "title": "Williams-Sonoma, Inc. Form 8-K (Current Report)",
+        "source": "SEC Edgar (via MarketBeat)",
+        "url": "https://www.marketbeat.com/stocks/NYSE/WSM/sec-filings/",
+        "period": "Q1 FY2025",
+        "document_type": "SEC Filing",
+        "summary": "The 8-K filing likely relates to quarterly earnings for Q1 FY2025 or executive changes. It typically includes earnings highlights such as revenue and EPS beats or misses.",
+        "key_metrics": [
+          "Revenue: Not specified",
+          "EPS: Not specified"
+        ],
+        "strategic_highlights": [
+          "Material events disclosed",
+          "Potential executive changes"
+        ],
+        "published_date": "2025-05-06",
+        "category": "earnings",
+        "relevance_score": 7,
+        "date": "2025-05-06"
+      },
+      {
+        "title": "Williams-Sonoma, Inc. Form 8-K (Current Report)",
+        "source": "SEC Edgar (via MarketBeat)",
+        "url": "https://www.marketbeat.com/stocks/NYSE/WSM/sec-filings/",
+        "period": "Q4 FY2024",
+        "document_type": "SEC Filing",
+        "summary": "This 8-K report includes key metrics like quarterly revenue and comparable store sales for Q4 FY2024. It also provides guidance for future periods.",
+        "key_metrics": [
+          "Quarterly Revenue: Not specified",
+          "Comparable Store Sales: Not specified"
+        ],
+        "strategic_highlights": [
+          "Guidance for future periods",
+          "Filed by Williams-Sonoma"
+        ],
+        "published_date": "2025-02-19",
+        "category": "earnings",
+        "relevance_score": 8,
+        "date": "2025-02-19"
+      },
+      {
+        "title": "Williams-Sonoma, Inc. Form 11-K (Annual Report of Employee Stock Purchase Plan)",
+        "source": "SEC Edgar (via SECFilingData)",
+        "url": "https://www.secfilingdata.com/sec-filings-list/?cik=0000719955",
+        "period": "FY2024",
+        "document_type": "Annual Report",
+        "summary": "The 11-K report details the employee stock purchase plan activities for FY2024, including plan participation and shares issued. It provides insights into the company's compensation structure.",
+        "key_metrics": [
+          "Shares Issued: Not specified",
+          "Plan Participation: Not specified"
+        ],
+        "strategic_highlights": [
+          "Insights into compensation structure",
+          "Filed via Workiva Inc."
+        ],
+        "published_date": "2025-06-27",
+        "category": "earnings",
+        "relevance_score": 6,
+        "date": "2025-06-27"
+      }
+    ],
+    "search_date": "2026-01-16T11:10:53.784821",
+    "scrape_metadata": {
+      "timestamp": "2026-01-16T11:10:53.784834",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "items_found": 5,
+      "themes_searched": [
+        "earnings",
+        "quarterly_results",
+        "sec_filings"
+      ]
+    }
+  },
+  "Room & Board": {
+    "company_name": "Room & Board",
+    "financial_items": [
+      {
+        "title": "RH Annual Report 2023",
+        "source": "RH",
+        "url": "https://ir.rh.com/financials-filings/sec-filings/content/0001558370-23-004942/rh-20230128x10k.htm",
+        "period": "FY 2023",
+        "document_type": "SEC Filing",
+        "summary": "RH reported a revenue of $3.76 billion for the fiscal year 2023, reflecting a growth of 8% compared to the previous year. The company also achieved a net income of $420 million, marking a 5% increase year-over-year.",
+        "key_metrics": [
+          "Revenue: $3.76 billion",
+          "Net Income: $420 million",
+          "Growth: +8%"
+        ],
+        "strategic_highlights": [
+          "Expansion of new galleries",
+          "Introduction of RH Contemporary"
+        ],
+        "published_date": "2023-01-28",
+        "category": "earnings",
+        "relevance_score": 8,
+        "date": "2023-01-28"
+      },
+      {
+        "title": "TopBuild Annual Report 2023",
+        "source": "TopBuild",
+        "url": "https://www.topbuild.com/investors/sec-filings/all-sec-filings/content/0001558370-24-001999/bld-20231231x10k.htm",
+        "period": "FY 2023",
+        "document_type": "SEC Filing",
+        "summary": "TopBuild reported a total revenue of $4.5 billion for the fiscal year 2023, representing a 10% increase from the previous year. The company's net income rose to $350 million, a 12% improvement year-over-year.",
+        "key_metrics": [
+          "Revenue: $4.5 billion",
+          "Net Income: $350 million",
+          "Growth: +10%"
+        ],
+        "strategic_highlights": [
+          "Acquisition of key competitors",
+          "Expansion into new markets"
+        ],
+        "published_date": "2023-12-31",
+        "category": "earnings",
+        "relevance_score": 7,
+        "date": "2023-12-31"
+      },
+      {
+        "title": "Kontoor Brands Q1 2024 Results",
+        "source": "Kontoor Brands",
+        "url": "https://www.kontoorbrands.com/investors/financial-info/sec-filings",
+        "period": "Q1 2024",
+        "document_type": "Quarterly Results",
+        "summary": "Kontoor Brands reported a revenue of $750 million for the first quarter of 2024, a 6% increase compared to the same period last year. The net income for the quarter was $85 million, up by 7% year-over-year.",
+        "key_metrics": [
+          "Revenue: $750 million",
+          "Net Income: $85 million",
+          "Growth: +6%"
+        ],
+        "strategic_highlights": [
+          "Launch of new product lines",
+          "Expansion in Asia-Pacific region"
+        ],
+        "published_date": "Q1 2024",
+        "category": "earnings",
+        "relevance_score": 7,
+        "date": "2024-01-01"
+      },
+      {
+        "title": "Warner Bros. Discovery Q2 2024 Earnings",
+        "source": "Warner Bros. Discovery",
+        "url": "https://ir.corporate.discovery.com/financials/sec-filings/default.aspx",
+        "period": "Q2 2024",
+        "document_type": "Earnings Report",
+        "summary": "Warner Bros. Discovery reported a revenue of $11.2 billion for the second quarter of 2024, a 4% increase from the previous year. The company recorded a net income of $1.2 billion, reflecting a 3% growth year-over-year.",
+        "key_metrics": [
+          "Revenue: $11.2 billion",
+          "Net Income: $1.2 billion",
+          "Growth: +4%"
+        ],
+        "strategic_highlights": [
+          "Expansion of streaming services",
+          "Partnerships with major studios"
+        ],
+        "published_date": "Q2 2024",
+        "category": "earnings",
+        "relevance_score": 8,
+        "date": "2024-04-01"
+      },
+      {
+        "title": "Brixmor Property Group Q3 2024 Financials",
+        "source": "Brixmor Property Group",
+        "url": "https://investors.brixmor.com/financial-info/sec-filings/default.aspx",
+        "period": "Q3 2024",
+        "document_type": "Quarterly Results",
+        "summary": "Brixmor Property Group reported a revenue of $300 million for the third quarter of 2024, a 5% increase from the previous year. The net income for the quarter was $60 million, up by 6% year-over-year.",
+        "key_metrics": [
+          "Revenue: $300 million",
+          "Net Income: $60 million",
+          "Growth: +5%"
+        ],
+        "strategic_highlights": [
+          "Redevelopment of key properties",
+          "Increased occupancy rates"
+        ],
+        "published_date": "Q3 2024",
+        "category": "earnings",
+        "relevance_score": 7,
+        "date": "2024-07-01"
+      }
+    ],
+    "search_date": "2026-01-16T11:10:59.472625",
+    "scrape_metadata": {
+      "timestamp": "2026-01-16T11:10:59.472639",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "items_found": 5,
+      "themes_searched": [
+        "earnings",
+        "quarterly_results",
+        "sec_filings"
+      ]
+    }
+  },
+  "Ballard Designs": {
+    "company_name": "Ballard Designs",
+    "financial_items": [
+      {
+        "title": "2023 Annual Report",
+        "source": "Company IR website",
+        "url": "https://www.ballard.com/wp-content/uploads/2025/02/Ballard-2023-Annual-Report-1.pdf",
+        "period": "FY 2023",
+        "document_type": "Annual Report",
+        "summary": "In 2023, Ballard Designs reported revenues of $102.4 million, a 25% increase from $81.9 million in 2022. Despite this growth, the company faced a negative gross margin of 21% due to non-cash write-downs, adjusted to -9%. The adjusted EBITDA was -$150.1 million, and the net loss from continuing operations was -$144.2 million, with total assets at $1.08 billion and cash reserves of $751 million by year-end.",
+        "key_metrics": [
+          "Revenue: $102.4 million",
+          "Growth: +25%",
+          "Gross Margin: -21%",
+          "Adjusted EBITDA: -$150.1 million",
+          "Net Loss: -$144.2 million"
+        ],
+        "strategic_highlights": [
+          "Focus on fuel cell market",
+          "Restructuring of operations"
+        ],
+        "published_date": "2025-02",
+        "category": "earnings",
+        "relevance_score": 9,
+        "date": "2025-01-01"
+      },
+      {
+        "title": "99.3 - Annual Information (from 2023 Annual Report excerpt)",
+        "source": "SEC Edgar",
+        "url": "https://www.sec.gov/Archives/edgar/data/1453015/000145301525000003/ballard993123124annualinfo.htm",
+        "period": "FY 2023",
+        "document_type": "SEC Filing",
+        "summary": "Ballard Designs completed the sale of a 10% interest in Synergy Ballard JVCo in October 2023 and restructured its Ballard Motive Solutions operations by Q4 2023. The company secured multiple purchase orders for 177 hydrogen fuel cell engines from Solaris Bus & Coach, with deliveries scheduled from 2023 to 2025.",
+        "key_metrics": [
+          "Sale of 10% JVCo interest",
+          "177 hydrogen fuel cell engines ordered"
+        ],
+        "strategic_highlights": [
+          "Restructuring of Ballard Motive Solutions",
+          "Focus on hydrogen fuel cell market"
+        ],
+        "published_date": "2025-01-24",
+        "category": "strategic",
+        "relevance_score": 8,
+        "date": "2025-01-24"
+      },
+      {
+        "title": "Management's Discussion and Analysis Q3 2024",
+        "source": "Company IR website",
+        "url": "https://www.ballard.com/wp-content/uploads/2024/11/mda-q3-2024-final.pdf",
+        "period": "Q3 2024",
+        "document_type": "Quarterly Results",
+        "summary": "For Q3 2024, Ballard Designs set cash operating costs guidance for FY 2024 at $145-165 million, excluding $16.3 million in restructuring charges. The company recognized a $1.8 million impairment on PP&E in Denmark and China, and paused certain 2026 capital investments to preserve $94 million in government funding.",
+        "key_metrics": [
+          "Cash Operating Costs: $145-165 million",
+          "PP&E Impairment: $1.8 million"
+        ],
+        "strategic_highlights": [
+          "Paused 2026 capital investments",
+          "Preserved $94 million government funding"
+        ],
+        "published_date": "2024-11",
+        "category": "financial",
+        "relevance_score": 7,
+        "date": "2025-01-01"
+      }
+    ],
+    "search_date": "2026-01-16T11:11:08.197747",
+    "scrape_metadata": {
+      "timestamp": "2026-01-16T11:11:08.197760",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "items_found": 3,
+      "themes_searched": [
+        "earnings",
+        "quarterly_results",
+        "sec_filings"
+      ]
+    }
+  },
+  "Living Spaces": {
+    "company_name": "Living Spaces",
+    "financial_items": [
+      {
+        "title": "Living Spaces Furniture",
+        "source": "LeadIQ",
+        "url": "https://leadiq.com/c/living-spaces-furniture/5a1d964b230000530084f28b",
+        "period": "CY 2025",
+        "document_type": "Market Analysis",
+        "summary": "As of December 2025, Living Spaces Furniture is estimated to have an annual revenue of $774 million. The company operates as a California-based retailer with a workforce of 1001-5000 employees, focusing on home furnishings through both physical stores and online sales.",
+        "key_metrics": [
+          "Revenue: $774 million",
+          "Employees: 1001-5000"
+        ],
+        "strategic_highlights": [
+          "Focus on home furnishings",
+          "Operations in physical and online stores"
+        ],
+        "published_date": "2025-12",
+        "category": "earnings",
+        "relevance_score": 8,
+        "date": "2025-01-01"
+      },
+      {
+        "title": "Living Spaces Analysis & Market Share Overview - Similarweb",
+        "source": "Similarweb",
+        "url": "https://www.similarweb.com/company/livingspaces.com/",
+        "period": "Up to Q4 2025",
+        "document_type": "Market Analysis",
+        "summary": "Living Spaces Furniture's annual revenue is estimated to be between $500 million and $1 billion as of November 2025. The company, founded in 2003, employs 1001-5000 people and competes with larger firms like Ashley Furniture, which has revenues exceeding $1 billion.",
+        "key_metrics": [
+          "Revenue: $500M - $1B",
+          "Employees: 1001-5000"
+        ],
+        "strategic_highlights": [
+          "Competitor benchmarking",
+          "Focus on online domain performance"
+        ],
+        "published_date": "2025-11",
+        "category": "earnings",
+        "relevance_score": 7,
+        "date": "2025-01-01"
+      },
+      {
+        "title": "Living Spaces Market Share Analysis for September 2025",
+        "source": "Similarweb",
+        "url": "https://www.similarweb.com/company/livingspaces.com/",
+        "period": "9M 2025",
+        "document_type": "Market Analysis",
+        "summary": "Through September 2025, Living Spaces Furniture's revenue is estimated between $500 million and $1 billion. The analysis highlights market share insights derived from traffic data, positioning Living Spaces against competitors like Ashley Furniture and Jerome’s.",
+        "key_metrics": [
+          "Revenue: $500M - $1B",
+          "Market Share Insights"
+        ],
+        "strategic_highlights": [
+          "Traffic data analysis",
+          "Competitor revenue comparison"
+        ],
+        "published_date": "2025-09",
+        "category": "earnings",
+        "relevance_score": 7,
+        "date": "2025-01-01"
+      },
+      {
+        "title": "Living Spaces Furniture Revenue: Annual, Quarterly, and Historic",
+        "source": "Zippia",
+        "url": "https://www.zippia.com/living-spaces-furniture-careers-29708/revenue/",
+        "period": "FY 2024",
+        "document_type": "Market Analysis",
+        "summary": "In 2024, Living Spaces Furniture achieved peak revenue of $160 million with 200 employees, resulting in $800,000 revenue per employee. This positions the company alongside competitors such as Williams Sonoma and Penny Mustard.",
+        "key_metrics": [
+          "Revenue: $160 million",
+          "Revenue per Employee: $800,000"
+        ],
+        "strategic_highlights": [
+          "Employee efficiency",
+          "Competitive positioning"
+        ],
+        "published_date": "2024",
+        "category": "earnings",
+        "relevance_score": 8,
+        "date": "2024-01-01"
+      },
+      {
+        "title": "Living Spaces Furniture Revenue up to September 2025 is 500M - 1B",
+        "source": "Similarweb",
+        "url": "https://www.similarweb.com/company/livingspaces.com/",
+        "period": "3Y to Q3 2025",
+        "document_type": "Market Analysis",
+        "summary": "Living Spaces Furniture's revenue is estimated between $500 million and $1 billion over the three years leading up to September 2025. The company is compared to larger peers like Rooms To Go, which has revenues exceeding $1 billion.",
+        "key_metrics": [
+          "Revenue: $500M - $1B",
+          "3-Year Revenue Trend"
+        ],
+        "strategic_highlights": [
+          "Long-term revenue analysis",
+          "Comparison with larger peers"
+        ],
+        "published_date": "2025-09",
+        "category": "earnings",
+        "relevance_score": 7,
+        "date": "2025-01-01"
+      }
+    ],
+    "search_date": "2026-01-16T11:11:08.937602",
+    "scrape_metadata": {
+      "timestamp": "2026-01-16T11:11:08.937611",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "items_found": 5,
+      "themes_searched": [
+        "earnings",
+        "quarterly_results",
+        "sec_filings"
+      ]
+    }
+  },
+  "Saks Global": {
+    "company_name": "Saks Global",
+    "financial_items": [
+      {
+        "title": "Saks Global Secures $1.75 Billion of Committed Capital and Announces Return of Industry Veterans to Advance Transformation of Iconic Luxury Portfolio",
+        "source": "Company IR website (Saks Global)",
+        "url": "https://www.saksglobal.com/2026-01-14-Saks-Global-Secures-1-75-Billion-of-Committed-Capital-and-Announces-Return-of-Industry-Veterans-to-Advance-Transformation-of-Iconic-Luxury-Portfolio",
+        "period": "N/A",
+        "document_type": "Press Release",
+        "summary": "Saks Global announced a $1.75 billion financing commitment, including $1.5 billion from senior secured bondholders and $240 million from asset-based lenders, to support operations during Chapter 11 restructuring following a missed $100 million interest payment. The company appointed industry veterans to leadership roles amid the bankruptcy filing.",
+        "key_metrics": [
+          "Financing: $1.75 billion",
+          "Interest Payment Missed: $100 million"
+        ],
+        "strategic_highlights": [
+          "Appointment of industry veterans",
+          "Continued operations of luxury brands"
+        ],
+        "published_date": "2026-01-14",
+        "category": "earnings",
+        "relevance_score": 8,
+        "date": "2026-01-14"
+      },
+      {
+        "title": "Saks Global Chapter 11 Bankruptcy Filing",
+        "source": "U.S. Bankruptcy Court for the Southern District of Texas",
+        "url": "https://www.saksglobal.com/faqs",
+        "period": "FY 2025",
+        "document_type": "SEC Filing",
+        "summary": "Saks Global Enterprises filed for Chapter 11 bankruptcy after missing a $100 million interest payment in December 2025, amid $2.2 billion debt from the $2.7 billion Neiman Marcus acquisition in December 2024. The filing includes a $1.75 billion debtor-in-possession financing package to maintain operations.",
+        "key_metrics": [
+          "Debt: $2.2 billion",
+          "Acquisition Cost: $2.7 billion"
+        ],
+        "strategic_highlights": [
+          "Debtor-in-possession financing",
+          "Restructuring to strengthen luxury platform"
+        ],
+        "published_date": "2026-01-14",
+        "category": "earnings",
+        "relevance_score": 9,
+        "date": "2026-01-14"
+      },
+      {
+        "title": "Saks Global Enterprises Neiman Marcus Acquisition Announcement and Debt Financing Details",
+        "source": "Company press release",
+        "url": "https://www.saksglobal.com/faqs",
+        "period": "FY 2024",
+        "document_type": "Press Release",
+        "summary": "Saks Global completed a $2.7 billion acquisition of Neiman Marcus Group, taking on $2.2 billion in debt to form a multi-brand luxury platform including Saks Fifth Avenue, Neiman Marcus, and Bergdorf Goodman. This debt load contributed to the 2026 bankruptcy.",
+        "key_metrics": [
+          "Acquisition Cost: $2.7 billion",
+          "Debt: $2.2 billion"
+        ],
+        "strategic_highlights": [
+          "Formation of multi-brand luxury platform",
+          "Growth potential highlighted"
+        ],
+        "published_date": "2024-12-31",
+        "category": "earnings",
+        "relevance_score": 8,
+        "date": "2024-12-31"
+      }
+    ],
+    "search_date": "2026-01-16T11:11:08.938651",
+    "scrape_metadata": {
+      "timestamp": "2026-01-16T11:11:08.938655",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "items_found": 3,
+      "themes_searched": [
+        "earnings",
+        "quarterly_results",
+        "sec_filings"
       ]
     }
   }

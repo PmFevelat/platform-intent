@@ -1,0 +1,310 @@
+{
+  "Chewy": {
+    "company_name": "Chewy",
+    "financial_items": [
+      {
+        "title": "Q4 & Full Year 2024 Financial Results",
+        "source": "Chewy Investor Relations",
+        "url": "https://investor.chewy.com/news-and-events/news/news-details/2025/Chewy-Announces-Fiscal-Fourth-Quarter-and-Full-Year-2024-Financial-Results/default.aspx",
+        "date": "2025",
+        "period": "Q4 & Full Year 2024",
+        "document_type": "Press Release",
+        "summary": "Chewy reported net sales of $11.86 billion for the full year 2024, marking a 6.4% year-over-year increase. The press release includes detailed income statements and cash flow information.",
+        "key_metrics": {
+          "net_sales": "$11.86B",
+          "year_over_year_growth": "6.4%"
+        },
+        "strategic_highlights": "The report highlights Chewy's continued growth in net sales and operational efficiency."
+      },
+      {
+        "title": "Q3 2025 Financial Results",
+        "source": "Chewy Investor Relations",
+        "url": "https://investor.chewy.com/financials/quarterly-results/default.aspx",
+        "date": "2025",
+        "period": "Q3 2025",
+        "document_type": "Quarterly Results",
+        "summary": "Chewy's Q3 2025 results show net sales of $3.12 billion, an 8.3% increase year-over-year, with a gross margin of 29.8%.",
+        "key_metrics": {
+          "net_sales": "$3.12B",
+          "year_over_year_growth": "8.3%",
+          "gross_margin": "29.8%"
+        },
+        "strategic_highlights": "The results reflect Chewy's strong market position and effective cost management strategies."
+      },
+      {
+        "title": "Chewy Quarterly Income Statements",
+        "source": "MarketBeat",
+        "url": "https://www.marketbeat.com/stocks/NYSE/CHWY/financials/",
+        "date": "2024-2025",
+        "period": "Multi-year",
+        "document_type": "Financial Statements",
+        "summary": "The document provides a breakdown of Chewy's revenue and gross profit trends for 2024-2025, with gross profit reaching $3.468 billion.",
+        "key_metrics": {
+          "gross_profit": "$3.468B"
+        },
+        "strategic_highlights": "The income statements highlight Chewy's consistent revenue growth and profitability."
+      },
+      {
+        "title": "Q1 2025 Form 10-Q",
+        "source": "SEC EDGAR",
+        "url": "https://www.sec.gov/Archives/edgar/data/1766502/000176650224000020/chwy-20240428.htm",
+        "date": "April 28, 2025",
+        "period": "Q1 2025",
+        "document_type": "SEC Filing",
+        "summary": "The Q1 2025 Form 10-Q includes Chewy's balance sheets, statements of operations, cash flows, and forward-looking risks.",
+        "key_metrics": {},
+        "strategic_highlights": "The filing provides insights into Chewy's financial health and potential risks."
+      },
+      {
+        "title": "2024 Annual Report (10-K)",
+        "source": "Chewy Investor Relations",
+        "url": "https://investor.chewy.com/financials/annual-reports/default.aspx",
+        "date": "2024",
+        "period": "Full Year 2024",
+        "document_type": "Annual Report",
+        "summary": "The 2024 Annual Report includes comprehensive fiscal year financials and a proxy statement.",
+        "key_metrics": {},
+        "strategic_highlights": "The report outlines Chewy's strategic initiatives and financial performance for the year."
+      },
+      {
+        "title": "Chewy 2024 Annual Report & 10-K",
+        "source": "AnnualReports.com",
+        "url": "https://www.annualreports.com/Company/chewy-inc",
+        "date": "2024",
+        "period": "Full Year 2024",
+        "document_type": "Annual Report",
+        "summary": "This document provides a direct download of Chewy's 2024 performance summary.",
+        "key_metrics": {},
+        "strategic_highlights": "The report highlights Chewy's achievements and strategic direction."
+      },
+      {
+        "title": "Investor Overview with FY2024 Metrics",
+        "source": "Chewy Investor Relations",
+        "url": "https://investor.chewy.com/overview/default.aspx",
+        "date": "2024",
+        "period": "FY2024",
+        "document_type": "Investor Overview",
+        "summary": "The overview provides key metrics for FY2024, including $11.86 billion in net sales and 20.5 million active customers.",
+        "key_metrics": {
+          "net_sales": "$11.86B",
+          "active_customers": "20.5M"
+        },
+        "strategic_highlights": "The overview emphasizes Chewy's customer base growth and sales performance."
+      }
+    ],
+    "search_date": "2026-01-13T17:53:55.575737",
+    "scrape_metadata": {
+      "timestamp": "2026-01-13T17:53:55.575737",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "items_found": 7,
+      "themes_searched": [
+        "earnings",
+        "quarterly_results",
+        "sec_filings"
+      ]
+    }
+  },
+  "Petco": {
+    "company_name": "Petco",
+    "financial_items": [
+      {
+        "title": "Q3 2025 Financial Results",
+        "source": "Petco",
+        "url": "https://corporate.petco.com/2025-11-25-Petco-Reports-Third-Quarter-2025-Financial-Results",
+        "date": "2025-11-25",
+        "period": "Q3 2025",
+        "document_type": "Earnings Report",
+        "summary": "Petco's third quarter 2025 earnings report shows net sales of $1.5 billion, a decrease of 3.1% year-over-year, and an adjusted EBITDA of $98.6 million.",
+        "key_metrics": {
+          "net_sales": "$1.5 billion",
+          "year_over_year_change": "-3.1%",
+          "adjusted_EBITDA": "$98.6 million"
+        },
+        "strategic_highlights": "The report highlights the financial performance for the third quarter of 2025, focusing on sales and EBITDA metrics."
+      },
+      {
+        "title": "2024 Annual Report (10-K)",
+        "source": "SEC",
+        "url": "https://www.sec.gov/Archives/edgar/data/1826470/000119312525132245/d821347dars.pdf",
+        "date": "2025",
+        "period": "2024",
+        "document_type": "Annual Report (10-K)",
+        "summary": "The 2024 Annual Report includes consolidated financial statements and supplementary data for Petco.",
+        "key_metrics": {},
+        "strategic_highlights": "The document provides a comprehensive overview of Petco's financial performance and strategic initiatives for the year 2024."
+      }
+    ],
+    "search_date": "2026-01-13T17:54:08.204459",
+    "scrape_metadata": {
+      "timestamp": "2026-01-13T17:54:08.204459",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "items_found": 2,
+      "themes_searched": [
+        "earnings",
+        "quarterly_results",
+        "sec_filings"
+      ]
+    }
+  },
+  "Petmate": {
+    "company_name": "Petmate",
+    "financial_items": [
+      {
+        "title": "Petmate Achieves 100% Consensual Reorganization",
+        "source": "Petmate",
+        "url": "https://www.petmate.com/blogs/media/petmate-achieves-100-consensual-reorganization",
+        "date": "March 19, 2024",
+        "period": "2024",
+        "document_type": "Financial Reorganization Announcement",
+        "summary": "Petmate announced a successful consensual reorganization with a $100 million capital infusion, over 80% debt reduction, and a shift to lender ownership to support growth.",
+        "key_metrics": {
+          "capital_infusion": "$100M",
+          "debt_reduction": ">80%",
+          "debt_eliminated": "$600M+"
+        },
+        "strategic_highlights": "The reorganization aims to position Petmate for growth by reducing debt and transitioning to lender ownership."
+      },
+      {
+        "title": "Platinum Equity Acquires Petmate",
+        "source": "Platinum Equity",
+        "url": "https://www.platinumequity.com/news/platinum-equity-acquires-petmate/",
+        "date": "September 15, 2021",
+        "period": "2021",
+        "document_type": "Acquisition Announcement",
+        "summary": "Platinum Equity acquired Petmate, highlighting its brand portfolio, market growth, and plans for mergers and acquisitions.",
+        "key_metrics": null,
+        "strategic_highlights": "The acquisition was aimed at expanding Petmate's market presence and leveraging growth opportunities through M&A."
+      },
+      {
+        "title": "Platinum-owned Petmate Reorganizes with Lenders",
+        "source": "9fin",
+        "url": "https://9fin.com/insights/platinum-petmate-reorganizes-lenders",
+        "date": "2024",
+        "period": "2024",
+        "document_type": "Reorganization Report",
+        "summary": "Petmate reached an agreement to hand control to lenders, reducing debt levels with backing from Platinum Equity.",
+        "key_metrics": null,
+        "strategic_highlights": "The reorganization is part of a strategy to stabilize financials and ensure long-term growth."
+      }
+    ],
+    "search_date": "2026-01-13T17:54:26.617605",
+    "scrape_metadata": {
+      "timestamp": "2026-01-13T17:54:26.617605",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "items_found": 3,
+      "themes_searched": [
+        "earnings",
+        "quarterly_results",
+        "sec_filings"
+      ]
+    }
+  },
+  "Petsmart": {
+    "company_name": "Petsmart",
+    "financial_items": [
+      {
+        "title": "Petsmart Company & Revenue 2014-2026",
+        "source": "ECDB",
+        "url": "https://ecdb.com/resources/sample-data/retailer/petsmart",
+        "date": "2024",
+        "period": "2024-2026",
+        "document_type": "Revenue Report",
+        "summary": "Provides 2024 online revenue of $825M for petsmart.com with no year-over-year change, December 2025 monthly revenue of $80M, and a 2025 growth forecast of 0-5%.",
+        "key_metrics": {
+          "2024_online_revenue": "$825M",
+          "December_2025_monthly_revenue": "$80M",
+          "2025_growth_forecast": "0-5%"
+        },
+        "strategic_highlights": "Focus on maintaining revenue levels with slight growth forecast."
+      },
+      {
+        "title": "United States: PetSmart revenue 2024",
+        "source": "Statista",
+        "url": "https://www.statista.com/statistics/315252/petsmart-net-sales/",
+        "date": "2024",
+        "period": "2017-2024",
+        "document_type": "Revenue Statistics",
+        "summary": "Reports approximately $10B total U.S. revenue for FY 2024, highlighting PetSmart as one of the leading pet retailers.",
+        "key_metrics": {
+          "FY_2024_total_U.S._revenue": "$10B"
+        },
+        "strategic_highlights": "Strong market position as a leading pet retailer in the U.S."
+      },
+      {
+        "title": "Petco and PetSmart: A Head to Head",
+        "source": "Placer.ai",
+        "url": "https://www.placer.ai/anchor/articles/petco-and-petsmart-a-head-to-head",
+        "date": "2024",
+        "period": "2024",
+        "document_type": "Foot Traffic Analysis",
+        "summary": "Analyzes 2024 foot traffic, showing PetSmart held a 62.1% share from January to May compared to Petco, with year-over-year lags of 0.8-2.8% in Q1 and a 0.6% increase in May.",
+        "key_metrics": {
+          "foot_traffic_share_Jan-May_2024": "62.1%",
+          "YoY_lags_Q1": "0.8-2.8%",
+          "YoY_increase_May": "0.6%"
+        },
+        "strategic_highlights": "Maintaining a strong foot traffic share despite industry revenue pressures."
+      },
+      {
+        "title": "PetSmart Releases Third Annual Corporate Social Responsibility Report (2024)",
+        "source": "PetSmart Corporate",
+        "url": "https://www.petsmartcorporate.com/press_releases/petsmart-releases-third-annual-corporate-social-responsibility-report-inspired-by-pets-and-the-people-who-love-them/",
+        "date": "2024",
+        "period": "2024",
+        "document_type": "CSR Report",
+        "summary": "Details 2024 performance metrics including an 18% emissions intensity reduction, 18% energy usage drop, 1% water reduction, and investments in pet health with over 600K evaluations.",
+        "key_metrics": {
+          "emissions_intensity_reduction": "18%",
+          "energy_usage_drop": "18%",
+          "water_reduction": "1%",
+          "pet_health_evaluations": "600K+"
+        },
+        "strategic_highlights": "Commitment to sustainability and pet health investments."
+      },
+      {
+        "title": "PetSmart LLC ICR Affirmed; Proposed Term Loan B Rated 'BB-'",
+        "source": "S&P Global Ratings",
+        "url": "https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3417941",
+        "date": "2024",
+        "period": "2024",
+        "document_type": "Debt Rating Report",
+        "summary": "Covers recent $1.7B term loan B issuance for debt refinance, with a 'BB-' rating on secured debt, indicating financial leverage.",
+        "key_metrics": {
+          "term_loan_B_issuance": "$1.7B",
+          "debt_rating": "BB-"
+        },
+        "strategic_highlights": "Focus on managing financial leverage through debt refinancing."
+      },
+      {
+        "title": "Financial Information | PetSmart Charities",
+        "source": "PetSmart Charities",
+        "url": "https://petsmartcharities.org/about-us/financial-info",
+        "date": "2024",
+        "period": "2022-2024",
+        "document_type": "Financial Statements",
+        "summary": "Links to 2024 Impact Report & Financial Statements for PetSmart Charities, distinguishing from core operations.",
+        "key_metrics": {},
+        "strategic_highlights": "Support for charitable initiatives separate from core business operations."
+      }
+    ],
+    "search_date": "2026-01-13T17:54:52.897976",
+    "scrape_metadata": {
+      "timestamp": "2026-01-13T17:54:52.897976",
+      "search_engine": "perplexity-sonar",
+      "structuring_model": "gpt-4o",
+      "success": true,
+      "items_found": 6,
+      "themes_searched": [
+        "earnings",
+        "quarterly_results",
+        "sec_filings"
+      ]
+    }
+  }
+}
