@@ -52,6 +52,7 @@ export function Sidebar() {
           collapsed ? "justify-center px-2" : "justify-between"
         )}>
           <Link href="/" className="flex items-center gap-2.5">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
             <img 
               src="/logo.jpeg" 
               alt="Presti" 
